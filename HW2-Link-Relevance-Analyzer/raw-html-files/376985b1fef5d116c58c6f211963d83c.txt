@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en"><head><!-- OneTrust Cookies Consent Notice start for npr.org -->
+<script src="https://cdn.cookielaw.org/consent/82089dfe-410c-4e1b-a7f9-698174b62a86/OtAutoBlock.js" type="text/javascript"></script>
+<script charset="UTF-8" data-domain-script="82089dfe-410c-4e1b-a7f9-698174b62a86" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript"></script>
+<script type="text/javascript">
+function OptanonWrapper() {
+    NPR_OptanonWrapper = true;
+    document.dispatchEvent(new CustomEvent('npr:DataConsentAvailable'));
+    
+    OneTrust.OnConsentChanged(function() {
+        document.dispatchEvent(new CustomEvent('npr:DataConsentChanged'));
+    });
+ }
+</script>
+<!-- OneTrust Cookies Consent Notice end for npr.org -->
+<script ccpa-opt-out-geo="us" ccpa-opt-out-ids="C0004" ccpa-opt-out-lspa="false" charset="UTF-8" src="https://cdn.cookielaw.org/opt-out/otCCPAiab.js" type="text/javascript"></script><script class="optanon-category-C0004" type="text/plain">
+    document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+    var setNptTechAdblockerCookie = function(adblocker) {
+        var d = new Date();
+        d.setTime(d.getTime() + 60 * 5 * 1000);
+        document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+    };
+    (() => {
+        var script = document.createElement("script");
+        script.setAttribute("async", true);
+        script.setAttribute("src", "//www.npttech.com/advertising.js");
+        script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+        document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+</script><script>
+(function (e, o, n, i) {
+    if (!e) {
+        e = e || {}, window.permutive = e, e.q = [];
+        var t = function () {
+            return ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, function (e) {
+                return (e ^ (window.crypto || window.msCrypto).getRandomValues(new Uint8Array(1))[0] & 15 >> e / 4).toString(16)
+            })
+        };
+        e.config = i || {}, e.config.apiKey = o, e.config.workspaceId = n, e.config.environment = e.config.environment || "production", (window.crypto || window.msCrypto) && (e.config.viewId = t());
+        for (var g = ["addon", "identify", "track", "trigger", "query", "segment", "segments", "ready", "on", "once", "user", "consent"], r = 0; r < g.length; r++) {
+            var w = g[r];
+            e[w] = function (o) {
+                return function () {
+                    var n = Array.prototype.slice.call(arguments, 0);
+                    e.q.push({functionName: o, arguments: n})
+                };
+            }(w);
+        }
+    }
+})(window.permutive, "12730e07-f09d-4a69-93da-99b43983b663", "e1cef1f0-495f-4973-ba1c-880786e73a66", {"consentRequired": true});
+</script>
+<!--
+
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnn         nnnnnn ppp          pppppp rrr           rrrr
+nnn   nnnn    nnnn ppp   pppppp   pppp rrr   rrrrrr   rrr
+nnn   nnnnnn   nnn ppp   ppppppp   ppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppp    pppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp           ppppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppppppppppp rrr   rrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppp   ppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+
+We are hiring!
+
+https://boards.greenhouse.io/nationalpublicradioinc
+
+-->
+<script>dataLayer = [];</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.setAttributeNode(d.createAttribute('data-ot-ignore'));j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer', 'GTM-MVD397M');</script>
+<!-- End Google Tag Manager -->
+<script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemref="speakable" itemscope="" itemtype="https://schema.org/SpeakableSpecification"/><title>Immigrant Children Separated From Parents At The Border: What We Know : NPR</title><meta content="[data-is-speakable]" id="speakable" itemprop="cssSelector"/><meta content="1VqzbDm4ukeFVHOoq5LjIKA2fVKZD-EYv8cXZhKXSfU" id="google-site-verification" name="google-site-verification"/><meta charset="utf-8"/><meta content="noarchive,index,follow,max-image-preview:large" name="robots"/><meta content="app-id=324906251, app-argument=https://www.npr.org/2018/06/19/621065383/what-we-know-family-separation-and-zero-tolerance-at-the-border" name="apple-itunes-app"/><meta content="General" name="Rating"/><meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/><meta name="npr-pjax"/><meta content="2018-06-19" name="date"/><link href="https://www.npr.org/2018/06/19/621065383/what-we-know-family-separation-and-zero-tolerance-at-the-border" rel="canonical"/><meta content="The Trump administration Wednesday reversed a policy of separating families at the border, which had meant children were held at detention facilities and moved to shelters. What comes next is unclear." name="description"/><link href="https://feeds.npr.org/1003/rss.xml" rel="alternate" title="National" type="application/rss+xml"/><meta content="article" name="cXenseParse:pageclass"/><meta content="2018-06-19T14:17:00-04:00" name="cXenseParse:publishtime"/><meta content="National" name="cXenseParse:zbq-eyebrowText"/><meta content="https://www.npr.org/sections/national/" name="cXenseParse:zbq-eyebrowUrl"/><meta content="News/National" name="cXenseParse:taxonomy"/><meta content="Camila Domonoske|Richard Gonzales" data-separator="|" name="cXenseParse:author"/><link href="https://media.npr.org/chrome/favicon/favicon-180x180.png" rel="apple-touch-icon" sizes="180x180"/><link href="https://media.npr.org/chrome/favicon/favicon.ico" rel="shortcut icon"/><link href="https://media.npr.org/chrome/favicon/favicon-96x96.png" rel="icon" sizes="96x96"/><link href="https://media.npr.org/chrome/favicon/favicon-48x48.png" rel="icon" sizes="48x48"/><link href="https://media.npr.org/chrome/favicon/favicon-32x32.png" rel="icon" sizes="32x32"/><link href="https://media.npr.org/chrome/favicon/favicon-16x16.png" rel="icon" sizes="16x16"/><meta content="What We Know: Family Separation And 'Zero Tolerance' At The Border" property="og:title"/><meta content="https://www.npr.org/2018/06/19/621065383/what-we-know-family-separation-and-zero-tolerance-at-the-border" property="og:url"/><meta content="article" property="og:type"/><meta content="The Trump administration Wednesday reversed a policy of separating families at the border, which had meant children were held at detention facilities and moved to shelters. What comes next is unclear." property="og:description"/><meta content="https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=1400&amp;c=100&amp;f=jpeg" property="og:image"/><meta content="https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=1400&amp;c=100&amp;f=jpeg" property="og:image"/><meta content="https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=1400&amp;c=100&amp;f=jpeg" property="og:image"/><meta content="NPR" property="og:site_name"/><meta content="138837436154588" property="fb:app_id"/><meta content="10643211755" property="fb:pages"/><meta content="free" property="article:content_tier"/><meta content="false" property="article:opinion"/><meta content="summary_large_image" name="twitter:card"/><meta content="What We Know: Family Separation And 'Zero Tolerance' At The Border" name="twitter:title"/><meta content="@NPR" name="twitter:site"/><meta content="npr.org" name="twitter:domain"/><meta content="https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=1400&amp;c=100&amp;f=jpeg" name="twitter:image:src"/><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","geolocationHost":"https:\/\/www.npr.org","legacyWebHost":"https:\/\/legacy.npr.org","stripeServiceHost":"https:\/\/stripe.npr.org","recaptchaV3SiteKey":"6LcdN9IZAAAAAOHT985BJjbzjkBjKSxdxK3GeKSt","placesApiKey":"AIzaSyB_wzlXPVwS4kHRAZsM6scMzUAIsJ6aMZ4","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","identityHost":"https:\/\/identity.api.npr.org","apiHost":"https:\/\/api.npr.org","stationApiHost":"https:\/\/station.api.npr.org","environment":"prod","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","gtmKey":"GTM-MVD397M","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":true,"cookieDomain":".npr.org","organizationV4Host":"https:\/\/organization.api.npr.org","staticAssetsHost":"https:\/\/prod-eks-static-assets.npr.org","stripeAPIVersion":"2025-02-24.acacia"};
+NPR.serverVars = {"storyId":"621065383","storyCategory":"National News","sponsorship":{"baseAdConfig":{"network":"\/6735\/","zone":"News_National","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"621065383","agg":["434975886","593868387"]}},"end-of-story":{"site":{"desktop":"NPREndStory","mobile":"NPRMobileEndStory"},"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false,"deferred":true}},"isHiring":true,"facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/prod-eks-bundles.npr.org\/dist\/bundles\/","persistenceVersion":"206dc7b47576a78214a305edec14c9b0","isBuildOut":true,"pageLayoutName":"NewsStoryLayout","bingeModeId":"","isPreviewMode":false,"topicIds":["P1003","1001","1002","1014"],"primaryTopic":"National","topics":["National","News","Home Page Top Stories","Politics"],"exposedCollections":["Newsdesk Reporting Team"],"theme":"1003","aggIds":["1001","1002","1003","1014","2100569","127600895","348744968","434975886","511343536","553770573","589891697","593868387"],"tagIds":["Immigration","President Trump","attorney general jeff sessions","kirstjen Nielsen"],"byline":["Camila Domonoske","Richard Gonzales"],"contentPartnerOrgFullName":"1 | NPR","pubDate":"2018061914","fullPubDate":"Tue, 19 Jun 2018 14:17:00 -0400","pageTypeId":"1","title":"What We Know: Family Separation And \u0026#039;Zero Tolerance\u0026#039; At The Border","publisherOrgId":"1"};
+</script>
+<script src="https://cdn.optimizely.com/js/11107397707.js" type="text/javascript">
+</script>
+<script src="https://prod-eks-static-assets.npr.org/static/javascript/lib/modernizr/modernizr.custom.js" type="text/javascript">
+</script>
+<script src="https://prod-eks-static-assets.npr.org/static/javascript/lib/svg-loader.min.js" type="text/javascript">
+</script>
+<script async="" src="https://js.stripe.com/v3/" type="text/javascript">
+</script>
+<script>
+   !function(e){function r(r){for(var n,a,o=r[0],d=r[1],u=r[2],i=0,l=[];i<o.length;i++)a=o[i],Object.prototype.hasOwnProperty.call(f,a)&&f[a]&&l.push(f[a][0]),f[a]=0;for(n in d)Object.prototype.hasOwnProperty.call(d,n)&&(e[n]=d[n]);for(b&&b(r);l.length;)l.shift()();return c.push.apply(c,u||[]),t()}function t(){for(var e,r=0;r<c.length;r++){for(var t=c[r],n=!0,o=1;o<t.length;o++){var d=t[o];0!==f[d]&&(n=!1)}n&&(c.splice(r--,1),e=a(a.s=t[0]))}return e}var n={},f={0:0},c=[];function a(r){if(n[r])return n[r].exports;var t=n[r]={i:r,l:!1,exports:{}};return e[r].call(t.exports,t,t.exports,a),t.l=!0,t.exports}a.e=function(e){var r=[],t=f[e];if(0!==t)if(t)r.push(t[2]);else{var n=new Promise((function(r,n){t=f[e]=[r,n]}));r.push(t[2]=n);var c,o=document.createElement("script");o.charset="utf-8",o.timeout=120,a.nc&&o.setAttribute("nonce",a.nc),o.src=function(e){return a.p+""+e+"."+{1:"74e5455220e76322b034",2:"52c45d4e347cf8e5dcb2",3:"ddf46da314b9bf76329c",4:"9d7710d53f5e7e55c583",5:"770897aa30c19cedc146",6:"aef2673d74ec371c64c2",7:"f5a8c3b210f0f07e1046",8:"3e76814c3524be0bb828",9:"a17197143a04c64ee87e",10:"2c217d97d258fcffa420",11:"9a1e856ad54b333aad1b",75:"d501cbe3cf5eedd1f5d5",76:"dc969865439098d9fed4",77:"77d1e85151151476697f",78:"31a804e4e8c4f052cb14",79:"be836fb908109387e62a",80:"ceea6b70915441ff0630",81:"ecf0936fa246e259efa8",82:"4cff7b4bc7f13b0c4831",83:"b5a1c2399bef9232ff62",84:"9e35b7681eccbf5c3ec6",85:"ae34de3d376f078bf4a4",86:"0ffeb4eeb10f6fec03f0",87:"09b26050dd3b61d31d17",88:"e0ea33db1c92600d0809",89:"4006c64e2319594ef3cc",90:"16ec6d0ac2d1ef8b52ce",91:"b9d0a003aba29ef38f9d",92:"d5ad0b6eec3a295de074",93:"ead04419969e4f277494",94:"e141f117eacadeae10fc",95:"7ffd11553f8bd62048e6",96:"f206052038a221873b88",97:"836b2acd00c986122ff4",98:"be309d534e5ec0f83c3e",99:"5bd7ae837f3dd9ac4006",100:"abbc394d086f423fd989",101:"e94f5dfc20c8d4f99a55"}[e]+".chunk.js"}(e);var d=new Error;c=function(r){o.onerror=o.onload=null,clearTimeout(u);var t=f[e];if(0!==t){if(t){var n=r&&("load"===r.type?"missing":r.type),c=r&&r.target&&r.target.src;d.message="Loading chunk "+e+" failed.\n("+n+": "+c+")",d.name="ChunkLoadError",d.type=n,d.request=c,t[1](d)}f[e]=void 0}};var u=setTimeout((function(){c({type:"timeout",target:o})}),12e4);o.onerror=o.onload=c,document.head.appendChild(o)}return Promise.all(r)},a.m=e,a.c=n,a.d=function(e,r,t){a.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},a.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},a.t=function(e,r){if(1&r&&(e=a(e)),8&r)return e;if(4&r&&"object"==typeof e&&e&&e.__esModule)return e;var t=Object.create(null);if(a.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:e}),2&r&&"string"!=typeof e)for(var n in e)a.d(t,n,function(r){return e[r]}.bind(null,n));return t},a.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return a.d(r,"a",r),r},a.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},a.p="/dist/bundles/",a.oe=function(e){throw console.error(e),e};var o=window.webpackJsonp=window.webpackJsonp||[],d=o.push.bind(o);o.push=r,o=o.slice();for(var u=0;u<o.length;u++)r(o[u]);var b=d;t()}([]);
+</script>
+<script src="https://prod-eks-bundles.npr.org/dist/bundles/33.aed3b3f7e6f244a3eeb2.chunk.js" type="text/javascript">
+</script>
+<link data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/persistent-css-92c61b5f7e3f4388b1d2.css" media="screen, print" rel="stylesheet"/><link data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/persistent_medium-css-92c61b5f7e3f4388b1d2.css" media="screen and (min-width: 768px)" rel="stylesheet"/><link data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/persistent_large-css-92c61b5f7e3f4388b1d2.css" media="screen and (min-width: 1025px)" rel="stylesheet"/><link as="style" data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/fonts-css-92c61b5f7e3f4388b1d2.css" media="screen, print" onload="this.onload=null;this.rel='stylesheet'" rel="preload"/><link href="https://prod-eks-bundles.npr.org/dist/bundles/newsStory-css-92c61b5f7e3f4388b1d2.css" media="screen, print" rel="stylesheet"/><script type="application/ld+json">
+   {"@type":"NewsArticle","publisher":{"@type":"Organization","name":"NPR","logo":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/chrome\/npr-logo-2025.jpg"}},"headline":"What We Know: Family Separation And 'Zero Tolerance' At The Border","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.npr.org\/2018\/06\/19\/621065383\/what-we-know-family-separation-and-zero-tolerance-at-the-border"},"datePublished":"2018-06-19T14:17:00-04:00","dateModified":"2018-06-19T14:17:00-04:00","author":{"@type":"Person","name":["Camila Domonoske"]},"description":"The Trump administration Wednesday reversed a policy of separating families at the border, which had meant children were held at detention facilities and moved to shelters. What comes next is unclear.","image":[{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2018\/06\/18\/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg"},{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2018\/06\/19\/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg"},{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2018\/06\/18\/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg"}],"@context":"http:\/\/schema.org"}
+</script>
+<script type="text/javascript">
+   document.domain="www.npr.org";
+</script>
+<script data-piano-aid="9ENxKQ58pu" id="piano-aid" type="text/javascript">
+    (function(src) {
+        var a = document.createElement("script");
+        a.type = "text/javascript";
+        a.async = true;
+        a.src = src;
+        var b = document.getElementsByTagName("script")[0];
+        b.parentNode.insertBefore(a, b)
+    })("//cdn.piano.io/api/tinypass.min.js");
+
+    window.pdl = window.pdl || {};
+    window.pdl.requireConsent = true;
+
+    tp = window.tp || [];
+
+    tp.push(["init", function() {
+        tp.enableGACrossDomainLinking();
+    }]);
+</script>
+<script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="MBVDT-3L9KY-36ZMJ-SPSAR-JR833",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"MBVDT-3L9KY-36ZMJ-SPSAR-JR833";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="jdbnlflaayvku2gzprmq-f-0d249804b-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"55818","ak.ai":parseInt("290690",10),"ak.ol":"0","ak.cr":21,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"b6210d6","ak.r":38266,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"72.194.213.0","ak.cport":64943,"ak.gh":"96.6.42.166","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1759083609","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==1n99tgLYjCQe3zDOhy8aXcha3Vfg9ntPBXi5XGhNq0CYrRuJkil2QxjQBxnW4nltPZ2vwRaaNPQm7JZo7NkzgAGbqbry7yyhJlz8x9g1v+n/l5Rl/Ops+APUV+dGoxg4Qs8ugiVX0jXTcHueotNya1hblC8W9Cxtq85N5N/xek4YoKWNUtz45HOEghZOXZj+Ij+U29VbhcZqw8IRX6x7Wf2xe8Prb/ZgoEkHZu/8oigZ92Sz0Fd96nDkR3WDqOTXxgF9utcXh89PpLs36I1/zFBOC2PKkY+aBjlMFnDoTgFAkdUfWWfa9vvot/r1zu3zFYJTQP68WHleGoOhRyVrbjLC+aX10h1o6UiuP1UUVvySuIUmc7/JxHG12KAPagCEmhPqKs94wtqKTmE4dcjt9sVKIdeeyikfPBc3UzHUCZ0=","ak.pv":"111","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head><body class="news tmplNewsStory story-layout is-buildout no-transcript has-no-branding id621065383" data-pjax-modules="util/env images/lazy-load data-consent data-management-platform header-bidding metrics nielsen nielsenDCR copyright auto-refresh navigation/global-navigation fitvids googletag dfp globalfooter persistent-audio player/more-options player/audio-module-clickable what-input metrics/doubleclickFloodlight callout/on-page-callouts global-alerts right-rail-content-widgets we-are-hiring piano datadog ecommerce recommendations/end-of-story-recommendations-callout jw social/share slideshow images/enlargement contentfooter story/date-tooltip social/sharepop podcast-cards search/faceting-param local/newsletter/callout recaptcha-v3" id="news">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MVD397M" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="skip-links">
+<span>Accessibility links</span> <ul>
+<li><a class="skiplink" href="#mainContent">Skip to main content</a></li>
+<li><a class="skiplink" href="https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player">Keyboard shortcuts for audio player</a></li>
+</ul>
+</div>
+<div class="global-header-sticky-cta-wrap" id="global-header-sticky-cta-wrap">
+<div class="global-header-sticky-cta-mount" id="global-header-sticky-cta-mount">
+</div>
+</div>
+<div class="global-header-cta-wrap" id="global-header-cta-wrap">
+<div class="global-header-cta-mount" id="global-header-cta-mount">
+</div>
+</div>
+<header aria-label="NPR header" class="npr-header" id="globalheader">
+<nav class="navigation">
+<div class="navigation__top-level-wrap" data-metrics-category-ga4="recirculation">
+<ul class="navigation__top-level">
+<li class="navigation__toggle-wrap">
+<button aria-expanded="false" aria-haspopup="true" class="navigation__toggle navigation__toggle--open" data-metrics-ga4='{"action":"global_navigation_click","clickName":"open navigation menu","clickType":"global navigation"}' id="navigation__toggle--open">
+                    Open Navigation Menu
+                </button>
+</li>
+<li class="navigation__home">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr logo","clickType":"global navigation","clickUrl":"\/"}' href="/">
+<img alt="NPR logo" src="https://prod-eks-static-assets.npr.org/chrome_svg/npr-logo-2025.svg"/>
+</a>
+</li>
+<li id="navigation__station-mount"></li>
+<li class="navigation__newsletters">
+<div class="navigation__newsletters-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"newsletters","clickType":"global navigation","clickUrl":"/newsletters/"}' href="/newsletters/" target="_blank">Newsletters</a>
+</div>
+</li>
+<li class="navigation__account" id="user-account-dropdown-mount"></li>
+<li class="navigation__shop">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr shop","clickType":"global navigation","clickUrl":"https://shopnpr.org"}' href="https://shopnpr.org">NPR Shop</a>
+</li>
+<li id="navigation__station-donate-mount"></li>
+</ul>
+</div>
+<section class="menu menu--main" data-metrics-category-ga4="recirculation" id="main-menu">
+<div class="menu__inner">
+<header class="menu__header">
+<button aria-expanded="true" aria-haspopup="true" class="navigation__toggle navigation__toggle--close" data-metrics-ga4='{"action":"global_navigation_click","clickName":"close navigation menu","clickType":"global navigation"}' id="navigation__toggle--close">
+                    Close <span>Navigation Menu</span>
+</button>
+</header>
+<ul class="menu__list">
+<li class="menu__item menu__item--home">
+<div class="menu__item-inner"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr logo","clickType":"global navigation","clickUrl":"\/"}' href="/">Home</a></div>
+</li>
+<li class="menu__item menu__item--news menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"news","clickType":"global navigation","clickUrl":"/sections/news/"}' href="/sections/news/">News</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle news drawer","clickType":"global navigation"}'>Expand/collapse submenu for News</button>
+</div>
+<ul class="submenu submenu--news">
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"national","clickType":"global navigation","clickUrl":"/sections/national/"}' href="/sections/national/">National</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"world","clickType":"global navigation","clickUrl":"/sections/world/"}' href="/sections/world/">World</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"politics","clickType":"global navigation","clickUrl":"/sections/politics/"}' href="/sections/politics/">Politics</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"business","clickType":"global navigation","clickUrl":"/sections/business/"}' href="/sections/business/">Business</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"health","clickType":"global navigation","clickUrl":"/sections/health/"}' href="/sections/health/">Health</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"science","clickType":"global navigation","clickUrl":"/sections/science/"}' href="/sections/science/">Science</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"climate","clickType":"global navigation","clickUrl":"/sections/climate/"}' href="/sections/climate/">Climate</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"race","clickType":"global navigation","clickUrl":"/sections/codeswitch/"}' href="/sections/codeswitch/">Race</a></li>
+</ul>
+</li>
+<li class="menu__item menu__item--culture menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"culture","clickType":"global navigation","clickUrl":"/sections/culture/"}' href="/sections/culture/">Culture</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle culture drawer","clickType":"global navigation"}'>Expand/collapse submenu for Culture</button>
+</div>
+<ul class="submenu submenu--culture">
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"books","clickType":"global navigation","clickUrl":"/books/"}' href="/books/">Books</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"movies","clickType":"global navigation","clickUrl":"/sections/movies/"}' href="/sections/movies/">Movies</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"television","clickType":"global navigation","clickUrl":"/sections/television/"}' href="/sections/television/">Television</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"pop culture","clickType":"global navigation","clickUrl":"/sections/pop-culture/"}' href="/sections/pop-culture/">Pop Culture</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"food","clickType":"global navigation","clickUrl":"/sections/food/"}' href="/sections/food/">Food</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"art &amp; design","clickType":"global navigation","clickUrl":"/sections/art-design/"}' href="/sections/art-design/">Art &amp; Design</a> </li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"performing arts","clickType":"global navigation","clickUrl":"/sections/performing-arts/"}' href="/sections/performing-arts/">Performing Arts</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"life kit","clickType":"global navigation","clickUrl":"/lifekit/"}' href="/lifekit/">Life Kit</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"gaming","clickType":"global navigation","clickUrl":"/sections/gaming/"}' href="/sections/gaming/">Gaming</a></li>
+</ul>
+</li>
+<li class="menu__item menu__item--music menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"music","clickType":"global navigation","clickUrl":"/music/"}' href="/music/">Music</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle music drawer","clickType":"global navigation"}'>Expand/collapse submenu for Music</button>
+</div>
+<ul class="submenu submenu--music"><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"all songs considered","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/"}' href="https://www.npr.org/sections/allsongs/">
+        All Songs Considered
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"tiny desk","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/tiny-desk-concerts\/"}' href="https://www.npr.org/series/tiny-desk-concerts/">
+        Tiny Desk
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"new music friday","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/606254804\/new-music-friday"}' href="https://www.npr.org/sections/allsongs/606254804/new-music-friday">
+        New Music Friday
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"music features","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/music-features"}' href="https://www.npr.org/sections/music-features">
+        Music Features
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"live sessions","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/770565791\/npr-music-live-sessions"}' href="https://www.npr.org/series/770565791/npr-music-live-sessions">
+        Live Sessions
+    </a>
+</li></ul>
+</li>
+<li class="menu__item menu__item--shows-podcasts menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"podcasts &amp; shows","clickType":"global navigation","clickUrl":"/podcasts-and-shows/"}' href="/podcasts-and-shows/">Podcasts &amp; Shows</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle podcasts &amp; shows drawer","clickType":"global navigation"}'>Expand/collapse submenu for Podcasts &amp; Shows</button>
+</div>
+<div class="submenu submenu--shows-podcasts">
+<span class="submenu__category submenu__category--daily">Daily</span>
+<ul class="submenu__list submenu__list--daily">
+<li class="submenu__item submenu__item--timed submenu__item--weekday hidden">
+<a data-metrics-action="click morning edition" data-metrics-ga4='{"action":"global_navigation_click","clickName":"morning edition","clickType":"global navigation","clickUrl":"/programs/morning-edition/"}' href="/programs/morning-edition/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/morning-edition.jpg"/>
+                                    Morning Edition
+                                </a>
+</li>
+<li class="submenu__item submenu__item--timed submenu__item--saturday hidden">
+<a data-metrics-action="click weekend edition saturday" data-metrics-ga4='{"action":"global_navigation_click","clickName":"weekend edition saturday","clickType":"global navigation","clickUrl":"/programs/weekend-edition-saturday/"}' href="/programs/weekend-edition-saturday/">
+<img alt="" loading="lazy" src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesat_sq-cbde87a2fa31b01047441e6f34d2769b0287bcd4-s100-c85.png"/>
+                                    Weekend Edition Saturday
+                                </a>
+</li>
+<li class="submenu__item submenu__item--timed submenu__item--sunday hidden">
+<a data-metrics-action="click weekend edition sunday" data-metrics-ga4='{"action":"global_navigation_click","clickName":"weekend edition sunday","clickType":"global navigation","clickUrl":"/programs/weekend-edition-sunday/"}' href="/programs/weekend-edition-sunday/">
+<img alt="" loading="lazy" src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesun_sq-4a03b35e7e5adfa446aec374523a578d54dc9bf5-s100-c85.png"/>
+                                    Weekend Edition Sunday
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click all things considered" data-metrics-ga4='{"action":"global_navigation_click","clickName":"all things considered","clickType":"global navigation","clickUrl":"/programs/all-things-considered/"}' href="/programs/all-things-considered/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/all-things-considered.png"/>
+                                    All Things Considered
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click fresh air" data-metrics-ga4='{"action":"global_navigation_click","clickName":"fresh air","clickType":"global navigation","clickUrl":"/programs/fresh-air/"}' href="/programs/fresh-air/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/fresh-air.png"/>
+                                    Fresh Air
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click up first" data-metrics-ga4='{"action":"global_navigation_click","clickName":"up first","clickType":"global navigation","clickUrl":"/podcasts/510318/up-first/"}' href="/podcasts/510318/up-first/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/up-first.jpg?version=2"/>
+                                    Up First
+                                </a>
+</li>
+</ul>
+<span class="submenu__category submenu__category--featured">Featured</span>
+<ul class="submenu__list submenu__list--featured"><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"embedded","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510311\/embedded"}' href="https://www.npr.org/podcasts/510311/embedded">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/08/01/embedded_podcast-tile_sq-21d8f227c811e4f3a0e28b4aa774dd17e39287db-s100.jpeg" loading="lazy" src="https://media.npr.org/assets/img/2024/08/01/embedded_podcast-tile_sq-21d8f227c811e4f3a0e28b4aa774dd17e39287db-s100-c100.jpeg"/>
+        Embedded
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"the npr politics podcast","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510310\/npr-politics-podcast"}' href="https://www.npr.org/podcasts/510310/npr-politics-podcast">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004-s100.jpg" loading="lazy" src="https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004-s100-c100.jpg"/>
+        The NPR Politics Podcast
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"throughline","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510333\/throughline"}' href="https://www.npr.org/podcasts/510333/throughline">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-a59d7da2ea2bf97562aeec6440ddf837e8f7de65-s100.jpg" loading="lazy" src="https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-a59d7da2ea2bf97562aeec6440ddf837e8f7de65-s100-c100.jpg"/>
+        Throughline
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4="{&quot;category&quot;:&quot;recirculation&quot;,&quot;action&quot;:&quot;global_navigation_click&quot;,&quot;clickName&quot;:&quot;trump's terms &quot;,&quot;clickType&quot;:&quot;music ecosystem navigation&quot;,&quot;clickUrl&quot;:&quot;https:\/\/www.npr.org\/podcasts\/510374\/trumps-terms&quot;}" href="https://www.npr.org/podcasts/510374/trumps-terms">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/11/20/trumps-terms_tile-art_sq-a562bd2ad2a39113dc7da18658fc1e25d0664257-s100.jpg" loading="lazy" src="https://media.npr.org/assets/img/2024/11/20/trumps-terms_tile-art_sq-a562bd2ad2a39113dc7da18658fc1e25d0664257-s100-c100.jpg"/>
+        Trump's Terms 
+    </a>
+</li></ul>
+<ul class="submenu__list submenu__list--directories">
+<li class="submenu__item"><a data-metrics-action="click podcasts &amp; shows" data-metrics-ga4='{"action":"global_navigation_click","clickName":"podcasts &amp; shows","clickType":"global navigation","clickUrl":"/podcasts-and-shows/"}' href="/podcasts-and-shows/">More Podcasts &amp; Shows</a></li>
+</ul>
+</div>
+</li>
+<li class="menu__item menu__item--search">
+<div class="menu__item-inner">
+<a data-metrics-action="click search" data-metrics-ga4='{"action":"global_navigation_click","clickName":"search","clickType":"global navigation","clickUrl":"/search/"}' href="/search/" id="navigation_dropdown-search">Search</a>
+</div>
+</li>
+<li class="menu__item menu__item--newsletters">
+<div class="menu__item-inner">
+<a data-metrics-action="click newsletters" data-metrics-ga4='{"action":"global_navigation_click","clickName":"newsletters","clickType":"global navigation","clickUrl":"/newsletters/"}' href="/newsletters/" target="_blank">Newsletters</a>
+</div>
+</li>
+<li class="menu__item menu__item--shop">
+<div class="menu__item-inner">
+<a data-metrics-action="click npr shop" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr shop","clickType":"global navigation","clickUrl":"https://shopnpr.org"}' href="https://shopnpr.org">NPR Shop</a>
+</div>
+</li>
+<li class="menu__item menu__item--account" id="user-account-dropdown-mount-two"></li>
+</ul>
+</div>
+</section>
+<section class="menu menu--music" data-metrics-category-ga4="recirculation">
+<div class="menu__list-wrap">
+<ul class="menu__list menu__list--ecosystem menu__list--music">
+<li class="menu__item menu__item--music-home">
+<a data-metrics-action="click npr music logo" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr music logo","clickType":"global navigation","clickUrl":"/music/"}' href="/music/">
+<img alt="NPR Music" class="music-logo" src="https://prod-eks-static-assets.npr.org/chrome_svg/music-logo-dark.svg"/>
+<img alt="NPR Music" class="music-logo-alt" src="https://prod-eks-static-assets.npr.org/chrome_svg/music-logo-light.svg"/>
+</a>
+</li>
+<li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"all songs considered","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/"}' href="https://www.npr.org/sections/allsongs/">
+        All Songs Considered
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"tiny desk","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/tiny-desk-concerts\/"}' href="https://www.npr.org/series/tiny-desk-concerts/">
+        Tiny Desk
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"new music friday","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/606254804\/new-music-friday"}' href="https://www.npr.org/sections/allsongs/606254804/new-music-friday">
+        New Music Friday
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"music features","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/music-features"}' href="https://www.npr.org/sections/music-features">
+        Music Features
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"live sessions","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/770565791\/npr-music-live-sessions"}' href="https://www.npr.org/series/770565791/npr-music-live-sessions">
+        Live Sessions
+    </a>
+</li>
+</ul>
+</div>
+</section>
+<section class="menu menu--about" data-metrics-category-ga4="recirculation">
+<div class="menu__list-wrap">
+<ul class="menu__list menu__list--ecosystem menu__list--about">
+<li class="menu__item menu__item--about-home"><a data-metrics-action="click about npr" data-metrics-ga4='{"action":"global_navigation_click","clickName":"about npr","clickType":"about ecosystem navigation","clickUrl":"/about/"}' href="/about/">About NPR</a></li>
+<li class="menu__item menu__item--about-diversity"><a data-metrics-action="click diversity" data-metrics-ga4='{"action":"global_navigation_click","clickName":"diversity","clickType":"about ecosystem navigation","clickUrl":"/diversity/"}' href="/diversity/">Diversity</a></li>
+<li class="menu__item menu__item--about-support"><a data-metrics-action="click support" data-metrics-ga4='{"action":"global_navigation_click","clickName":"support","clickType":"about ecosystem navigation","clickUrl":"/support/"}' href="/support/">Support</a></li>
+<li class="menu__item menu__item--about-careers"><a data-metrics-action="click careers" data-metrics-ga4='{"action":"global_navigation_click","clickName":"careers","clickType":"about ecosystem navigation","clickUrl":"/careers/"}' href="/careers/">Careers</a></li>
+<li class="menu__item menu__item--about-press"><a data-metrics-action="click press" data-metrics-ga4='{"action":"global_navigation_click","clickName":"press","clickType":"about ecosystem navigation","clickUrl":"/series/750003/press-room/"}' href="/series/750003/press-room/">Press</a></li>
+<li class="menu__item menu__item--about-ethics"><a data-metrics-action="click ethics" data-metrics-ga4='{"action":"global_navigation_click","clickName":"ethics","clickType":"about ecosystem navigation","clickUrl":"/ethics/"}' href="/ethics/">Ethics</a></li>
+</ul>
+</div>
+</section>
+</nav>
+</header><main aria-label="main content"><div class="speakable">
+<b data-is-speakable="">Immigrant Children Separated From Parents At The Border: What We Know</b> <b data-is-speakable="">The Trump administration Wednesday reversed a policy of separating families at the border, which had meant children were held at detention facilities and moved to shelters. What comes next is unclear.</b>
+</div>
+<div id="wrapper">
+<header class="contentheader contentheader--one"></header> <section id="main-section"><article class="story"><a id="mainContent"></a><div class="slug-wrap">
+<h3 class="slug">
+<a href="https://www.npr.org/sections/national/">National</a>
+</h3>
+</div>
+<div class="storytitle">
+<h1>What We Know: Family Separation And 'Zero Tolerance' At The Border</h1>
+<input id="title621065383" type="hidden" value="What We Know: Family Separation And 'Zero Tolerance' At The Border"/>
+<input id="shortTitle621065383" type="hidden" value="What We Know: Family Separation And 'Zero Tolerance' At The Border"/>
+<input id="modelFullUrl621065383" type="hidden" value="https://www.npr.org/2018/06/19/621065383/what-we-know-family-separation-and-zero-tolerance-at-the-border"/>
+</div>
+<!-- END CLASS="STORYTITLE" -->
+<div class="story-meta has-byline" id="story-meta">
+<div class="story-meta__one">
+<div class="story-meta__one-inner">
+<div class="dateblock">
+<time datetime="2018-06-19T14:17:00-04:00">
+<span class="date">June 19, 2018</span><span class="time">2:17 PM ET</span>
+</time>
+</div>
+</div>
+<!-- END CLASS="STORY-META__ONE-INNER" -->
+</div>
+<!-- END CLASS="STORY-META__ONE" -->
+<div class="story-meta__two">
+<div class="storybyline-wrap linkLocation" id="storybyline">
+<div class="bucketwrap byline">
+<div class="byline-container--block byline-container--block-nophoto">
+<p class="byline__name--block">By </p> <div aria-label="Byline" class="byline byline--block byline--has-link">
+<div class="byline__photo">
+<a href="https://www.npr.org/people/348744968/camila-domonoske" rel="author">
+<picture><source class="img" data-format="webp" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/688x688+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2Fbe%2F7e1dd5b64bd98fa7a4e009508f6b%2Fcamila-domonoske.JPG" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/688x688+0+0/resize/100/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2Fbe%2F7e1dd5b64bd98fa7a4e009508f6b%2Fcamila-domonoske.JPG" type="image/webp"/><source class="img" data-format="jpeg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/688x688+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2Fbe%2F7e1dd5b64bd98fa7a4e009508f6b%2Fcamila-domonoske.JPG" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/688x688+0+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2Fbe%2F7e1dd5b64bd98fa7a4e009508f6b%2Fcamila-domonoske.JPG" type="image/jpeg"/><img alt="Headshot of Camila Domonoske." class="img" data-format="jpeg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/688x688+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2Fbe%2F7e1dd5b64bd98fa7a4e009508f6b%2Fcamila-domonoske.JPG" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/688x688+0+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2Fbe%2F7e1dd5b64bd98fa7a4e009508f6b%2Fcamila-domonoske.JPG"/></picture>
+</a>
+</div>
+<p class="byline__name byline__name--block">
+<a href="https://www.npr.org/people/348744968/camila-domonoske" rel="author">
+      Camila Domonoske
+    </a>
+</p>
+</div> <p class="byline__name--block byline__comma">, </p> <div aria-label="Byline" class="byline byline--block byline--has-link">
+<p class="byline__name byline__name--block">
+<a href="https://www.npr.org/people/2100569/richard-gonzales" rel="author">
+      Richard Gonzales
+    </a>
+</p>
+</div>
+</div>
+</div>
+<!-- END CLASS="BUCKETWRAP BYLINE" -->
+</div>
+</div>
+<!-- END CLASS="STORY-META__TWO" -->
+</div>
+<!-- END ID="STORY-META" CLASS="STORY-META HAS-BYLINE" -->
+<div class="storytext storylocation linkLocation" id="storytext">
+<div class="bucketwrap image large" id="res621175466">
+<div class="imagewrap has-source-dimensions" data-crop-type="" style="
+        --source-width: 2076;
+        --source-height: 1167;
+    ">
+<picture>
+<source class="img" data-template="https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s={width}&amp;c={quality}&amp;f={format}" sizes="(min-width: 1025px) 650px, calc(100vw - 30px)" srcset="https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=400&amp;c=85&amp;f=webp 400w,
+https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=600&amp;c=85&amp;f=webp 600w,
+https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=800&amp;c=85&amp;f=webp 800w,
+https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=900&amp;c=85&amp;f=webp 900w,
+https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=1200&amp;c=85&amp;f=webp 1200w,
+https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=1600&amp;c=85&amp;f=webp 1600w,
+https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=1800&amp;c=85&amp;f=webp 1800w" type="image/webp"/>
+<source class="img" data-template="https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s={width}&amp;c={quality}&amp;f={format}" sizes="(min-width: 1025px) 650px, calc(100vw - 30px)" srcset="https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=400&amp;c=85&amp;f=jpeg 400w,
+https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=600&amp;c=85&amp;f=jpeg 600w,
+https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=800&amp;c=85&amp;f=jpeg 800w,
+https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=900&amp;c=85&amp;f=jpeg 900w,
+https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=1200&amp;c=85&amp;f=jpeg 1200w,
+https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=1600&amp;c=85&amp;f=jpeg 1600w,
+https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=1800&amp;c=85&amp;f=jpeg 1800w" type="image/jpeg"/>
+<img alt="" class="img" data-template="https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s={width}&amp;c={quality}&amp;f={format}" fetchpriority="high" src="https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=1100&amp;c=50&amp;f=jpeg"/>
+</picture>
+<div class="enlarge-options">
+<a class="enlargelink" href="https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=2600&amp;c=100&amp;f=jpeg">Enlarge this image</a>
+</div>
+</div>
+<div class="credit-caption">
+<div class="caption-wrap">
+<div aria-label="Image caption" class="caption">
+<p>
+                A photo provided by U.S. Customs and Border Protection shows the interior of a CBP facility in McAllen, Texas, on Sunday. Immigration officials have separated thousands of families who crossed the border illegally. Reporters taken on a tour of the facility were not allowed by agents to interview any of the detainees or take photos, the AP reported.
+                <b aria-label="Image credit" class="credit">
+                    
+                    U.S. Customs and Border Protection's Rio Grande Valley Sector via AP
+                    
+                </b>
+<b class="hide-caption"><b>hide caption</b></b>
+</p>
+</div>
+<b class="toggle-caption"><b>toggle caption</b></b>
+</div>
+<span aria-label="Image credit" class="credit">
+        
+        U.S. Customs and Border Protection's Rio Grande Valley Sector via AP
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+<div class="img_wrap">
+<picture>
+<source data-original="https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=2600&amp;c=100&amp;f=webp" type="image/webp"/>
+<source data-original="https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=2600&amp;c=100&amp;f=jpeg" type="image/jpeg"/>
+<img alt="" data-original="https://media.npr.org/assets/img/2018/06/18/ap_18168855174108_wide-2f33f3c18e22cdbe6c56c1e1f17bba149af2a8ea.jpg?s=2600&amp;c=100&amp;f=jpeg"/>
+</picture>
+</div>
+</div>
+<div class="enlarge_html">
+<div class="image_data">
+<p class="caption">A photo provided by U.S. Customs and Border Protection shows the interior of a CBP facility in McAllen, Texas, on Sunday. Immigration officials have separated thousands of families who crossed the border illegally. Reporters taken on a tour of the facility were not allowed by agents to interview any of the detainees or take photos, the AP reported.</p>
+<span aria-label="Image credit" class="credit">
+            
+            U.S. Customs and Border Protection's Rio Grande Valley Sector via AP
+            
+        </span>
+</div>
+</div>
+</div>
+<p><strong>Updated at 4:40 a.m. ET Wednesday</strong></p> <p>Since early May, 2,342 children have been separated from their parents after crossing the Southern U.S. border, according to the Department of Homeland Security, as part of a new immigration strategy by the Trump administration that has prompted widespread outcry.</p> <p>On Wednesday, President Trump signed an executive order reversing his policy of separating families — and replacing it with a policy of detaining entire families together, including children, but ignoring legal time limits on the detention of minors.</p> <p>Here's what we know about the family separation policy, its history and its effects:</p> <aside aria-label="advertisement" class="ad-wrap backstage" id="ad-backstage-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-backstage has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_National","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"621065383","agg":["434975886","593868387"]},"site":{"desktop":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"location":"backstage","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":true}' id="ad-backstage-News_National">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<h3 class="edTag">Did the Trump administration have a policy of separating families at the border?</h3> <p>Yes.</p> <p>In April, U.S. Attorney General Jeff Sessions ordered prosecutors along the border to "adopt immediately a zero-tolerance policy" for illegal border crossings. That included prosecuting parents traveling with their children as well as people who subsequently attempted to request asylum.</p> <div class="bucketwrap listtext" id="res621353109">
+<div class="bucket">
+<p><strong>In Their Own Words</strong></p> <p><a href="https://www.theguardian.com/us-news/2018/jun/18/donald-trump-us-migrant-camp-border-separation">President Trump</a>: "The United States will not be a migrant camp and it will not be a refugee holding facility. ... Not on my watch."</p> <p><a data-key="443928" href="https://www.npr.org/sections/thetwo-way/2018/05/07/609225537/sessions-says-zero-tolerance-for-illegal-border-crossers-vows-to-divide-families">Attorney General Jeff Sessions</a>: "If you cross this border unlawfully, then we will prosecute you. It's that simple. ... If you are smuggling a child, then we will prosecute you and that child will be separated from you as required by law. If you don't like that, then don't smuggle children over our border."</p> <p><a href="http://www.foxnews.com/transcript/2018/06/18/sessions-defends-zero-tolerance-immigration-policy.html">Sessions</a> on whether the policy is a deterrent: "Yes, hopefully people will get the message and come through the border at the port of entry and not break across the border unlawfully."</p> <p><a data-key="460205" href="https://www.npr.org/2018/05/10/610113364/transcript-homeland-security-secretary-kirstjen-nielsens-full-interview-with-npr">Homeland Security Secretary Kirstjen Nielsen</a>: Under the "zero tolerance" policy, when families cross the border illegally, "Operationally, what that means is we will have to separate your family. That's no different than what we do every day in every part of the United States when an adult of a family commits a crime."</p> <p><a href="https://www.npr.org/2018/05/11/610116389/transcript-white-house-chief-of-staff-john-kellys-interview-with-npr">White House chief of staff John Kelly</a>: Separating families is "a tough deterrent. ... The children will be taken care of — put into foster care or whatever. But the big point is they elected to come illegally into the United States and this is a technique that no one hopes will be used extensively or for very long."</p>
+</div>
+<!-- END CLASS="BUCKET" -->
+</div>
+<!-- END ID="RES621353109" CLASS="BUCKETWRAP LISTTEXT" -->
+<p>White House officials have repeatedly acknowledged that under that policy, they separate all families who cross the border. Sessions has described it as deterrence.</p> <p>U.S. Customs and Border Protection explains <a href="https://www.cbp.gov/newsroom/zero-tolerance-immigration-prosecutions-family-fact-sheet">on its site</a> and <a href="https://www.cbp.gov/sites/default/files/assets/documents/2018-Jun/next-steps-for-families.pdf">in a flyer</a> that border-crossing families will be separated.</p> <p>The policy was unique to the Trump administration. Previous administrations did not, as a general principle, separate all families crossing the U.S. border illegally.</p> <h3 class="edTag">What policy did Trump enact on Wednesday?</h3> <p>On Wednesday, Trump ended the policy of family separation and replaced it with a policy of family detention.</p> <p>He signed an executive order that kept the zero-tolerance policy in place — but added, "It is also the policy of this Administration to maintain family unity, including by detaining alien families together where appropriate and consistent with law and available resources." It did provide an exception for when authorities believe keeping the family together would be harmful for the child.</p> <aside aria-label="advertisement" class="ad-wrap secondary" id="ad-secondary-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-secondary has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_National","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"621065383","agg":["434975886","593868387"]},"site":{"desktop":"NPRSecondary","mobile":"NPRMobileSecondary"},"location":"secondary","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-secondary-News_National">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<p>In signing the order, Trump noted "there may be some litigation" — that is, a legal challenge to the new policy.</p> <p>A 2015 court order, based on a document called the Flores settlement, prevents the government from keeping migrant children in detention for more than 20 days. Trump has instructed Attorney General Jeff Sessions to ask the federal court to modify that agreement in order to allow children, and by extension, unified families, to be kept in detention without time limit.</p> <p>The request asks, specifically, for permission from the courts "to detain alien families together throughout the pendency of criminal proceedings for improper entry or any removal or other immigration proceedings."</p> <p>Trump also calls for branches of his administration to make facilities available for detaining families with children — and calls on the Defense Department, to build new facilities "if necessary."</p> <p>The Obama administration practiced family detention, until the court order prohibited it. Many of the same groups that have vocally denounced family separation are also<em> </em>opposed to family detention, and had urged supervised release instead.</p> <p>Children currently remain separated from their parents. In signing the order, Trump said it would keep families together "in the immediate days forward." It is not clear when or how currently separated families will be reunited.</p> <h3 class="edTag">What happens when families are separated?</h3> <p>The process begins at a Customs and Border Protection detention facility. But many details about what happens next — how children are taken from their parents and by whom — were unclear.</p> <p>According to the Texas Civil Rights Project, which has been able to speak with detained adults, multiple parents reported that they were separated from their children <a href="https://texascivilrightsproject.org/civil-rights-groups-family-separations/">and not given any information about where their children would go</a>. The organization also says that in some cases, the children were taken away under the pretense that they would be getting a bath.</p> <aside aria-label="advertisement" class="ad-wrap third" id="ad-third-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-third has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_National","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"621065383","agg":["434975886","593868387"]},"site":{"desktop":"NPRThird","mobile":"NPRMobileThird"},"location":"third","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-third-News_National">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<p><a href="http://www.latimes.com/nation/la-na-immigration-families-border-wall-20180616-htmlstory.html">The Los Angeles Times</a> spoke to unnamed Homeland Security officials who said parents were given information about the family separation process and that "accusations of surreptitious efforts to separate are completely false."</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res621120474">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2018\/02\/27\/589079243\/activists-outraged-that-u-s-border-agents-separate-immigrant-families"}' href="https://www.npr.org/2018/02/27/589079243/activists-outraged-that-u-s-border-agents-separate-immigrant-families" id="featuredStackSquareImage589079243"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://media.npr.org/assets/img/2018/02/27/ap_16280118277353_sq-7145ac47c0bb7e14c10765a7b0cb0710088bef44.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/02/27/ap_16280118277353_sq-7145ac47c0bb7e14c10765a7b0cb0710088bef44.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2018/02/27/ap_16280118277353_sq-7145ac47c0bb7e14c10765a7b0cb0710088bef44.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/webp"><source class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2018/02/27/ap_16280118277353_sq-7145ac47c0bb7e14c10765a7b0cb0710088bef44.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/02/27/ap_16280118277353_sq-7145ac47c0bb7e14c10765a7b0cb0710088bef44.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2018/02/27/ap_16280118277353_sq-7145ac47c0bb7e14c10765a7b0cb0710088bef44.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"><img alt="To Curb Illegal Immigration, DHS Separating Families At The Border" class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2018/02/27/ap_16280118277353_sq-7145ac47c0bb7e14c10765a7b0cb0710088bef44.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/02/27/ap_16280118277353_sq-7145ac47c0bb7e14c10765a7b0cb0710088bef44.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2018/02/27/ap_16280118277353_sq-7145ac47c0bb7e14c10765a7b0cb0710088bef44.jpg?s=100&amp;c=85&amp;f=jpeg"/></source></source></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/series/690257428/asylum-crackdown">National </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2018\/02\/27\/589079243\/activists-outraged-that-u-s-border-agents-separate-immigrant-families"}' href="https://www.npr.org/2018/02/27/589079243/activists-outraged-that-u-s-border-agents-separate-immigrant-families">To Curb Illegal Immigration, DHS Separating Families At The Border</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES621120474" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>From the point of separation forward, the policy for treating the separated children appears to be the same as existing systems for detaining and housing unaccompanied immigrant children — designed for minors who cross the border alone. Those unaccompanied minors were generally older than the children affected by family separation.</p> <div class="bucketwrap image large" id="res621503440">
+<div class="imagewrap has-source-dimensions" data-crop-type="" style="
+        --source-width: 5000;
+        --source-height: 2812;
+    ">
+<picture>
+<source class="img" data-template="https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s={width}&amp;c={quality}&amp;f={format}" sizes="(min-width: 1025px) 650px, calc(100vw - 30px)" srcset="https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=400&amp;c=85&amp;f=webp 400w,
+https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=600&amp;c=85&amp;f=webp 600w,
+https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=800&amp;c=85&amp;f=webp 800w,
+https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=900&amp;c=85&amp;f=webp 900w,
+https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=1200&amp;c=85&amp;f=webp 1200w,
+https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=1600&amp;c=85&amp;f=webp 1600w,
+https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=1800&amp;c=85&amp;f=webp 1800w" type="image/webp"/>
+<source class="img" data-template="https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s={width}&amp;c={quality}&amp;f={format}" sizes="(min-width: 1025px) 650px, calc(100vw - 30px)" srcset="https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=400&amp;c=85&amp;f=jpeg 400w,
+https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=600&amp;c=85&amp;f=jpeg 600w,
+https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=800&amp;c=85&amp;f=jpeg 800w,
+https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=900&amp;c=85&amp;f=jpeg 900w,
+https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=1200&amp;c=85&amp;f=jpeg 1200w,
+https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=1600&amp;c=85&amp;f=jpeg 1600w,
+https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=1800&amp;c=85&amp;f=jpeg 1800w" type="image/jpeg"/>
+<img alt="" class="img" data-template="https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=1100&amp;c=50&amp;f=jpeg"/>
+</picture>
+<div class="enlarge-options">
+<a class="enlargelink" href="https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=2600&amp;c=100&amp;f=jpeg">Enlarge this image</a>
+</div>
+</div>
+<div class="credit-caption">
+<div class="caption-wrap">
+<div aria-label="Image caption" class="caption">
+<p>
+                A photo provided by U.S. Customs and Border Protection shows people detained at a facility in McAllen, Texas, on Sunday.
+                <b aria-label="Image credit" class="credit">
+                    
+                    U.S. Customs and Border Protection's Rio Grande Valley Sector via AP
+                    
+                </b>
+<b class="hide-caption"><b>hide caption</b></b>
+</p>
+</div>
+<b class="toggle-caption"><b>toggle caption</b></b>
+</div>
+<span aria-label="Image credit" class="credit">
+        
+        U.S. Customs and Border Protection's Rio Grande Valley Sector via AP
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+<div class="img_wrap">
+<picture>
+<source data-original="https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=2600&amp;c=100&amp;f=webp" type="image/webp"/>
+<source data-original="https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=2600&amp;c=100&amp;f=jpeg" type="image/jpeg"/>
+<img alt="" data-original="https://media.npr.org/assets/img/2018/06/19/ap_18168854997984_wide-ecbd8ab866846db8f21031dad5779a9dec027db2.jpg?s=2600&amp;c=100&amp;f=jpeg"/>
+</picture>
+</div>
+</div>
+<div class="enlarge_html">
+<div class="image_data">
+<p class="caption">A photo provided by U.S. Customs and Border Protection shows people detained at a facility in McAllen, Texas, on Sunday.</p>
+<span aria-label="Image credit" class="credit">
+            
+            U.S. Customs and Border Protection's Rio Grande Valley Sector via AP
+            
+        </span>
+</div>
+</div>
+</div>
+<h3 class="edTag"><strong>Where have children gone once they've been separated? </strong></h3> <p>The answer varies over time. Children begin at Customs and Border Protection facilities, are transferred to longer-term shelters and are supposed to eventually be placed with families or sponsors. Here's more about each step:</p> <p><strong>Customs and Border Protection facilities.</strong><em> </em>If you've seen photos of children in what look like chain-link cages — whether <a href="https://www.azcentral.com/story/news/politics/immigration/2014/06/18/arizona-immigrant-children-holding-area-tour/10780449/">unaccompanied minors in 2014</a> or <a href="https://www.cnn.com/2018/06/18/politics/immigration-mcallen-border-patrol-photos/index.html">separated children in 2018</a> — they are probably photos from a Customs and Border Protection facility.</p> <p>Children usually are held here initially, but it is illegal to keep them for more than three days — these holding cells are not meant for long-term detention.</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res621172173">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/sections\/thetwo-way\/2018\/05\/23\/613907893\/aclu-report-detained-immigrant-children-subjected-to-widespread-abuse-by-officia"}' href="https://www.npr.org/sections/thetwo-way/2018/05/23/613907893/aclu-report-detained-immigrant-children-subjected-to-widespread-abuse-by-officia" id="featuredStackSquareImage613907893"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://media.npr.org/assets/img/2018/05/23/ap_17110618282630_sq-bc103ffd069e44ae7fa6972f1a0859ef48a32e6d.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/05/23/ap_17110618282630_sq-bc103ffd069e44ae7fa6972f1a0859ef48a32e6d.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2018/05/23/ap_17110618282630_sq-bc103ffd069e44ae7fa6972f1a0859ef48a32e6d.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/webp"><source class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2018/05/23/ap_17110618282630_sq-bc103ffd069e44ae7fa6972f1a0859ef48a32e6d.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/05/23/ap_17110618282630_sq-bc103ffd069e44ae7fa6972f1a0859ef48a32e6d.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2018/05/23/ap_17110618282630_sq-bc103ffd069e44ae7fa6972f1a0859ef48a32e6d.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"><img alt="ACLU Report: Detained Immigrant Children Subjected To Widespread Abuse By Officials" class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2018/05/23/ap_17110618282630_sq-bc103ffd069e44ae7fa6972f1a0859ef48a32e6d.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/05/23/ap_17110618282630_sq-bc103ffd069e44ae7fa6972f1a0859ef48a32e6d.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2018/05/23/ap_17110618282630_sq-bc103ffd069e44ae7fa6972f1a0859ef48a32e6d.jpg?s=100&amp;c=85&amp;f=jpeg"/></source></source></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/thetwo-way/">The Two-Way </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/sections\/thetwo-way\/2018\/05\/23\/613907893\/aclu-report-detained-immigrant-children-subjected-to-widespread-abuse-by-officia"}' href="https://www.npr.org/sections/thetwo-way/2018/05/23/613907893/aclu-report-detained-immigrant-children-subjected-to-widespread-abuse-by-officia">ACLU Report: Detained Immigrant Children Subjected To Widespread Abuse By Officials</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES621172173" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>The Associated Press <a href="https://www.apnews.com/9794de32d39d4c6f89fbefaea3780769">visited one site on Monday</a> and described a "large, dark facility" with separate wings for children, adults and families:</p> <blockquote class="edTag"><div> <p>"Inside an old warehouse in South Texas, hundreds of children wait in a series of cages created by metal fencing. One cage had 20 children inside. Scattered about are bottles of water, bags of chips and large foil sheets intended to serve as blankets."</p> </div></blockquote> <p>Such facilities have been criticized before for <a href="https://www.npr.org/sections/thetwo-way/2016/08/19/490624225/surveillance-stills-from-border-patrol-facilities-show-crowded-trash-filled-cell">poor conditions</a> and reports of <a href="https://www.npr.org/2014/07/24/334041633/amid-wave-of-child-immigrants-reports-of-abuse-by-border-patrol">abuse and inhumane treatment</a>, including a number of allegations the CBP <a href="https://www.npr.org/sections/thetwo-way/2018/05/23/613907893/aclu-report-detained-immigrant-children-subjected-to-widespread-abuse-by-officia">strongly denies.</a></p> <p><strong>Child immigrant shelters.</strong> Within three days, children are supposed to be transferred from immigration detention to the Office of Refugee Resettlement, which is part of the Department of Health and Human Services.</p> <aside aria-label="advertisement" class="ad-wrap overflow-3" id="ad-overflow-3-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-overflow-3 has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_National","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"621065383","agg":["434975886","593868387"]},"site":{"desktop":"NPROverflow","mobile":"NPRMobileOverflow"},"location":"overflow-3","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-overflow-3-News_National">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<p>For 15 years, ORR has handled the "care and placement" of unaccompanied migrant children. Until recently, that usually meant minors who crossed into the U.S. alone. Now it also includes children who have been separated from their families by authorities, including much younger children.</p> <p>On a call with reporters on Tuesday, a Border Patrol official said that it's a matter of "discretion" how young is too young for a child to be separated from their parents. In general, he said, the age of 5 has been used as a benchmark, with children younger than that called "tender-aged."</p> <p>The CEO of Southwest Key, which operates 26 ORR shelters, tells NPR the children at his facilities range from ages "zero to 17."</p> <p>On the same call, an HHS official said that some of the ORR shelters are specifically equipped to take care of children younger than 13. He provided few details and could not say how many children under 13, under 5 or under 2 are currently being held by HHS.</p> <p>Now <a href="https://apnews.com/dc0c9a5134d14862ba7c7ad9a811160e">The Associated Press reports</a> that it has located three centers in Texas that "have been rapidly repurposed to serve needs of children including some under 5," with a fourth center scheduled to open in Houston. Infants are among the detained children, the AP reports.</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res621171768">
+<div class="bucket img">
+<div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/national/">National </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2018\/06\/14\/620085615\/these-are-not-kids-kept-in-cages-inside-a-texas-shelter-for-immigrant-youth"}' href="https://www.npr.org/2018/06/14/620085615/these-are-not-kids-kept-in-cages-inside-a-texas-shelter-for-immigrant-youth">'These Are Not Kids Kept In Cages': Inside A Texas Shelter For Immigrant Youth</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES621171768" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<div class="bucketwrap internallink insettwocolumn inset2col" id="res621339853">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2018\/06\/15\/620254326\/doctors-warn-about-dangers-of-child-separations"}' href="https://www.npr.org/2018/06/15/620254326/doctors-warn-about-dangers-of-child-separations" id="featuredStackSquareImage620254326"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://media.npr.org/assets/img/2018/06/15/gettyimages-973124278_sq-896bffe632ad008b9db34fa2274f1c28eba054a7.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/06/15/gettyimages-973124278_sq-896bffe632ad008b9db34fa2274f1c28eba054a7.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2018/06/15/gettyimages-973124278_sq-896bffe632ad008b9db34fa2274f1c28eba054a7.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2018/06/15/gettyimages-973124278_sq-896bffe632ad008b9db34fa2274f1c28eba054a7.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/06/15/gettyimages-973124278_sq-896bffe632ad008b9db34fa2274f1c28eba054a7.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2018/06/15/gettyimages-973124278_sq-896bffe632ad008b9db34fa2274f1c28eba054a7.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"/><img alt="Doctors Concerned About 'Irreparable Harm' To Separated Migrant Children" class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2018/06/15/gettyimages-973124278_sq-896bffe632ad008b9db34fa2274f1c28eba054a7.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/06/15/gettyimages-973124278_sq-896bffe632ad008b9db34fa2274f1c28eba054a7.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2018/06/15/gettyimages-973124278_sq-896bffe632ad008b9db34fa2274f1c28eba054a7.jpg?s=100&amp;c=85&amp;f=jpeg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/series/690257428/asylum-crackdown">National </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2018\/06\/15\/620254326\/doctors-warn-about-dangers-of-child-separations"}' href="https://www.npr.org/2018/06/15/620254326/doctors-warn-about-dangers-of-child-separations">Doctors Concerned About 'Irreparable Harm' To Separated Migrant Children</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES621339853" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>ORR has a network of about 100 shelter facilities, all operated by nonprofit groups, where children are detained.</p> <p>NPR's John Burnett recently joined other reporters to visit one such facility, a converted Walmart Supercenter housing nearly 1,500 boys ages 10 to 17. Journalists' access to that facility in Brownsville, Texas, was limited, but the site was markedly different from CBP facilities seen in photos released by the government — the teenage boys slept on beds instead of mats on the floor, in rooms instead of cages, and had access to classes and games.</p> <p>ORR <a href="https://www.acf.hhs.gov/orr/unaccompanied-children-frequently-asked-questions">says</a> children remain at these shelters for "fewer than 57 days on average." However some children have been kept detained for <a href="https://www.npr.org/2018/06/11/618831715/more-than-10-000-migrant-children-are-in-u-s-government-custody">months longer than that</a>, and some advocates say certain facilities improperly administer psychotropic medications.</p> <aside aria-label="advertisement" class="ad-wrap overflow-4" id="ad-overflow-4-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-overflow-4 has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_National","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"621065383","agg":["434975886","593868387"]},"site":{"desktop":"NPROverflow","mobile":"NPRMobileOverflow"},"location":"overflow-4","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-overflow-4-News_National">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<p>Observers have raised concerns about the psychological toll on young children who enter this shelter system. NPR's Joel Rose <a href="https://www.npr.org/2018/06/15/620254326/doctors-warn-about-dangers-of-child-separations">talked to one former shelter employee</a> who said he quit after he was instructed to prevent siblings from hugging each other. The organization that runs the shelter said it allows touching and hugging in certain circumstances.</p> <div class="bucketwrap listtext" id="res621349778">
+<div class="bucket">
+<p><strong>Where Are The Girls And Young Children? <br/></strong>Official photos and videos have shown only older boys at shelter facilities. <br/><br/>The Department of Health and Human Services says there are specialized shelters for children under 13. No images from those shelters have been released, but authorities say new images and videos will be provided later this week.</p> <p>The Associated Press says it has identified three shelters in Texas that are housing young children, including infants. The locations of those shelters were not released by the government.</p>
+</div>
+<!-- END CLASS="BUCKET" -->
+</div>
+<!-- END ID="RES621349778" CLASS="BUCKETWRAP LISTTEXT" -->
+<p>More than 10,000 migrant children, including children who crossed the border alone, are kept in ORR facilities. And existing facilities are filling up — the shelter Burnett visited was 95 percent full.</p> <p><strong>Tent camps</strong><strong><em>.</em></strong><em> </em>A temporary facility has been set up in Tornillo, Texas, near El Paso. Little is known about the facility, and reporters have not been allowed inside, but KQED's John Sepulvado has seen the tent camp from outside.</p> <p>"It's a heavy-duty-grade white tent in the middle of a desert," he <a href="http://www.wbur.org/hereandnow/2018/06/18/border-immigration-families-unaccompanied-minors">told NPR's Here &amp; Now</a>. "It's behind two chain-link fences and there's a dirt easement that's on top of it, so you can't actually see into it from the American side."</p> <div class="bucketwrap image large" id="res621176934">
+<div class="imagewrap has-source-dimensions" data-crop-type="" style="
+        --source-width: 4402;
+        --source-height: 2476;
+    ">
+<picture>
+<source class="img" data-template="https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s={width}&amp;c={quality}&amp;f={format}" sizes="(min-width: 1025px) 650px, calc(100vw - 30px)" srcset="https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=400&amp;c=85&amp;f=webp 400w,
+https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=600&amp;c=85&amp;f=webp 600w,
+https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=800&amp;c=85&amp;f=webp 800w,
+https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=900&amp;c=85&amp;f=webp 900w,
+https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=1200&amp;c=85&amp;f=webp 1200w,
+https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=1600&amp;c=85&amp;f=webp 1600w,
+https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=1800&amp;c=85&amp;f=webp 1800w" type="image/webp"/>
+<source class="img" data-template="https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s={width}&amp;c={quality}&amp;f={format}" sizes="(min-width: 1025px) 650px, calc(100vw - 30px)" srcset="https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=400&amp;c=85&amp;f=jpeg 400w,
+https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=600&amp;c=85&amp;f=jpeg 600w,
+https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=800&amp;c=85&amp;f=jpeg 800w,
+https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=900&amp;c=85&amp;f=jpeg 900w,
+https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=1200&amp;c=85&amp;f=jpeg 1200w,
+https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=1600&amp;c=85&amp;f=jpeg 1600w,
+https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=1800&amp;c=85&amp;f=jpeg 1800w" type="image/jpeg"/>
+<img alt="" class="img" data-template="https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=1100&amp;c=50&amp;f=jpeg"/>
+</picture>
+<div class="enlarge-options">
+<a class="enlargelink" href="https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=2600&amp;c=100&amp;f=jpeg">Enlarge this image</a>
+</div>
+</div>
+<div class="credit-caption">
+<div class="caption-wrap">
+<div aria-label="Image caption" class="caption">
+<p>
+                Detained migrant children play soccer at a newly constructed tent encampment as seen through a border fence near the U.S. Customs and Border Protection port of entry in Tornillo, Texas, on Monday.
+                <b aria-label="Image credit" class="credit">
+                    
+                    Jose Luis Gonzalez/Reuters
+                    
+                </b>
+<b class="hide-caption"><b>hide caption</b></b>
+</p>
+</div>
+<b class="toggle-caption"><b>toggle caption</b></b>
+</div>
+<span aria-label="Image credit" class="credit">
+        
+        Jose Luis Gonzalez/Reuters
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+<div class="img_wrap">
+<picture>
+<source data-original="https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=2600&amp;c=100&amp;f=webp" type="image/webp"/>
+<source data-original="https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=2600&amp;c=100&amp;f=jpeg" type="image/jpeg"/>
+<img alt="" data-original="https://media.npr.org/assets/img/2018/06/18/rtx69s89_wide-b188ba6464a12fcbe9e308a9233cbd57859fba90.jpg?s=2600&amp;c=100&amp;f=jpeg"/>
+</picture>
+</div>
+</div>
+<div class="enlarge_html">
+<div class="image_data">
+<p class="caption">Detained migrant children play soccer at a newly constructed tent encampment as seen through a border fence near the U.S. Customs and Border Protection port of entry in Tornillo, Texas, on Monday.</p>
+<span aria-label="Image credit" class="credit">
+            
+            Jose Luis Gonzalez/Reuters
+            
+        </span>
+</div>
+</div>
+</div>
+<p>The tent camp popped up rapidly, with the first large white tent appearing essentially overnight. Within days, a complex of smaller tan tents surrounded it; photos released by HHS show bunk beds packed tightly into the tents.</p> <p>It's not clear how many teenagers are inside, Sepulvado says, but the government was planning to expand it to hold some 4,000 detained minors.</p> <p>This is not the first time the U.S. government has used temporary shelters for minors: During the surge of unaccompanied minors crossing the border in 2014, HHS set up <a href="https://www.cbsnews.com/news/u-s-closing-emergency-child-immigrant-shelters/">several temporary facilities</a> at <a href="https://www.nbcnews.com/news/latino/inside-lackland-afb-massive-shelter-border-children-n124036">military bases</a>.</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res621171849">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2018\/06\/17\/620813068\/hundreds-march-to-texas-tent-city-holding-detained-immigrant-kids"}' href="https://www.npr.org/2018/06/17/620813068/hundreds-march-to-texas-tent-city-holding-detained-immigrant-kids" id="featuredStackSquareImage620813068"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://media.npr.org/assets/img/2018/06/17/fullsizerender_sq-f209e22452442bc2b8735a94f5302581d1f939c0.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/06/17/fullsizerender_sq-f209e22452442bc2b8735a94f5302581d1f939c0.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2018/06/17/fullsizerender_sq-f209e22452442bc2b8735a94f5302581d1f939c0.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/webp"><source class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2018/06/17/fullsizerender_sq-f209e22452442bc2b8735a94f5302581d1f939c0.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/06/17/fullsizerender_sq-f209e22452442bc2b8735a94f5302581d1f939c0.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2018/06/17/fullsizerender_sq-f209e22452442bc2b8735a94f5302581d1f939c0.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"><img alt="Hundreds March To Texas Tent City Holding Detained Immigrant Kids" class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2018/06/17/fullsizerender_sq-f209e22452442bc2b8735a94f5302581d1f939c0.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/06/17/fullsizerender_sq-f209e22452442bc2b8735a94f5302581d1f939c0.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2018/06/17/fullsizerender_sq-f209e22452442bc2b8735a94f5302581d1f939c0.jpg?s=100&amp;c=85&amp;f=jpeg"/></source></source></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/national/">National </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2018\/06\/17\/620813068\/hundreds-march-to-texas-tent-city-holding-detained-immigrant-kids"}' href="https://www.npr.org/2018/06/17/620813068/hundreds-march-to-texas-tent-city-holding-detained-immigrant-kids">Hundreds March To Texas Tent City Holding Detained Immigrant Kids</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES621171849" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p><strong>Sponsors or family members.</strong> Ultimately, ORR tries to find family members, foster parents or sponsors to take in children. Parents are the preferred option, but that has not a possibility for children who have been separated from parents who remain in detention.</p> <p>It is not clear if, under Trump's new policy, separated children might still be placed with sponsors or if they will all return to detention with their parents.</p> <p>There is no time limit on how long it can take to find a home for a child, but again, ORR says that on average the process takes less than two months.</p> <aside aria-label="advertisement" class="ad-wrap overflow-5" id="ad-overflow-5-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-overflow-5 has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_National","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"621065383","agg":["434975886","593868387"]},"site":{"desktop":"NPROverflow","mobile":"NPRMobileOverflow"},"location":"overflow-5","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-overflow-5-News_National">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<p>By law, those relatives or sponsors must, among other requirements, show that they can provide for the minor — sometimes verified with home visits — and ensure the minor's attendance at any future court hearing.</p> <p>The Trump administration <a href="https://www.federalregister.gov/documents/2018/05/08/2018-09902/privacy-act-of-1974-system-of-records">has said that it intends to subject sponsors to increased scrutiny</a>.</p> <p>Under those new rules, the criminal background and immigration status of all sponsors, and any other adult living in the household, will be examined. Biometric data, such as fingerprints, also will be required. The checks will be performed by U.S. Immigration and Customs Enforcement and not by ORR.</p> <p>Critics say these new background checks will have a chilling effect.</p> <p>"Under the current circumstances and given the anti-immigrant rhetoric of the administration, it may be that few will be willing to come forward to claim children," said Bob Carey, who was director of ORR under the Obama administration.</p> <h3 class="edTag"><strong>Can parents who are prosecuted be reunited with their children?</strong></h3> <p>Parents face a court hearing where, <a href="https://www.npr.org/2018/06/08/618183313/immigrants-who-crossed-illegally-with-children-face-a-harsh-reality">as Burnett has reported</a>, they may face objections from prosecutors if their lawyers try to bring up their children in a bid for leniency.</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res621494005">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2018\/06\/08\/618183313\/immigrants-who-crossed-illegally-with-children-face-a-harsh-reality"}' href="https://www.npr.org/2018/06/08/618183313/immigrants-who-crossed-illegally-with-children-face-a-harsh-reality" id="featuredStackSquareImage618183313"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://media.npr.org/assets/img/2018/06/08/gettyimages-521334126_sq-214a75adb9c495f7e74e9de38b011d62169b1947.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/06/08/gettyimages-521334126_sq-214a75adb9c495f7e74e9de38b011d62169b1947.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2018/06/08/gettyimages-521334126_sq-214a75adb9c495f7e74e9de38b011d62169b1947.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2018/06/08/gettyimages-521334126_sq-214a75adb9c495f7e74e9de38b011d62169b1947.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/06/08/gettyimages-521334126_sq-214a75adb9c495f7e74e9de38b011d62169b1947.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2018/06/08/gettyimages-521334126_sq-214a75adb9c495f7e74e9de38b011d62169b1947.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"/><img alt="Inside The Trial Of 3 Guatemalan Mothers Separated From Their Children" class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2018/06/08/gettyimages-521334126_sq-214a75adb9c495f7e74e9de38b011d62169b1947.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/06/08/gettyimages-521334126_sq-214a75adb9c495f7e74e9de38b011d62169b1947.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2018/06/08/gettyimages-521334126_sq-214a75adb9c495f7e74e9de38b011d62169b1947.jpg?s=100&amp;c=85&amp;f=jpeg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/national/">National </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2018\/06\/08\/618183313\/immigrants-who-crossed-illegally-with-children-face-a-harsh-reality"}' href="https://www.npr.org/2018/06/08/618183313/immigrants-who-crossed-illegally-with-children-face-a-harsh-reality">Inside The Trial Of 3 Guatemalan Mothers Separated From Their Children</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES621494005" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>If parents are eventually released from detention, they will be able to take custody of their own children, Nielsen said at a news conference Monday.</p> <div class="bucketwrap listtext" id="res621499059">
+<div class="bucket">
+<p><strong>ICE Instructions On How To Find A Separated Child</strong></p> <ul class="edTag"> <li>The Immigration and Customs Enforcement call center is available M-F, 8 a.m. to 8 p.m. ET, at 1-888-351-4024 (or 9116# from within an ICE facility)</li> <li>Parents can call the Office of Refugee Resettlement, which operates shelters, at 1-800-203-7001 (or 699# from within an ICE detention facility)</li> <li>Friends, family and advocates can email ICE at Parental.Interests@ice.dhs.gov or ORR at information@ORRNCC.com</li> </ul>
+</div>
+<!-- END CLASS="BUCKET" -->
+</div>
+<!-- END ID="RES621499059" CLASS="BUCKETWRAP LISTTEXT" -->
+<p>In a statement to NPR, ICE expanded on the process of family reunification.</p> <p>During a parent's detention, "ICE and ORR will work together to locate separated children, verify the parent/child relationship, and set up regular communication and removal coordination, if necessary," ICE says. A hotline has been set up to help parents and children find each other.</p> <p>"ICE will make every effort to reunite the child with the parent once the parent's immigration case has been adjudicated," a spokesman said. Parents being deported may request that their children leave with them or may decide to leave the children in the U.S. to pursue their own immigration claim, ICE says. For instance, they might suggest another family member in the U.S. to sponsor their child, as described above.</p> <aside aria-label="advertisement" class="ad-wrap overflow-6" id="ad-overflow-6-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-overflow-6 has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_National","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"621065383","agg":["434975886","593868387"]},"site":{"desktop":"NPROverflow","mobile":"NPRMobileOverflow"},"location":"overflow-6","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-overflow-6-News_National">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<p>However, <em>The New Yorker</em> <a href="https://www.newyorker.com/news/news-desk/the-government-has-no-plan-for-reuniting-the-immigrant-families-it-is-tearing-apart">spoke to lawyers and advocates</a> who said there is no formal process or clear protocol for tracking parents and children within the system and that chaotic systems and inadequate record keeping make it difficult even to know which facility a child might be kept at.</p> <p>And <em>The New York Times</em> <a href="https://www.nytimes.com/2018/06/17/us/immigration-deported-parents.html">reports</a> that some parents have been deported without their children, against their will.</p> <h3 class="edTag"><strong>What is the law regarding the treatment of migrant children?</strong></h3> <p>A two-decade-old court settlement, the <em>Flores </em>settlement, and a law called the Trafficking Victims Protection Reauthorization Act both specify how the government must treat migrant children.</p> <p>They require that migrant children be placed in "the least restrictive environment" or sent to live with family members. They also limit how long families with children can be detained; courts have interpreted that limit as 20 days.</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res621118989">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2018\/06\/11\/618831715\/more-than-10-000-migrant-children-are-in-u-s-government-custody"}' href="https://www.npr.org/2018/06/11/618831715/more-than-10-000-migrant-children-are-in-u-s-government-custody" id="featuredStackSquareImage618831715"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://media.npr.org/assets/img/2018/06/11/ap_45586881778_sq-d5b067463b4ac314dcc22b4013d315fb93f8bbbd.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/06/11/ap_45586881778_sq-d5b067463b4ac314dcc22b4013d315fb93f8bbbd.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2018/06/11/ap_45586881778_sq-d5b067463b4ac314dcc22b4013d315fb93f8bbbd.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2018/06/11/ap_45586881778_sq-d5b067463b4ac314dcc22b4013d315fb93f8bbbd.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/06/11/ap_45586881778_sq-d5b067463b4ac314dcc22b4013d315fb93f8bbbd.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2018/06/11/ap_45586881778_sq-d5b067463b4ac314dcc22b4013d315fb93f8bbbd.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"/><img alt="Trump Administration And Advocates Clash Over What's Next For Migrant Children" class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2018/06/11/ap_45586881778_sq-d5b067463b4ac314dcc22b4013d315fb93f8bbbd.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/06/11/ap_45586881778_sq-d5b067463b4ac314dcc22b4013d315fb93f8bbbd.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2018/06/11/ap_45586881778_sq-d5b067463b4ac314dcc22b4013d315fb93f8bbbd.jpg?s=100&amp;c=85&amp;f=jpeg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/national/">National </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2018\/06\/11\/618831715\/more-than-10-000-migrant-children-are-in-u-s-government-custody"}' href="https://www.npr.org/2018/06/11/618831715/more-than-10-000-migrant-children-are-in-u-s-government-custody">Trump Administration And Advocates Clash Over What's Next For Migrant Children</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES621118989" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>Previous administrations have released families to meet these requirements. President Trump has said the law requires him to separate families, <a href="https://www.npr.org/2018/05/29/615211215/fact-check-are-democrats-responsible-for-dhs-separating-children-from-their-pare">which is not true</a>. His advisers have presented a more complicated argument for how the law requires family separation.</p> <p>"The laws prohibit us from detaining families while they go through prosecution," Nielsen said on Monday — a reference to the 20-day limits on how long children can be detained. Therefore, she says, "we cannot detain families together."</p> <p>She argues that that leaves the administration with the options of not enforcing the law, which it rejects, or separating families. But immigration advocates and legal experts say that there are other options, including those that previous administrations have chosen.</p> <p>Trump's new order has effectively requested a change to the existing law, to loosen restrictions on the detention of children.</p> <h3 class="edTag"><strong>What was the policy under President Obama?</strong></h3> <p>The Obama administration <a href="https://www.npr.org/sections/thetwo-way/2014/06/20/323980057/u-s-will-open-immigrant-family-detention-centers-target-rumors-of-laxity">established family detention centers</a> that kept families together while their cases were processed. Trump's executive order appears to effectively revive this policy.</p> <aside aria-label="advertisement" class="ad-wrap overflow-7" id="ad-overflow-7-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-overflow-7 has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_National","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"621065383","agg":["434975886","593868387"]},"site":{"desktop":"NPROverflow","mobile":"NPRMobileOverflow"},"location":"overflow-7","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-overflow-7-News_National">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<p>The Obama-era centers were <a href="http://www.usccb.org/about/migration-policy/position-papers/upload/family-detention.pdf">sharply criticized</a> for keeping children detained even if they were still with their parents. A court ruled that those detention centers <a href="https://www.npr.org/2015/07/27/426674309/after-court-ruling-3-immigration-detention-centers-could-close">violated the Flores agreement</a> and that families should be released together.</p> <p>The Obama White House also<strong> </strong>had a policy of releasing families through a program called Alternatives to Detention that still allowed them to be closely supervised — for instance, by giving mothers ankle monitors before releasing them.</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res621172423">
+<div class="bucket img">
+<div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/thetwo-way/">The Two-Way </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/sections\/thetwo-way\/2015\/06\/24\/417204277\/obama-administration-acts-to-ease-family-detentions"}' href="https://www.npr.org/sections/thetwo-way/2015/06/24/417204277/obama-administration-acts-to-ease-family-detentions">Obama Administration Acts To Ease Family Detentions</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES621172423" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>The ACLU <a href="https://www.aclu.org/other/aclu-fact-sheet-alternatives-immigration-detention-atd">welcomed the Alternatives to Detention program</a>, but <a href="http://immigrationimpact.com/2012/07/11/for-immigrants-alternatives-to-detention-not-all-theyre-cracked-up-to-be/">other immigrant-rights groups had reservations</a>.</p> <p>As Burnett reported, one for-profit prison company that was making money off immigrant detention <a href="https://www.npr.org/2015/11/13/455790454/as-asylum-seekers-swap-prison-beds-for-ankle-bracelets-same-firm-profits">was also profiting off those ankle monitor systems</a>.</p> <p>ICE tells NPR that the Alternatives to Detention program is still active under the Trump administration, but Trump has repeatedly said he opposes what he denounces as "catch and release."</p> <h3 class="edTag"><strong>Can families request asylum, allowing them to stay together?</strong></h3> <div class="bucketwrap listtext" id="res621387045">
+<div class="bucket">
+<p><strong>What Is Asylum?</strong></p> <p>Seeking asylum means asking the U.S. to accept you — legally — because of persecution you are facing in your home country.</p> <p>Crossing the border illegally is a misdemeanor; for a person who has already been deported once, it's a felony. Both types of crimes are currently being prosecuted with no exceptions, even if a person later requests asylum.</p> <p>Seeking asylum<em> at a port of entry</em>, however, is not a crime at all.</p>
+</div>
+<!-- END CLASS="BUCKET" -->
+</div>
+<!-- END ID="RES621387045" CLASS="BUCKETWRAP LISTTEXT" -->
+<p>Hypothetically, yes. In practice, maybe not.</p> <p>Families that request asylum at ports of entry are meant to be kept together while their claims are processed.</p> <p>But there is evidence that even families who seek asylum at ports of entry are being separated. One high-profile case involves a Congolese woman who sought asylum and still was separated from her 7-year-old daughter. In February, NPR's Burnett <a href="https://www.npr.org/2018/02/27/589079243/activists-outraged-that-u-s-border-agents-separate-immigrant-families">reported</a> on the <a href="https://www.aclu.org/sites/default/files/field_document/71_mtd_order.pdf">legal battle</a> of <em>Ms. L v. ICE</em>.</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res621090156">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2018\/06\/15\/620310589\/after-a-2-000-mile-asylum-journey-family-is-turned-away-before-reaching-u-s-soil"}' href="https://www.npr.org/2018/06/15/620310589/after-a-2-000-mile-asylum-journey-family-is-turned-away-before-reaching-u-s-soil" id="featuredStackSquareImage620310589"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://media.npr.org/assets/img/2018/06/15/img_5545-edit_sq-50f931aca3e6ef804ad89799b11bea79fe37d036.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/06/15/img_5545-edit_sq-50f931aca3e6ef804ad89799b11bea79fe37d036.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2018/06/15/img_5545-edit_sq-50f931aca3e6ef804ad89799b11bea79fe37d036.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2018/06/15/img_5545-edit_sq-50f931aca3e6ef804ad89799b11bea79fe37d036.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/06/15/img_5545-edit_sq-50f931aca3e6ef804ad89799b11bea79fe37d036.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2018/06/15/img_5545-edit_sq-50f931aca3e6ef804ad89799b11bea79fe37d036.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"/><img alt="After Traveling 2,000 Miles For Asylum, This Family's Journey Halts At A Bridge" class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2018/06/15/img_5545-edit_sq-50f931aca3e6ef804ad89799b11bea79fe37d036.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2018/06/15/img_5545-edit_sq-50f931aca3e6ef804ad89799b11bea79fe37d036.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2018/06/15/img_5545-edit_sq-50f931aca3e6ef804ad89799b11bea79fe37d036.jpg?s=100&amp;c=85&amp;f=jpeg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/series/690257428/asylum-crackdown">National </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2018\/06\/15\/620310589\/after-a-2-000-mile-asylum-journey-family-is-turned-away-before-reaching-u-s-soil"}' href="https://www.npr.org/2018/06/15/620310589/after-a-2-000-mile-asylum-journey-family-is-turned-away-before-reaching-u-s-soil">After Traveling 2,000 Miles For Asylum, This Family's Journey Halts At A Bridge</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES621090156" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>Hers is not an isolated case, according to immigrant advocates.</p> <p>"Lutheran Immigration and Refugee Service has documented 53 incidents of family separation in the last nine months, mostly Central Americans. Other immigrant support groups say there are many more cases," Burnett reported.</p> <p>Reporter Jean Guerrero of KPBS in San Diego <a href="https://www.pbs.org/newshour/show/migrant-seeking-asylum-says-his-toddler-was-taken-away-at-the-u-s-border">reported on the case of a Salvadoran father</a>, Jose Demar Fuentes, who says he sought asylum and was separated from his 1-year-old son, Mateo, despite having an original birth certificate proving that he is the boy's father.</p> <div aria-label="Tweet" class="bucketwrap twitter medium graphic" id="res1008467510906228736">
+<blockquote class="twitter-tweet"><p dir="ltr" lang="en">For those seeking asylum at ports of entry, we have continued the policy from previous Administrations and will only separate if the child is in danger, there is no custodial relationship between 'family' members, or if the adult has broken a law.</p>— Secretary Kirstjen M. Nielsen (@SecNielsen) <a href="https://twitter.com/SecNielsen/status/1008467510906228736?ref_src=twsrc%5Etfw">June 17, 2018</a></blockquote>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+</div>
+<!-- END ID="RES1008467510906228736" CLASS="BUCKETWRAP TWITTER MEDIUM GRAPHIC" ARIA-LABEL="TWEET" -->
+<p>In a White House press briefing Monday, Nielsen said, "DHS is not separating families legitimately seeking asylum at ports of entry." But she said DHS "will only separate a family if we cannot determine there is a familial relationship, if child is at risk with the parent or legal guardian, or if the parent or legal guardian is referred for prosecution."</p> <p>Burnett also <a href="https://www.npr.org/2018/06/15/620310589/after-a-2-000-mile-asylum-journey-family-is-turned-away-before-reaching-u-s-soil">has reported</a> that some families are not being allowed to request asylum — that they are being repeatedly turned away and told the CBP facility is too full to accept them.</p> <p>Nielsen has denied that some asylum-seekers who present themselves at a port of entry are <a href="https://www.texasmonthly.com/politics/immigrant-advocates-question-legality-of-latest-federal-tactics/">being turned away,</a> which would be a violation of international law.</p> <p>"We are saying we want to take care of you in the right way. Right now we do not have the resources at this particular moment in time. Come back," she said.</p>
+</div>
+<div class="tags">
+<ul>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/127600895/immigration">Immigration</a></li>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/511343536/president-trump">President Trump</a></li>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/553770573/attorney-general-jeff-sessions">attorney general jeff sessions</a></li>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/589891697/kirstjen-nielsen">kirstjen Nielsen</a></li>
+</ul>
+</div>
+<!-- END CLASS="TAGS" -->
+<div aria-label="Share tools" class="share-tools share-tools--secondary">
+<ul>
+<li class="share-tools__service share-tools__service--facebook"><button class="fbStory621065383" data-metrics-ga4='{"category":"share","action":"share","clickName":"facebook"}' data-share-facebook='{"storyId": "621065383" }'><b class="share-tools__service-name">Facebook</b></button></li>
+<li class="share-tools__service share-tools__service--flipboard"><button class="story621065383" data-metrics-ga4='{"category":"share","action":"share","clickName":"flipboard"}' data-share-flipboard='{"storyId": "621065383" }'><b class="share-tools__service-name">Flipboard</b></button></li>
+<li class="share-tools__service share-tools__service--email"><button class="share-tools__email-link" data-metrics-ga4='{"category":"share","action":"share","clickName":"email"}' data-story-id="621065383"><b class="share-tools__service-name">Email</b></button></li>
+</ul>
+</div>
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--SECONDARY" ARIA-LABEL="SHARE TOOLS" -->
+<div data-newsletter="{&quot;newsletterId&quot;:&quot;news&quot;,&quot;title&quot;:&quot;Up First&quot;,&quot;marketingHeader&quot;:&quot;Sign Up For NPR's Up First Newsletter&quot;,&quot;frequency&quot;:&quot;every day&quot;,&quot;shortDescription&quot;:&quot;The stories you need to start your day, hand-picked for you every weekday. Plus, the best of NPR every Sunday.&quot;,&quot;stickyDescription&quot;:&quot;Sign up for the NPR's Up First newsletter for the latest headlines and unique stories from the NPR Network.&quot;,&quot;contentImage&quot;:&quot;https:\/\/npr.brightspotcdn.com\/e1\/16\/e7434747460f8691603795b6ff1c\/screen-shot-2025-08-20-at-1-47-26-pm.png&quot;,&quot;staticMarkupDir&quot;:&quot;\/buckets\/topics\/header1001.html&quot;,&quot;brandingDir&quot;:&quot;\/branding\/sections\/news\/&quot;,&quot;brandingLink&quot;:&quot;https:\/\/www.npr.org\/sections\/news\/&quot;,&quot;recaptchaSiteKey&quot;:&quot;6LcdN9IZAAAAAOHT985BJjbzjkBjKSxdxK3GeKSt&quot;}" id="newsletter-acquisition-callout-data">
+</div>
+<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;NEWS&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;UP FIRST&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;SIGN UP FOR NPR&#039;S UP FIRST NEWSLETTER&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;EVERY DAY&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;THE STORIES YOU NEED TO START YOUR DAY, HAND-PICKED FOR YOU EVERY WEEKDAY. PLUS, THE BEST OF NPR EVERY SUNDAY.&QUOT;,&QUOT;STICKYDESCRIPTION&QUOT;:&QUOT;SIGN UP FOR THE NPR&#039;S UP FIRST NEWSLETTER FOR THE LATEST HEADLINES AND UNIQUE STORIES FROM THE NPR NETWORK.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;HTTPS:\/\/NPR.BRIGHTSPOTCDN.COM\/E1\/16\/E7434747460F8691603795B6FF1C\/SCREEN-SHOT-2025-08-20-AT-1-47-26-PM.PNG&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT;\/BUCKETS\/TOPICS\/HEADER1001.HTML&QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT;\/BRANDING\/SECTIONS\/NEWS\/&QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/SECTIONS\/NEWS\/&QUOT;,&QUOT;RECAPTCHASITEKEY&QUOT;:&QUOT;6LCDN9IZAAAAAOHT985BJJBZJKBJKSXDXK3GEKST&QUOT;}" -->
+<div id="callout-end-of-story-mount">
+</div>
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT" -->
+<div class="callout-end-of-story-mount-piano-wrap" id="callout-end-of-story-mount-piano-wrap">
+<div class="callout-end-of-story-mount-piano" id="callout-end-of-story-mount-piano">
+</div>
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT-PIANO" CLASS="CALLOUT-END-OF-STORY-MOUNT-PIANO" -->
+</div>
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT-PIANO-WRAP" CLASS="CALLOUT-END-OF-STORY-MOUNT-PIANO-WRAP" -->
+<aside aria-label="recommended stories" class="recommended-stories recommended-stories--piano" id="end-of-story-recommendations-mount-piano"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT-PIANO" CLASS="RECOMMENDED-STORIES RECOMMENDED-STORIES--PIANO" ARIA-LABEL="RECOMMENDED STORIES" -->
+<aside aria-label="recommended stories" class="recommended-stories" id="end-of-story-recommendations-mount"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT" CLASS="RECOMMENDED-STORIES" ARIA-LABEL="RECOMMENDED STORIES" -->
+</article><footer aria-label="NPR footer" class="npr-footer" id="npr-footer" role="contentinfo"><div class="npr-footer__content">
+<div class="npr-footer__module-group">
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Read &amp; Listen</h6>
+<ul>
+<li class="npr-footer__item"><a href="/">Home</a></li>
+<li class="npr-footer__item"><a href="/sections/news/">News</a></li>
+<li class="npr-footer__item"><a href="/sections/culture/">Culture</a></li>
+<li class="npr-footer__item"><a href="/music/">Music</a></li>
+<li class="npr-footer__item"><a href="/podcasts-and-shows">Podcasts &amp; Shows</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Connect</h6>
+<ul>
+<li class="npr-footer__item"><a href="/newsletters/" target="_blank">Newsletters</a></li>
+<li class="npr-footer__item"><a href="https://www.facebook.com/NPR/">Facebook</a></li>
+<li class="npr-footer__item"><a href="https://www.instagram.com/npr/">Instagram</a></li>
+<li class="npr-footer__item"><a href="/series/750003/press-room/">Press</a></li>
+<li class="npr-footer__item"><a href="/sections/publiceditor/">Public Editor</a></li>
+<li class="npr-footer__item"><a href="/corrections/">Corrections</a></li>
+<li class="npr-footer__item"><a href="/transcripts/">Transcripts</a></li>
+<li class="npr-footer__item"><a href="https://help.npr.org/contact/s/">Contact &amp; Help</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">About NPR</h6>
+<ul>
+<li class="npr-footer__item"><a href="/about/">Overview</a></li>
+<li class="npr-footer__item"><a href="/diversity/">Diversity</a></li>
+<li class="npr-footer__item"><a href="/network/" target="_blank">NPR Network</a></li>
+<li class="npr-footer__item"><a href="/about-npr/1136563345/accessibility">Accessibility</a></li>
+<li class="npr-footer__item"><a href="/ethics/">Ethics</a></li>
+<li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances">Finances</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Get Involved</h6>
+<ul>
+<li class="npr-footer__item"><a href="/support/">Support Public Radio</a></li>
+<li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship">Sponsor NPR</a></li>
+<li class="npr-footer__item"><a href="/careers/">NPR Careers</a></li>
+<li class="npr-footer__item"><a href="https://shopnpr.org/">NPR Shop</a></li>
+<li class="npr-footer__item"><a href="https://www.nprpresents.org">NPR Events</a></li>
+<li class="npr-footer__item"><a href="/sections/npr-extra/">NPR Extra</a></li>
+</ul>
+</div>
+</div>
+<div class="npr-footer__module npr-footer__module--secondary">
+<ul>
+<li class="npr-footer__item"><a href="/about-npr/179876898/terms-of-use">Terms of Use</a></li>
+<li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy">Privacy</a></li>
+<li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy#yourchoices">Your Privacy Choices</a></li>
+<li class="npr-footer__item"><a href="https://text.npr.org/">Text Only</a></li>
+<li class="npr-footer__item"><span class="copy-year"></span></li>
+</ul>
+</div>
+</div>
+</footer><div class="global-stickybar-mount" id="global-stickybar-mount">
+</div>
+<div class="global-stickybar" id="global-stickybar-mount-piano-wrap">
+<div class="global-stickybar-mount-piano" id="global-stickybar-mount-piano">
+</div>
+</div>
+</section> <div id="main-sidebar">
+<div id="right-rail-content-widgets-mount">
+</div>
+<!-- END ID="RIGHT-RAIL-CONTENT-WIDGETS-MOUNT" -->
+<aside aria-label="advertisement" class="ad-wrap standard" id="ad-standard-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config ad-standard has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_National","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"621065383","agg":["434975886","593868387"]},"site":{"desktop":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"location":"standard","deferred":false,"isBetweenContent":false,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-standard-News_National">
+<div style="min-height:90px"></div>
+</div>
+<div class="ad-footer"><p class="left">Sponsor Message</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p></div>
+</aside>
+</div>
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+<!-- END ID="WRAPPER" -->
+<section id="global-modal-mount"></section>
+<!-- END ID="GLOBAL-MODAL-MOUNT" -->
+<script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { (window.webpackJsonp=window.webpackJsonp||[]).push([[22],{1159:function(e,n,c){e.exports=c(321)},321:function(e,n,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,Promise.all([c.e(1),c.e(2),c.e(3),c.e(4),c.e(81)]).then(function(e){c(3),c(1132),c(113),c(91),c(60),c(494),c(234),c(114),c(116),c(1133),c(164),c(1134),c(316),c(1135),c(48),c(1136)}.bind(null,c)).catch(c.oe)}},[[1159,0]]]); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+</main></body></html>

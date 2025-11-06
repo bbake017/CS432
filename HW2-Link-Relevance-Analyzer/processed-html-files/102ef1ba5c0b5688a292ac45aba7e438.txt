@@ -1,0 +1,21 @@
+Bienvenue sur IdRef, Identifiants et référentiels pour l'Enseignement supérieur et la Recherche.
+Trump, Donald (1946-....)
+Identifiant pérenne de la notice : 145942198
+URI de l'entité : http://www.idref.fr/145942198/id
+Nom à l'état civil
+Information
+(par souci de protection des données à caractère personnel , le jour et le mois de naissance peuvent ne pas être affichés)
+Langue d'expression : anglais
+Notes
+Note publique d'information :
+Homme d'affaires, animateur de télévision et homme d'État américain. Il a été le 45ᵉ
+                     président des États-Unis, en fonction du 20 janvier 2017 au 20 janvier 2021.
+Identifiants externes
+L'Amérique paralysée / Donald Trump, DL 2016
+Survivre au sommet / Donald J. Trump, 1991
+... Références liées : ...
+IdRef - Identifiants et Référentiels pour l'ESR
+L'interface publique IdRef permet la consultation des notices d'autorités produites par les établissements membres des réseaux documentaires de l'ESR (Sudoc, Calames, Star).
+IdRef est à la disposition des usagers professionnels habilités à créer/corriger/enrichir les notices d'autorité (authentification requise). A partir d'IdRef, une gamme de services (triple store data.idref.fr, entrepôt OAI-PMH, APIs) est disponible en accès libre pour faciliter la réutilisation des données.
+Pour les développeurs
+

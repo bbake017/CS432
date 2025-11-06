@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en"><head><!-- OneTrust Cookies Consent Notice start for npr.org -->
+<script src="https://cdn.cookielaw.org/consent/82089dfe-410c-4e1b-a7f9-698174b62a86/OtAutoBlock.js" type="text/javascript"></script>
+<script charset="UTF-8" data-domain-script="82089dfe-410c-4e1b-a7f9-698174b62a86" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript"></script>
+<script type="text/javascript">
+function OptanonWrapper() {
+    NPR_OptanonWrapper = true;
+    document.dispatchEvent(new CustomEvent('npr:DataConsentAvailable'));
+    
+    OneTrust.OnConsentChanged(function() {
+        document.dispatchEvent(new CustomEvent('npr:DataConsentChanged'));
+    });
+ }
+</script>
+<!-- OneTrust Cookies Consent Notice end for npr.org -->
+<script ccpa-opt-out-geo="us" ccpa-opt-out-ids="C0004" ccpa-opt-out-lspa="false" charset="UTF-8" src="https://cdn.cookielaw.org/opt-out/otCCPAiab.js" type="text/javascript"></script><script class="optanon-category-C0004" type="text/plain">
+    document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+    var setNptTechAdblockerCookie = function(adblocker) {
+        var d = new Date();
+        d.setTime(d.getTime() + 60 * 5 * 1000);
+        document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+    };
+    (() => {
+        var script = document.createElement("script");
+        script.setAttribute("async", true);
+        script.setAttribute("src", "//www.npttech.com/advertising.js");
+        script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+        document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+</script><script>
+(function (e, o, n, i) {
+    if (!e) {
+        e = e || {}, window.permutive = e, e.q = [];
+        var t = function () {
+            return ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, function (e) {
+                return (e ^ (window.crypto || window.msCrypto).getRandomValues(new Uint8Array(1))[0] & 15 >> e / 4).toString(16)
+            })
+        };
+        e.config = i || {}, e.config.apiKey = o, e.config.workspaceId = n, e.config.environment = e.config.environment || "production", (window.crypto || window.msCrypto) && (e.config.viewId = t());
+        for (var g = ["addon", "identify", "track", "trigger", "query", "segment", "segments", "ready", "on", "once", "user", "consent"], r = 0; r < g.length; r++) {
+            var w = g[r];
+            e[w] = function (o) {
+                return function () {
+                    var n = Array.prototype.slice.call(arguments, 0);
+                    e.q.push({functionName: o, arguments: n})
+                };
+            }(w);
+        }
+    }
+})(window.permutive, "12730e07-f09d-4a69-93da-99b43983b663", "e1cef1f0-495f-4973-ba1c-880786e73a66", {"consentRequired": true});
+</script>
+<!--
+
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnn         nnnnnn ppp          pppppp rrr           rrrr
+nnn   nnnn    nnnn ppp   pppppp   pppp rrr   rrrrrr   rrr
+nnn   nnnnnn   nnn ppp   ppppppp   ppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppp    pppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp           ppppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppppppppppp rrr   rrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppp   ppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+
+We are hiring!
+
+https://boards.greenhouse.io/nationalpublicradioinc
+
+-->
+<script>dataLayer = [];</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.setAttributeNode(d.createAttribute('data-ot-ignore'));j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer', 'GTM-MVD397M');</script>
+<!-- End Google Tag Manager -->
+<script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemref="speakable" itemscope="" itemtype="https://schema.org/SpeakableSpecification"/><title>Trump found liable for battery, defamation against E. Jean Carroll : NPR</title><meta content="[data-is-speakable]" id="speakable" itemprop="cssSelector"/><meta content="1VqzbDm4ukeFVHOoq5LjIKA2fVKZD-EYv8cXZhKXSfU" id="google-site-verification" name="google-site-verification"/><meta charset="utf-8"/><meta content="noarchive,index,follow,max-image-preview:large" name="robots"/><meta content="app-id=324906251, app-argument=https://www.npr.org/2023/05/09/1174975870/trump-carroll-verdict" name="apple-itunes-app"/><meta content="General" name="Rating"/><meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/><meta name="npr-pjax"/><meta content="2023-05-09" name="date"/><link href="https://www.npr.org/2023/05/09/1174975870/trump-carroll-verdict" rel="canonical"/><meta content="Jurors believed that Carroll's allegation of sexual abuse in a Manhattan department store in the mid-1990s was more likely true than not. They awarded her $5 million in total damages." name="description"/><link href="https://feeds.npr.org/1070/rss.xml" rel="alternate" title="Law" type="application/rss+xml"/><meta content="article" name="cXenseParse:pageclass"/><meta content="2023-05-09T15:17:20-04:00" name="cXenseParse:publishtime"/><meta content="2023-05-09T17:49:00-04:00" name="article:modified_time"/><meta content="Law" name="cXenseParse:zbq-eyebrowText"/><meta content="https://www.npr.org/sections/law/" name="cXenseParse:zbq-eyebrowUrl"/><meta content="News/National/Law" name="cXenseParse:taxonomy"/><meta content="Becky Sullivan|Andrea Bernstein|Ilya Marritz|Quil Lawrence" data-separator="|" name="cXenseParse:author"/><link href="https://media.npr.org/chrome/favicon/favicon-180x180.png" rel="apple-touch-icon" sizes="180x180"/><link href="https://media.npr.org/chrome/favicon/favicon.ico" rel="shortcut icon"/><link href="https://media.npr.org/chrome/favicon/favicon-96x96.png" rel="icon" sizes="96x96"/><link href="https://media.npr.org/chrome/favicon/favicon-48x48.png" rel="icon" sizes="48x48"/><link href="https://media.npr.org/chrome/favicon/favicon-32x32.png" rel="icon" sizes="32x32"/><link href="https://media.npr.org/chrome/favicon/favicon-16x16.png" rel="icon" sizes="16x16"/><meta content="A jury finds Trump liable for battery and defamation in E. Jean Carroll trial" property="og:title"/><meta content="https://www.npr.org/2023/05/09/1174975870/trump-carroll-verdict" property="og:url"/><meta content="article" property="og:type"/><meta content="Jurors believed that Carroll's allegation of sexual abuse in a Manhattan department store in the mid-1990s was more likely true than not. They awarded her $5 million in total damages." property="og:description"/><meta content="https://media.npr.org/assets/img/2023/05/09/ap23129705614106_wide-1bb561d7349fb1a5c50ad1676461be9213bd9457.jpg?s=1400&amp;c=100&amp;f=jpeg" property="og:image"/><meta content="NPR" property="og:site_name"/><meta content="138837436154588" property="fb:app_id"/><meta content="10643211755" property="fb:pages"/><meta content="free" property="article:content_tier"/><meta content="false" property="article:opinion"/><meta content="summary_large_image" name="twitter:card"/><meta content="A jury finds Trump liable for battery and defamation in E. Jean Carroll trial" name="twitter:title"/><meta content="@NPR" name="twitter:site"/><meta content="npr.org" name="twitter:domain"/><meta content="https://media.npr.org/assets/img/2023/05/09/ap23129705614106_wide-1bb561d7349fb1a5c50ad1676461be9213bd9457.jpg?s=1400&amp;c=100&amp;f=jpeg" name="twitter:image:src"/><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","geolocationHost":"https:\/\/www.npr.org","legacyWebHost":"https:\/\/legacy.npr.org","stripeServiceHost":"https:\/\/stripe.npr.org","recaptchaV3SiteKey":"6LcdN9IZAAAAAOHT985BJjbzjkBjKSxdxK3GeKSt","placesApiKey":"AIzaSyB_wzlXPVwS4kHRAZsM6scMzUAIsJ6aMZ4","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","identityHost":"https:\/\/identity.api.npr.org","apiHost":"https:\/\/api.npr.org","stationApiHost":"https:\/\/station.api.npr.org","environment":"prod","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","gtmKey":"GTM-MVD397M","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":true,"cookieDomain":".npr.org","organizationV4Host":"https:\/\/organization.api.npr.org","staticAssetsHost":"https:\/\/prod-eks-static-assets.npr.org","stripeAPIVersion":"2025-02-24.acacia"};
+NPR.serverVars = {"storyId":"1174975870","storyCategory":"National News","sponsorship":{"baseAdConfig":{"network":"\/6735\/","zone":"News_National_Law","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1174975870","agg":["434975886","593868387","1088064796"]}},"end-of-story":{"site":{"desktop":"NPREndStory","mobile":"NPRMobileEndStory"},"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false,"deferred":true}},"isHiring":true,"facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/prod-eks-bundles.npr.org\/dist\/bundles\/","persistenceVersion":"206dc7b47576a78214a305edec14c9b0","isBuildOut":true,"pageLayoutName":"NewsStoryLayout","bingeModeId":"","isPreviewMode":false,"topicIds":["P1070","1001","1002","1003","1014"],"primaryTopic":"Law","topics":["Law","News","Home Page Top Stories","National","Politics"],"exposedCollections":["Newsdesk Reporting Team"],"theme":"1070","aggIds":["1001","1002","1003","1014","1070","105678418","134949364","348743421","434975886","593868387","735110628","1088064796","1122051670","1122051906"],"tagIds":["Donald Trump","E. Jean Carroll"],"byline":["Becky Sullivan","Andrea Bernstein","Ilya Marritz","Quil Lawrence"],"contentPartnerOrgFullName":"1 | NPR","pubDate":"2023050915","fullPubDate":"Tue, 09 May 2023 15:17:20 -0400","pageTypeId":"1","title":"A jury finds Trump liable for battery and defamation in E. Jean Carroll trial","publisherOrgId":"1"};
+</script>
+<script src="https://cdn.optimizely.com/js/11107397707.js" type="text/javascript">
+</script>
+<script src="https://prod-eks-static-assets.npr.org/static/javascript/lib/modernizr/modernizr.custom.js" type="text/javascript">
+</script>
+<script src="https://prod-eks-static-assets.npr.org/static/javascript/lib/svg-loader.min.js" type="text/javascript">
+</script>
+<script async="" src="https://js.stripe.com/v3/" type="text/javascript">
+</script>
+<script>
+   !function(e){function r(r){for(var n,a,o=r[0],d=r[1],u=r[2],i=0,l=[];i<o.length;i++)a=o[i],Object.prototype.hasOwnProperty.call(f,a)&&f[a]&&l.push(f[a][0]),f[a]=0;for(n in d)Object.prototype.hasOwnProperty.call(d,n)&&(e[n]=d[n]);for(b&&b(r);l.length;)l.shift()();return c.push.apply(c,u||[]),t()}function t(){for(var e,r=0;r<c.length;r++){for(var t=c[r],n=!0,o=1;o<t.length;o++){var d=t[o];0!==f[d]&&(n=!1)}n&&(c.splice(r--,1),e=a(a.s=t[0]))}return e}var n={},f={0:0},c=[];function a(r){if(n[r])return n[r].exports;var t=n[r]={i:r,l:!1,exports:{}};return e[r].call(t.exports,t,t.exports,a),t.l=!0,t.exports}a.e=function(e){var r=[],t=f[e];if(0!==t)if(t)r.push(t[2]);else{var n=new Promise((function(r,n){t=f[e]=[r,n]}));r.push(t[2]=n);var c,o=document.createElement("script");o.charset="utf-8",o.timeout=120,a.nc&&o.setAttribute("nonce",a.nc),o.src=function(e){return a.p+""+e+"."+{1:"74e5455220e76322b034",2:"52c45d4e347cf8e5dcb2",3:"ddf46da314b9bf76329c",4:"9d7710d53f5e7e55c583",5:"770897aa30c19cedc146",6:"aef2673d74ec371c64c2",7:"f5a8c3b210f0f07e1046",8:"3e76814c3524be0bb828",9:"a17197143a04c64ee87e",10:"2c217d97d258fcffa420",11:"9a1e856ad54b333aad1b",75:"d501cbe3cf5eedd1f5d5",76:"dc969865439098d9fed4",77:"77d1e85151151476697f",78:"31a804e4e8c4f052cb14",79:"be836fb908109387e62a",80:"ceea6b70915441ff0630",81:"ecf0936fa246e259efa8",82:"4cff7b4bc7f13b0c4831",83:"b5a1c2399bef9232ff62",84:"9e35b7681eccbf5c3ec6",85:"ae34de3d376f078bf4a4",86:"0ffeb4eeb10f6fec03f0",87:"09b26050dd3b61d31d17",88:"e0ea33db1c92600d0809",89:"4006c64e2319594ef3cc",90:"16ec6d0ac2d1ef8b52ce",91:"b9d0a003aba29ef38f9d",92:"d5ad0b6eec3a295de074",93:"ead04419969e4f277494",94:"e141f117eacadeae10fc",95:"7ffd11553f8bd62048e6",96:"f206052038a221873b88",97:"836b2acd00c986122ff4",98:"be309d534e5ec0f83c3e",99:"5bd7ae837f3dd9ac4006",100:"abbc394d086f423fd989",101:"e94f5dfc20c8d4f99a55"}[e]+".chunk.js"}(e);var d=new Error;c=function(r){o.onerror=o.onload=null,clearTimeout(u);var t=f[e];if(0!==t){if(t){var n=r&&("load"===r.type?"missing":r.type),c=r&&r.target&&r.target.src;d.message="Loading chunk "+e+" failed.\n("+n+": "+c+")",d.name="ChunkLoadError",d.type=n,d.request=c,t[1](d)}f[e]=void 0}};var u=setTimeout((function(){c({type:"timeout",target:o})}),12e4);o.onerror=o.onload=c,document.head.appendChild(o)}return Promise.all(r)},a.m=e,a.c=n,a.d=function(e,r,t){a.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},a.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},a.t=function(e,r){if(1&r&&(e=a(e)),8&r)return e;if(4&r&&"object"==typeof e&&e&&e.__esModule)return e;var t=Object.create(null);if(a.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:e}),2&r&&"string"!=typeof e)for(var n in e)a.d(t,n,function(r){return e[r]}.bind(null,n));return t},a.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return a.d(r,"a",r),r},a.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},a.p="/dist/bundles/",a.oe=function(e){throw console.error(e),e};var o=window.webpackJsonp=window.webpackJsonp||[],d=o.push.bind(o);o.push=r,o=o.slice();for(var u=0;u<o.length;u++)r(o[u]);var b=d;t()}([]);
+</script>
+<script src="https://prod-eks-bundles.npr.org/dist/bundles/33.aed3b3f7e6f244a3eeb2.chunk.js" type="text/javascript">
+</script>
+<link data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/persistent-css-92c61b5f7e3f4388b1d2.css" media="screen, print" rel="stylesheet"/><link data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/persistent_medium-css-92c61b5f7e3f4388b1d2.css" media="screen and (min-width: 768px)" rel="stylesheet"/><link data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/persistent_large-css-92c61b5f7e3f4388b1d2.css" media="screen and (min-width: 1025px)" rel="stylesheet"/><link as="style" data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/fonts-css-92c61b5f7e3f4388b1d2.css" media="screen, print" onload="this.onload=null;this.rel='stylesheet'" rel="preload"/><link href="https://prod-eks-bundles.npr.org/dist/bundles/newsStory-css-92c61b5f7e3f4388b1d2.css" media="screen, print" rel="stylesheet"/><link href="https://s.npr.org/include/overridecss/theme1070.css" media="screen" rel="stylesheet"/><script type="application/ld+json">
+   {"@type":"NewsArticle","publisher":{"@type":"Organization","name":"NPR","logo":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/chrome\/npr-logo-2025.jpg"}},"headline":"A jury finds Trump liable for battery and defamation in E. Jean Carroll trial","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.npr.org\/2023\/05\/09\/1174975870\/trump-carroll-verdict"},"datePublished":"2023-05-09T15:17:20-04:00","dateModified":"2023-05-09T17:49:00-04:00","author":{"@type":"Person","name":["Becky Sullivan"]},"description":"Jurors believed that Carroll's allegation of sexual abuse in a Manhattan department store in the mid-1990s was more likely true than not. They awarded her $5 million in total damages.","image":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2023\/05\/09\/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg"},"@context":"http:\/\/schema.org"}
+</script>
+<script type="text/javascript">
+   document.domain="www.npr.org";
+</script>
+<script data-piano-aid="9ENxKQ58pu" id="piano-aid" type="text/javascript">
+    (function(src) {
+        var a = document.createElement("script");
+        a.type = "text/javascript";
+        a.async = true;
+        a.src = src;
+        var b = document.getElementsByTagName("script")[0];
+        b.parentNode.insertBefore(a, b)
+    })("//cdn.piano.io/api/tinypass.min.js");
+
+    window.pdl = window.pdl || {};
+    window.pdl.requireConsent = true;
+
+    tp = window.tp || [];
+
+    tp.push(["init", function() {
+        tp.enableGACrossDomainLinking();
+    }]);
+</script>
+<script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="MBVDT-3L9KY-36ZMJ-SPSAR-JR833",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"MBVDT-3L9KY-36ZMJ-SPSAR-JR833";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="jdbnlflaayvku2gzprga-f-1bbf8c6ad-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"55818","ak.ai":parseInt("290690",10),"ak.ol":"0","ak.cr":24,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"fe659b5","ak.r":38266,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"72.194.213.0","ak.cport":64911,"ak.gh":"96.6.42.158","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1759083596","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==NkamQexwlIThtYqUqrY4GfEpfh69xznDnFiqcFmW5zT7li45iy1zl6+qijSU1RhaEe14Xasq/kvOnreAo+jA4xvO8fZcrf82kGER72u0rckU2ARXcTvfB0Ep7g4AXiJmEHN4DsErqoOYDjiEq/fxRKpwuyw8H8BTC5eTRy95z4ZgQQO0WMG6JVjnHicD/1UGZJGEjnxsozpqwLuUidyAXnCaURPonrlf3I3QmMz+71nR350gT8nhPDcgidIKWaNDDVPBDlnoEx5tFnwGRtGVx/qa2vbUmf+fXHFZ9xKbNVrKHqDqkWfQZJptufhV9VAPfcmBBFXkZoeC9YVLiPeTZ0xoCOLb++BLL6xw1ED0RGqhdLrW2hy/pGqm042MUmt8aUC9mMsqu8Leo/tudIcsTnqXyxc0vRDtm7ncaFys6hA=","ak.pv":"111","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head><body class="news tmplNewsStory story-layout is-buildout no-transcript has-no-branding id1174975870" data-pjax-modules="util/env images/lazy-load data-consent data-management-platform header-bidding metrics nielsen nielsenDCR copyright auto-refresh navigation/global-navigation fitvids googletag dfp globalfooter persistent-audio player/more-options player/audio-module-clickable what-input metrics/doubleclickFloodlight callout/on-page-callouts global-alerts right-rail-content-widgets we-are-hiring piano datadog ecommerce recommendations/end-of-story-recommendations-callout jw social/share slideshow images/enlargement contentfooter story/date-tooltip social/sharepop podcast-cards search/faceting-param local/newsletter/callout recaptcha-v3" id="news">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MVD397M" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="skip-links">
+<span>Accessibility links</span> <ul>
+<li><a class="skiplink" href="#mainContent">Skip to main content</a></li>
+<li><a class="skiplink" href="https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player">Keyboard shortcuts for audio player</a></li>
+</ul>
+</div>
+<div class="global-header-sticky-cta-wrap" id="global-header-sticky-cta-wrap">
+<div class="global-header-sticky-cta-mount" id="global-header-sticky-cta-mount">
+</div>
+</div>
+<div class="global-header-cta-wrap" id="global-header-cta-wrap">
+<div class="global-header-cta-mount" id="global-header-cta-mount">
+</div>
+</div>
+<header aria-label="NPR header" class="npr-header" id="globalheader">
+<nav class="navigation">
+<div class="navigation__top-level-wrap" data-metrics-category-ga4="recirculation">
+<ul class="navigation__top-level">
+<li class="navigation__toggle-wrap">
+<button aria-expanded="false" aria-haspopup="true" class="navigation__toggle navigation__toggle--open" data-metrics-ga4='{"action":"global_navigation_click","clickName":"open navigation menu","clickType":"global navigation"}' id="navigation__toggle--open">
+                    Open Navigation Menu
+                </button>
+</li>
+<li class="navigation__home">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr logo","clickType":"global navigation","clickUrl":"\/"}' href="/">
+<img alt="NPR logo" src="https://prod-eks-static-assets.npr.org/chrome_svg/npr-logo-2025.svg"/>
+</a>
+</li>
+<li id="navigation__station-mount"></li>
+<li class="navigation__newsletters">
+<div class="navigation__newsletters-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"newsletters","clickType":"global navigation","clickUrl":"/newsletters/"}' href="/newsletters/" target="_blank">Newsletters</a>
+</div>
+</li>
+<li class="navigation__account" id="user-account-dropdown-mount"></li>
+<li class="navigation__shop">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr shop","clickType":"global navigation","clickUrl":"https://shopnpr.org"}' href="https://shopnpr.org">NPR Shop</a>
+</li>
+<li id="navigation__station-donate-mount"></li>
+</ul>
+</div>
+<section class="menu menu--main" data-metrics-category-ga4="recirculation" id="main-menu">
+<div class="menu__inner">
+<header class="menu__header">
+<button aria-expanded="true" aria-haspopup="true" class="navigation__toggle navigation__toggle--close" data-metrics-ga4='{"action":"global_navigation_click","clickName":"close navigation menu","clickType":"global navigation"}' id="navigation__toggle--close">
+                    Close <span>Navigation Menu</span>
+</button>
+</header>
+<ul class="menu__list">
+<li class="menu__item menu__item--home">
+<div class="menu__item-inner"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr logo","clickType":"global navigation","clickUrl":"\/"}' href="/">Home</a></div>
+</li>
+<li class="menu__item menu__item--news menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"news","clickType":"global navigation","clickUrl":"/sections/news/"}' href="/sections/news/">News</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle news drawer","clickType":"global navigation"}'>Expand/collapse submenu for News</button>
+</div>
+<ul class="submenu submenu--news">
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"national","clickType":"global navigation","clickUrl":"/sections/national/"}' href="/sections/national/">National</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"world","clickType":"global navigation","clickUrl":"/sections/world/"}' href="/sections/world/">World</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"politics","clickType":"global navigation","clickUrl":"/sections/politics/"}' href="/sections/politics/">Politics</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"business","clickType":"global navigation","clickUrl":"/sections/business/"}' href="/sections/business/">Business</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"health","clickType":"global navigation","clickUrl":"/sections/health/"}' href="/sections/health/">Health</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"science","clickType":"global navigation","clickUrl":"/sections/science/"}' href="/sections/science/">Science</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"climate","clickType":"global navigation","clickUrl":"/sections/climate/"}' href="/sections/climate/">Climate</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"race","clickType":"global navigation","clickUrl":"/sections/codeswitch/"}' href="/sections/codeswitch/">Race</a></li>
+</ul>
+</li>
+<li class="menu__item menu__item--culture menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"culture","clickType":"global navigation","clickUrl":"/sections/culture/"}' href="/sections/culture/">Culture</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle culture drawer","clickType":"global navigation"}'>Expand/collapse submenu for Culture</button>
+</div>
+<ul class="submenu submenu--culture">
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"books","clickType":"global navigation","clickUrl":"/books/"}' href="/books/">Books</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"movies","clickType":"global navigation","clickUrl":"/sections/movies/"}' href="/sections/movies/">Movies</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"television","clickType":"global navigation","clickUrl":"/sections/television/"}' href="/sections/television/">Television</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"pop culture","clickType":"global navigation","clickUrl":"/sections/pop-culture/"}' href="/sections/pop-culture/">Pop Culture</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"food","clickType":"global navigation","clickUrl":"/sections/food/"}' href="/sections/food/">Food</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"art &amp; design","clickType":"global navigation","clickUrl":"/sections/art-design/"}' href="/sections/art-design/">Art &amp; Design</a> </li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"performing arts","clickType":"global navigation","clickUrl":"/sections/performing-arts/"}' href="/sections/performing-arts/">Performing Arts</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"life kit","clickType":"global navigation","clickUrl":"/lifekit/"}' href="/lifekit/">Life Kit</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"gaming","clickType":"global navigation","clickUrl":"/sections/gaming/"}' href="/sections/gaming/">Gaming</a></li>
+</ul>
+</li>
+<li class="menu__item menu__item--music menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"music","clickType":"global navigation","clickUrl":"/music/"}' href="/music/">Music</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle music drawer","clickType":"global navigation"}'>Expand/collapse submenu for Music</button>
+</div>
+<ul class="submenu submenu--music"><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"all songs considered","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/"}' href="https://www.npr.org/sections/allsongs/">
+        All Songs Considered
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"tiny desk","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/tiny-desk-concerts\/"}' href="https://www.npr.org/series/tiny-desk-concerts/">
+        Tiny Desk
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"new music friday","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/606254804\/new-music-friday"}' href="https://www.npr.org/sections/allsongs/606254804/new-music-friday">
+        New Music Friday
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"music features","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/music-features"}' href="https://www.npr.org/sections/music-features">
+        Music Features
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"live sessions","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/770565791\/npr-music-live-sessions"}' href="https://www.npr.org/series/770565791/npr-music-live-sessions">
+        Live Sessions
+    </a>
+</li></ul>
+</li>
+<li class="menu__item menu__item--shows-podcasts menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"podcasts &amp; shows","clickType":"global navigation","clickUrl":"/podcasts-and-shows/"}' href="/podcasts-and-shows/">Podcasts &amp; Shows</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle podcasts &amp; shows drawer","clickType":"global navigation"}'>Expand/collapse submenu for Podcasts &amp; Shows</button>
+</div>
+<div class="submenu submenu--shows-podcasts">
+<span class="submenu__category submenu__category--daily">Daily</span>
+<ul class="submenu__list submenu__list--daily">
+<li class="submenu__item submenu__item--timed submenu__item--weekday hidden">
+<a data-metrics-action="click morning edition" data-metrics-ga4='{"action":"global_navigation_click","clickName":"morning edition","clickType":"global navigation","clickUrl":"/programs/morning-edition/"}' href="/programs/morning-edition/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/morning-edition.jpg"/>
+                                    Morning Edition
+                                </a>
+</li>
+<li class="submenu__item submenu__item--timed submenu__item--saturday hidden">
+<a data-metrics-action="click weekend edition saturday" data-metrics-ga4='{"action":"global_navigation_click","clickName":"weekend edition saturday","clickType":"global navigation","clickUrl":"/programs/weekend-edition-saturday/"}' href="/programs/weekend-edition-saturday/">
+<img alt="" loading="lazy" src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesat_sq-cbde87a2fa31b01047441e6f34d2769b0287bcd4-s100-c85.png"/>
+                                    Weekend Edition Saturday
+                                </a>
+</li>
+<li class="submenu__item submenu__item--timed submenu__item--sunday hidden">
+<a data-metrics-action="click weekend edition sunday" data-metrics-ga4='{"action":"global_navigation_click","clickName":"weekend edition sunday","clickType":"global navigation","clickUrl":"/programs/weekend-edition-sunday/"}' href="/programs/weekend-edition-sunday/">
+<img alt="" loading="lazy" src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesun_sq-4a03b35e7e5adfa446aec374523a578d54dc9bf5-s100-c85.png"/>
+                                    Weekend Edition Sunday
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click all things considered" data-metrics-ga4='{"action":"global_navigation_click","clickName":"all things considered","clickType":"global navigation","clickUrl":"/programs/all-things-considered/"}' href="/programs/all-things-considered/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/all-things-considered.png"/>
+                                    All Things Considered
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click fresh air" data-metrics-ga4='{"action":"global_navigation_click","clickName":"fresh air","clickType":"global navigation","clickUrl":"/programs/fresh-air/"}' href="/programs/fresh-air/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/fresh-air.png"/>
+                                    Fresh Air
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click up first" data-metrics-ga4='{"action":"global_navigation_click","clickName":"up first","clickType":"global navigation","clickUrl":"/podcasts/510318/up-first/"}' href="/podcasts/510318/up-first/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/up-first.jpg?version=2"/>
+                                    Up First
+                                </a>
+</li>
+</ul>
+<span class="submenu__category submenu__category--featured">Featured</span>
+<ul class="submenu__list submenu__list--featured"><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"embedded","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510311\/embedded"}' href="https://www.npr.org/podcasts/510311/embedded">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/08/01/embedded_podcast-tile_sq-21d8f227c811e4f3a0e28b4aa774dd17e39287db-s100.jpeg" loading="lazy" src="https://media.npr.org/assets/img/2024/08/01/embedded_podcast-tile_sq-21d8f227c811e4f3a0e28b4aa774dd17e39287db-s100-c100.jpeg"/>
+        Embedded
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"the npr politics podcast","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510310\/npr-politics-podcast"}' href="https://www.npr.org/podcasts/510310/npr-politics-podcast">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004-s100.jpg" loading="lazy" src="https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004-s100-c100.jpg"/>
+        The NPR Politics Podcast
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"throughline","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510333\/throughline"}' href="https://www.npr.org/podcasts/510333/throughline">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-a59d7da2ea2bf97562aeec6440ddf837e8f7de65-s100.jpg" loading="lazy" src="https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-a59d7da2ea2bf97562aeec6440ddf837e8f7de65-s100-c100.jpg"/>
+        Throughline
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4="{&quot;category&quot;:&quot;recirculation&quot;,&quot;action&quot;:&quot;global_navigation_click&quot;,&quot;clickName&quot;:&quot;trump's terms &quot;,&quot;clickType&quot;:&quot;music ecosystem navigation&quot;,&quot;clickUrl&quot;:&quot;https:\/\/www.npr.org\/podcasts\/510374\/trumps-terms&quot;}" href="https://www.npr.org/podcasts/510374/trumps-terms">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/11/20/trumps-terms_tile-art_sq-a562bd2ad2a39113dc7da18658fc1e25d0664257-s100.jpg" loading="lazy" src="https://media.npr.org/assets/img/2024/11/20/trumps-terms_tile-art_sq-a562bd2ad2a39113dc7da18658fc1e25d0664257-s100-c100.jpg"/>
+        Trump's Terms 
+    </a>
+</li></ul>
+<ul class="submenu__list submenu__list--directories">
+<li class="submenu__item"><a data-metrics-action="click podcasts &amp; shows" data-metrics-ga4='{"action":"global_navigation_click","clickName":"podcasts &amp; shows","clickType":"global navigation","clickUrl":"/podcasts-and-shows/"}' href="/podcasts-and-shows/">More Podcasts &amp; Shows</a></li>
+</ul>
+</div>
+</li>
+<li class="menu__item menu__item--search">
+<div class="menu__item-inner">
+<a data-metrics-action="click search" data-metrics-ga4='{"action":"global_navigation_click","clickName":"search","clickType":"global navigation","clickUrl":"/search/"}' href="/search/" id="navigation_dropdown-search">Search</a>
+</div>
+</li>
+<li class="menu__item menu__item--newsletters">
+<div class="menu__item-inner">
+<a data-metrics-action="click newsletters" data-metrics-ga4='{"action":"global_navigation_click","clickName":"newsletters","clickType":"global navigation","clickUrl":"/newsletters/"}' href="/newsletters/" target="_blank">Newsletters</a>
+</div>
+</li>
+<li class="menu__item menu__item--shop">
+<div class="menu__item-inner">
+<a data-metrics-action="click npr shop" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr shop","clickType":"global navigation","clickUrl":"https://shopnpr.org"}' href="https://shopnpr.org">NPR Shop</a>
+</div>
+</li>
+<li class="menu__item menu__item--account" id="user-account-dropdown-mount-two"></li>
+</ul>
+</div>
+</section>
+<section class="menu menu--music" data-metrics-category-ga4="recirculation">
+<div class="menu__list-wrap">
+<ul class="menu__list menu__list--ecosystem menu__list--music">
+<li class="menu__item menu__item--music-home">
+<a data-metrics-action="click npr music logo" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr music logo","clickType":"global navigation","clickUrl":"/music/"}' href="/music/">
+<img alt="NPR Music" class="music-logo" src="https://prod-eks-static-assets.npr.org/chrome_svg/music-logo-dark.svg"/>
+<img alt="NPR Music" class="music-logo-alt" src="https://prod-eks-static-assets.npr.org/chrome_svg/music-logo-light.svg"/>
+</a>
+</li>
+<li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"all songs considered","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/"}' href="https://www.npr.org/sections/allsongs/">
+        All Songs Considered
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"tiny desk","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/tiny-desk-concerts\/"}' href="https://www.npr.org/series/tiny-desk-concerts/">
+        Tiny Desk
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"new music friday","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/606254804\/new-music-friday"}' href="https://www.npr.org/sections/allsongs/606254804/new-music-friday">
+        New Music Friday
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"music features","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/music-features"}' href="https://www.npr.org/sections/music-features">
+        Music Features
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"live sessions","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/770565791\/npr-music-live-sessions"}' href="https://www.npr.org/series/770565791/npr-music-live-sessions">
+        Live Sessions
+    </a>
+</li>
+</ul>
+</div>
+</section>
+<section class="menu menu--about" data-metrics-category-ga4="recirculation">
+<div class="menu__list-wrap">
+<ul class="menu__list menu__list--ecosystem menu__list--about">
+<li class="menu__item menu__item--about-home"><a data-metrics-action="click about npr" data-metrics-ga4='{"action":"global_navigation_click","clickName":"about npr","clickType":"about ecosystem navigation","clickUrl":"/about/"}' href="/about/">About NPR</a></li>
+<li class="menu__item menu__item--about-diversity"><a data-metrics-action="click diversity" data-metrics-ga4='{"action":"global_navigation_click","clickName":"diversity","clickType":"about ecosystem navigation","clickUrl":"/diversity/"}' href="/diversity/">Diversity</a></li>
+<li class="menu__item menu__item--about-support"><a data-metrics-action="click support" data-metrics-ga4='{"action":"global_navigation_click","clickName":"support","clickType":"about ecosystem navigation","clickUrl":"/support/"}' href="/support/">Support</a></li>
+<li class="menu__item menu__item--about-careers"><a data-metrics-action="click careers" data-metrics-ga4='{"action":"global_navigation_click","clickName":"careers","clickType":"about ecosystem navigation","clickUrl":"/careers/"}' href="/careers/">Careers</a></li>
+<li class="menu__item menu__item--about-press"><a data-metrics-action="click press" data-metrics-ga4='{"action":"global_navigation_click","clickName":"press","clickType":"about ecosystem navigation","clickUrl":"/series/750003/press-room/"}' href="/series/750003/press-room/">Press</a></li>
+<li class="menu__item menu__item--about-ethics"><a data-metrics-action="click ethics" data-metrics-ga4='{"action":"global_navigation_click","clickName":"ethics","clickType":"about ecosystem navigation","clickUrl":"/ethics/"}' href="/ethics/">Ethics</a></li>
+</ul>
+</div>
+</section>
+</nav>
+</header><main aria-label="main content"><div class="speakable">
+<b data-is-speakable="">Trump found liable for battery, defamation against E. Jean Carroll</b> <b data-is-speakable="">Jurors believed that Carroll's allegation of sexual abuse in a Manhattan department store in the mid-1990s was more likely true than not. They awarded her $5 million in total damages.</b>
+</div>
+<div id="wrapper">
+<header class="contentheader contentheader--one"></header> <section id="main-section"><article class="story"><a id="mainContent"></a><div class="slug-wrap">
+<h3 class="slug">
+<a href="https://www.npr.org/sections/law/">Law</a>
+</h3>
+</div>
+<div class="storytitle">
+<h1>A jury finds Trump liable for battery and defamation in E. Jean Carroll trial</h1>
+<input id="title1174975870" type="hidden" value="A jury finds Trump liable for battery and defamation in E. Jean Carroll trial"/>
+<input id="shortTitle1174975870" type="hidden" value="A jury finds Trump liable for battery and defamation in E. Jean Carroll trial"/>
+<input id="modelFullUrl1174975870" type="hidden" value="https://www.npr.org/2023/05/09/1174975870/trump-carroll-verdict"/>
+</div>
+<!-- END CLASS="STORYTITLE" -->
+<div class="story-meta has-byline" id="story-meta">
+<div class="story-meta__one">
+<div class="story-meta__one-inner">
+<div class="dateblock dateblock-updated has-tooltip">
+<time datetime="2023-05-09T17:49:00-04:00">
+<span aria-describedby="tt-originally-published" class="date">Updated May 9, 2023</span><span class="time">5:49 PM ET</span>
+<span class="tooltip" id="tt-originally-published" role="tooltip">
+                    Originally published <span class="tt-date">May 9, 2023</span><span class="tt-time">3:17 PM ET</span>
+</span>
+<span class="icn-updated"></span>
+</time>
+</div>
+</div>
+<!-- END CLASS="STORY-META__ONE-INNER" -->
+</div>
+<!-- END CLASS="STORY-META__ONE" -->
+<div class="story-meta__two">
+<div class="storybyline-wrap linkLocation" id="storybyline">
+<div class="bucketwrap byline">
+<div class="byline-container--block byline-container--block-nophoto">
+<p class="byline__name--block">By </p> <div aria-label="Byline" class="byline byline--block byline--has-link">
+<div class="byline__photo">
+<a href="https://www.npr.org/people/348743421/becky-sullivan" rel="author">
+<picture><source class="img" data-format="webp" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2103x2103+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F11%2F980f3f364d858dd8ff0916912682%2Fbecky-sullivan.jpeg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2103x2103+0+0/resize/100/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F11%2F980f3f364d858dd8ff0916912682%2Fbecky-sullivan.jpeg" type="image/webp"/><source class="img" data-format="jpeg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2103x2103+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F11%2F980f3f364d858dd8ff0916912682%2Fbecky-sullivan.jpeg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2103x2103+0+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F11%2F980f3f364d858dd8ff0916912682%2Fbecky-sullivan.jpeg" type="image/jpeg"/><img alt="Headshot of Becky Sullivan" class="img" data-format="jpeg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2103x2103+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F11%2F980f3f364d858dd8ff0916912682%2Fbecky-sullivan.jpeg" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2103x2103+0+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F11%2F980f3f364d858dd8ff0916912682%2Fbecky-sullivan.jpeg"/></picture>
+</a>
+</div>
+<p class="byline__name byline__name--block">
+<a href="https://www.npr.org/people/348743421/becky-sullivan" rel="author">
+      Becky Sullivan
+    </a>
+</p>
+</div> <p class="byline__name--block byline__comma">, </p> <div aria-label="Byline" class="byline byline--block byline--has-link">
+<p class="byline__name byline__name--block">
+<a href="https://www.npr.org/people/1122051670/andrea-bernstein" rel="author">
+      Andrea Bernstein
+    </a>
+</p>
+</div> <p class="byline__name--block byline__comma">, </p> <div aria-label="Byline" class="byline byline--block byline--has-link">
+<p class="byline__name byline__name--block">
+<a href="https://www.npr.org/people/1122051906/ilya-marritz" rel="author">
+      Ilya Marritz
+    </a>
+</p>
+</div> <p class="byline__name--block byline__comma">, </p> <div aria-label="Byline" class="byline byline--block byline--has-link">
+<div class="byline__photo">
+<a href="https://www.npr.org/people/105678418/quil-lawrence" rel="author">
+<picture><source class="img" data-format="webp" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x1280+0+188/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2F9b%2Fec8c989643a0a15975dba6656290%2Fscreenshot-2024-11-12-at-3-07-06-pm.png" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x1280+0+188/resize/100/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2F9b%2Fec8c989643a0a15975dba6656290%2Fscreenshot-2024-11-12-at-3-07-06-pm.png" type="image/webp"/><source class="img" data-format="png" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x1280+0+188/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2F9b%2Fec8c989643a0a15975dba6656290%2Fscreenshot-2024-11-12-at-3-07-06-pm.png" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x1280+0+188/resize/100/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2F9b%2Fec8c989643a0a15975dba6656290%2Fscreenshot-2024-11-12-at-3-07-06-pm.png" type="image/png"/><img alt="Headshot of Quil Lawrence" class="img" data-format="png" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x1280+0+188/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2F9b%2Fec8c989643a0a15975dba6656290%2Fscreenshot-2024-11-12-at-3-07-06-pm.png" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x1280+0+188/resize/100/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbc%2F9b%2Fec8c989643a0a15975dba6656290%2Fscreenshot-2024-11-12-at-3-07-06-pm.png"/></picture>
+</a>
+</div>
+<p class="byline__name byline__name--block">
+<a href="https://www.npr.org/people/105678418/quil-lawrence" rel="author">
+      Quil Lawrence
+    </a>
+</p>
+</div>
+</div>
+</div>
+<!-- END CLASS="BUCKETWRAP BYLINE" -->
+</div>
+</div>
+<!-- END CLASS="STORY-META__TWO" -->
+</div>
+<!-- END ID="STORY-META" CLASS="STORY-META HAS-BYLINE" -->
+<div class="storytext storylocation linkLocation" id="storytext">
+<div class="bucketwrap image large" id="res1175068218">
+<div class="imagewrap has-source-dimensions" data-crop-type="" style="
+        --source-width: 5537;
+        --source-height: 3691;
+    ">
+<picture>
+<source class="img" data-template="https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s={width}&amp;c={quality}&amp;f={format}" sizes="(min-width: 1025px) 650px, calc(100vw - 30px)" srcset="https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=400&amp;c=85&amp;f=webp 400w,
+https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=600&amp;c=85&amp;f=webp 600w,
+https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=800&amp;c=85&amp;f=webp 800w,
+https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=900&amp;c=85&amp;f=webp 900w,
+https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=1200&amp;c=85&amp;f=webp 1200w,
+https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=1600&amp;c=85&amp;f=webp 1600w,
+https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=1800&amp;c=85&amp;f=webp 1800w" type="image/webp"/>
+<source class="img" data-template="https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s={width}&amp;c={quality}&amp;f={format}" sizes="(min-width: 1025px) 650px, calc(100vw - 30px)" srcset="https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=400&amp;c=85&amp;f=jpeg 400w,
+https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=600&amp;c=85&amp;f=jpeg 600w,
+https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=800&amp;c=85&amp;f=jpeg 800w,
+https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=900&amp;c=85&amp;f=jpeg 900w,
+https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=1200&amp;c=85&amp;f=jpeg 1200w,
+https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=1600&amp;c=85&amp;f=jpeg 1600w,
+https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=1800&amp;c=85&amp;f=jpeg 1800w" type="image/jpeg"/>
+<img alt="" class="img" data-template="https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s={width}&amp;c={quality}&amp;f={format}" fetchpriority="high" src="https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=1100&amp;c=50&amp;f=jpeg"/>
+</picture>
+<div class="enlarge-options">
+<a class="enlargelink" href="https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=2600&amp;c=100&amp;f=jpeg">Enlarge this image</a>
+</div>
+</div>
+<div class="credit-caption">
+<div class="caption-wrap">
+<div aria-label="Image caption" class="caption">
+<p>
+                E. Jean Carroll (center) departs the Manhattan courthouse where a jury awarded her $5 million after finding former President Donald Trump liable for sexually abusing her in the mid-1990s.
+                <b aria-label="Image credit" class="credit">
+                    
+                    Seth Wenig/AP
+                    
+                </b>
+<b class="hide-caption"><b>hide caption</b></b>
+</p>
+</div>
+<b class="toggle-caption"><b>toggle caption</b></b>
+</div>
+<span aria-label="Image credit" class="credit">
+        
+        Seth Wenig/AP
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+<div class="img_wrap">
+<picture>
+<source data-original="https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=2600&amp;c=100&amp;f=webp" type="image/webp"/>
+<source data-original="https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=2600&amp;c=100&amp;f=jpeg" type="image/jpeg"/>
+<img alt="" data-original="https://media.npr.org/assets/img/2023/05/09/ap23129705614106_slide-45bc14753f095b42500592e1a3ea0d95a9cc40af.jpg?s=2600&amp;c=100&amp;f=jpeg"/>
+</picture>
+</div>
+</div>
+<div class="enlarge_html">
+<div class="image_data">
+<p class="caption">E. Jean Carroll (center) departs the Manhattan courthouse where a jury awarded her $5 million after finding former President Donald Trump liable for sexually abusing her in the mid-1990s.</p>
+<span aria-label="Image credit" class="credit">
+            
+            Seth Wenig/AP
+            
+        </span>
+</div>
+</div>
+</div>
+<p>NEW YORK — A federal jury has found former President Donald Trump liable for battery and defamation in the lawsuit brought by writer E. Jean Carroll, who says he raped her in a Manhattan department store in the mid-1990s. </p> <p>The nine jurors, who deliberated for barely three hours before reaching their unanimous conclusion, did not find that Trump raped Carroll. But they agreed that he "sexually abused" her and that he defamed her when he denied her story. </p> <p>Carroll was awarded $5 million in total damages for both claims. </p> <aside aria-label="advertisement" class="ad-wrap backstage" id="ad-backstage-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-backstage has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_National_Law","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1174975870","agg":["434975886","593868387","1088064796"]},"site":{"desktop":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"location":"backstage","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":true}' id="ad-backstage-News_National_Law">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<div class="bucketwrap internallink insettwocolumn inset2col" id="res1175103896">
+<div class="bucket img">
+<div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/law/">Law </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2023\/05\/09\/1175071486\/jury-finds-trump-liable-for-sexual-abuse-in-e-jean-carrolls-civil-case"}' href="https://www.npr.org/2023/05/09/1175071486/jury-finds-trump-liable-for-sexual-abuse-in-e-jean-carrolls-civil-case">Jury finds Trump liable for sexual abuse in E. Jean Carroll's civil case</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES1175103896" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>"Today, the world <em>finally </em>knows the truth. This victory is not just for me but for every woman who has suffered because she was not believed," Carroll said in a statement. </p> <p>In an email to NPR, a lawyer representing Trump said the former president would appeal the decision. </p> <p>Over the course of two weeks in a federal courtroom in New York City, jurors heard Carroll's story of a flirty-turned-violent encounter with Trump at the Bergdorf Goodman department store in the mid-1990s, at a time when her career as a writer and advice columnist was at its peak. </p> <p>Carroll testified the incident left her unable to form romantic relationships and that her career suffered after she made her allegation public. </p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res1175001746">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2019\/06\/22\/735080909\/it-hurt-and-it-was-against-my-will-trump-accuser-stands-by-her-story"}' href="https://www.npr.org/2019/06/22/735080909/it-hurt-and-it-was-against-my-will-trump-accuser-stands-by-her-story" id="featuredStackSquareImage735080909"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://media.npr.org/assets/img/2019/06/22/ap_19172709056229_sq-acc5fa92a2a63fff47f409357954508d80cc02d8.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2019/06/22/ap_19172709056229_sq-acc5fa92a2a63fff47f409357954508d80cc02d8.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2019/06/22/ap_19172709056229_sq-acc5fa92a2a63fff47f409357954508d80cc02d8.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/webp"><source class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2019/06/22/ap_19172709056229_sq-acc5fa92a2a63fff47f409357954508d80cc02d8.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2019/06/22/ap_19172709056229_sq-acc5fa92a2a63fff47f409357954508d80cc02d8.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2019/06/22/ap_19172709056229_sq-acc5fa92a2a63fff47f409357954508d80cc02d8.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"><img alt="'It Hurt. And It Was Against My Will': Trump Accuser Stands By Her Story" class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2019/06/22/ap_19172709056229_sq-acc5fa92a2a63fff47f409357954508d80cc02d8.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2019/06/22/ap_19172709056229_sq-acc5fa92a2a63fff47f409357954508d80cc02d8.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2019/06/22/ap_19172709056229_sq-acc5fa92a2a63fff47f409357954508d80cc02d8.jpg?s=100&amp;c=85&amp;f=jpeg"/></source></source></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/politics/">Politics </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2019\/06\/22\/735080909\/it-hurt-and-it-was-against-my-will-trump-accuser-stands-by-her-story"}' href="https://www.npr.org/2019/06/22/735080909/it-hurt-and-it-was-against-my-will-trump-accuser-stands-by-her-story">'It Hurt. And It Was Against My Will': Trump Accuser Stands By Her Story</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES1175001746" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>In 2019, she sued Trump for defamation over his denial of her claim. That lawsuit has been hung up in federal court over the question of whether Trump could be sued for a statement he made while president.</p> <p><a href="https://www.npr.org/2023/04/09/1168664355/trump-e-jean-carroll-lawsuit-trial">She filed a second lawsuit in 2022</a>, this time adding a battery claim, after the state of New York temporarily removed the statute of limitations for sexual assault survivors. </p> <p>Trump did not appear in court. He has consistently denied Carroll's claims and continued to do so Tuesday after the jury's decision. "I HAVE ABSOLUTELY NO IDEA WHO THIS WOMAN IS. THIS VERDICT IS A DISGRACE - A CONTINUATION OF THE GREATEST WITCH HUNT OF ALL TIME!" he <a href="https://truthsocial.com/@realDonaldTrump/posts/110340379870475514">wrote on Truth Social</a>. Later, <a href="https://truthsocial.com/@realDonaldTrump/posts/110340693890735488">he added</a>, "VERY UNFAIR TRIAL!"</p> <aside aria-label="advertisement" class="ad-wrap secondary" id="ad-secondary-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-secondary has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_National_Law","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1174975870","agg":["434975886","593868387","1088064796"]},"site":{"desktop":"NPRSecondary","mobile":"NPRMobileSecondary"},"location":"secondary","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-secondary-News_National_Law">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<p>After the verdict was read, Carroll left the courthouse accompanied by<strong> </strong>her lawyer Roberta Kaplan, who said, "We're very happy." Carroll did not speak to reporters, but she smiled as she departed.</p> <p>As a civil trial, the burden of proof for the battery claim was lower than in a criminal proceeding. Rather than be certain "beyond a reasonable doubt," as criminal trials require, Carroll needed to prove her case "by a preponderance of the evidence" — in other words, the jurors needed only to believe Carroll's version of events was more likely true than not. </p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res1175002564">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2023\/04\/09\/1168664355\/trump-e-jean-carroll-lawsuit-trial"}' href="https://www.npr.org/2023/04/09/1168664355/trump-e-jean-carroll-lawsuit-trial" id="featuredStackSquareImage1168664355"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://media.npr.org/assets/img/2023/04/07/trump-caroll_sq-aec8878beca727cffa7d44db447b2facbb9bcdd0.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2023/04/07/trump-caroll_sq-aec8878beca727cffa7d44db447b2facbb9bcdd0.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2023/04/07/trump-caroll_sq-aec8878beca727cffa7d44db447b2facbb9bcdd0.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2023/04/07/trump-caroll_sq-aec8878beca727cffa7d44db447b2facbb9bcdd0.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2023/04/07/trump-caroll_sq-aec8878beca727cffa7d44db447b2facbb9bcdd0.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2023/04/07/trump-caroll_sq-aec8878beca727cffa7d44db447b2facbb9bcdd0.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"/><img alt="What to know about the Trump-E. Jean Carroll trial that is set to begin this month" class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2023/04/07/trump-caroll_sq-aec8878beca727cffa7d44db447b2facbb9bcdd0.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2023/04/07/trump-caroll_sq-aec8878beca727cffa7d44db447b2facbb9bcdd0.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2023/04/07/trump-caroll_sq-aec8878beca727cffa7d44db447b2facbb9bcdd0.jpg?s=100&amp;c=85&amp;f=jpeg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/law/">Law </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2023\/04\/09\/1168664355\/trump-e-jean-carroll-lawsuit-trial"}' href="https://www.npr.org/2023/04/09/1168664355/trump-e-jean-carroll-lawsuit-trial">What to know about the Trump-E. Jean Carroll trial that is set to begin this month</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES1175002564" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>In New York, a civil claim of battery may encompass a wide range of unwanted physical contact. In addition to asking whether Trump "raped" Carroll, the jury was asked to consider whether he "sexually abused" her or "forcibly touched" her. </p> <p>"Anything from a gentle but unwanted peck on the cheek to stabbing somebody with a knife could be battery for purposes of a civil case like this one," U.S. District Judge Lewis A. Kaplan told jurors at the start of the trial. </p> <p>In finding Trump liable for battery, the jury awarded Carroll $2 million in compensatory damages, along with $20,000 in punitive damages. For the defamation claim, the jury awarded her $2.7 million in compensatory damages and an additional $280,000 for punitive damages, finding that Trump had acted "maliciously, out of hatred, ill will, spite or wanton, reckless, or willful disregard of the rights of another" <a href="https://truthsocial.com/@realDonaldTrump/posts/109158644496040450">when he accused her of inventing the story</a>. </p> <p>Over three days on the witness stand, <a href="https://www.npr.org/2023/04/26/1172189592/e-jean-carroll-rape-lawsuit-trial-trump">Carroll described the alleged incident in detail</a>. Their meeting was a chance encounter, she said — the two recognized each other, and Trump invited her to help him shop for a gift for another woman. </p> <p>At first, she felt "delighted" and "enchanted" to be shopping with Trump, Carroll testified. The two flirted.</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res1175002919">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2023\/04\/26\/1172189592\/e-jean-carroll-rape-lawsuit-trial-trump"}' href="https://www.npr.org/2023/04/26/1172189592/e-jean-carroll-rape-lawsuit-trial-trump" id="featuredStackSquareImage1172189592"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://media.npr.org/assets/img/2023/04/26/ap23116485022449_sq-0dd9ae2ea50c3a083a7e8bbf5bfd13aae7828f44.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2023/04/26/ap23116485022449_sq-0dd9ae2ea50c3a083a7e8bbf5bfd13aae7828f44.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2023/04/26/ap23116485022449_sq-0dd9ae2ea50c3a083a7e8bbf5bfd13aae7828f44.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2023/04/26/ap23116485022449_sq-0dd9ae2ea50c3a083a7e8bbf5bfd13aae7828f44.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2023/04/26/ap23116485022449_sq-0dd9ae2ea50c3a083a7e8bbf5bfd13aae7828f44.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2023/04/26/ap23116485022449_sq-0dd9ae2ea50c3a083a7e8bbf5bfd13aae7828f44.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"/><img alt="E. Jean Carroll testifies in her lawsuit trial that Trump raped her" class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2023/04/26/ap23116485022449_sq-0dd9ae2ea50c3a083a7e8bbf5bfd13aae7828f44.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2023/04/26/ap23116485022449_sq-0dd9ae2ea50c3a083a7e8bbf5bfd13aae7828f44.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2023/04/26/ap23116485022449_sq-0dd9ae2ea50c3a083a7e8bbf5bfd13aae7828f44.jpg?s=100&amp;c=85&amp;f=jpeg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/law/">Law </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2023\/04\/26\/1172189592\/e-jean-carroll-rape-lawsuit-trial-trump"}' href="https://www.npr.org/2023/04/26/1172189592/e-jean-carroll-rape-lawsuit-trial-trump">E. Jean Carroll testifies in her lawsuit trial that Trump raped her</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES1175002919" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>But when they reached the dressing room, he restrained her and forced his fingers inside of her before pulling down her pants and raping her, she testified. She said she escaped after kneeing him and running away. At the time, she told two friends about the attack, she said. She did not file a police report. </p> <p>Carroll made her claim public in 2019 when she published her memoir, <em>What Do We Need Men For? A Modest Proposal</em>. Trump repeatedly denied the claims — including, famously, calling Carroll "not my type" — and he accused her of making up the story in order to sell more books. After she went public, she was fired by <em>Elle </em>magazine.</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res1175096280">
+<div class="bucket img">
+<div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/politics/">Politics </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2023\/05\/09\/1175079111\/the-political-ramifications-of-trump-being-found-liable-for-sexual-assault"}' href="https://www.npr.org/2023/05/09/1175079111/the-political-ramifications-of-trump-being-found-liable-for-sexual-assault">The political ramifications of Trump being found liable for sexual assault</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES1175096280" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>"I am here because Donald Trump raped me, and when I wrote about it, he said it didn't happen," Carroll said on the stand. "He lied and shattered my reputation, and I am here to try to get my life back."</p> <p>At times during her testimony, she grew emotional, her voice shaking. "I have regretted this about a hundred times, but in the end, in the end, being able to get my day in court finally is everything to me, so I'm happy," she said. </p> <aside aria-label="advertisement" class="ad-wrap third" id="ad-third-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-third has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_National_Law","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1174975870","agg":["434975886","593868387","1088064796"]},"site":{"desktop":"NPRThird","mobile":"NPRMobileThird"},"location":"third","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-third-News_National_Law">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<p>In the trial's second week, jurors heard from two friends who testified that Carroll had told them about the attack shortly after it happened. Carroll's lawyers also questioned two other women who had separately accused Trump of sexual assault, in an attempt to demonstrate a pattern of predatory behavior. </p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res1175002363">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2023\/05\/08\/1174777726\/e-jean-carroll-closing-arguments-donald-trump"}' href="https://www.npr.org/2023/05/08/1174777726/e-jean-carroll-closing-arguments-donald-trump" id="featuredStackSquareImage1174777726"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://media.npr.org/assets/img/2023/05/08/ap23128486381801_sq-cd7624da1d708c034bbee02ed998546d69e4d870.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2023/05/08/ap23128486381801_sq-cd7624da1d708c034bbee02ed998546d69e4d870.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2023/05/08/ap23128486381801_sq-cd7624da1d708c034bbee02ed998546d69e4d870.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2023/05/08/ap23128486381801_sq-cd7624da1d708c034bbee02ed998546d69e4d870.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2023/05/08/ap23128486381801_sq-cd7624da1d708c034bbee02ed998546d69e4d870.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2023/05/08/ap23128486381801_sq-cd7624da1d708c034bbee02ed998546d69e4d870.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"/><img alt="A jury hears final arguments in E. Jean Carroll's claims against Trump" class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2023/05/08/ap23128486381801_sq-cd7624da1d708c034bbee02ed998546d69e4d870.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2023/05/08/ap23128486381801_sq-cd7624da1d708c034bbee02ed998546d69e4d870.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2023/05/08/ap23128486381801_sq-cd7624da1d708c034bbee02ed998546d69e4d870.jpg?s=100&amp;c=85&amp;f=jpeg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/law/">Law </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2023\/05\/08\/1174777726\/e-jean-carroll-closing-arguments-donald-trump"}' href="https://www.npr.org/2023/05/08/1174777726/e-jean-carroll-closing-arguments-donald-trump">A jury hears final arguments in E. Jean Carroll's claims against Trump</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES1175002363" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>Trump did not testify in his own defense. (Mike Ferrara, an attorney representing Carroll, seized on that, telling jurors <a href="https://www.npr.org/2023/05/08/1174777726/e-jean-carroll-closing-arguments-donald-trump">during closing arguments</a> that Trump's lawyers had concluded it "would hurt their case if they did.") And his defense team called no witnesses. </p> <p>Instead, his lawyers worked to sow doubt in Carroll's story. </p> <p>Led by defense attorney Joe Tacopina, they targeted Carroll's inability to recall the precise date — or even the year — of the alleged encounter. That made it impossible for Trump to defend himself, he said. </p> <p>"Give me a date. November of 1995? November 7? April 3 of 1996? Sure. There's calendars. There's schedules. There's appointments. We could see where he was," Tacopina said during closing arguments Monday. "But of course, with no date, no month, no year, can't present an alibi. Can't call witnesses."</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res1174994656">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2023\/03\/23\/1164985436\/trump-criminal-investigations"}' href="https://www.npr.org/2023/03/23/1164985436/trump-criminal-investigations" id="featuredStackSquareImage1164985436"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://media.npr.org/assets/img/2023/04/07/gettyimages-1479883545_sq-9196810df2065a918c424c2f4ac489c4417df20f.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2023/04/07/gettyimages-1479883545_sq-9196810df2065a918c424c2f4ac489c4417df20f.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2023/04/07/gettyimages-1479883545_sq-9196810df2065a918c424c2f4ac489c4417df20f.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2023/04/07/gettyimages-1479883545_sq-9196810df2065a918c424c2f4ac489c4417df20f.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2023/04/07/gettyimages-1479883545_sq-9196810df2065a918c424c2f4ac489c4417df20f.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2023/04/07/gettyimages-1479883545_sq-9196810df2065a918c424c2f4ac489c4417df20f.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"/><img alt="Not just Stormy Daniels: Here are all the ongoing criminal investigations Trump faces" class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2023/04/07/gettyimages-1479883545_sq-9196810df2065a918c424c2f4ac489c4417df20f.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2023/04/07/gettyimages-1479883545_sq-9196810df2065a918c424c2f4ac489c4417df20f.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2023/04/07/gettyimages-1479883545_sq-9196810df2065a918c424c2f4ac489c4417df20f.jpg?s=100&amp;c=85&amp;f=jpeg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/politics/">Politics </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2023\/03\/23\/1164985436\/trump-criminal-investigations"}' href="https://www.npr.org/2023/03/23/1164985436/trump-criminal-investigations">Not just Stormy Daniels: Here are all the ongoing criminal investigations Trump faces</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES1174994656" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>They also questioned why she chose not to contact police after the incident, and why she later described her life as "fabulous" in spite of her claimed emotional distress. It was more plausible, Tacopina argued, that Carroll and her friends had "colluded" to advance a false story because they "hated Donald Trump with a passion."</p> <p>Ultimately, the jury disagreed, in a verdict Tacopina called "perplexing." </p> <p>"They rejected her rape claim, and she'd always claimed this was a rape case," he said, speaking to reporters outside the courthouse. "Part of me was obviously very happy that Donald Trump was not branded a rapist." </p> <p>Tacopina repeated Trump's belief that it was not possible for the former president to receive a "fair trial" in New York City, where he won just 23% of the vote in the 2020 presidential election. </p> <aside aria-label="advertisement" class="ad-wrap overflow-3" id="ad-overflow-3-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-overflow-3 has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_National_Law","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1174975870","agg":["434975886","593868387","1088064796"]},"site":{"desktop":"NPROverflow","mobile":"NPRMobileOverflow"},"location":"overflow-3","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-overflow-3-News_National_Law">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<p>The Carroll trial was one of a number of legal proceedings involving the former president amid his campaign for the 2024 presidential election. </p> <p>Trump faces <a href="https://www.npr.org/2023/04/04/1167985028/trump-indictment-criminal-charges-hush-money-payments">criminal charges in New York state</a> over hush money payments made to a porn actress, a civil trial in New York that alleges a decades-long pattern of fraud by Trump and his business, <a href="https://www.wabe.org/trump-has-been-arraigned-in-new-york-whats-next-for-the-investigation-in-georgia/">the possibility of charges in Georgia</a> and <a href="https://www.npr.org/2022/11/18/1137736663/special-counsel-trump-justice-department-jan-6-mar-a-lago">a pair of investigations by Department of Justice special counsel Jack Smith</a> into Trump's handling of classified documents and his efforts to undo the 2020 election. </p> <p class="contributors-text"><em>Andrea Bernstein, Ilya Marritz, Quil Lawrence reported from New York City and Becky Sullivan reported from Washington, D.C.</em></p>
+</div>
+<div class="tags">
+<ul>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/134949364/donald-trump">Donald Trump</a></li>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/735110628/e-jean-carroll">E. Jean Carroll</a></li>
+</ul>
+</div>
+<!-- END CLASS="TAGS" -->
+<div aria-label="Share tools" class="share-tools share-tools--secondary">
+<ul>
+<li class="share-tools__service share-tools__service--facebook"><button class="fbStory1174975870" data-metrics-ga4='{"category":"share","action":"share","clickName":"facebook"}' data-share-facebook='{"storyId": "1174975870" }'><b class="share-tools__service-name">Facebook</b></button></li>
+<li class="share-tools__service share-tools__service--flipboard"><button class="story1174975870" data-metrics-ga4='{"category":"share","action":"share","clickName":"flipboard"}' data-share-flipboard='{"storyId": "1174975870" }'><b class="share-tools__service-name">Flipboard</b></button></li>
+<li class="share-tools__service share-tools__service--email"><button class="share-tools__email-link" data-metrics-ga4='{"category":"share","action":"share","clickName":"email"}' data-story-id="1174975870"><b class="share-tools__service-name">Email</b></button></li>
+</ul>
+</div>
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--SECONDARY" ARIA-LABEL="SHARE TOOLS" -->
+<div data-newsletter='{"newsletterId":"politics","title":"Politics","marketingHeader":"Sign Up For The NPR Politics Newsletter","frequency":"every week","shortDescription":"From the White House to your home \u2014 political news and analysis that matter, sent weekly.","stickyDescription":"Subscribe to the NPR Politics Newsletter for the latest news from Washington and what it means for you. Sent weekly.","contentImage":"https:\/\/npr.brightspotcdn.com\/e6\/6e\/55f3ccb841b59da52dfd3398d776\/screenshot-2024-10-17-at-3-11-22-pm.png","staticMarkupDir":" ","brandingDir":"\/branding\/sections\/politics\/","brandingLink":"https:\/\/www.npr.org\/sections\/politics\/","recaptchaSiteKey":"6LcdN9IZAAAAAOHT985BJjbzjkBjKSxdxK3GeKSt"}' id="newsletter-acquisition-callout-data">
+</div>
+<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;POLITICS&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;POLITICS&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;SIGN UP FOR THE NPR POLITICS NEWSLETTER&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;EVERY WEEK&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;FROM THE WHITE HOUSE TO YOUR HOME \U2014 POLITICAL NEWS AND ANALYSIS THAT MATTER, SENT WEEKLY.&QUOT;,&QUOT;STICKYDESCRIPTION&QUOT;:&QUOT;SUBSCRIBE TO THE NPR POLITICS NEWSLETTER FOR THE LATEST NEWS FROM WASHINGTON AND WHAT IT MEANS FOR YOU. SENT WEEKLY.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;HTTPS:\/\/NPR.BRIGHTSPOTCDN.COM\/E6\/6E\/55F3CCB841B59DA52DFD3398D776\/SCREENSHOT-2024-10-17-AT-3-11-22-PM.PNG&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT; &QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT;\/BRANDING\/SECTIONS\/POLITICS\/&QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/SECTIONS\/POLITICS\/&QUOT;,&QUOT;RECAPTCHASITEKEY&QUOT;:&QUOT;6LCDN9IZAAAAAOHT985BJJBZJKBJKSXDXK3GEKST&QUOT;}" -->
+<div id="callout-end-of-story-mount">
+</div>
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT" -->
+<div class="callout-end-of-story-mount-piano-wrap" id="callout-end-of-story-mount-piano-wrap">
+<div class="callout-end-of-story-mount-piano" id="callout-end-of-story-mount-piano">
+</div>
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT-PIANO" CLASS="CALLOUT-END-OF-STORY-MOUNT-PIANO" -->
+</div>
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT-PIANO-WRAP" CLASS="CALLOUT-END-OF-STORY-MOUNT-PIANO-WRAP" -->
+<aside aria-label="recommended stories" class="recommended-stories recommended-stories--piano" id="end-of-story-recommendations-mount-piano"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT-PIANO" CLASS="RECOMMENDED-STORIES RECOMMENDED-STORIES--PIANO" ARIA-LABEL="RECOMMENDED STORIES" -->
+<aside aria-label="recommended stories" class="recommended-stories" id="end-of-story-recommendations-mount"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT" CLASS="RECOMMENDED-STORIES" ARIA-LABEL="RECOMMENDED STORIES" -->
+</article><footer aria-label="NPR footer" class="npr-footer" id="npr-footer" role="contentinfo"><div class="npr-footer__content">
+<div class="npr-footer__module-group">
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Read &amp; Listen</h6>
+<ul>
+<li class="npr-footer__item"><a href="/">Home</a></li>
+<li class="npr-footer__item"><a href="/sections/news/">News</a></li>
+<li class="npr-footer__item"><a href="/sections/culture/">Culture</a></li>
+<li class="npr-footer__item"><a href="/music/">Music</a></li>
+<li class="npr-footer__item"><a href="/podcasts-and-shows">Podcasts &amp; Shows</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Connect</h6>
+<ul>
+<li class="npr-footer__item"><a href="/newsletters/" target="_blank">Newsletters</a></li>
+<li class="npr-footer__item"><a href="https://www.facebook.com/NPR/">Facebook</a></li>
+<li class="npr-footer__item"><a href="https://www.instagram.com/npr/">Instagram</a></li>
+<li class="npr-footer__item"><a href="/series/750003/press-room/">Press</a></li>
+<li class="npr-footer__item"><a href="/sections/publiceditor/">Public Editor</a></li>
+<li class="npr-footer__item"><a href="/corrections/">Corrections</a></li>
+<li class="npr-footer__item"><a href="/transcripts/">Transcripts</a></li>
+<li class="npr-footer__item"><a href="https://help.npr.org/contact/s/">Contact &amp; Help</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">About NPR</h6>
+<ul>
+<li class="npr-footer__item"><a href="/about/">Overview</a></li>
+<li class="npr-footer__item"><a href="/diversity/">Diversity</a></li>
+<li class="npr-footer__item"><a href="/network/" target="_blank">NPR Network</a></li>
+<li class="npr-footer__item"><a href="/about-npr/1136563345/accessibility">Accessibility</a></li>
+<li class="npr-footer__item"><a href="/ethics/">Ethics</a></li>
+<li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances">Finances</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Get Involved</h6>
+<ul>
+<li class="npr-footer__item"><a href="/support/">Support Public Radio</a></li>
+<li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship">Sponsor NPR</a></li>
+<li class="npr-footer__item"><a href="/careers/">NPR Careers</a></li>
+<li class="npr-footer__item"><a href="https://shopnpr.org/">NPR Shop</a></li>
+<li class="npr-footer__item"><a href="https://www.nprpresents.org">NPR Events</a></li>
+<li class="npr-footer__item"><a href="/sections/npr-extra/">NPR Extra</a></li>
+</ul>
+</div>
+</div>
+<div class="npr-footer__module npr-footer__module--secondary">
+<ul>
+<li class="npr-footer__item"><a href="/about-npr/179876898/terms-of-use">Terms of Use</a></li>
+<li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy">Privacy</a></li>
+<li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy#yourchoices">Your Privacy Choices</a></li>
+<li class="npr-footer__item"><a href="https://text.npr.org/">Text Only</a></li>
+<li class="npr-footer__item"><span class="copy-year"></span></li>
+</ul>
+</div>
+</div>
+</footer><div class="global-stickybar-mount" id="global-stickybar-mount">
+</div>
+<div class="global-stickybar" id="global-stickybar-mount-piano-wrap">
+<div class="global-stickybar-mount-piano" id="global-stickybar-mount-piano">
+</div>
+</div>
+</section> <div id="main-sidebar">
+<div id="right-rail-content-widgets-mount">
+</div>
+<!-- END ID="RIGHT-RAIL-CONTENT-WIDGETS-MOUNT" -->
+<aside aria-label="advertisement" class="ad-wrap standard" id="ad-standard-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config ad-standard has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_National_Law","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1174975870","agg":["434975886","593868387","1088064796"]},"site":{"desktop":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"location":"standard","deferred":false,"isBetweenContent":false,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-standard-News_National_Law">
+<div style="min-height:90px"></div>
+</div>
+<div class="ad-footer"><p class="left">Sponsor Message</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p></div>
+</aside>
+</div>
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+<!-- END ID="WRAPPER" -->
+<section id="global-modal-mount"></section>
+<!-- END ID="GLOBAL-MODAL-MOUNT" -->
+<script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { (window.webpackJsonp=window.webpackJsonp||[]).push([[22],{1159:function(e,n,c){e.exports=c(321)},321:function(e,n,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,Promise.all([c.e(1),c.e(2),c.e(3),c.e(4),c.e(81)]).then(function(e){c(3),c(1132),c(113),c(91),c(60),c(494),c(234),c(114),c(116),c(1133),c(164),c(1134),c(316),c(1135),c(48),c(1136)}.bind(null,c)).catch(c.oe)}},[[1159,0]]]); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+</main></body></html>

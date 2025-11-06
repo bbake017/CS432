@@ -1,0 +1,74 @@
+We do not collect this category of information.
+Not applicable.
+Inferences derived from personal information.
+We do not collect this category of information.
+Not applicable.
+Privacy Policy Addendum for EU/UK Visitors
+1. Contact details of GSG
+If you have questions relating to this privacy statement, if you wish to exercise any of your rights or if you have any other concerns regarding the processing of your personal data by us, please contact us by email at dataprivacy.us@global-savings-group.com and provide the details of the request that you are making, for example by specifying personal data you want access to. You can also contact us under the following contact details:
+Global Savings Group North America LLC
+PO Box 550354
+Atlanta, GA 30355
+United States
+You can also contact our group commissioner for data protection (Michael Mayer) at the above provided contact details.
+2. Processing activities, their respective purposes and legal basis
+2.1 Access data (Log files)
+With each call of this Website our servers automatically store general access data about this process in server log files.
+These data include:
+the IP address of the requesting system
+the type of browser and version used
+the operating system used
+We do not aggregate such data with other data sources. The temporary storage of the IP address in logfiles is necessary for technical reasons and to ensure the security of our system, in particular relating to the recognition of misuse.
+These purposes constitute our legitimate interest according to Art. 6 Para. 1 lit. f GDPR. We only retain such data for as long as it is necessary for the stated purposes. IP addresses will be deleted or masked after 14 days at the latest.
+2.2 Other data we might collect:
+We use cookies and similar technologies which contain a unique identifier, consisting of a string which enables websites to recognize devices used to access a website on each subsequent visit throughout its lifetime. These identifiers do not allow us to draw any conclusions as to your identity.
+The information collected may include:
+Java on / off
+IP-address in a shortened form (last three digits of the IP address are deleted)
+Referrer-URL (i.e. the previously visited site)
+Operating system
+Date and time of the visit
+Your browsing activity (such as scroll positions, clicks and mouse movements)
+Time and duration of page interactions
+Search queries made
+Clicks on banners and links
+Other information about how you interacted with this Website
+We may use such information for the following purposes:
+to provide, customize, measure and improve this Website, its content and functionalities. This includes our use of the data to provide, manage and improve the technical and functional aspects of the Website, to design the Website more user-friendly as well as to optimise the selection of its contents and functionalities. This also includes internal business purposes such as troubleshooting, data analysis, testing and research.
+to process and record your redemption of promotional offers. As we finance ourselves through commissions to provide our service free of charge to you, we may use information about your visit to our website, i.e. your click on of promotional offers for reporting purposes in order to bill and collect our commission from business partners.
+to provide you with personalised content. We also use this information to tailor our content and promotional offers we may display on this Website or send to you to your interests. For this purpose we create pseudonymised usage profiles. These usage profiles help us to better understand your needs and preferences so that we can provide you with individual and interest-based contents and promotional offers. Pseudonymous usage profiles do not allow us to draw any conclusions as to your identity and we do not combine such profiles with data that directly identifies you (e.g. email address), unless you have explicitly allowed us to do so.
+for Advertising and (Re-)Targeting purposes. We or more specifically the advertising partners as outlined in this addendum, also use this information in order to deliver targeted advertising on this Website or on websites of third parties which is based on your prior visit to this Website.
+We consider these purposes as in our legitimate interest within the meaning of Art. 6 Para. 1 lit. f) GDPR. Our users expect us to provide offers to them, which reflect their current interests.
+We retain this information as long as necessary and relevant for the aforementioned purposes or until you make legitimate use of your right to object to our use of such information. Pseudonymous user profiles are stored for a maximum of 24 months.
+You have the right to object at any time to the display of personalised advertising by our advertising partners via the opt-out links provided in the below section of this addendum.
+2.3 Contact Data
+We collect your personal data that you voluntarily disclose to us when you contact us via e-mail or through a contact form provided on the Website for general or specific queries.
+The contact form may ask for the following personal data to be entered:
+name
+message text
+further details for specific queries or reports, if applicable
+In addition your IP address and the date and time of contact will also be automatically stored on our servers.
+The collection of this data is necessary in order to understand the (possible) misuse of the e-mail address at a later date, and it therefore serves us to prove that our process is in line with legal requirements.
+Your request/enquiry will be transmitted and handled by one of our employees who is responsible for handling the topics addressed in your request/enquiry. Your data will only be used to handle your request/enquiry, e.g., to provide you with the service information you asked for, and will not be used for any other purpose, unless expressly permitted or required by applicable law. The purpose constitutes our legitimate interest according to Art. 6 Para. 1 lit. f GDPR.
+We retain the personal data you provide to us when contacting us for the duration of the respective conversation with you, but no longer than for 6 months after the conversation is closed, unless applicable laws require longer retention periods in individual cases. The conversation will be considered as closed if the circumstances indicate that all relevant facts have been clarified or if you instruct us to delete your data. All personal data which were stored in the context of your conversation with us will be deleted immediately in this case.
+2.4 Information in relation to our commission
+We finance ourselves through commissions, for this reason we may receive information from our business partners (e.g. merchants) about your online purchases, which you may place on the websites of third parties (e.g. online-shops) after a visit to this Website. Such information is transmitted to us automatically with the help of tracking cookies. We never receive information that can directly identify you but merely commission related information such as the value of your purchase and date and time of the transaction. We also work with several so-called affiliate networks (“Affiliate Networks”), which connect us with merchants and take over the technical and billing process. In these cases we receive the respective information from such Affiliate Networks. We solely use this information for billing purposes with our business partners. The purpose constitutes our legitimate interest according to Art. 6 Para. 1 lit. f GDPR.
+3. Use of third party tools
+We allow certain third parties to use cookies or similar technologies on this Website. These third parties include analytics, advertising networks and other service providers that assist us in providing, evaluating, and improving this Website and our services and to provide targeted advertising based on your browsing activities and interests.
+These third parties may use cookies or similar technologies and collect data about your use of this Website and your interaction with its content and functions, including the total number of visitors to this Website, the websites our visitors have come from, the pages you visit, date, time and duration of your visit, frequency, clicked banners/links as well as information about type of device, browser version, language settings and geographic location (including country, city, region). They may also collect online-identifiers (e.g. User-ID) and/or IP-addresses. We do not have access to these cookies or to any personal identifiable data collected with these cookies that allow us to identify single users. We may however use information arising from such cookies provided by these third parties. All data collected is made available to us only anonymously and in statistical form.
+Some of the service providers are based in a country outside the EU/EEA. However, we exclusively work with companies that offer an appropriate data protection level in line with the stipulations of the GDPR. For more information please see section 4 of this addendum.
+Below we will give you an overview and description of third party provider technologies we may use for this Website.
+3.1. Web analytics and A/B Testing tools
+We have implemented all analytic tools with activated IP anonymization, so that the last three digits of the IP address are deleted directly after the data collection and only a portion of your IP address may be used and stored on the servers of the respective service providers.
+TOOL: Google Analytics
+DESCRIPTION AND OPT OUT: Google Analytics is a web analytics service provided by Google Inc., Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”) who reports on user interactions on this website.
+The information collected by Google Analytics (including the anonymized IP address) will be transmitted to and stored by Google on servers in the United States. According to Google only in exceptional cases the full IP address may be transmitted directly to a Google server in the USA and encrypted there. Any user-identifiers (e.g. Cookie-ID) stored by Google Analytics will automatically be deleted from Google’s´ servers after 14 months.
+For further information please refer to Googles Analytics security and privacy principles: https://support.google.com/analytics/answer/6004245?hl=en .
+You can prevent the processing of your data by Google Analytics by installing the Google Analytics opt-out browser add-on available under https://tools.google.com/dlpage/gaoptout . The browser add-on is available for most modern browsers.
+TOOL: Pingdom
+DESCRIPTION AND OPT OUT: Pingdom is a monitoring service of Pingdom AB, Kopparbergsvägen 8, 722 13, Västerås, Sweden. With the help of this service we can analyse the loading behaviour and the availability of this Website, depending on the access location, browser and device type in order to optimise the access times.
+All data collected by Pingdom on this Website (including the anonymized IP address) will be stored and processed on serves of Pingdom. For information please refer to the privacy policy of Pingdom: https://www.pingdom.com/legal/privacy-policy/ .
+TOOL: Covert
+DESCRIPTION AND OPT OUT: Convert is an A/B-testing software of Convert Insights, Inc., 340 South Lmon Avenue 9512 Walnut, California 91789, USA (“Convert”). The software allows us to compare two versions of a Website in order to determine which version achieves a better performance. For this purpose the users of this Website may sometimes be divided equally into two groups. The one group is shown the initial version, whereas the other is shown the new version that is to be tested. Then it is analysed which version works best.
+For further information please refer to the privacy policy of Convert: https://www.convert.com/privacy-policy/ .
+

@@ -1,0 +1,1172 @@
+
+<!DOCTYPE html>
+
+<html class="nojs" id="ctl00_htmltag" lang="en">
+<head id="ctl00_head1">
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<title>
+	Last Trump Job Approval 34%; Average Is Record-Low 41% 
+</title>
+<!-- Mobile viewport optimization -->
+<meta content="True" name="HandheldFriendly"/><meta content="320" name="MobileOptimized"/><meta content="telephone=no" name="format-detection"/><link href="//content.gallup.com" rel="dns-prefetch"/><link href="//media.gallup.com" rel="dns-prefetch"/><link href="//www.google-analytics.com" rel="dns-prefetch"/><link href="https://content.gallup.com/FontAwesome/css/fontawesome.css" rel="stylesheet"/>
+<link href="https://content.gallup.com/FontAwesome/css/regular.css" rel="stylesheet"/>
+<link href="https://content.gallup.com/FontAwesome/css/solid.css" rel="stylesheet"/>
+<link href="https://content.gallup.com/FontAwesome/css/thin.css" rel="stylesheet"/>
+<link href="https://content.gallup.com/FontAwesome/css/custom-icons.css" rel="stylesheet"/>
+<link href="https://content.gallup.com/FontAwesome/css/brands.css" rel="stylesheet"/>
+<link href="https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/WWWV7CORP/3oqt5aqtfeqg4mlwujdjhq.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/WWWV7CORP/thp1byruauindmyyc3z90q.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/WWWV7CORP/b2foxnnxmecoee_1avm01a.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/site.webmanifest" rel="manifest"/>
+<link color="#000000" href="https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/WWWV7CORP/tbvkwbdtreaire92ox45xg.svg" rel="mask-icon"/>
+<link href="/sitemaps/content.rss" rel="alternate" title="ROR" type="application/rss+xml"><link href="/sitemaps/poll/content.xml" rel="sitemap" type="application/xml"><link href="/stylebundle/site-NewsV9/Newsv9?v=vXn621ZMUJMxHCEz8mSV2P1_OxOPptpxWmv74_0oRyE1" media="screen, print" rel="stylesheet" type="text/css">
+<noscript><link href="/stylebundle/site-NewsV9/Newsv9NoScript?v=LF8kyc4jzB5BFZDA0WbBMsETkiu5NGQ3S70eEPPqVgA1" media="screen, print" rel="stylesheet" type="text/css"/></noscript>
+<style>
+/* DOTCOME-18401  */
+.wf-active .text-serif, .wf-active .text--serif {
+  font-variation-settings: 'wght' 850, 'opsz' 42 !important;
+}
+
+.tile-feature .image {
+    height: unset;
+    max-height: unset;
+}
+
+
+
+</style><script src="//content.gallup.com/ux/gts/gTrackingSetup.js"></script><script> let config = {gtmProp: { id: 'GTM-PGX4CBF', scriptAttrs: {async: true} },gaProps: [{ id: 'G-DMNDBYT8P9', config: { optimize_id: 'OPT-K2S4XSF' }, targets: "consumer", scriptAttrs: {async: true}}, ]};gTrackingSetup(config);</script><script>
+                    window.dataLayer = window.dataLayer || [];
+                    window.dataLayer.push({ 'gaProperty':'G-DMNDBYT8P9'});</script>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "name": "Last Trump Job Approval 34%; Average Is Record-Low 41%",
+  "description": "President Donald Trump\u0027s last job approval rating is a personal low 34%. He averaged 41% job approval in office, a record low by four points.",
+  "dateModified": "2021-01-18T18:45:00.0000000\u002B00:00",
+  "datePublished": "2021-01-18T18:45:00.0000000\u002B00:00",
+  "url": "https://news.gallup.com/poll/328637/last-trump-job-approval-average-record-low.aspx",
+  "author": {
+    "@type": "Person",
+    "name": "Jeffrey M. Jones"
+  },
+  "publisher": {
+    "name": "Gallup",
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/WWWV7CORP/3oqt5aqtfeqg4mlwujdjhq.png"
+    }
+  }
+}</script>
+<script>var gfwVersion = "1.0.9400.22155";</script><script src="//content.gallup.com/ux/gcb/gcb.en-us.min.js"></script><link href="/stylebundle/Template/StandaloneItem?v=ZwfPCls13KMVWtjDpZbJLU1Fxb_igK9cgvdly91g9RQ1" rel="stylesheet">
+<link href="/stylebundle/Template/clp?v=xByQPlPSEytJE9A8AXI45tYQ2WQPV_JzjaXTOWRTfV41" rel="stylesheet"/>
+<link href="https://news.gallup.com/poll/328637/last-trump-job-approval-average-record-low.aspx" rel="canonical"/><meta content="2F77D097EDC91D637F64FEE17170F0E7" name="msvalidate.01"/><meta content="pAqPzW7SsKEtIVjzkqfGfnY_dzsF8RxcEMj3QMfN5JI" name="google-site-verification"/><meta content="sec-CH-DPR" http-equiv="Accept-CH"/><meta content="President Donald Trump's last job approval rating is a personal low 34%. He averaged 41% job approval in office, a record low by four points." name="description"/><meta content="INDEX,FOLLOW,NOARCHIVE" name="robots"/><meta content="Gallup, Inc." name="author"/><meta content="summary_large_image" name="twitter:card"/><meta content="@Gallup" name="twitter:site"/><meta content="Last Trump Job Approval 34%; Average Is Record-Low 41%" name="twitter:title"/><meta content="President Donald Trump's last job approval rating is a personal low 34%. He averaged 41% job approval in office, a record low by four points." name="twitter:description"/><meta content="https://imagekit.gallup.com/fusion/tr:n-emd_soc_meta_twitter/POLL/xvewoyr8puevuidcdx9iqg.jpg" name="twitter:image"/><meta content="Last Trump Job Approval 34%; Average Is Record-Low 41%" property="og:title"/><meta content="article" property="og:type"/><meta content="Jeffrey M. Jones" property="article:author"/><meta content="2025-03-26" property="article:modified_time"/><meta content="2021-01-18" property="article:published_time"/><meta content="Politics" property="article:section"/><meta content="USA" property="article:tag"/><meta content="All Gallup Headlines" property="article:tag"/><meta content="Political Parties" property="article:tag"/><meta content="Politics" property="article:tag"/><meta content="Presidential Job Approval" property="article:tag"/><meta content="The Presidency" property="article:tag"/><meta content="https://news.gallup.com/poll/328637/last-trump-job-approval-average-record-low.aspx" property="og:url"/><meta content="https://imagekit.gallup.com/fusion/tr:n-emd_soc_meta_og/POLL/xvewoyr8puevuidcdx9iqg.jpg" property="og:image"/><meta content="https://imagekit.gallup.com/fusion/tr:n-emd_soc_meta_og/POLL/xvewoyr8puevuidcdx9iqg.jpg" property="og:image:secure_url"/><meta content="Gallup.com" property="og:site_name"/><meta content="President Donald Trump's last job approval rating is a personal low 34%. He averaged 41% job approval in office, a record low by four points." property="og:description"/><meta content="91480005965" property="fb:admins"/></link></link></link></link></meta></head>
+<body class="mainmaster t-white-nav has-nav--main cms cmsviewa sys-release sit-newsv9">
+<!-- RMKTGLOBALBODY -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-WSF7BSB" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<noscript>
+<div class="alert alert-danger">
+<span><strong>Notice: </strong> JavaScript is not enabled. <a class="alert-link" href="https://enable-javascript.com/">Please Enable JavaScript Safely</a>.</span></div>
+</noscript>
+<div id="skiptocontent"><a href="#main" id="skipToMain">skip to main content</a></div>
+<header class="header-page">
+<nav aria-label="Corporate Navigation" class="navbar c-corporate-nav hidden-nav-sm hidden-nav-xs" id="ctl00_HeaderNavigation_CorporateNavigation_Navbar">
+<div class="container">
+<div class="collapse navbar-collapse" id="navbar-collapse-corporate">
+<ul class="nav navbar-nav navbar-right">
+<li><a href="https://www.gallup.com/corporate/212381/who-we-are.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">About Us</span></a></li>
+<li><a href="https://www.gallup.com/careers/" rel="noopener" tabindex="0"><span class="c-link-inner-focus">Careers</span></a></li>
+<li><a href="https://www.gallup.com/270188/contact-us-general.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">Contact Us</span></a></li>
+<li><a href="https://www.gallup.com/subscribe.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">Subscribe</span></a></li>
+</ul>
+</div>
+</div>
+</nav>
+<nav aria-label="Global Navigation" class="navbar navbar-default c-global-nav">
+<div class="container">
+<button aria-label="Expand navigation" class="navbar-toggle" data-duration="0" data-target="#navbar-global-collapse" data-toggle="collapse" id="ctl00_HeaderNavigation_GlobalNavigation_NavbarToggle" tabindex="0">
+<span class="c-link-inner-focus">
+<span class="c-global-nav__toggle-icon"></span>
+<span class="c-global-nav__toggle-icon"></span>
+<span class="c-global-nav__toggle-icon"></span>
+<span class="sr-only"></span>
+</span>
+</button>
+<div aria-expanded="false" class="collapse navbar-collapse hidden-nav-lg hidden-nav-md" id="navbar-global-collapse" role="navigation">
+<ul class="nav navbar-nav" id="ctl00_HeaderNavigation_GlobalNavigation_Ul1">
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Workplace Advisory <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1"><div>Our Expertise</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/workplace/229424/employee-engagement.aspx" tabindex="0"><span class="c-link-inner-focus">Employee Engagement &amp; Experience</span></a></li>
+<li><a href="https://www.gallup.com/workplace/229832/culture.aspx" tabindex="0"><span class="c-link-inner-focus">Organizational Culture</span></a></li>
+<li><a href="https://www.gallup.com/workplace/216209/develop-managers-leaders.aspx" tabindex="0"><span class="c-link-inner-focus">Leadership Development</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2 c-global-nav__no-header"><div><span>2</span></div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/workplace/212033/attract-hire-top-talent.aspx" tabindex="0"><span class="c-link-inner-focus">Talent Identification &amp; Hiring</span></a></li>
+<li><a href="https://www.gallup.com/workplace/311870/customer-centricity.aspx" tabindex="0"><span class="c-link-inner-focus">Customer Centricity</span></a></li>
+<li><a href="https://www.gallup.com/workplace/215924/well-being.aspx" tabindex="0"><span class="c-link-inner-focus">Wellbeing</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3 c-global-nav__no-header"><div><span>3</span></div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253808/cliftonstrengths-for-organizations.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths for Organizations</span></a></li>
+<li><a href="https://www.gallup.com/workplace/650153/ai-adoption.aspx" tabindex="0"><span class="c-link-inner-focus">AI Adoption</span></a></li>
+<li><a href="https://www.gallup.com/workplace/650156/science-of-high-performing-teams.aspx" tabindex="0"><span class="c-link-inner-focus">Science of Teams</span></a></li>
+<li><a href="https://www.gallup.com/workplace/" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Our Platform</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/access/" tabindex="0"><span class="c-link-inner-focus">Gallup Access Platform</span></a></li>
+<li><a href="https://www.gallup.com/q12-employee-engagement-survey/" tabindex="0"><span class="c-link-inner-focus">Q12 Survey</span></a></li>
+<li><a href="https://www.gallup.com/access/239201/employee-surveys.aspx" tabindex="0"><span class="c-link-inner-focus">Employee Surveys</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1"><div>About CliftonStrengths</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253676/how-cliftonstrengths-works.aspx" tabindex="0"><span class="c-link-inner-focus">How Does CliftonStrengths Work?</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253715/34-cliftonstrengths-themes.aspx" tabindex="0"><span class="c-link-inner-focus">What Are the 34 Themes?</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253736/cliftonstrengths-domains.aspx" tabindex="0"><span class="c-link-inner-focus">What Are the 4 Domains?</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2"><div>Reports</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253868/popular-cliftonstrengths-assessment-products.aspx" tabindex="0"><span class="c-link-inner-focus">Find the Right Report</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/403127/cliftonstrengths-34-report.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths 34</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/512510/cliftonstrengths-top-5-report.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths Top 5</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/507353/cliftonstrengths-for-students-report.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths for Students</span></a></li>
+<li><a href="https://store.gallup.com/c/en-us/1/cliftonstrengths" tabindex="0"><span class="c-link-inner-focus">View All Reports</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3"><div>Coaching</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253958/become-coach.aspx" tabindex="0"><span class="c-link-inner-focus">How to Become a Coach</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253997/coaching-courses.aspx" tabindex="0"><span class="c-link-inner-focus">Courses for Coaches</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253976/find-coach.aspx" tabindex="0"><span class="c-link-inner-focus">Find a Coach</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Quick Links</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253937/strengths-articles-videos.aspx" tabindex="0"><span class="c-link-inner-focus">Articles, Videos &amp; More</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/348236/cliftonstrengths-newsletter.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths Insights Newsletter</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/388469/cliftonstrengths-podcast.aspx" tabindex="0"><span class="c-link-inner-focus">Podcast</span></a></li>
+<li><a href="https://www.gallup.com/leading-with-strengths" tabindex="0"><span class="c-link-inner-focus">Leading With Strengths</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Research &amp; Polling <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1"><div>How We Help Clients</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/analytics/656957/custom-survey-research.aspx" tabindex="0"><span class="c-link-inner-focus">Custom Survey Research</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318875/global-research.aspx" tabindex="0"><span class="c-link-inner-focus">Global Research</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318911/us-social-research.aspx" tabindex="0"><span class="c-link-inner-focus">U.S. Research</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318812/strategic-communications.aspx" tabindex="0"><span class="c-link-inner-focus">Strategic Communications</span></a></li>
+<li><a href="https://www.gallup.com/analytics/home.aspx" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2"><div>Our Research</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx" tabindex="0"><span class="c-link-inner-focus">State of the Global Workplace</span></a></li>
+<li><a href="https://www.gallup.com/analytics/349280/gallup-global-emotions-report.aspx" tabindex="0"><span class="c-link-inner-focus">Global Emotions</span></a></li>
+<li><a href="https://www.gallup.com/analytics/349487/world-happiness-report.aspx" tabindex="0"><span class="c-link-inner-focus">World Happiness</span></a></li>
+<li><a href="https://www.gallup.com/analytics/355787/gallup-rating-world-leaders-report.aspx" tabindex="0"><span class="c-link-inner-focus">Global Leadership</span></a></li>
+<li><a href="https://www.gallup.com/analytics/356996/gallup-law-and-order-research-center.aspx" tabindex="0"><span class="c-link-inner-focus">Global Safety</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318665/public-sector-reports.aspx" tabindex="0"><span class="c-link-inner-focus">Custom Research Partnerships</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3"><div>Products &amp; Insights</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/analytics/213617/gallup-analytics.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup Analytics Platform</span></a></li>
+<li><a href="https://www.gallup.com/analytics/647432/gallup-pulse.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup U.S. Pulse</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318923/world-poll-public-datasets.aspx" tabindex="0"><span class="c-link-inner-focus">Public Data Sets</span></a></li>
+<li><a href="https://www.gallup.com/394169/global-indicators.aspx" tabindex="0"><span class="c-link-inner-focus">Global Indicators</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Quick Links</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://news.gallup.com/home.aspx" tabindex="0"><span class="c-link-inner-focus">Latest News &amp; Articles</span></a></li>
+<li><a href="https://news.gallup.com/poll/trends.aspx" tabindex="0"><span class="c-link-inner-focus">Polling Trends A-Z</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318176/public-sector-success-stories.aspx" tabindex="0"><span class="c-link-inner-focus">Our Research Impact</span></a></li>
+<li><a href="https://www.gallup.com/178685/methodology-center.aspx" tabindex="0"><span class="c-link-inner-focus">Our Methodologies</span></a></li>
+<li><a href="https://www.gallup.com/analytics/647639/federal-government-solutions.aspx" tabindex="0"><span class="c-link-inner-focus">Federal Government Solutions</span></a></li>
+<li><a href="https://www.gallup.com/education/" tabindex="0"><span class="c-link-inner-focus">Education Solutions</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Courses &amp; Events <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1"><div>Courses</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/learning/310019/accelerated-strengths-coaching.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup Global Strengths Coach</span></a></li>
+<li><a href="https://www.gallup.com/learning/346556/manager-development-course.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup Manager Program</span></a></li>
+<li><a href="https://www.gallup.com/learning/309926/engaging-workplace-champions.aspx" tabindex="0"><span class="c-link-inner-focus">Engagement Champions</span></a></li>
+<li><a href="https://www.gallup.com/learning/310088/view-all-courses.aspx" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2"><div>Learning by Role</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/learning/309989/learning-for-leadership-and-management-development.aspx" tabindex="0"><span class="c-link-inner-focus">Leaders &amp; Managers</span></a></li>
+<li><a href="https://www.gallup.com/learning/310535/hr-learning-and-development.aspx" tabindex="0"><span class="c-link-inner-focus">HR Professionals</span></a></li>
+<li><a href="https://www.gallup.com/learning/310532/development-programs-for-coaches.aspx" tabindex="0"><span class="c-link-inner-focus">Coaches</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3"><div>Certification &amp; Credits</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/learning/309920/strengths-certification.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup-Certified Strengths Coach</span></a></li>
+<li><a href="https://www.gallup.com/learning/309914/professional-credit.aspx" tabindex="0"><span class="c-link-inner-focus">Professional Credit Hours</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Quick Links</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/learning/321824/events.aspx" tabindex="0"><span class="c-link-inner-focus">Webinars &amp; Events</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">News &amp; Insights <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1 c-global-nav__no-header"><div><span class="hidden">1</span></div>
+<ul class="dropdown-menu__list">
+<li class="c-global-nav__link-block"><a href="https://news.gallup.com/home.aspx" tabindex="0"><span class="c-link-inner-focus"><span class="u-block u-padding--btm-5 u-text--bold">Gallup News</span>
+<span class="u-block">Key findings and trends from 90+ years of public opinion polling.</span></span></a></li>
+<li class="c-global-nav__link-block"><a href="https://www.gallup.com/workplace/insights.aspx" tabindex="0"><span class="c-link-inner-focus"><span class="u-block u-padding--btm-5 u-text--bold">Workplace Insights</span>
+<span class="u-block">Our latest analytics and advice on the key issues facing leaders.</span></span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2"><div>Global Indicators</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/394373/indicator-employee-engagement.aspx" tabindex="0"><span class="c-link-inner-focus">Employee Engagement</span></a></li>
+<li><a href="https://www.gallup.com/467702/indicator-employee-retention-attraction.aspx" tabindex="0"><span class="c-link-inner-focus">Employee Retention &amp; Attraction</span></a></li>
+<li><a href="https://www.gallup.com/404252/indicator-leadership-management.aspx" tabindex="0"><span class="c-link-inner-focus">Leadership &amp; Management</span></a></li>
+<li><a href="https://www.gallup.com/394505/indicator-life-evaluation-index.aspx" tabindex="0"><span class="c-link-inner-focus">Life Evaluation Index</span></a></li>
+<li><a href="https://www.gallup.com/394169/global-indicators.aspx" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3"><div>Newsletters</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://news.gallup.com/393302/front-page-newsletter-subscribe.aspx" tabindex="0"><span class="c-link-inner-focus">Front Page</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/348236/cliftonstrengths-newsletter.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths Insights</span></a></li>
+<li><a href="https://www.gallup.com/subscribe.aspx" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Quick Links</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/corporate/470660/reports-perspective-papers.aspx" tabindex="0"><span class="c-link-inner-focus">Latest Reports &amp; Perspectives</span></a></li>
+<li><a href="https://news.gallup.com/poll/trends.aspx" tabindex="0"><span class="c-link-inner-focus">Polling Trends A-Z</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li><a href="https://store.gallup.com" tabindex="0"><span class="c-link-inner-focus">Shop</span></a></li>
+</ul>
+<ul class="nav navbar-nav c-corporate-nav-collapse" id="ctl00_HeaderNavigation_GlobalNavigation_CorporateNavCollapse">
+<li><a href="https://www.gallup.com/corporate/212381/who-we-are.aspx" tabindex="0"><span class="c-link-inner-focus">About Us</span></a></li>
+<li><a href="https://www.gallup.com/careers/" tabindex="0"><span class="c-link-inner-focus">Careers</span></a></li>
+<li><a href="https://www.gallup.com/270188/contact-us-general.aspx" tabindex="0"><span class="c-link-inner-focus">Contact Us</span></a></li>
+<li><a href="https://www.gallup.com/subscribe.aspx" tabindex="0"><span class="c-link-inner-focus">Subscribe</span></a></li>
+</ul>
+</div>
+<div class="navbar-header">
+<a class="navbar-brand" href="https://www.gallup.com/home.aspx" id="ctl00_HeaderNavigation_GlobalNavigation_NavbarLogo" tabindex="0">
+<span class="c-link-inner-focus">
+<span class="fa-gallup-logo" id="ctl00_HeaderNavigation_GlobalNavigation_LogoIcon"></span>
+<span class="sr-only" id="ctl00_HeaderNavigation_GlobalNavigation_BrandText">Gallup</span>
+</span>
+</a>
+</div>
+<div class="navbar-collapse hidden-nav-sm hidden-nav-xs">
+<ul class="nav navbar-nav" id="ctl00_HeaderNavigation_GlobalNavigation_GlobalNavContainer">
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Workplace Advisory <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1"><div>Our Expertise</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/workplace/229424/employee-engagement.aspx" tabindex="0"><span class="c-link-inner-focus">Employee Engagement &amp; Experience</span></a></li>
+<li><a href="https://www.gallup.com/workplace/229832/culture.aspx" tabindex="0"><span class="c-link-inner-focus">Organizational Culture</span></a></li>
+<li><a href="https://www.gallup.com/workplace/216209/develop-managers-leaders.aspx" tabindex="0"><span class="c-link-inner-focus">Leadership Development</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2 c-global-nav__no-header"><div><span>2</span></div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/workplace/212033/attract-hire-top-talent.aspx" tabindex="0"><span class="c-link-inner-focus">Talent Identification &amp; Hiring</span></a></li>
+<li><a href="https://www.gallup.com/workplace/311870/customer-centricity.aspx" tabindex="0"><span class="c-link-inner-focus">Customer Centricity</span></a></li>
+<li><a href="https://www.gallup.com/workplace/215924/well-being.aspx" tabindex="0"><span class="c-link-inner-focus">Wellbeing</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3 c-global-nav__no-header"><div><span>3</span></div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253808/cliftonstrengths-for-organizations.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths for Organizations</span></a></li>
+<li><a href="https://www.gallup.com/workplace/650153/ai-adoption.aspx" tabindex="0"><span class="c-link-inner-focus">AI Adoption</span></a></li>
+<li><a href="https://www.gallup.com/workplace/650156/science-of-high-performing-teams.aspx" tabindex="0"><span class="c-link-inner-focus">Science of Teams</span></a></li>
+<li><a href="https://www.gallup.com/workplace/" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Our Platform</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/access/" tabindex="0"><span class="c-link-inner-focus">Gallup Access Platform</span></a></li>
+<li><a href="https://www.gallup.com/q12-employee-engagement-survey/" tabindex="0"><span class="c-link-inner-focus">Q12 Survey</span></a></li>
+<li><a href="https://www.gallup.com/access/239201/employee-surveys.aspx" tabindex="0"><span class="c-link-inner-focus">Employee Surveys</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1"><div>About CliftonStrengths</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253676/how-cliftonstrengths-works.aspx" tabindex="0"><span class="c-link-inner-focus">How Does CliftonStrengths Work?</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253715/34-cliftonstrengths-themes.aspx" tabindex="0"><span class="c-link-inner-focus">What Are the 34 Themes?</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253736/cliftonstrengths-domains.aspx" tabindex="0"><span class="c-link-inner-focus">What Are the 4 Domains?</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2"><div>Reports</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253868/popular-cliftonstrengths-assessment-products.aspx" tabindex="0"><span class="c-link-inner-focus">Find the Right Report</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/403127/cliftonstrengths-34-report.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths 34</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/512510/cliftonstrengths-top-5-report.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths Top 5</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/507353/cliftonstrengths-for-students-report.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths for Students</span></a></li>
+<li><a href="https://store.gallup.com/c/en-us/1/cliftonstrengths" tabindex="0"><span class="c-link-inner-focus">View All Reports</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3"><div>Coaching</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253958/become-coach.aspx" tabindex="0"><span class="c-link-inner-focus">How to Become a Coach</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253997/coaching-courses.aspx" tabindex="0"><span class="c-link-inner-focus">Courses for Coaches</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253976/find-coach.aspx" tabindex="0"><span class="c-link-inner-focus">Find a Coach</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Quick Links</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253937/strengths-articles-videos.aspx" tabindex="0"><span class="c-link-inner-focus">Articles, Videos &amp; More</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/348236/cliftonstrengths-newsletter.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths Insights Newsletter</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/388469/cliftonstrengths-podcast.aspx" tabindex="0"><span class="c-link-inner-focus">Podcast</span></a></li>
+<li><a href="https://www.gallup.com/leading-with-strengths" tabindex="0"><span class="c-link-inner-focus">Leading With Strengths</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Research &amp; Polling <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1"><div>How We Help Clients</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/analytics/656957/custom-survey-research.aspx" tabindex="0"><span class="c-link-inner-focus">Custom Survey Research</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318875/global-research.aspx" tabindex="0"><span class="c-link-inner-focus">Global Research</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318911/us-social-research.aspx" tabindex="0"><span class="c-link-inner-focus">U.S. Research</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318812/strategic-communications.aspx" tabindex="0"><span class="c-link-inner-focus">Strategic Communications</span></a></li>
+<li><a href="https://www.gallup.com/analytics/home.aspx" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2"><div>Our Research</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx" tabindex="0"><span class="c-link-inner-focus">State of the Global Workplace</span></a></li>
+<li><a href="https://www.gallup.com/analytics/349280/gallup-global-emotions-report.aspx" tabindex="0"><span class="c-link-inner-focus">Global Emotions</span></a></li>
+<li><a href="https://www.gallup.com/analytics/349487/world-happiness-report.aspx" tabindex="0"><span class="c-link-inner-focus">World Happiness</span></a></li>
+<li><a href="https://www.gallup.com/analytics/355787/gallup-rating-world-leaders-report.aspx" tabindex="0"><span class="c-link-inner-focus">Global Leadership</span></a></li>
+<li><a href="https://www.gallup.com/analytics/356996/gallup-law-and-order-research-center.aspx" tabindex="0"><span class="c-link-inner-focus">Global Safety</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318665/public-sector-reports.aspx" tabindex="0"><span class="c-link-inner-focus">Custom Research Partnerships</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3"><div>Products &amp; Insights</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/analytics/213617/gallup-analytics.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup Analytics Platform</span></a></li>
+<li><a href="https://www.gallup.com/analytics/647432/gallup-pulse.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup U.S. Pulse</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318923/world-poll-public-datasets.aspx" tabindex="0"><span class="c-link-inner-focus">Public Data Sets</span></a></li>
+<li><a href="https://www.gallup.com/394169/global-indicators.aspx" tabindex="0"><span class="c-link-inner-focus">Global Indicators</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Quick Links</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://news.gallup.com/home.aspx" tabindex="0"><span class="c-link-inner-focus">Latest News &amp; Articles</span></a></li>
+<li><a href="https://news.gallup.com/poll/trends.aspx" tabindex="0"><span class="c-link-inner-focus">Polling Trends A-Z</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318176/public-sector-success-stories.aspx" tabindex="0"><span class="c-link-inner-focus">Our Research Impact</span></a></li>
+<li><a href="https://www.gallup.com/178685/methodology-center.aspx" tabindex="0"><span class="c-link-inner-focus">Our Methodologies</span></a></li>
+<li><a href="https://www.gallup.com/analytics/647639/federal-government-solutions.aspx" tabindex="0"><span class="c-link-inner-focus">Federal Government Solutions</span></a></li>
+<li><a href="https://www.gallup.com/education/" tabindex="0"><span class="c-link-inner-focus">Education Solutions</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Courses &amp; Events <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1"><div>Courses</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/learning/310019/accelerated-strengths-coaching.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup Global Strengths Coach</span></a></li>
+<li><a href="https://www.gallup.com/learning/346556/manager-development-course.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup Manager Program</span></a></li>
+<li><a href="https://www.gallup.com/learning/309926/engaging-workplace-champions.aspx" tabindex="0"><span class="c-link-inner-focus">Engagement Champions</span></a></li>
+<li><a href="https://www.gallup.com/learning/310088/view-all-courses.aspx" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2"><div>Learning by Role</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/learning/309989/learning-for-leadership-and-management-development.aspx" tabindex="0"><span class="c-link-inner-focus">Leaders &amp; Managers</span></a></li>
+<li><a href="https://www.gallup.com/learning/310535/hr-learning-and-development.aspx" tabindex="0"><span class="c-link-inner-focus">HR Professionals</span></a></li>
+<li><a href="https://www.gallup.com/learning/310532/development-programs-for-coaches.aspx" tabindex="0"><span class="c-link-inner-focus">Coaches</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3"><div>Certification &amp; Credits</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/learning/309920/strengths-certification.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup-Certified Strengths Coach</span></a></li>
+<li><a href="https://www.gallup.com/learning/309914/professional-credit.aspx" tabindex="0"><span class="c-link-inner-focus">Professional Credit Hours</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Quick Links</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/learning/321824/events.aspx" tabindex="0"><span class="c-link-inner-focus">Webinars &amp; Events</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">News &amp; Insights <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1 c-global-nav__no-header"><div><span class="hidden">1</span></div>
+<ul class="dropdown-menu__list">
+<li class="c-global-nav__link-block"><a href="https://news.gallup.com/home.aspx" tabindex="0"><span class="c-link-inner-focus"><span class="u-block u-padding--btm-5 u-text--bold">Gallup News</span>
+<span class="u-block">Key findings and trends from 90+ years of public opinion polling.</span></span></a></li>
+<li class="c-global-nav__link-block"><a href="https://www.gallup.com/workplace/insights.aspx" tabindex="0"><span class="c-link-inner-focus"><span class="u-block u-padding--btm-5 u-text--bold">Workplace Insights</span>
+<span class="u-block">Our latest analytics and advice on the key issues facing leaders.</span></span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2"><div>Global Indicators</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/394373/indicator-employee-engagement.aspx" tabindex="0"><span class="c-link-inner-focus">Employee Engagement</span></a></li>
+<li><a href="https://www.gallup.com/467702/indicator-employee-retention-attraction.aspx" tabindex="0"><span class="c-link-inner-focus">Employee Retention &amp; Attraction</span></a></li>
+<li><a href="https://www.gallup.com/404252/indicator-leadership-management.aspx" tabindex="0"><span class="c-link-inner-focus">Leadership &amp; Management</span></a></li>
+<li><a href="https://www.gallup.com/394505/indicator-life-evaluation-index.aspx" tabindex="0"><span class="c-link-inner-focus">Life Evaluation Index</span></a></li>
+<li><a href="https://www.gallup.com/394169/global-indicators.aspx" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3"><div>Newsletters</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://news.gallup.com/393302/front-page-newsletter-subscribe.aspx" tabindex="0"><span class="c-link-inner-focus">Front Page</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/348236/cliftonstrengths-newsletter.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths Insights</span></a></li>
+<li><a href="https://www.gallup.com/subscribe.aspx" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Quick Links</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/corporate/470660/reports-perspective-papers.aspx" tabindex="0"><span class="c-link-inner-focus">Latest Reports &amp; Perspectives</span></a></li>
+<li><a href="https://news.gallup.com/poll/trends.aspx" tabindex="0"><span class="c-link-inner-focus">Polling Trends A-Z</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li><a href="https://store.gallup.com" tabindex="0"><span class="c-link-inner-focus">Shop</span></a></li>
+</ul>
+</div>
+<div class="navbar-header navbar-right c-global-nav__search" id="ctl00_HeaderNavigation_GlobalNavigation_NavbarSearch">
+<ul class="nav navbar-nav navbar-right">
+<li class="navbar-search">
+<a data-search-toggle="" href="/Search/Default.aspx" tabindex="0">
+<span class="c-link-inner-focus">
+<span class="fa-solid fa-icon-magnifying-glass"></span>
+<span class="sr-only">Search</span>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<nav aria-label="Site Navigation" class="navbar navbar-default navbar-sticky c-header-nav" id="ctl00_HeaderNavigation_Navbar">
+<div class="container">
+<div class="navbar-header">
+<a class="navbar-brand" href="/home.aspx" id="ctl00_HeaderNavigation_NavbarLogo" tabindex="0">
+<span class="c-link-inner-focus">
+<img alt="News" id="ctl00_HeaderNavigation_LogoImage" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2My4zOSAzMCIgd2lkdGg9IjYzIiBoZWlnaHQ9IjMwIj4NCiAgPHRpdGxlPk5ld3M8L3RpdGxlPg0KICA8ZyBmaWxsPSIjZmZmIj4NCiAgICA8cGF0aCBkPSJNLjIuMTNIMmwxMC44LDE2LjY4Vi4xM0gxNC40VjE5LjRIMTIuNjJMMS43OSwyLjY2VjE5LjRILjJaIi8+DQogICAgPHBhdGggZD0iTTMwLjEyLDE1Ljc2YTQuNzUsNC43NSwwLDAsMS0xLjczLDIuOTQsNi4yMSw2LjIxLDAsMCwxLTQsMS4xNCw1LjgyLDUuODIsMCwwLDEtNC42NS0xLjkzLDcuODcsNy44NywwLDAsMS0xLjY2LTUuMzEsMTAuMDUsMTAuMDUsMCwwLDEsLjQ3LTMuMjRBNi42OCw2LjY4LDAsMCwxLDE5Ljg3LDdhNS41OSw1LjU5LDAsMCwxLDItMS40NSw2LjQ3LDYuNDcsMCwwLDEsMi41Mi0uNDgsNi41Nyw2LjU3LDAsMCwxLDIuNzYuNTJBNS4wOSw1LjA5LDAsMCwxLDI5LDdhNiw2LDAsMCwxLDEsMi4xNSwxMC44NSwxMC44NSwwLDAsMSwuMzIsMi42N3YxSDE5LjY3YTgsOCwwLDAsMCwuMywyLjIzLDUuMTEsNS4xMSwwLDAsMCwuODksMS44MSw0LjE2LDQuMTYsMCwwLDAsMS40OCwxLjIxLDQuNTEsNC41MSwwLDAsMCwyLjA1LjQ1LDcsNywwLDAsMCwxLjc5LS4yLDMuNTksMy41OSwwLDAsMCwxLjIxLS41OCwzLjA2LDMuMDYsMCwwLDAsLjc3LS44OCw0LjY4LDQuNjgsMCwwLDAsLjQ1LTEuMTJabS0xLjM4LTQuMjdhOC41NCw4LjU0LDAsMCwwLS4yNC0yLjA4LDQuNjMsNC42MywwLDAsMC0uNzYtMS42MywzLjQyLDMuNDIsMCwwLDAtMS4zNS0xLjA3LDQuODYsNC44NiwwLDAsMC0yLS4zNyw0LjI2LDQuMjYsMCwwLDAtMy4yNCwxLjI3LDYuMjksNi4yOSwwLDAsMC0xLjQ1LDMuODhaIi8+DQogICAgPHBhdGggZD0iTTMxLjcxLDUuNWgxLjczbDMuMjQsMTIuMTVMNDAuMjIsNS41OGgxLjgzbDMuNDYsMTIuMDdMNDguNzUsNS41aDEuNjdMNDYuMzQsMTkuNEg0NC41M0w0MS4wNSw3LjI1LDM3LjU0LDE5LjRIMzUuNzNaIi8+DQogICAgPHBhdGggZD0iTTUzLjM5LDE1LjU0YTMuMjQsMy4yNCwwLDAsMCwxLjM4LDIuMyw1LjgyLDUuODIsMCwwLDAsMy4wOC42Nyw0LjI4LDQuMjgsMCwwLDAsMi44Ni0uNzUsMi40NSwyLjQ1LDAsMCwwLC44NC0xLjg5LDMuNzIsMy43MiwwLDAsMC0uMTEtLjkxLDIsMiwwLDAsMC0uNDItLjc3LDIuNTEsMi41MSwwLDAsMC0uODktLjU5LDcuNTQsNy41NCwwLDAsMC0xLjUtLjQxbC0xLjctLjI3YTE1LjEzLDE1LjEzLDAsMCwxLTItLjQ1LDQuODYsNC44NiwwLDAsMS0xLjQ4LS43MiwyLjg5LDIuODksMCwwLDEtLjkyLTEuMTFBMy43NiwzLjc2LDAsMCwxLDUyLjIzLDlhMy40LDMuNCwwLDAsMSwuNDEtMS42NiwzLjU0LDMuNTQsMCwwLDEsMS4xLTEuMjQsNS4xOSw1LjE5LDAsMCwxLDEuNjYtLjc3LDcuNjIsNy42MiwwLDAsMSwyLjA3LS4yNyw4LjU2LDguNTYsMCwwLDEsMi4zOS4yOCw0LjU1LDQuNTUsMCwwLDEsMS41Ni43NywzLjUyLDMuNTIsMCwwLDEsLjk1LDEuMTMsNy40Miw3LjQyLDAsMCwxLC41MywxLjM4bC0xLjQ0LjNBNS4yNSw1LjI1LDAsMCwwLDYxLDcuODRhMi40NSwyLjQ1LDAsMCwwLS43MS0uNzksMy4xNSwzLjE1LDAsMCwwLTEuMDgtLjQ3LDguMjksOC4yOSwwLDAsMC0zLjQzLDAsMy4zNSwzLjM1LDAsMCwwLTEuMTcuNTUsMi4xMSwyLjExLDAsMCwwLS42NC44MSwyLjQxLDIuNDEsMCwwLDAtLjE5Ljk1LDMuNDIsMy40MiwwLDAsMCwuMTEuODgsMS40MSwxLjQxLDAsMCwwLC40My42OCwyLjg3LDIuODcsMCwwLDAsLjkxLjUyLDksOSwwLDAsMCwxLjUyLjM4bDIuMTMuMzVhNi43MSw2LjcxLDAsMCwxLDMuMjcsMS4zMSwzLjU1LDMuNTUsMCwwLDEsMS4wOCwyLjg0LDMuNTMsMy41MywwLDAsMS0uMzQsMS41NCwzLjM1LDMuMzUsMCwwLDEtMSwxLjI2LDUuMjMsNS4yMywwLDAsMS0xLjY3Ljg0LDcuOTMsNy45MywwLDAsMS0yLjI5LjMxLDEwLjEyLDEwLjEyLDAsMCwxLTIuMzQtLjI1LDUuNTYsNS41NiwwLDAsMS0xLjg0LS43NSwzLjk0LDMuOTQsMCwwLDEtMS4yNy0xLjMzLDQuNDgsNC40OCwwLDAsMS0uNi0yWiIvPg0KICA8L2c+DQo8L3N2Zz4NCg=="/>
+</span>
+</a>
+<button class="navbar-toggle navbar-toggle-arrow collapsed" data-duration="0" data-target="#navbar-header-collapse" data-toggle="collapse" id="ctl00_HeaderNavigation_NavbarToggle" tabindex="0">
+<span class="c-link-inner-focus">
+<span class="sr-only">Toggle navigation</span>
+</span>
+</button>
+</div>
+<div aria-expanded="false" class="collapse navbar-collapse" id="navbar-header-collapse" role="navigation">
+<ul class="nav navbar-nav" data-label="More" data-overflownav="" data-srlabel="More navigation items" id="ctl00_HeaderNavigation_OverflowNav">
+<li class="visible-xs visible-sm"><a href="/home.aspx" tabindex="0"><span class="c-link-inner-focus">Overview</span></a></li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Politics <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li><a href="/610757/2024-presidential-election-center.aspx" tabindex="0"><span class="c-link-inner-focus">Election 2024</span></a></li>
+<li><a href="/interactives/185273/presidential-job-approval-center.aspx" tabindex="0"><span class="c-link-inner-focus">Presidential Job Approval</span></a></li>
+<li><a href="/topic/the_presidency.aspx" tabindex="0"><span class="c-link-inner-focus">The Presidency</span></a></li>
+<li><a href="/topic/government.aspx" tabindex="0"><span class="c-link-inner-focus">Government</span></a></li>
+<li><a href="/topic/foreign_affairs.aspx" tabindex="0"><span class="c-link-inner-focus">Foreign Affairs</span></a></li>
+<li><a href="/topic/politics.aspx" tabindex="0"><span class="c-link-inner-focus">View All Politics</span></a></li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Economy <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li><a href="/topic/business.aspx" tabindex="0"><span class="c-link-inner-focus">Business</span></a></li>
+<li><a href="/topic/category_entrepreneurship.aspx" tabindex="0"><span class="c-link-inner-focus">Entrepreneurship</span></a></li>
+<li><a href="/topic/personal_finance.aspx" tabindex="0"><span class="c-link-inner-focus">Personal Finance</span></a></li>
+<li><a href="/topic/retirement.aspx" tabindex="0"><span class="c-link-inner-focus">Retirement</span></a></li>
+<li><a href="/topic/small_business.aspx" tabindex="0"><span class="c-link-inner-focus">Small Business</span></a></li>
+<li><a href="/topic/economy.aspx" tabindex="0"><span class="c-link-inner-focus">View All Economy</span></a></li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="/topic/world_region_worldwide.aspx" role="button" tabindex="0"><span class="c-link-inner-focus">World <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li><a href="/topic/americas.aspx" tabindex="0"><span class="c-link-inner-focus">Americas</span></a></li>
+<li><a href="/topic/asia_pacific.aspx" tabindex="0"><span class="c-link-inner-focus">Asia Pacific</span></a></li>
+<li><a href="/topic/europe.aspx" tabindex="0"><span class="c-link-inner-focus">Europe</span></a></li>
+<li><a href="/topic/world_region_middle_east_north_africa.aspx" tabindex="0"><span class="c-link-inner-focus">Middle East &amp; North Africa</span></a></li>
+<li><a href="/topic/sub_saharan_africa.aspx" tabindex="0"><span class="c-link-inner-focus">Sub-Saharan Africa</span></a></li>
+<li><a href="/topic/world_region_worldwide.aspx" tabindex="0"><span class="c-link-inner-focus">View All World</span></a></li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Key Topics <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li><a href="/poll/trends.aspx" tabindex="0"><span class="c-link-inner-focus">All Trends</span></a></li>
+<li><a href="/topic/abortion.aspx" tabindex="0"><span class="c-link-inner-focus">Abortion</span></a></li>
+<li><a href="/topic/category-drugs-and-alcohol.aspx" tabindex="0"><span class="c-link-inner-focus">Alcohol &amp; Drugs</span></a></li>
+<li><a href="/topic/category_education.aspx" tabindex="0"><span class="c-link-inner-focus">Education</span></a></li>
+<li><a href="/topic/guns.aspx" tabindex="0"><span class="c-link-inner-focus">Guns</span></a></li>
+<li><a href="/topic/immigration.aspx" tabindex="0"><span class="c-link-inner-focus">Immigration</span></a></li>
+<li><a href="/topic/lgbt.aspx" tabindex="0"><span class="c-link-inner-focus">LGBTQ+</span></a></li>
+<li><a href="/topic/race_relations.aspx" tabindex="0"><span class="c-link-inner-focus">Race Relations</span></a></li>
+<li><a href="/topic/religion.aspx" tabindex="0"><span class="c-link-inner-focus">Religion</span></a></li>
+<li><a href="/topic/category_wellbeing.aspx" tabindex="0"><span class="c-link-inner-focus">Wellbeing</span></a></li>
+<li><a href="/649667/women-gender-issues.aspx" tabindex="0"><span class="c-link-inner-focus">Women &amp; Gender</span></a></li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Blogs &amp; Opinion <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li><a href="/topic/blog_pm.aspx" tabindex="0"><span class="c-link-inner-focus">Polling Matters</span></a></li>
+<li><a href="/topic/blog_tgb.aspx" tabindex="0"><span class="c-link-inner-focus">The Gallup Blog</span></a></li>
+<li><a href="/topic/blog_tcb.aspx" tabindex="0"><span class="c-link-inner-focus">Chairman's Blog</span></a></li>
+<li><a href="/topic/vault.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup Vault</span></a></li>
+<li><a href="/topic/methodologyblog.aspx" tabindex="0"><span class="c-link-inner-focus">Methodology Blog</span></a></li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Media Resources <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/corporate/468077/media-center.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">Media Center</span></a></li>
+<li><a href="https://www.gallup.com/corporate/216134/media-inquiries.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">Media Inquiries</span></a></li>
+<li><a href="https://www.gallup.com/178685/methodology-center.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">Methodology Center</span></a></li>
+<li><a href="/315575/measuring-black-voices.aspx" tabindex="0"><span class="c-link-inner-focus">Center on Black Voices</span></a></li>
+<li><a href="https://www.gallup.com/corporate/470660/reports-perspective-papers.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">Gallup Reports</span></a></li>
+</ul></div>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li class="btn-wrapper btn-primary-wrapper"><a href="https://www.gallup.com/subscribe.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">Subscribe</span></a></li>
+<li class="visible-xs visible-sm"><a href="https://www.gallup.com/corporate/212381/who-we-are.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">About Gallup and Our Services</span></a></li>
+<li class="visible-xs visible-sm"><a href="//my.gallup.com" tabindex="0"><span class="c-link-inner-focus">Access Log In</span></a></li>
+</ul>
+</div>
+</div>
+</nav>
+</header>
+<div class="container">
+<div class="content-main">
+<main class="main sa-release sp--poll type-feature" id="main">
+<div class="article--wrapper" data-template="shared-release">
+<div class="c-progress-header">
+<div class="c-progress-header__inner">
+<div class="section-flex--meta">
+<div class="topic">Politics</div>
+<span>Last Trump Job Approval 34%; Average Is Record-Low 41%</span>
+</div>
+<div class="section-flex--share">
+<ul class="nav">
+<li class="social-icon iconlinkedin"><a href="//www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fnews.gallup.com%2Fpoll%2F328637%2Flast-trump-job-approval-average-record-low.aspx%3Futm_source%3Dlinkedinbutton%26utm_medium%3Dlinkedin%26utm_campaign%3Dsharing&amp;title=Last%20Trump%20Job%20Approval%2034%25%3B%20Average%20Is%20Record-Low%2041%25&amp;summary=President%20Donald%20Trump's%20last%20job%20approval%20rating%20is%20a%20personal%20low%2034%25.%20He%20averaged%2041%25%20job%20approval%20in%20office%2C%20a%20record%20low%20by%20four%20points.&amp;source=https%3A%2F%2Fnews.gallup.com%2F" rel="noopener" target="_blank"><span class="sr-only">Share on LinkedIn</span></a></li>
+<li class="social-icon icontwitter"><a href="//twitter.com/share?url=https%3A%2F%2Fnews.gallup.com%2Fpoll%2F328637%2Flast-trump-job-approval-average-record-low.aspx%3Futm_source%3Dtwitterbutton%26utm_medium%3Dtwitter%26utm_campaign%3Dsharing&amp;text=Last%20Trump%20Job%20Approval%2034%25%3B%20Average%20Is%20Record-Low%2041%25&amp;hashtags=" rel="noopener" target="_blank"><span class="sr-only">Share on Twitter</span></a></li>
+<li class="social-icon iconfacebook"><a href="//www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnews.gallup.com%2Fpoll%2F328637%2Flast-trump-job-approval-average-record-low.aspx%3Futm_source%3Dfacebookbutton%26utm_medium%3Dfacebook%26utm_campaign%3Dsharing&amp;t=Last%20Trump%20Job%20Approval%2034%25%3B%20Average%20Is%20Record-Low%2041%25" rel="noopener" target="_blank"><span class="sr-only">Share on Facebook</span></a></li>
+<li class="social-icon iconemail"><a href="mailto:?subject=Gallup:%20Last%20Trump%20Job%20Approval%2034%25%3B%20Average%20Is%20Record-Low%2041%25&amp;body=https%3A%2F%2Fnews.gallup.com%2Fpoll%2F328637%2Flast-trump-job-approval-average-record-low.aspx"><span class="sr-only">Share via Email</span></a></li>
+<li class="social-icon iconprint"><a href="?version=print"><span class="sr-only">Print</span></a></li>
+</ul>
+</div>
+</div>
+<div class="c-progress-bar__wrapper">
+<div class="c-progress-bar">
+</div>
+</div>
+</div>
+<article class="o-article" data-itemid="POLL-328637" data-releaseid="328637">
+<div class="o-article__inner">
+<header class="header-article">
+<div class="section-flex--share">
+<ul class="nav">
+<li class="social-icon iconlinkedin"><a href="//www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fnews.gallup.com%2Fpoll%2F328637%2Flast-trump-job-approval-average-record-low.aspx%3Futm_source%3Dlinkedinbutton%26utm_medium%3Dlinkedin%26utm_campaign%3Dsharing&amp;title=Last%20Trump%20Job%20Approval%2034%25%3B%20Average%20Is%20Record-Low%2041%25&amp;summary=President%20Donald%20Trump's%20last%20job%20approval%20rating%20is%20a%20personal%20low%2034%25.%20He%20averaged%2041%25%20job%20approval%20in%20office%2C%20a%20record%20low%20by%20four%20points.&amp;source=https%3A%2F%2Fnews.gallup.com%2F" rel="noopener" target="_blank"><span class="sr-only">Share on LinkedIn</span></a></li>
+<li class="social-icon icontwitter"><a href="//twitter.com/share?url=https%3A%2F%2Fnews.gallup.com%2Fpoll%2F328637%2Flast-trump-job-approval-average-record-low.aspx%3Futm_source%3Dtwitterbutton%26utm_medium%3Dtwitter%26utm_campaign%3Dsharing&amp;text=Last%20Trump%20Job%20Approval%2034%25%3B%20Average%20Is%20Record-Low%2041%25&amp;hashtags=" rel="noopener" target="_blank"><span class="sr-only">Share on Twitter</span></a></li>
+<li class="social-icon iconfacebook"><a href="//www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnews.gallup.com%2Fpoll%2F328637%2Flast-trump-job-approval-average-record-low.aspx%3Futm_source%3Dfacebookbutton%26utm_medium%3Dfacebook%26utm_campaign%3Dsharing&amp;t=Last%20Trump%20Job%20Approval%2034%25%3B%20Average%20Is%20Record-Low%2041%25" rel="noopener" target="_blank"><span class="sr-only">Share on Facebook</span></a></li>
+<li class="social-icon iconemail"><a href="mailto:?subject=Gallup:%20Last%20Trump%20Job%20Approval%2034%25%3B%20Average%20Is%20Record-Low%2041%25&amp;body=https%3A%2F%2Fnews.gallup.com%2Fpoll%2F328637%2Flast-trump-job-approval-average-record-low.aspx"><span class="sr-only">Share via Email</span></a></li>
+<li class="social-icon iconprint"><a href="?version=print"><span class="sr-only">Print</span></a></li>
+</ul>
+</div>
+<div class="section-flex--meta">
+<div class="topic">Politics</div>
+<time datetime="2021-01-18">January 18, 2021</time>
+</div>
+<div class="o-article__header-group">
+<h1>Last Trump Job Approval 34%; Average Is Record-Low 41%</h1>
+<div class="image o-image--bleed"><img alt="" class="img-responsive b-lazy" data-sizes="(max-width: 740px) calc(100vw - 40px), 700px" data-src="https://imagekit.gallup.com/fusion/tr:n-emd_art_heroimg_md/POLL/lj304fe7dk6-8phm7yb-ig.jpg" data-srcset="https://imagekit.gallup.com/fusion/tr:n-emd_art_heroimg_sm/POLL/lj304fe7dk6-8phm7yb-ig.jpg 375w, https://imagekit.gallup.com/fusion/tr:n-emd_art_heroimg_md/POLL/lj304fe7dk6-8phm7yb-ig.jpg 700w, https://imagekit.gallup.com/fusion/tr:n-emd_art_heroimg_md/POLL/lj304fe7dk6-8phm7yb-ig.jpg 1024w, https://imagekit.gallup.com/fusion/tr:n-emd_art_heroimg_lg/POLL/lj304fe7dk6-8phm7yb-ig.jpg 1400w" height="1040" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="1840"/></div>
+<div class="authorDisplayLine1">by <a href="//www.gallup.com/people/item.aspx?a=100180">Jeffrey M. Jones</a></div>
+</div>
+</header>
+<div class="article-content">
+<div aria-label="Summary" class="storyhighlight">
+<h4>Story Highlights</h4>
+<ul>
+<li>Last job approval rating of 34% is his lowest</li>
+<li>Averages 41% job approval, four points lower than any other president</li>
+<li>Approval ratings of Trump most politically polarized by wide margin</li>
+</ul>
+</div>
+<p>WASHINGTON, D.C. -- As President Donald Trump prepares to leave the White House, 34% of Americans approve of the job he is doing as president, the worst evaluation of his presidency. His 41% average approval rating throughout his presidency is four points lower than for any of his predecessors in Gallup's polling era. Trump's ratings showed a record 81-percentage-point average gap between Republicans and Democrats -- 11 points wider than the prior record.</p>
+<h2><strong>Trump Leaves on a Personal Low Note</strong></h2>
+<p>The 34% job approval rating for Trump in Gallup's Jan. 4-15 poll is one point lower than his prior lowest single rating, registered on several occasions in late 2017. The first of these came in August 2017, as Trump was facing intense criticism over his unvarnished threats against North Korean aggression and his response to deadly violence by a white nationalist at a protest in Charlottesville, Virginia.</p>
+<p>Between October and December of that year, his approval fell to 35% on three separate occasions as Justice Department officials charged several of Trump's 2016 campaign figures with crimes in the Russia investigation, including former Trump National Security Adviser Michael Flynn, who pleaded guilty to lying to officials in the investigation in December 2017.</p>
+<p>Trump's approval high point was 49%, achieved on several occasions in early 2020 spanning the time between the <a href="https://news.gallup.com/poll/284156/trump-job-approval-personal-best.aspx">Senate trial in his first impeachment</a> and the initial stages of the coronavirus pandemic, when <a href="https://news.gallup.com/poll/298313/president-trump-job-approval-rating.aspx">Americans were giving him high marks for his response to it</a>.</p>
+<p>His <a href="https://news.gallup.com/poll/313454/trump-job-approval-rating-steady-lower-level.aspx">support fell below 40%</a> in two June 2020 polls amid racial justice protests in response to <a href="https://news.gallup.com/poll/312572/trump-job-approval-slides.aspx">the death of George Floyd</a> at the hands of police and <a href="https://news.gallup.com/poll/317477/trump-job-approval-below-seven-key-issues.aspx">growing displeasure with his handling of the pandemic</a>. By the time of the 2020 election in which he sought a second term, his support had recovered somewhat, and <a href="https://news.gallup.com/poll/323234/national-satisfaction-rises-election-nears.aspx">46% approved of the job Trump was doing</a>.</p>
+<div class="sggt-image"><img alt="" longdesc="#longdesc_1610991886251" src="//content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/POLL/-xsh0bjmeuskteflse1a0q.png"/></div>
+<div class="sggt-image">
+<div class="image-longdesc sr-only" id="longdesc_1610991886251">
+<p>Line graph. Full trend on Donald Trump's job approval rating as president. Trump began his presidency with a 45% job approval rating. By the end of 2017 he registered several 35% readings. In mid-2018 that improved briefly to 45%, but was 38% at the time of the 2018 midterm elections. He registered several 49% readings in early 2020 before falling to 39% in May 2020. He ended his presidency with 34% approval.</p>
+</div>
+</div>
+<p>Trump is the only president not to register a 50% job approval rating at any point in his presidency since Gallup began measuring presidential job approval in 1938. Likewise, he is the only president who did not have <a href="https://news.gallup.com/poll/121391/Obama-Honeymoon-Continues-Months-Recent-Average.aspx">a honeymoon period of above-average ratings</a> upon taking office. His <a href="https://news.gallup.com/poll/202811/trump-sets-new-low-point-inaugural-approval-rating.aspx">initial 45% job approval rating</a> proved to be his high point for his first year as president.</p>
+<p>However, public support for Trump did improve modestly in each year of his presidency, averaging 38% his first year, 40% his second year, 42% his third year and 43% his last year.</p>
+<p>But any positive momentum the president enjoyed was erased after the election. Trump's refusal to concede the election and his attempts to overturn the results, the Jan. 6 riots on Capitol Hill, a U.S. surge in coronavirus cases and deaths, and his second impeachment contributed to a postelection erosion in support for him.</p>
+<p>The total 12-point drop in approval for Trump after the election is especially notable in that most departing presidents -- including <a href="https://news.gallup.com/poll/325289/mixed-patterns-job-approval-defeated-incumbents.aspx">two who were defeated for a second term</a> -- enjoyed increases in job approval ratings between the time of the election to choose their successor and his inauguration. On average, "lame duck presidents" before Trump saw a seven-point increase in job approval. Jimmy Carter is the only other president whose approval ratings declined during the transition period.</p>
+<figure class="figure-table" contenteditable="false" id="20210115164456">
+<figcaption>
+<div id="caption-20210118103143">Changes in Presidential Job Approval During Lame-Duck Period</div>
+<div id="summary-20210118103143">Presidents who left office on Inauguration Day, shown in chronological order</div>
+</figcaption>
+<div class="table-overflow">
+<table aria-describedby="summary-20210118103143" aria-labelledby="caption-20210118103143" class="mobile no-fixed">
+<thead>
+<tr>
+<td> </td>
+<th colspan="1" scope="col">Years</th>
+<th colspan="1" scope="col">Final pre-election<br/>
+approval rating</th>
+<th colspan="1" scope="col">Final approval rating<br/>
+as president</th>
+<th colspan="1" scope="col">Change</th>
+</tr>
+<tr>
+<td> </td>
+<th aria-label="No value" colspan="1"> </th>
+<th colspan="1"><span class="col-unit">%</span></th>
+<th colspan="1"><span class="col-unit">%</span></th>
+<th colspan="1"><span class="col-unit">pct. pts.</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">Truman</th>
+<td data-th="Years">1952-1953</td>
+<td data-th="Final pre-election approval rating" data-thunit="%">32</td>
+<td data-th="Final approval rating as president" data-thunit="%">32</td>
+<td data-th="Change" data-thunit="pct. pts.">0</td>
+</tr>
+<tr>
+<th scope="row">Eisenhower</th>
+<td data-th="Years">1960-1961</td>
+<td data-th="Final pre-election approval rating" data-thunit="%">58</td>
+<td data-th="Final approval rating as president" data-thunit="%">59</td>
+<td data-th="Change" data-thunit="pct. pts.">+1</td>
+</tr>
+<tr>
+<th scope="row">Johnson</th>
+<td data-th="Years">1968-1969</td>
+<td data-th="Final pre-election approval rating" data-thunit="%">42</td>
+<td data-th="Final approval rating as president" data-thunit="%">49</td>
+<td data-th="Change" data-thunit="pct. pts.">+7</td>
+</tr>
+<tr>
+<th scope="row">Ford</th>
+<td data-th="Years">1976-1977</td>
+<td data-th="Final pre-election approval rating" data-thunit="%">45</td>
+<td data-th="Final approval rating as president" data-thunit="%">53</td>
+<td data-th="Change" data-thunit="pct. pts.">+8</td>
+</tr>
+<tr>
+<th scope="row">Carter</th>
+<td data-th="Years">1980-1981</td>
+<td data-th="Final pre-election approval rating" data-thunit="%">37</td>
+<td data-th="Final approval rating as president" data-thunit="%">34</td>
+<td data-th="Change" data-thunit="pct. pts.">-3</td>
+</tr>
+<tr>
+<th scope="row">Reagan</th>
+<td data-th="Years">1988-1989</td>
+<td data-th="Final pre-election approval rating" data-thunit="%">51</td>
+<td data-th="Final approval rating as president" data-thunit="%">63</td>
+<td data-th="Change" data-thunit="pct. pts.">+12</td>
+</tr>
+<tr>
+<th scope="row">G.H.W. Bush</th>
+<td data-th="Years">1992-1993</td>
+<td data-th="Final pre-election approval rating" data-thunit="%">34</td>
+<td data-th="Final approval rating as president" data-thunit="%">56</td>
+<td data-th="Change" data-thunit="pct. pts.">+22</td>
+</tr>
+<tr>
+<th scope="row">Clinton</th>
+<td data-th="Years">2000-2001</td>
+<td data-th="Final pre-election approval rating" data-thunit="%">57</td>
+<td data-th="Final approval rating as president" data-thunit="%">66</td>
+<td data-th="Change" data-thunit="pct. pts.">+9</td>
+</tr>
+<tr>
+<th scope="row">G.W. Bush</th>
+<td data-th="Years">2008-2009</td>
+<td data-th="Final pre-election approval rating" data-thunit="%">25</td>
+<td data-th="Final approval rating as president" data-thunit="%">34</td>
+<td data-th="Change" data-thunit="pct. pts.">+9</td>
+</tr>
+<tr>
+<th scope="row">Obama</th>
+<td data-th="Years">2016-2017</td>
+<td data-th="Final pre-election approval rating" data-thunit="%">56</td>
+<td data-th="Final approval rating as president" data-thunit="%">59</td>
+<td data-th="Change" data-thunit="pct. pts.">+3</td>
+</tr>
+<tr>
+<th scope="row">Trump</th>
+<td data-th="Years">2020-2021</td>
+<td data-th="Final pre-election approval rating" data-thunit="%">46</td>
+<td data-th="Final approval rating as president" data-thunit="%">34</td>
+<td data-th="Change" data-thunit="pct. pts.">-12</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td class="note" colspan="100">Note: Kennedy (assassination) and Nixon (resignation) did not have lame-duck periods. Kennedy had a 58% job approval rating in a Nov. 8-13, 1963, poll, the last taken before he was killed on Nov. 22, 1963. Nixon had a 24% job approval rating in an Aug. 2-5, 1974, poll, the last taken before he resigned on Aug. 9, 1974.</td>
+</tr>
+<tr>
+<td class="source" colspan="100">Gallup</td>
+</tr>
+</tfoot>
+</table>
+</div>
+</figure>
+<p>Though many presidents left office with weak job approval ratings, Trump is the second, along with Richard Nixon, to register his personal low rating in the final measurement of his presidency. Nixon resigned his office amid the Watergate scandal.</p>
+<h2><strong>Record-Low Average Job Approval; Most Extreme Party Polarization</strong></h2>
+<p>Trump is departing office having averaged 41% job approval during his four years in office, lower than any other president in Gallup polling history by four points. Harry Truman and Carter had the previous lowest presidency averages. Nixon, Gerald Ford, George W. Bush and Barack Obama also averaged less than 50% approval. John Kennedy had the highest average approval rating. The average across all presidents is 53%.</p>
+<figure class="figure-table" contenteditable="false" id="20210115153249">
+<figcaption>
+<div id="caption-20210118104055">Presidential Job Approval Averages</div>
+</figcaption>
+<div class="table-overflow">
+<table aria-labelledby="caption-20210118104055" class="mobile no-fixed">
+<thead>
+<tr>
+<td> </td>
+<th colspan="1" scope="col">Years</th>
+<th colspan="1" scope="col">Average % approve</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">Kennedy</th>
+<td data-th="Years">1961-1963</td>
+<td data-th="Average % approve">70.1</td>
+</tr>
+<tr>
+<th scope="row">Eisenhower</th>
+<td data-th="Years">1953-1961</td>
+<td data-th="Average % approve">65.0</td>
+</tr>
+<tr>
+<th scope="row">G.H.W. Bush</th>
+<td data-th="Years">1989-1993</td>
+<td data-th="Average % approve">60.9</td>
+</tr>
+<tr>
+<th scope="row">Clinton</th>
+<td data-th="Years">1993-2001</td>
+<td data-th="Average % approve">55.1</td>
+</tr>
+<tr>
+<th scope="row">Johnson</th>
+<td data-th="Years">1963-1969</td>
+<td data-th="Average % approve">55.1</td>
+</tr>
+<tr>
+<th scope="row">Reagan</th>
+<td data-th="Years">1981-1989</td>
+<td data-th="Average % approve">52.8</td>
+</tr>
+<tr>
+<th scope="row">G.W. Bush</th>
+<td data-th="Years">2001-2009</td>
+<td data-th="Average % approve">49.4</td>
+</tr>
+<tr>
+<th scope="row">Nixon</th>
+<td data-th="Years">1969-1974</td>
+<td data-th="Average % approve">49.0</td>
+</tr>
+<tr>
+<th scope="row">Obama</th>
+<td data-th="Years">2009-2017</td>
+<td data-th="Average % approve">47.9</td>
+</tr>
+<tr>
+<th scope="row">Ford</th>
+<td data-th="Years">1974-1977</td>
+<td data-th="Average % approve">47.2</td>
+</tr>
+<tr>
+<th scope="row">Carter</th>
+<td data-th="Years">1977-1981</td>
+<td data-th="Average % approve">45.5</td>
+</tr>
+<tr>
+<th scope="row">Truman</th>
+<td data-th="Years">1945-1953</td>
+<td data-th="Average % approve">45.4</td>
+</tr>
+<tr>
+<th scope="row">Trump</th>
+<td data-th="Years">2017-2021</td>
+<td data-th="Average % approve">41.1</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td class="note" colspan="100">Figures are the average Gallup job approval ratings for presidents throughout their time in office.</td>
+</tr>
+<tr>
+<td class="source" colspan="100">Gallup</td>
+</tr>
+</tfoot>
+</table>
+</div>
+</figure>
+<p>A major reason Trump's ratings were historically low is because of the extreme polarization in his approval. In the Jan. 4-15 poll, 4% of Democrats, 30% of independents and 82% of Republicans approve of Trump's performance.</p>
+<p>Throughout his presidency, an average of 7% of Democrats approved of the job Trump was doing, while 88% of Republicans did so. The 81-point average gap in Democratic-Republican ratings of Trump exceeds the prior record for party polarization, under Obama, by 11 points. George W. Bush's ratings differed by 61 points on average between party groups, while all other presidents' party gaps were 55 points or lower. No president before Ronald Reagan had as much as a 50-point gap in partisan approval ratings.</p>
+<figure class="figure-table" contenteditable="false" id="20210115172858">
+<figcaption>
+<div id="caption-20210118104932">Average Presidential Job Approval Ratings, by Party</div>
+<div id="summary-20210118104932">Presidents shown in chronological order</div>
+</figcaption>
+<div class="table-overflow">
+<table aria-describedby="summary-20210118104932" aria-labelledby="caption-20210118104932" class="mobile no-fixed">
+<thead>
+<tr>
+<td> </td>
+<th colspan="1" scope="col">Party</th>
+<th colspan="1" scope="col">Republicans</th>
+<th colspan="1" scope="col">Independents</th>
+<th colspan="1" scope="col">Democrats</th>
+<th colspan="1" scope="col">Party gap</th>
+</tr>
+<tr>
+<td> </td>
+<th aria-label="No value" colspan="1"> </th>
+<th colspan="1"><span class="col-unit">%</span></th>
+<th colspan="1"><span class="col-unit">%</span></th>
+<th colspan="1"><span class="col-unit">%</span></th>
+<th colspan="1"><span class="col-unit">pct. pts.</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">Eisenhower</th>
+<td data-th="Party">Rep</td>
+<td data-th="Republicans" data-thunit="%">88</td>
+<td data-th="Independents" data-thunit="%">68</td>
+<td data-th="Democrats" data-thunit="%">49</td>
+<td data-th="Party gap" data-thunit="pct. pts.">39</td>
+</tr>
+<tr>
+<th scope="row">Kennedy</th>
+<td data-th="Party">Dem</td>
+<td data-th="Republicans" data-thunit="%">49</td>
+<td data-th="Independents" data-thunit="%">66</td>
+<td data-th="Democrats" data-thunit="%">84</td>
+<td data-th="Party gap" data-thunit="pct. pts.">35</td>
+</tr>
+<tr>
+<th scope="row">Johnson</th>
+<td data-th="Party">Dem</td>
+<td data-th="Republicans" data-thunit="%">44</td>
+<td data-th="Independents" data-thunit="%">53</td>
+<td data-th="Democrats" data-thunit="%">71</td>
+<td data-th="Party gap" data-thunit="pct. pts.">27</td>
+</tr>
+<tr>
+<th scope="row">Nixon</th>
+<td data-th="Party">Rep</td>
+<td data-th="Republicans" data-thunit="%">75</td>
+<td data-th="Independents" data-thunit="%">48</td>
+<td data-th="Democrats" data-thunit="%">34</td>
+<td data-th="Party gap" data-thunit="pct. pts.">41</td>
+</tr>
+<tr>
+<th scope="row">Ford</th>
+<td data-th="Party">Rep</td>
+<td data-th="Republicans" data-thunit="%">68</td>
+<td data-th="Independents" data-thunit="%">49</td>
+<td data-th="Democrats" data-thunit="%">37</td>
+<td data-th="Party gap" data-thunit="pct. pts.">31</td>
+</tr>
+<tr>
+<th scope="row">Carter</th>
+<td data-th="Party">Dem</td>
+<td data-th="Republicans" data-thunit="%">30</td>
+<td data-th="Independents" data-thunit="%">42</td>
+<td data-th="Democrats" data-thunit="%">57</td>
+<td data-th="Party gap" data-thunit="pct. pts.">27</td>
+</tr>
+<tr>
+<th scope="row">Reagan</th>
+<td data-th="Party">Rep</td>
+<td data-th="Republicans" data-thunit="%">83</td>
+<td data-th="Independents" data-thunit="%">54</td>
+<td data-th="Democrats" data-thunit="%">31</td>
+<td data-th="Party gap" data-thunit="pct. pts.">52</td>
+</tr>
+<tr>
+<th scope="row">G.H.W. Bush</th>
+<td data-th="Party">Rep</td>
+<td data-th="Republicans" data-thunit="%">82</td>
+<td data-th="Independents" data-thunit="%">57</td>
+<td data-th="Democrats" data-thunit="%">44</td>
+<td data-th="Party gap" data-thunit="pct. pts.">38</td>
+</tr>
+<tr>
+<th scope="row">Clinton</th>
+<td data-th="Party">Dem</td>
+<td data-th="Republicans" data-thunit="%">27</td>
+<td data-th="Independents" data-thunit="%">53</td>
+<td data-th="Democrats" data-thunit="%">82</td>
+<td data-th="Party gap" data-thunit="pct. pts.">55</td>
+</tr>
+<tr>
+<th scope="row">G.W. Bush</th>
+<td data-th="Party">Rep</td>
+<td data-th="Republicans" data-thunit="%">84</td>
+<td data-th="Independents" data-thunit="%">44</td>
+<td data-th="Democrats" data-thunit="%">23</td>
+<td data-th="Party gap" data-thunit="pct. pts.">61</td>
+</tr>
+<tr>
+<th scope="row">Obama</th>
+<td data-th="Party">Dem</td>
+<td data-th="Republicans" data-thunit="%">13</td>
+<td data-th="Independents" data-thunit="%">44</td>
+<td data-th="Democrats" data-thunit="%">83</td>
+<td data-th="Party gap" data-thunit="pct. pts.">70</td>
+</tr>
+<tr>
+<th scope="row">Trump</th>
+<td data-th="Party">Rep</td>
+<td data-th="Republicans" data-thunit="%">88</td>
+<td data-th="Independents" data-thunit="%">37</td>
+<td data-th="Democrats" data-thunit="%">7</td>
+<td data-th="Party gap" data-thunit="pct. pts.">81</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td class="note" colspan="100">Note: Gallup does not have complete party data for Truman</td>
+</tr>
+<tr>
+<td class="source" colspan="100">Gallup</td>
+</tr>
+</tfoot>
+</table>
+</div>
+</figure>
+<p>Trump's 7% rating among Democrats is by a significant margin the lowest for a president among supporters of the opposition party. Obama's 13% average approval among Republicans was the prior low. All other presidents before Obama had at least a 20% average rating among opposition party supporters, with Dwight Eisenhower, Kennedy, Lyndon Johnson and George H.W. Bush all above 40%.</p>
+<p>At the same time, no president has had a higher average job approval rating during his term among his own party's supporters than Trump has. Republicans' average 88% approval of Trump ties Eisenhower's as the highest own-party approval score, though most presidents had better-than 80% approval among their fellow partisans.</p>
+<p>Trump's last year in office also set a new standard for polarization in a single year in office, with an average 85-point gap between Republicans' (91%) and Democrats' (6%) ratings of him during his fourth year in the White House. Trump's term now includes the first-, second-, third- and seventh-<a href="https://news.gallup.com/poll/283910/trump-third-year-sets-new-standard-party-polarization.aspx">most polarized years in office</a>.</p>
+<p>In Gallup's final survey before Election Day 2020, <a href="https://news.gallup.com/poll/323234/national-satisfaction-rises-election-nears.aspx">92 points separated Republicans' (95%) and Democrats' (3%) approval of Trump</a>, the most ever in a single measurement.</p>
+<p>In addition to extreme party polarization, Trump's job approval ratings were historically low because political independents were significantly less likely to support him than any other president. Trump averaged 37% job approval among independents throughout his term, five points lower than Carter (42%) and seven points lower than George W. Bush (44%) and Obama (44%).</p>
+<h2><strong>Bottom Line</strong></h2>
+<p>Trump leaves office as the least-positively evaluated president in the Gallup polling era, based on the average of his approval ratings. He also just received his personal low approval rating, thanks largely to a sharp decline in public support during a lame-duck period marked by controversy, which could overshadow his accomplishments.</p>
+<p>His final job approval rating of 34% is not the lowest among presidents, however, as that distinction goes to Harry Truman's 32% rating, while Trump is tied with Carter and George W. Bush for the second-lowest.</p>
+<p>The significance of Trump's final rating could be more important than his average, as the former is the one that is often most predictive of <a href="https://news.gallup.com/poll/201770/americans-say-history-kind-unkind-obama.aspx">how presidents are regarded historically</a>.</p>
+<p>Perhaps more than anything, Trump's public support will be remembered for its sharp degree of party polarization. His Republican base remained solidly behind him throughout. At no point in his presidency did less than 77% of Republicans approve of him. The low-water marks for other recent GOP presidents were significantly lower -- 67% for Reagan, 57% for George H.W. Bush and 55% for George W. Bush.</p>
+<p>But more than any other president, Trump struggled to appeal beyond his base. That made it extremely challenging for him to win a second term, especially considering that fewer than <a href="https://news.gallup.com/poll/328310/party-average-2020-winds-similar-prior-years.aspx">one in three U.S. adults identify as Republicans</a> and more independents lean to the Democratic Party than the Republican Party. As such, all of his job approval ratings were below the historical average, and none reached 50%.</p>
+<p><em>Explore President Trump's approval ratings and compare them with those of past presidents in the <a href="https://news.gallup.com/interactives/185273/presidential-job-approval-center.aspx">Gallup Presidential Job Approval Center</a>.</em></p>
+<p><em><a href="https://news.gallup.com/file/poll/328649/210118TrumpFinal.pdf">View complete question responses and trends (PDF download)</a>.</em></p>
+<p><em>Learn more about how the <a href="https://www.gallup.com/201200/gallup-poll-social-series-work.aspx">Gallup Poll Social Series</a> works.</em></p>
+</div>
+<section class="section--default section-default section-rel--methodology" role="complementary">
+<div class="c-methodology">
+<a aria-controls="methodology-328637" aria-expanded="false" class="c-methodology__collapse-toggle" data-toggle="collapse" href="#methodology-328637" id="ctl00_MainContent_ctl00_ctl03_methodologyLink" role="button">
+<div class="c-methodology__title"><h2>Survey Methods</h2></div>
+</a>
+<div class="c-methodology__body collapse" id="methodology-328637">
+<div class="c-methodology__body-text"><p>Results for this Gallup poll are based on telephone interviews conducted Jan. 4-15, 2021, with a random sample of 1,023 adults, aged 18 and older, living in all 50 U.S. states and the District of Columbia. For results based on the total sample of national adults, the margin of sampling error is ±4 percentage points at the 95% confidence level. All reported margins of sampling error include computed design effects for weighting.</p>
+<p>Each sample of national adults includes a minimum quota of 70% cellphone respondents and 30% landline respondents, with additional minimum quotas by time zone within region. Landline and cellular telephone numbers are selected using random-digit-dial methods. </p></div>
+</div>
+</div>
+</section>
+<div class="section-flex--topics" role="complementary">
+<h2>Related Topics Include:</h2>
+<span class="flag USA"> <a class="o--topic" href="/topic/country-usa.aspx">USA</a></span><span> <a class="o--topic" href="/topic/all-gallup-headlines.aspx">All Gallup Headlines</a></span><span> <a class="o--topic" href="/topic/political-parties.aspx">Political Parties</a></span><span> <a class="o--topic" href="/topic/politics.aspx">Politics</a></span><span class="tagPJA tagFade"> <a class="o--topic" href="/topic/presidential-job-approval.aspx">Presidential Job Approval</a></span><span> <a class="o--topic" href="/topic/the-presidency.aspx">The Presidency</a></span></div>
+<section class="section--default section-default section-rel--sct" role="complementary">
+<!-- SCT relationship: allows (1) WEBPART, Standalone Item Tile, CARDBLOB -->
+<a class="c-tile c-related_insights--featured c-tile--key c-tile--count5 u-shadow overlay-link c-tile-link__card" href="https://www.gallup.com/analytics/213617/gallup-analytics.aspx">
+<div class="c-tile__meta"></div>
+<div class="c-tile__title"><h3 data-overflow="ellipsis">Access Crucial Data for Your Research</h3></div>
+<p class="c-tile__copy" data-overflow="ellipsis">Search, examine, compare and export nearly a century of primary data.</p>
+<div class="c-tile__key"><div class="btn btn-primary">Learn More<span class="sr-only"> about Access Crucial Data for Your Research</span></div></div>
+</a>
+</section>
+</div>
+</article>
+<div class="section-flex--tiles" role="complementary">
+<h2>Recommended</h2>
+<section class="cmstile tile-feature" data-tileid="327302-PMCMS"><div class="tile-inner">
+<div class="image">
+<img alt="" class="b-lazy img-responsive" data-src="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/PMCMS/gd7lxf0g2ukue2jancvfma.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" srcset="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/PMCMS/gd7lxf0g2ukue2jancvfma.jpg, https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature_2x/PMCMS/gd7lxf0g2ukue2jancvfma.jpg 2x"><noscript><img alt="" src="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/PMCMS/gd7lxf0g2ukue2jancvfma.jpg" srcset="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/PMCMS/gd7lxf0g2ukue2jancvfma.jpg, https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature_2x/PMCMS/gd7lxf0g2ukue2jancvfma.jpg 2x"/></noscript>
+</img></div>
+<div class="meta clearfix"><div class="topic"><a href="/topic/blog_pm.aspx">Polling Matters</a></div><time datetime="2020-12-04">Dec 4, 2020</time></div><div class="copy">
+<div class="tile-linktext"><h3 data-overflow="ellipsis"><a href="/opinion/polling-matters/327302/biden-harris-economic-priorities-public-opinion.aspx">Biden-Harris Economic Priorities and U.S. Public Opinion</a></h3></div>
+<p class="item-synopsis" data-overflow="ellipsis">Biden-Harris proposals to address the economy are generally in sync with American public opinion.</p></div></div></section>
+<section class="cmstile tile-feature" data-tileid="328559-POLL"><div class="tile-inner">
+<div class="image">
+<img alt="" class="b-lazy img-responsive" data-src="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/wezn9wwku0gyasyqpf_otw.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" srcset="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/wezn9wwku0gyasyqpf_otw.jpg, https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature_2x/POLL/wezn9wwku0gyasyqpf_otw.jpg 2x"/><noscript><img alt="" src="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/wezn9wwku0gyasyqpf_otw.jpg" srcset="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/wezn9wwku0gyasyqpf_otw.jpg, https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature_2x/POLL/wezn9wwku0gyasyqpf_otw.jpg 2x"/></noscript>
+</div>
+<div class="meta clearfix"><div class="topic"><a href="/topic/politics.aspx">Politics</a></div><time datetime="2021-01-18">Jan 18, 2021</time></div><div class="copy">
+<div class="tile-linktext"><h3 data-overflow="ellipsis"><a href="/poll/328559/governor-ratings-communicating-covid-plans-slip.aspx">Governor Ratings for Communicating COVID-19 Plans Slip</a></h3></div>
+<p class="item-synopsis" data-overflow="ellipsis">Americans continue to be far more positive about their state governors' leadership on COVID-19 than President Trump's or the CDC's, but governors' ratings were down in December.</p></div></div></section>
+<section class="section--default section-default section-tile">
+<!-- SCB tile (1 only) goes here if present -->
+<section class="cmstile tile-feature" data-tileid="328337-PMCMS"><div class="tile-inner">
+<div class="image">
+<img alt="" class="b-lazy img-responsive" data-src="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/PMCMS/io4qak6ab0aruoxougecqg.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" srcset="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/PMCMS/io4qak6ab0aruoxougecqg.jpg, https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature_2x/PMCMS/io4qak6ab0aruoxougecqg.jpg 2x"/><noscript><img alt="" src="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/PMCMS/io4qak6ab0aruoxougecqg.jpg" srcset="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/PMCMS/io4qak6ab0aruoxougecqg.jpg, https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature_2x/PMCMS/io4qak6ab0aruoxougecqg.jpg 2x"/></noscript>
+</div>
+<div class="meta clearfix"><div class="topic"><a href="/topic/blog_pm.aspx">Polling Matters</a></div><time datetime="2021-01-08">Jan 8, 2021</time></div><div class="copy">
+<div class="tile-linktext"><h3 data-overflow="ellipsis"><a href="/opinion/polling-matters/328337/five-policy-changes-biden-initial-agenda.aspx">Five Policy Changes on Biden's Initial Agenda</a></h3></div>
+<p class="item-synopsis" data-overflow="ellipsis">A look at how average Americans may react to five policy changes Joe Biden will likely initiate in his first months in office.</p></div></div></section>
+</section>
+</div>
+</div>
+<section class="section--default section-default visible-print-block section-sourceinfo">
+<p>
+<span data-cite="Release Date">
+<time datetime="2021-01-18">January 18, 2021</time>
+</span><br>
+<span data-cite="Source">Gallup  https://news.gallup.com/poll/328637/last-trump-job-approval-average-record-low.aspx</span><br>
+<span data-cite="Contact">Gallup World Headquarters, 901 F Street, Washington, D.C., 20001, U.S.A</span><br/>
+            +1 202.715.3030
+        </br></br></p>
+</section>
+</main>
+</div>
+</div>
+<footer class="footer-default">
+<div class="c-sitemap c-sitemap--flex">
+<div class="container">
+<div class="flex-wrapper-20">
+<div class="flex-item-20 c-sitemap__left-border c-sitemap__nav">
+<div class="c-sitemap__logo-group">
+<a class="c-sitemap__logo" href="https://www.gallup.com/" id="ctl00_SiteMapNavWithForm_SiteMapLogo">
+<span class="fa-gallup-logo" id="ctl00_SiteMapNavWithForm_LogoIcon"></span>
+<span class="sr-only" id="ctl00_SiteMapNavWithForm_BrandText">Gallup</span>
+</a>
+<nav class="" data-navclass="nav-no-children" id="nav-sm_default_social">
+<ul class="dropdown-menu__list">
+<li class="c-sitemap__item--icon c-sitemap__item--icon-linkedin"><a href="https://www.linkedin.com/company/gallup/" rel="noopener">LinkedIn</a></li>
+<li class="c-sitemap__item--icon c-sitemap__item--icon-twitter"><a href="https://www.twitter.com/Gallup" rel="noopener">Twitter</a></li>
+<li class="c-sitemap__item--icon c-sitemap__item--icon-instagram"><a href="https://www.instagram.com/gallup" rel="noopener">Instagram</a></li>
+<li class="c-sitemap__item--icon c-sitemap__item--icon-facebook"><a href="https://www.facebook.com/gallup" rel="noopener">Facebook</a></li>
+<li class="c-sitemap__item--icon c-sitemap__item--icon-youtube"><a href="https://www.youtube.com/@gallupvideos" rel="noopener">YouTube</a></li>
+</ul>
+</nav>
+</div>
+<div class="c-sitemap__group">
+<nav class="" data-navclass="nav-no-children" id="nav-sm_default_left">
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/178685/methodology-center.aspx" rel="noopener">Methodology Center</a></li>
+<li><a href="https://www.gallup.com/seniorscientists/171815/senior-scientists.aspx" rel="noopener">Senior Scientists</a></li>
+<li><a href="/poll/trends.aspx">Trends A-Z</a></li>
+<li><a href="https://www.gallup.com/corporate/178136/george-gallup.aspx" rel="noopener">George Gallup</a></li>
+</ul>
+</nav>
+</div>
+<div class="c-sitemap__group">
+<nav class="" data-navclass="nav-no-children" id="nav-sm_default_middle">
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/corporate/212381/who-we-are.aspx" rel="noopener">About Us</a></li>
+<li><a href="https://www.gallup.com/careers/" rel="noopener">Careers</a></li>
+<li><a href="https://www.gallup.com/corporate/212117/global-offices.aspx" rel="noopener">Locations</a></li>
+<li><a href="/home.aspx">News</a></li>
+<li><a href="https://store.gallup.com" rel="noopener">Store</a></li>
+</ul>
+</nav>
+</div>
+<div class="c-sitemap__group">
+<nav class="" data-navclass="nav-no-children" id="nav-sm_default_right">
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/corporate/468077/media-center.aspx" rel="noopener">Media Center</a></li>
+<li><a href="https://www.gallup.com/corporate/311051/gallup-speakers.aspx" rel="noopener">Gallup Speakers</a></li>
+</ul>
+</nav><nav class="" data-navclass="nav-no-children" id="nav-sm_default_cont">
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/270002/customer-support.aspx" rel="noopener">Customer Support</a></li>
+<li class="btn-wrapper btn-primary-wrapper"><a href="https://www.gallup.com/270188/contact-us-general.aspx" rel="noopener">Contact Us</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="flex-item-20 c-sitemap__subscription">
+<div class="c-sitemap__subscription-inner form-group form-inline">
+<label for="ctl00_SiteMapNavWithForm_SitemapSubscriptionEmail">Subscribe to Our Latest Insights</label>
+<div class="c-sitemap__subscription-inline-input">
+<input autocomplete="email" class="form-control" id="ctl00_SiteMapNavWithForm_SitemapSubscriptionEmail" name="ctl00$SiteMapNavWithForm$SitemapSubscriptionEmail" placeholder="Your Email Address" type="email"/>
+<button class="btn btn-primary" onclick="SMSubscribeClick()">Sign Up</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+    function SMSubscribeClick() {
+        var enteredText = document.getElementById('ctl00_SiteMapNavWithForm_SitemapSubscriptionEmail').value;
+        document.cookie = "fusionSubscribeEmail=" + enteredText + ";domain=gallup.com";
+        window.location.href = "https://www.gallup.com/subscribe.aspx";
+    }
+</script>
+<div class="c-legal-banner">
+<div class="container">
+<div class="c-legal-banner__copyright">
+
+            Copyright © 2025 Gallup, Inc. All rights reserved.
+        
+</div>
+<nav class="c-legal-banner__nav" data-navclass="nav-no-children" id="nav-nav_footer_legal">
+<ul class="dropdown-menu__list">
+<li><a href="#gcbShowPreferences">Cookie Preferences</a></li>
+<li><a href="/privacy">Privacy Statement</a></li>
+<li><a href="//www.gallup.com/legal.aspx">Legal</a></li>
+<li><a href="https://www.gallup.com/315998/ccpa-do-not-sell-my-information.aspx" rel="noopener">Do Not Sell or Share My Personal Information</a></li>
+<li><a href="https://www.gallup.com/california-privacy-notice" rel="noopener">California Collection Notice</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</footer>
+<script src="/scriptbundle/fusion/core?v=x7DBOt7R0MBi3EYexb8beqSkhp50F0VdhapK1KXUIr01"></script>
+<script src="/scriptbundle/fusion/site-news?v=2HsVSZMUeCVJZ55T5cqAc_YB7vtsP8TVoKl84FHm5B81"></script>
+</body>
+</html>

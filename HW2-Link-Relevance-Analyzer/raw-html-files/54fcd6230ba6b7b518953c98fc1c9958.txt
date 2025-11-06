@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en"><head><!-- OneTrust Cookies Consent Notice start for npr.org -->
+<script src="https://cdn.cookielaw.org/consent/82089dfe-410c-4e1b-a7f9-698174b62a86/OtAutoBlock.js" type="text/javascript"></script>
+<script charset="UTF-8" data-domain-script="82089dfe-410c-4e1b-a7f9-698174b62a86" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript"></script>
+<script type="text/javascript">
+function OptanonWrapper() {
+    NPR_OptanonWrapper = true;
+    document.dispatchEvent(new CustomEvent('npr:DataConsentAvailable'));
+    
+    OneTrust.OnConsentChanged(function() {
+        document.dispatchEvent(new CustomEvent('npr:DataConsentChanged'));
+    });
+ }
+</script>
+<!-- OneTrust Cookies Consent Notice end for npr.org -->
+<script ccpa-opt-out-geo="us" ccpa-opt-out-ids="C0004" ccpa-opt-out-lspa="false" charset="UTF-8" src="https://cdn.cookielaw.org/opt-out/otCCPAiab.js" type="text/javascript"></script><script class="optanon-category-C0004" type="text/plain">
+    document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+    var setNptTechAdblockerCookie = function(adblocker) {
+        var d = new Date();
+        d.setTime(d.getTime() + 60 * 5 * 1000);
+        document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+    };
+    (() => {
+        var script = document.createElement("script");
+        script.setAttribute("async", true);
+        script.setAttribute("src", "//www.npttech.com/advertising.js");
+        script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+        document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+</script><script>
+(function (e, o, n, i) {
+    if (!e) {
+        e = e || {}, window.permutive = e, e.q = [];
+        var t = function () {
+            return ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, function (e) {
+                return (e ^ (window.crypto || window.msCrypto).getRandomValues(new Uint8Array(1))[0] & 15 >> e / 4).toString(16)
+            })
+        };
+        e.config = i || {}, e.config.apiKey = o, e.config.workspaceId = n, e.config.environment = e.config.environment || "production", (window.crypto || window.msCrypto) && (e.config.viewId = t());
+        for (var g = ["addon", "identify", "track", "trigger", "query", "segment", "segments", "ready", "on", "once", "user", "consent"], r = 0; r < g.length; r++) {
+            var w = g[r];
+            e[w] = function (o) {
+                return function () {
+                    var n = Array.prototype.slice.call(arguments, 0);
+                    e.q.push({functionName: o, arguments: n})
+                };
+            }(w);
+        }
+    }
+})(window.permutive, "12730e07-f09d-4a69-93da-99b43983b663", "e1cef1f0-495f-4973-ba1c-880786e73a66", {"consentRequired": true});
+</script>
+<!--
+
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnn         nnnnnn ppp          pppppp rrr           rrrr
+nnn   nnnn    nnnn ppp   pppppp   pppp rrr   rrrrrr   rrr
+nnn   nnnnnn   nnn ppp   ppppppp   ppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppp    pppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp           ppppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppppppppppp rrr   rrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppp   ppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+
+We are hiring!
+
+https://boards.greenhouse.io/nationalpublicradioinc
+
+-->
+<script>dataLayer = [];</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.setAttributeNode(d.createAttribute('data-ot-ignore'));j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer', 'GTM-MVD397M');</script>
+<!-- End Google Tag Manager -->
+<script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemref="speakable" itemscope="" itemtype="https://schema.org/SpeakableSpecification"/><title>Meta allows Donald Trump back on Facebook and Instagram : NPR</title><meta content="[data-is-speakable]" id="speakable" itemprop="cssSelector"/><meta content="1VqzbDm4ukeFVHOoq5LjIKA2fVKZD-EYv8cXZhKXSfU" id="google-site-verification" name="google-site-verification"/><meta charset="utf-8"/><meta content="noarchive,index,follow,max-image-preview:large" name="robots"/><meta content="app-id=324906251, app-argument=https://www.npr.org/2023/01/25/1146961818/trump-meta-facebook-instagram-ban-ends" name="apple-itunes-app"/><meta content="General" name="Rating"/><meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/><meta name="npr-pjax"/><meta content="2023-01-25" name="date"/><link href="https://www.npr.org/2023/01/25/1146961818/trump-meta-facebook-instagram-ban-ends" rel="canonical"/><meta content="The social media company is letting a two-year ban, imposed after Trump supporters stormed the U.S. Capitol, expire." name="description"/><link href="https://feeds.npr.org/1019/rss.xml" rel="alternate" title="Technology" type="application/rss+xml"/><meta content="article" name="cXenseParse:pageclass"/><meta content="2023-01-25T17:22:02-05:00" name="cXenseParse:publishtime"/><meta content="2023-01-25T18:24:00-05:00" name="article:modified_time"/><meta content="Technology" name="cXenseParse:zbq-eyebrowText"/><meta content="https://www.npr.org/sections/technology/" name="cXenseParse:zbq-eyebrowUrl"/><meta content="News/Technology" name="cXenseParse:taxonomy"/><meta content="Shannon Bond" name="cXenseParse:author"/><link href="https://media.npr.org/chrome/favicon/favicon-180x180.png" rel="apple-touch-icon" sizes="180x180"/><link href="https://media.npr.org/chrome/favicon/favicon.ico" rel="shortcut icon"/><link href="https://media.npr.org/chrome/favicon/favicon-96x96.png" rel="icon" sizes="96x96"/><link href="https://media.npr.org/chrome/favicon/favicon-48x48.png" rel="icon" sizes="48x48"/><link href="https://media.npr.org/chrome/favicon/favicon-32x32.png" rel="icon" sizes="32x32"/><link href="https://media.npr.org/chrome/favicon/favicon-16x16.png" rel="icon" sizes="16x16"/><meta content="Meta allows Donald Trump back on Facebook and Instagram" property="og:title"/><meta content="https://www.npr.org/2023/01/25/1146961818/trump-meta-facebook-instagram-ban-ends" property="og:url"/><meta content="article" property="og:type"/><meta content="The social media company is letting a two-year ban, imposed after Trump supporters stormed the U.S. Capitol, expire." property="og:description"/><meta content="https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403_wide-e3a5f0096fa548cf0e31c111479eba12458390dc.jpg?s=1400&amp;c=100&amp;f=jpeg" property="og:image"/><meta content="NPR" property="og:site_name"/><meta content="138837436154588" property="fb:app_id"/><meta content="10643211755" property="fb:pages"/><meta content="free" property="article:content_tier"/><meta content="false" property="article:opinion"/><meta content="summary_large_image" name="twitter:card"/><meta content="Meta allows Donald Trump back on Facebook and Instagram" name="twitter:title"/><meta content="@NPR" name="twitter:site"/><meta content="npr.org" name="twitter:domain"/><meta content="https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403_wide-e3a5f0096fa548cf0e31c111479eba12458390dc.jpg?s=1400&amp;c=100&amp;f=jpeg" name="twitter:image:src"/><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","geolocationHost":"https:\/\/www.npr.org","legacyWebHost":"https:\/\/legacy.npr.org","stripeServiceHost":"https:\/\/stripe.npr.org","recaptchaV3SiteKey":"6LcdN9IZAAAAAOHT985BJjbzjkBjKSxdxK3GeKSt","placesApiKey":"AIzaSyB_wzlXPVwS4kHRAZsM6scMzUAIsJ6aMZ4","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","identityHost":"https:\/\/identity.api.npr.org","apiHost":"https:\/\/api.npr.org","stationApiHost":"https:\/\/station.api.npr.org","environment":"prod","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","gtmKey":"GTM-MVD397M","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":true,"cookieDomain":".npr.org","organizationV4Host":"https:\/\/organization.api.npr.org","staticAssetsHost":"https:\/\/prod-eks-static-assets.npr.org","stripeAPIVersion":"2025-02-24.acacia"};
+NPR.serverVars = {"storyId":"1146961818","storyCategory":"Technology","sponsorship":{"baseAdConfig":{"network":"\/6735\/","zone":"News_Technology","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1146961818","agg":["1150740117"]}},"end-of-story":{"site":{"desktop":"NPREndStory","mobile":"NPRMobileEndStory"},"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false,"deferred":true}},"isHiring":true,"facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/prod-eks-bundles.npr.org\/dist\/bundles\/","persistenceVersion":"206dc7b47576a78214a305edec14c9b0","isBuildOut":true,"pageLayoutName":"NewsStoryLayout","bingeModeId":"","isPreviewMode":false,"topicIds":["P1019","1001","1002","1006","1014","139482413"],"primaryTopic":"Technology","topics":["Technology","News","Home Page Top Stories","Business","Politics","Elections"],"theme":"1019","aggIds":["1001","1002","1006","1014","1019","125099514","134949364","135218992","139482413","141587905","150292977","763523701","1061872461","1150740117"],"tagIds":["Donald Trump","Facebook","Instagram","meta","social media","truth social"],"byline":["Shannon Bond"],"contentPartnerOrgFullName":"1 | NPR","pubDate":"2023012517","fullPubDate":"Wed, 25 Jan 2023 17:22:02 -0500","pageTypeId":"1","title":"Meta allows Donald Trump back on Facebook and Instagram","publisherOrgId":"1"};
+</script>
+<script src="https://cdn.optimizely.com/js/11107397707.js" type="text/javascript">
+</script>
+<script src="https://prod-eks-static-assets.npr.org/static/javascript/lib/modernizr/modernizr.custom.js" type="text/javascript">
+</script>
+<script src="https://prod-eks-static-assets.npr.org/static/javascript/lib/svg-loader.min.js" type="text/javascript">
+</script>
+<script async="" src="https://js.stripe.com/v3/" type="text/javascript">
+</script>
+<script>
+   !function(e){function r(r){for(var n,a,o=r[0],d=r[1],u=r[2],i=0,l=[];i<o.length;i++)a=o[i],Object.prototype.hasOwnProperty.call(f,a)&&f[a]&&l.push(f[a][0]),f[a]=0;for(n in d)Object.prototype.hasOwnProperty.call(d,n)&&(e[n]=d[n]);for(b&&b(r);l.length;)l.shift()();return c.push.apply(c,u||[]),t()}function t(){for(var e,r=0;r<c.length;r++){for(var t=c[r],n=!0,o=1;o<t.length;o++){var d=t[o];0!==f[d]&&(n=!1)}n&&(c.splice(r--,1),e=a(a.s=t[0]))}return e}var n={},f={0:0},c=[];function a(r){if(n[r])return n[r].exports;var t=n[r]={i:r,l:!1,exports:{}};return e[r].call(t.exports,t,t.exports,a),t.l=!0,t.exports}a.e=function(e){var r=[],t=f[e];if(0!==t)if(t)r.push(t[2]);else{var n=new Promise((function(r,n){t=f[e]=[r,n]}));r.push(t[2]=n);var c,o=document.createElement("script");o.charset="utf-8",o.timeout=120,a.nc&&o.setAttribute("nonce",a.nc),o.src=function(e){return a.p+""+e+"."+{1:"74e5455220e76322b034",2:"52c45d4e347cf8e5dcb2",3:"ddf46da314b9bf76329c",4:"9d7710d53f5e7e55c583",5:"770897aa30c19cedc146",6:"aef2673d74ec371c64c2",7:"f5a8c3b210f0f07e1046",8:"3e76814c3524be0bb828",9:"a17197143a04c64ee87e",10:"2c217d97d258fcffa420",11:"9a1e856ad54b333aad1b",75:"d501cbe3cf5eedd1f5d5",76:"dc969865439098d9fed4",77:"77d1e85151151476697f",78:"31a804e4e8c4f052cb14",79:"be836fb908109387e62a",80:"ceea6b70915441ff0630",81:"ecf0936fa246e259efa8",82:"4cff7b4bc7f13b0c4831",83:"b5a1c2399bef9232ff62",84:"9e35b7681eccbf5c3ec6",85:"ae34de3d376f078bf4a4",86:"0ffeb4eeb10f6fec03f0",87:"09b26050dd3b61d31d17",88:"e0ea33db1c92600d0809",89:"4006c64e2319594ef3cc",90:"16ec6d0ac2d1ef8b52ce",91:"b9d0a003aba29ef38f9d",92:"d5ad0b6eec3a295de074",93:"ead04419969e4f277494",94:"e141f117eacadeae10fc",95:"7ffd11553f8bd62048e6",96:"f206052038a221873b88",97:"836b2acd00c986122ff4",98:"be309d534e5ec0f83c3e",99:"5bd7ae837f3dd9ac4006",100:"abbc394d086f423fd989",101:"e94f5dfc20c8d4f99a55"}[e]+".chunk.js"}(e);var d=new Error;c=function(r){o.onerror=o.onload=null,clearTimeout(u);var t=f[e];if(0!==t){if(t){var n=r&&("load"===r.type?"missing":r.type),c=r&&r.target&&r.target.src;d.message="Loading chunk "+e+" failed.\n("+n+": "+c+")",d.name="ChunkLoadError",d.type=n,d.request=c,t[1](d)}f[e]=void 0}};var u=setTimeout((function(){c({type:"timeout",target:o})}),12e4);o.onerror=o.onload=c,document.head.appendChild(o)}return Promise.all(r)},a.m=e,a.c=n,a.d=function(e,r,t){a.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},a.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},a.t=function(e,r){if(1&r&&(e=a(e)),8&r)return e;if(4&r&&"object"==typeof e&&e&&e.__esModule)return e;var t=Object.create(null);if(a.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:e}),2&r&&"string"!=typeof e)for(var n in e)a.d(t,n,function(r){return e[r]}.bind(null,n));return t},a.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return a.d(r,"a",r),r},a.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},a.p="/dist/bundles/",a.oe=function(e){throw console.error(e),e};var o=window.webpackJsonp=window.webpackJsonp||[],d=o.push.bind(o);o.push=r,o=o.slice();for(var u=0;u<o.length;u++)r(o[u]);var b=d;t()}([]);
+</script>
+<script src="https://prod-eks-bundles.npr.org/dist/bundles/33.aed3b3f7e6f244a3eeb2.chunk.js" type="text/javascript">
+</script>
+<link data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/persistent-css-92c61b5f7e3f4388b1d2.css" media="screen, print" rel="stylesheet"/><link data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/persistent_medium-css-92c61b5f7e3f4388b1d2.css" media="screen and (min-width: 768px)" rel="stylesheet"/><link data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/persistent_large-css-92c61b5f7e3f4388b1d2.css" media="screen and (min-width: 1025px)" rel="stylesheet"/><link as="style" data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/fonts-css-92c61b5f7e3f4388b1d2.css" media="screen, print" onload="this.onload=null;this.rel='stylesheet'" rel="preload"/><link href="https://prod-eks-bundles.npr.org/dist/bundles/newsStory-css-92c61b5f7e3f4388b1d2.css" media="screen, print" rel="stylesheet"/><script type="application/ld+json">
+   {"@type":"NewsArticle","publisher":{"@type":"Organization","name":"NPR","logo":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/chrome\/npr-logo-2025.jpg"}},"headline":"Meta allows Donald Trump back on Facebook and Instagram","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.npr.org\/2023\/01\/25\/1146961818\/trump-meta-facebook-instagram-ban-ends"},"datePublished":"2023-01-25T17:22:02-05:00","dateModified":"2023-01-25T18:24:00-05:00","author":{"@type":"Person","name":["Shannon Bond"]},"description":"The social media company is letting a two-year ban, imposed after Trump supporters stormed the U.S. Capitol, expire.","image":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/assets\/img\/2023\/01\/04\/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg"},"@context":"http:\/\/schema.org"}
+</script>
+<script type="text/javascript">
+   document.domain="www.npr.org";
+</script>
+<script data-piano-aid="9ENxKQ58pu" id="piano-aid" type="text/javascript">
+    (function(src) {
+        var a = document.createElement("script");
+        a.type = "text/javascript";
+        a.async = true;
+        a.src = src;
+        var b = document.getElementsByTagName("script")[0];
+        b.parentNode.insertBefore(a, b)
+    })("//cdn.piano.io/api/tinypass.min.js");
+
+    window.pdl = window.pdl || {};
+    window.pdl.requireConsent = true;
+
+    tp = window.tp || [];
+
+    tp.push(["init", function() {
+        tp.enableGACrossDomainLinking();
+    }]);
+</script>
+<script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="MBVDT-3L9KY-36ZMJ-SPSAR-JR833",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"MBVDT-3L9KY-36ZMJ-SPSAR-JR833";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="jdbnlflaayvke2gzprya-f-604c8aa73-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"55818","ak.ai":parseInt("290690",10),"ak.ol":"0","ak.cr":25,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"fe687ad","ak.r":38266,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"72.194.213.0","ak.cport":65014,"ak.gh":"96.6.42.158","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1759083632","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==unQoxdQeJ+ZVgGrv6keeV8xstIP8kKzBLRPLD+iV1gJ9sSdBcRrQAB6+LpyQTsGT1avPueDypv37F+QtqcAExBofFOvi1Brr6aHB47V5KhkrFLRUkp6Sc21EwrwvbjP9GKACoXzbP1JVNQKvJA8yHyKVQfRdeHM+vopOKBlHPpANHB/dumwlsCXzbNuK2sQ6dly9Zpu6UWDJBv6l8Tvw1acgn4aanTzLqvnJ8LLl2K+dYbv9vgJa7cNTfwahbfVFx95Wt0/LBMw4gMnlVkKQntw6F0YIwufgtjGCIW0Xyg82OoYlWFZUQj9PIOZXwZ4nQs4tjcXwwxRQxA7bzhn1oYE590k77LvTo3W2D1spwGJez17fkRtgyy53FClmB+09GJ9D8uLMvuzP6qK18NLQVh4D7b3AF/MtpOneik28uFY=","ak.pv":"111","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head><body class="news tmplNewsStory story-layout is-buildout no-transcript has-no-branding id1146961818" data-pjax-modules="util/env images/lazy-load data-consent data-management-platform header-bidding metrics nielsen nielsenDCR copyright auto-refresh navigation/global-navigation fitvids googletag dfp globalfooter persistent-audio player/more-options player/audio-module-clickable what-input metrics/doubleclickFloodlight callout/on-page-callouts global-alerts right-rail-content-widgets we-are-hiring piano datadog ecommerce recommendations/end-of-story-recommendations-callout jw social/share slideshow images/enlargement contentfooter story/date-tooltip social/sharepop podcast-cards search/faceting-param local/newsletter/callout recaptcha-v3" id="news">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MVD397M" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="skip-links">
+<span>Accessibility links</span> <ul>
+<li><a class="skiplink" href="#mainContent">Skip to main content</a></li>
+<li><a class="skiplink" href="https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player">Keyboard shortcuts for audio player</a></li>
+</ul>
+</div>
+<div class="global-header-sticky-cta-wrap" id="global-header-sticky-cta-wrap">
+<div class="global-header-sticky-cta-mount" id="global-header-sticky-cta-mount">
+</div>
+</div>
+<div class="global-header-cta-wrap" id="global-header-cta-wrap">
+<div class="global-header-cta-mount" id="global-header-cta-mount">
+</div>
+</div>
+<header aria-label="NPR header" class="npr-header" id="globalheader">
+<nav class="navigation">
+<div class="navigation__top-level-wrap" data-metrics-category-ga4="recirculation">
+<ul class="navigation__top-level">
+<li class="navigation__toggle-wrap">
+<button aria-expanded="false" aria-haspopup="true" class="navigation__toggle navigation__toggle--open" data-metrics-ga4='{"action":"global_navigation_click","clickName":"open navigation menu","clickType":"global navigation"}' id="navigation__toggle--open">
+                    Open Navigation Menu
+                </button>
+</li>
+<li class="navigation__home">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr logo","clickType":"global navigation","clickUrl":"\/"}' href="/">
+<img alt="NPR logo" src="https://prod-eks-static-assets.npr.org/chrome_svg/npr-logo-2025.svg"/>
+</a>
+</li>
+<li id="navigation__station-mount"></li>
+<li class="navigation__newsletters">
+<div class="navigation__newsletters-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"newsletters","clickType":"global navigation","clickUrl":"/newsletters/"}' href="/newsletters/" target="_blank">Newsletters</a>
+</div>
+</li>
+<li class="navigation__account" id="user-account-dropdown-mount"></li>
+<li class="navigation__shop">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr shop","clickType":"global navigation","clickUrl":"https://shopnpr.org"}' href="https://shopnpr.org">NPR Shop</a>
+</li>
+<li id="navigation__station-donate-mount"></li>
+</ul>
+</div>
+<section class="menu menu--main" data-metrics-category-ga4="recirculation" id="main-menu">
+<div class="menu__inner">
+<header class="menu__header">
+<button aria-expanded="true" aria-haspopup="true" class="navigation__toggle navigation__toggle--close" data-metrics-ga4='{"action":"global_navigation_click","clickName":"close navigation menu","clickType":"global navigation"}' id="navigation__toggle--close">
+                    Close <span>Navigation Menu</span>
+</button>
+</header>
+<ul class="menu__list">
+<li class="menu__item menu__item--home">
+<div class="menu__item-inner"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr logo","clickType":"global navigation","clickUrl":"\/"}' href="/">Home</a></div>
+</li>
+<li class="menu__item menu__item--news menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"news","clickType":"global navigation","clickUrl":"/sections/news/"}' href="/sections/news/">News</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle news drawer","clickType":"global navigation"}'>Expand/collapse submenu for News</button>
+</div>
+<ul class="submenu submenu--news">
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"national","clickType":"global navigation","clickUrl":"/sections/national/"}' href="/sections/national/">National</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"world","clickType":"global navigation","clickUrl":"/sections/world/"}' href="/sections/world/">World</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"politics","clickType":"global navigation","clickUrl":"/sections/politics/"}' href="/sections/politics/">Politics</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"business","clickType":"global navigation","clickUrl":"/sections/business/"}' href="/sections/business/">Business</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"health","clickType":"global navigation","clickUrl":"/sections/health/"}' href="/sections/health/">Health</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"science","clickType":"global navigation","clickUrl":"/sections/science/"}' href="/sections/science/">Science</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"climate","clickType":"global navigation","clickUrl":"/sections/climate/"}' href="/sections/climate/">Climate</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"race","clickType":"global navigation","clickUrl":"/sections/codeswitch/"}' href="/sections/codeswitch/">Race</a></li>
+</ul>
+</li>
+<li class="menu__item menu__item--culture menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"culture","clickType":"global navigation","clickUrl":"/sections/culture/"}' href="/sections/culture/">Culture</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle culture drawer","clickType":"global navigation"}'>Expand/collapse submenu for Culture</button>
+</div>
+<ul class="submenu submenu--culture">
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"books","clickType":"global navigation","clickUrl":"/books/"}' href="/books/">Books</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"movies","clickType":"global navigation","clickUrl":"/sections/movies/"}' href="/sections/movies/">Movies</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"television","clickType":"global navigation","clickUrl":"/sections/television/"}' href="/sections/television/">Television</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"pop culture","clickType":"global navigation","clickUrl":"/sections/pop-culture/"}' href="/sections/pop-culture/">Pop Culture</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"food","clickType":"global navigation","clickUrl":"/sections/food/"}' href="/sections/food/">Food</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"art &amp; design","clickType":"global navigation","clickUrl":"/sections/art-design/"}' href="/sections/art-design/">Art &amp; Design</a> </li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"performing arts","clickType":"global navigation","clickUrl":"/sections/performing-arts/"}' href="/sections/performing-arts/">Performing Arts</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"life kit","clickType":"global navigation","clickUrl":"/lifekit/"}' href="/lifekit/">Life Kit</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"gaming","clickType":"global navigation","clickUrl":"/sections/gaming/"}' href="/sections/gaming/">Gaming</a></li>
+</ul>
+</li>
+<li class="menu__item menu__item--music menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"music","clickType":"global navigation","clickUrl":"/music/"}' href="/music/">Music</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle music drawer","clickType":"global navigation"}'>Expand/collapse submenu for Music</button>
+</div>
+<ul class="submenu submenu--music"><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"all songs considered","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/"}' href="https://www.npr.org/sections/allsongs/">
+        All Songs Considered
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"tiny desk","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/tiny-desk-concerts\/"}' href="https://www.npr.org/series/tiny-desk-concerts/">
+        Tiny Desk
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"new music friday","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/606254804\/new-music-friday"}' href="https://www.npr.org/sections/allsongs/606254804/new-music-friday">
+        New Music Friday
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"music features","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/music-features"}' href="https://www.npr.org/sections/music-features">
+        Music Features
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"live sessions","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/770565791\/npr-music-live-sessions"}' href="https://www.npr.org/series/770565791/npr-music-live-sessions">
+        Live Sessions
+    </a>
+</li></ul>
+</li>
+<li class="menu__item menu__item--shows-podcasts menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"podcasts &amp; shows","clickType":"global navigation","clickUrl":"/podcasts-and-shows/"}' href="/podcasts-and-shows/">Podcasts &amp; Shows</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle podcasts &amp; shows drawer","clickType":"global navigation"}'>Expand/collapse submenu for Podcasts &amp; Shows</button>
+</div>
+<div class="submenu submenu--shows-podcasts">
+<span class="submenu__category submenu__category--daily">Daily</span>
+<ul class="submenu__list submenu__list--daily">
+<li class="submenu__item submenu__item--timed submenu__item--weekday hidden">
+<a data-metrics-action="click morning edition" data-metrics-ga4='{"action":"global_navigation_click","clickName":"morning edition","clickType":"global navigation","clickUrl":"/programs/morning-edition/"}' href="/programs/morning-edition/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/morning-edition.jpg"/>
+                                    Morning Edition
+                                </a>
+</li>
+<li class="submenu__item submenu__item--timed submenu__item--saturday hidden">
+<a data-metrics-action="click weekend edition saturday" data-metrics-ga4='{"action":"global_navigation_click","clickName":"weekend edition saturday","clickType":"global navigation","clickUrl":"/programs/weekend-edition-saturday/"}' href="/programs/weekend-edition-saturday/">
+<img alt="" loading="lazy" src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesat_sq-cbde87a2fa31b01047441e6f34d2769b0287bcd4-s100-c85.png"/>
+                                    Weekend Edition Saturday
+                                </a>
+</li>
+<li class="submenu__item submenu__item--timed submenu__item--sunday hidden">
+<a data-metrics-action="click weekend edition sunday" data-metrics-ga4='{"action":"global_navigation_click","clickName":"weekend edition sunday","clickType":"global navigation","clickUrl":"/programs/weekend-edition-sunday/"}' href="/programs/weekend-edition-sunday/">
+<img alt="" loading="lazy" src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesun_sq-4a03b35e7e5adfa446aec374523a578d54dc9bf5-s100-c85.png"/>
+                                    Weekend Edition Sunday
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click all things considered" data-metrics-ga4='{"action":"global_navigation_click","clickName":"all things considered","clickType":"global navigation","clickUrl":"/programs/all-things-considered/"}' href="/programs/all-things-considered/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/all-things-considered.png"/>
+                                    All Things Considered
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click fresh air" data-metrics-ga4='{"action":"global_navigation_click","clickName":"fresh air","clickType":"global navigation","clickUrl":"/programs/fresh-air/"}' href="/programs/fresh-air/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/fresh-air.png"/>
+                                    Fresh Air
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click up first" data-metrics-ga4='{"action":"global_navigation_click","clickName":"up first","clickType":"global navigation","clickUrl":"/podcasts/510318/up-first/"}' href="/podcasts/510318/up-first/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/up-first.jpg?version=2"/>
+                                    Up First
+                                </a>
+</li>
+</ul>
+<span class="submenu__category submenu__category--featured">Featured</span>
+<ul class="submenu__list submenu__list--featured"><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"embedded","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510311\/embedded"}' href="https://www.npr.org/podcasts/510311/embedded">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/08/01/embedded_podcast-tile_sq-21d8f227c811e4f3a0e28b4aa774dd17e39287db-s100.jpeg" loading="lazy" src="https://media.npr.org/assets/img/2024/08/01/embedded_podcast-tile_sq-21d8f227c811e4f3a0e28b4aa774dd17e39287db-s100-c100.jpeg"/>
+        Embedded
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"the npr politics podcast","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510310\/npr-politics-podcast"}' href="https://www.npr.org/podcasts/510310/npr-politics-podcast">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004-s100.jpg" loading="lazy" src="https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004-s100-c100.jpg"/>
+        The NPR Politics Podcast
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"throughline","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510333\/throughline"}' href="https://www.npr.org/podcasts/510333/throughline">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-a59d7da2ea2bf97562aeec6440ddf837e8f7de65-s100.jpg" loading="lazy" src="https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-a59d7da2ea2bf97562aeec6440ddf837e8f7de65-s100-c100.jpg"/>
+        Throughline
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4="{&quot;category&quot;:&quot;recirculation&quot;,&quot;action&quot;:&quot;global_navigation_click&quot;,&quot;clickName&quot;:&quot;trump's terms &quot;,&quot;clickType&quot;:&quot;music ecosystem navigation&quot;,&quot;clickUrl&quot;:&quot;https:\/\/www.npr.org\/podcasts\/510374\/trumps-terms&quot;}" href="https://www.npr.org/podcasts/510374/trumps-terms">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/11/20/trumps-terms_tile-art_sq-a562bd2ad2a39113dc7da18658fc1e25d0664257-s100.jpg" loading="lazy" src="https://media.npr.org/assets/img/2024/11/20/trumps-terms_tile-art_sq-a562bd2ad2a39113dc7da18658fc1e25d0664257-s100-c100.jpg"/>
+        Trump's Terms 
+    </a>
+</li></ul>
+<ul class="submenu__list submenu__list--directories">
+<li class="submenu__item"><a data-metrics-action="click podcasts &amp; shows" data-metrics-ga4='{"action":"global_navigation_click","clickName":"podcasts &amp; shows","clickType":"global navigation","clickUrl":"/podcasts-and-shows/"}' href="/podcasts-and-shows/">More Podcasts &amp; Shows</a></li>
+</ul>
+</div>
+</li>
+<li class="menu__item menu__item--search">
+<div class="menu__item-inner">
+<a data-metrics-action="click search" data-metrics-ga4='{"action":"global_navigation_click","clickName":"search","clickType":"global navigation","clickUrl":"/search/"}' href="/search/" id="navigation_dropdown-search">Search</a>
+</div>
+</li>
+<li class="menu__item menu__item--newsletters">
+<div class="menu__item-inner">
+<a data-metrics-action="click newsletters" data-metrics-ga4='{"action":"global_navigation_click","clickName":"newsletters","clickType":"global navigation","clickUrl":"/newsletters/"}' href="/newsletters/" target="_blank">Newsletters</a>
+</div>
+</li>
+<li class="menu__item menu__item--shop">
+<div class="menu__item-inner">
+<a data-metrics-action="click npr shop" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr shop","clickType":"global navigation","clickUrl":"https://shopnpr.org"}' href="https://shopnpr.org">NPR Shop</a>
+</div>
+</li>
+<li class="menu__item menu__item--account" id="user-account-dropdown-mount-two"></li>
+</ul>
+</div>
+</section>
+<section class="menu menu--music" data-metrics-category-ga4="recirculation">
+<div class="menu__list-wrap">
+<ul class="menu__list menu__list--ecosystem menu__list--music">
+<li class="menu__item menu__item--music-home">
+<a data-metrics-action="click npr music logo" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr music logo","clickType":"global navigation","clickUrl":"/music/"}' href="/music/">
+<img alt="NPR Music" class="music-logo" src="https://prod-eks-static-assets.npr.org/chrome_svg/music-logo-dark.svg"/>
+<img alt="NPR Music" class="music-logo-alt" src="https://prod-eks-static-assets.npr.org/chrome_svg/music-logo-light.svg"/>
+</a>
+</li>
+<li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"all songs considered","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/"}' href="https://www.npr.org/sections/allsongs/">
+        All Songs Considered
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"tiny desk","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/tiny-desk-concerts\/"}' href="https://www.npr.org/series/tiny-desk-concerts/">
+        Tiny Desk
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"new music friday","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/606254804\/new-music-friday"}' href="https://www.npr.org/sections/allsongs/606254804/new-music-friday">
+        New Music Friday
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"music features","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/music-features"}' href="https://www.npr.org/sections/music-features">
+        Music Features
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"live sessions","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/770565791\/npr-music-live-sessions"}' href="https://www.npr.org/series/770565791/npr-music-live-sessions">
+        Live Sessions
+    </a>
+</li>
+</ul>
+</div>
+</section>
+<section class="menu menu--about" data-metrics-category-ga4="recirculation">
+<div class="menu__list-wrap">
+<ul class="menu__list menu__list--ecosystem menu__list--about">
+<li class="menu__item menu__item--about-home"><a data-metrics-action="click about npr" data-metrics-ga4='{"action":"global_navigation_click","clickName":"about npr","clickType":"about ecosystem navigation","clickUrl":"/about/"}' href="/about/">About NPR</a></li>
+<li class="menu__item menu__item--about-diversity"><a data-metrics-action="click diversity" data-metrics-ga4='{"action":"global_navigation_click","clickName":"diversity","clickType":"about ecosystem navigation","clickUrl":"/diversity/"}' href="/diversity/">Diversity</a></li>
+<li class="menu__item menu__item--about-support"><a data-metrics-action="click support" data-metrics-ga4='{"action":"global_navigation_click","clickName":"support","clickType":"about ecosystem navigation","clickUrl":"/support/"}' href="/support/">Support</a></li>
+<li class="menu__item menu__item--about-careers"><a data-metrics-action="click careers" data-metrics-ga4='{"action":"global_navigation_click","clickName":"careers","clickType":"about ecosystem navigation","clickUrl":"/careers/"}' href="/careers/">Careers</a></li>
+<li class="menu__item menu__item--about-press"><a data-metrics-action="click press" data-metrics-ga4='{"action":"global_navigation_click","clickName":"press","clickType":"about ecosystem navigation","clickUrl":"/series/750003/press-room/"}' href="/series/750003/press-room/">Press</a></li>
+<li class="menu__item menu__item--about-ethics"><a data-metrics-action="click ethics" data-metrics-ga4='{"action":"global_navigation_click","clickName":"ethics","clickType":"about ecosystem navigation","clickUrl":"/ethics/"}' href="/ethics/">Ethics</a></li>
+</ul>
+</div>
+</section>
+</nav>
+</header><main aria-label="main content"><div class="speakable">
+<b data-is-speakable="">Meta allows Donald Trump back on Facebook and Instagram</b> <b data-is-speakable="">The social media company is letting a two-year ban, imposed after Trump supporters stormed the U.S. Capitol, expire.</b>
+</div>
+<div id="wrapper">
+<header class="contentheader contentheader--one"></header> <section id="main-section"><article class="story"><a id="mainContent"></a><div class="slug-wrap">
+<h3 class="slug">
+<a href="https://www.npr.org/sections/technology/">Technology</a>
+</h3>
+</div>
+<div class="storytitle">
+<h1>Meta allows Donald Trump back on Facebook and Instagram</h1>
+<input id="title1146961818" type="hidden" value="Meta allows Donald Trump back on Facebook and Instagram"/>
+<input id="shortTitle1146961818" type="hidden" value="Meta allows Donald Trump back on Facebook and Instagram"/>
+<input id="modelFullUrl1146961818" type="hidden" value="https://www.npr.org/2023/01/25/1146961818/trump-meta-facebook-instagram-ban-ends"/>
+</div>
+<!-- END CLASS="STORYTITLE" -->
+<div class="story-meta has-byline" id="story-meta">
+<div class="story-meta__one">
+<div class="story-meta__one-inner">
+<div class="dateblock dateblock-updated has-tooltip">
+<time datetime="2023-01-25T18:24:00-05:00">
+<span aria-describedby="tt-originally-published" class="date">Updated January 25, 2023</span><span class="time">6:24 PM ET</span>
+<span class="tooltip" id="tt-originally-published" role="tooltip">
+                    Originally published <span class="tt-date">January 25, 2023</span><span class="tt-time">5:22 PM ET</span>
+</span>
+<span class="icn-updated"></span>
+</time>
+</div>
+</div>
+<!-- END CLASS="STORY-META__ONE-INNER" -->
+</div>
+<!-- END CLASS="STORY-META__ONE" -->
+<div class="story-meta__two">
+<div class="storybyline-wrap linkLocation" id="storybyline">
+<div class="bucketwrap byline">
+<div class="byline-container--block">
+<div aria-label="Byline" class="byline byline--block byline--has-link">
+<div class="byline__photo">
+<a href="https://www.npr.org/people/763523701/shannon-bond" rel="author">
+<picture><source class="img" data-format="webp" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/688x688+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3f%2Fbf%2F0bf12637455aabe9a6dafa217e45%2Fshannon-bond.JPG" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/688x688+0+0/resize/100/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3f%2Fbf%2F0bf12637455aabe9a6dafa217e45%2Fshannon-bond.JPG" type="image/webp"/><source class="img" data-format="jpeg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/688x688+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3f%2Fbf%2F0bf12637455aabe9a6dafa217e45%2Fshannon-bond.JPG" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/688x688+0+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3f%2Fbf%2F0bf12637455aabe9a6dafa217e45%2Fshannon-bond.JPG" type="image/jpeg"/><img alt="Headshot of Shannon Bond" class="img" data-format="jpeg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/688x688+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3f%2Fbf%2F0bf12637455aabe9a6dafa217e45%2Fshannon-bond.JPG" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/688x688+0+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3f%2Fbf%2F0bf12637455aabe9a6dafa217e45%2Fshannon-bond.JPG"/></picture>
+</a>
+</div>
+<p class="byline__name byline__name--block">
+<a href="https://www.npr.org/people/763523701/shannon-bond" rel="author">
+      Shannon Bond
+    </a>
+</p>
+</div>
+</div>
+</div>
+<!-- END CLASS="BUCKETWRAP BYLINE" -->
+</div>
+</div>
+<!-- END CLASS="STORY-META__TWO" -->
+</div>
+<!-- END ID="STORY-META" CLASS="STORY-META HAS-BYLINE" -->
+<div class="storylocation linkLocation" id="headlineaudio">
+<article aria-label="audio-module" class="bucketwrap resaudio" id="res1151586415"><div class="audio-module">
+<h4 class="audio-module-title">Meta allows Donald Trump back on Facebook and Instagram</h4>
+<div class="audio-module-controls-wrap" data-audio='{"uid":"1146961818:1151586415","available":true,"duration":239,"title":"Meta allows Donald Trump back on Facebook and Instagram","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/atc\/2023\/01\/20230125_atc_facebook_unbans_trump.mp3?d=239&amp;size=3832730&amp;e=1146961818&amp;sc=siteplayer","storyUrl":"https:\/\/www.npr.org\/2023\/01\/25\/1146961818\/trump-meta-facebook-instagram-ban-ends","slug":"technology","program":"","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other","skipSponsorship":false,"hasAdsWizz":false,"isStreamAudioType":false}' data-audio-metrics="[]">
+<div class="audio-module-controls">
+<a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2023/01/20230125_atc_facebook_unbans_trump.mp3?d=239&amp;size=3832730&amp;e=1146961818&amp;sc=siteplayer&amp;aw_0_1st.playerid=siteplayer">
+<b class="audio-module-listen-inner">
+<b class="audio-module-listen-icon icn-play"></b>
+<b class="audio-module-listen-text">
+<b class="audio-module-cta">
+                            
+                            Listen
+                        </b>
+<b class="audio-module-listen-duration">
+<span>· </span>
+<span>3:59</span>
+</b>
+</b>
+</b>
+</a>
+<time class="audio-module-duration" datetime="P3M,59S">
+<span class="audio-module-duration__initial-value">3:59</span>
+</time>
+</div>
+</div>
+<div class="audio-module-tools">
+<button class="audio-module-tools-toggle" data-metrics-ga4='{"category":"audio","action":"audio_open_more_options","storyId":"1146961818","mediaId":"1151586415","title":"Meta allows Donald Trump back on Facebook and Instagram","type":"ondemand"}'>
+<b class="icn-toggle"></b>
+<b class="label">Toggle more options</b>
+</button>
+<ul class="audio-module-more-tools">
+<li class="audio-tool audio-tool-download"><a data-metrics-ga4='{"category":"audio","action":"audio_download","storyId":"1146961818","mediaId":"1151586415","title":"Meta allows Donald Trump back on Facebook and Instagram","type":"ondemand"}' href="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2023/01/20230125_atc_facebook_unbans_trump.mp3?d=239&amp;size=3832730&amp;e=1146961818&amp;sc=siteplayer&amp;aw_0_1st.playerid=siteplayer"><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+</li>
+<li class="audio-tool audio-tool-embed">
+<button data-embed-url="https://www.npr.org/player/embed/1146961818/1151586415" data-metrics-ga4='{"category":"audio","action":"audio_embed","storyId":"1146961818","mediaId":"1151586415","title":"Meta allows Donald Trump back on Facebook and Instagram","type":"ondemand"}'><b class="button-inner"><b class="icn-embed"></b><b class="audio-tool-label">Embed</b></b></button>
+<div class="audio-embed-overlay">
+<button class="btn-close"></button>
+<label class="embed-label">
+<b class="audio-embed-overlay__icon"></b>
+<b class="label">Embed</b>
+<input class="embed-url embed-url-no-touch" readonly="" value='&lt;iframe src="https://www.npr.org/player/embed/1146961818/1151586415" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;&lt;/iframe&gt;'/>
+</label>
+<b class="embed-url embed-url-touch">
+<code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/1146961818/1151586415" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+</b>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</article>
+</div>
+<div class="storytext storylocation linkLocation" id="storytext">
+<div class="bucketwrap image large" id="res1146975406">
+<div class="imagewrap has-source-dimensions" data-crop-type="" style="
+        --source-width: 4133;
+        --source-height: 3099;
+    ">
+<picture>
+<source class="img" data-template="https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s={width}&amp;c={quality}&amp;f={format}" sizes="(min-width: 1025px) 650px, calc(100vw - 30px)" srcset="https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=400&amp;c=85&amp;f=webp 400w,
+https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=600&amp;c=85&amp;f=webp 600w,
+https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=800&amp;c=85&amp;f=webp 800w,
+https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=900&amp;c=85&amp;f=webp 900w,
+https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=1200&amp;c=85&amp;f=webp 1200w,
+https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=1600&amp;c=85&amp;f=webp 1600w,
+https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=1800&amp;c=85&amp;f=webp 1800w" type="image/webp"/>
+<source class="img" data-template="https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s={width}&amp;c={quality}&amp;f={format}" sizes="(min-width: 1025px) 650px, calc(100vw - 30px)" srcset="https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=400&amp;c=85&amp;f=jpeg 400w,
+https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=600&amp;c=85&amp;f=jpeg 600w,
+https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=800&amp;c=85&amp;f=jpeg 800w,
+https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=900&amp;c=85&amp;f=jpeg 900w,
+https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=1200&amp;c=85&amp;f=jpeg 1200w,
+https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=1600&amp;c=85&amp;f=jpeg 1600w,
+https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=1800&amp;c=85&amp;f=jpeg 1800w" type="image/jpeg"/>
+<img alt="" class="img" data-template="https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s={width}&amp;c={quality}&amp;f={format}" fetchpriority="high" src="https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=1100&amp;c=50&amp;f=jpeg"/>
+</picture>
+<div class="enlarge-options">
+<a class="enlargelink" href="https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=2600&amp;c=100&amp;f=jpeg">Enlarge this image</a>
+</div>
+</div>
+<div class="credit-caption">
+<div class="caption-wrap">
+<div aria-label="Image caption" class="caption">
+<p>
+                Suspending former President Donald Trump's account was the most high-profile and controversial content moderation decision Facebook parent Meta has ever made.
+                <b aria-label="Image credit" class="credit">
+                    
+                    Alon Skuy/AFP via Getty Images
+                    
+                </b>
+<b class="hide-caption"><b>hide caption</b></b>
+</p>
+</div>
+<b class="toggle-caption"><b>toggle caption</b></b>
+</div>
+<span aria-label="Image credit" class="credit">
+        
+        Alon Skuy/AFP via Getty Images
+        
+    </span>
+</div>
+<div class="enlarge_measure">
+<div class="img_wrap">
+<picture>
+<source data-original="https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=2600&amp;c=100&amp;f=webp" type="image/webp"/>
+<source data-original="https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=2600&amp;c=100&amp;f=jpeg" type="image/jpeg"/>
+<img alt="" data-original="https://media.npr.org/assets/img/2023/01/04/gettyimages-1244813403-2a3ae198c69878a68f431294c185d65682ff3c6d.jpg?s=2600&amp;c=100&amp;f=jpeg"/>
+</picture>
+</div>
+</div>
+<div class="enlarge_html">
+<div class="image_data">
+<p class="caption">Suspending former President Donald Trump's account was the most high-profile and controversial content moderation decision Facebook parent Meta has ever made.</p>
+<span aria-label="Image credit" class="credit">
+            
+            Alon Skuy/AFP via Getty Images
+            
+        </span>
+</div>
+</div>
+</div>
+<p>Former President Donald Trump will be allowed to return to Facebook and Instagram more than two years after he was <a href="https://www.npr.org/2021/06/04/1003284948/trump-suspended-from-facebook-for-2-years">banned</a> for inciting <a href="https://www.npr.org/2021/10/22/1048543513/facebook-groups-jan-6-insurrection">violence</a> when his supporters stormed the U.S. Capitol on Jan. 6, 2021.</p> <p>Trump's accounts will be reinstated "in the coming weeks" with new guardrails "to deter repeat offenses," Nick Clegg, president of global affairs at Facebook's parent company Meta, <a href="https://about.fb.com/news/2023/01/trump-facebook-instagram-account-suspension/">said</a> on Wednesday.</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res1146962448">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2022\/11\/19\/1131351535\/elon-musk-allows-donald-trump-back-on-twitter"}' href="https://www.npr.org/2022/11/19/1131351535/elon-musk-allows-donald-trump-back-on-twitter" id="featuredStackSquareImage1131351535"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://media.npr.org/assets/img/2022/10/25/gettyimages-1402027564_sq-cff22d95028e7b7b41b2d6be7ad875bbf11378e1.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2022/10/25/gettyimages-1402027564_sq-cff22d95028e7b7b41b2d6be7ad875bbf11378e1.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2022/10/25/gettyimages-1402027564_sq-cff22d95028e7b7b41b2d6be7ad875bbf11378e1.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/webp"><source class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2022/10/25/gettyimages-1402027564_sq-cff22d95028e7b7b41b2d6be7ad875bbf11378e1.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2022/10/25/gettyimages-1402027564_sq-cff22d95028e7b7b41b2d6be7ad875bbf11378e1.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2022/10/25/gettyimages-1402027564_sq-cff22d95028e7b7b41b2d6be7ad875bbf11378e1.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"><img alt="Elon Musk allows Donald Trump back on Twitter" class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2022/10/25/gettyimages-1402027564_sq-cff22d95028e7b7b41b2d6be7ad875bbf11378e1.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2022/10/25/gettyimages-1402027564_sq-cff22d95028e7b7b41b2d6be7ad875bbf11378e1.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2022/10/25/gettyimages-1402027564_sq-cff22d95028e7b7b41b2d6be7ad875bbf11378e1.jpg?s=100&amp;c=85&amp;f=jpeg"/></source></source></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/series/973275370/untangling-disinformation">Untangling Disinformation </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2022\/11\/19\/1131351535\/elon-musk-allows-donald-trump-back-on-twitter"}' href="https://www.npr.org/2022/11/19/1131351535/elon-musk-allows-donald-trump-back-on-twitter">Elon Musk allows Donald Trump back on Twitter</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES1146962448" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>The "serious risk to public safety" that led Meta to suspend Trump in January 2021 "has sufficiently receded," Clegg wrote in a blog post. Still, he said, Trump would face "heightened penalties" should he continue to break Meta's rules, including removal of his posts and even a fresh two-year suspension.</p> <p>"The public should be able to hear what their politicians are saying – the good, the bad and the ugly – so that they can make informed choices at the ballot box.  But that does not mean there are no limits to what people can say on our platform," Clegg said.</p> <aside aria-label="advertisement" class="ad-wrap backstage" id="ad-backstage-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-backstage has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_Technology","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1146961818","agg":["1150740117"]},"site":{"desktop":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"location":"backstage","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":true}' id="ad-backstage-News_Technology">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<h3 class="edTag">Trump's suspension was controversial, and so is his reinstatement</h3> <p>Suspending Trump's account was the most high-profile and controversial content moderation decision Meta has ever made. Now its move to reinstate him thrusts the company back into the middle of a contentious debate over tech platforms' power to determine who gets a voice online.</p> <p><a href="https://truthsocial.com/@realDonaldTrump/posts/109752172651767013">In a statement on Truth Social</a>, the company Trump helped create and financially back, the former president said: "FACEBOOK, which has lost Billions of Dollars in value since 'deplatforming' your favorite President, me, has just announced that they are reinstating my account. Such a thing should never again happen to a sitting President, or anybody else who is not deserving of retribution!"</p> <p>Trump's campaign had formally petitioned Meta to reinstate him, saying the ban had "dramatically distorted and inhibited the public discourse."</p> <p>Meta's announcement drew immediate blowback from civil rights and advocacy groups.</p> <p>"[Meta CEO] Mark Zuckerberg's decision to reinstate Trump's accounts is a prime example of putting profits above people's safety," said NAACP President Derrick Johnson. "It's quite astonishing that one can spew hatred, fuel conspiracies, and incite a violent insurrection at our nation's Capitol building, and Mark Zuckerberg still believes that is not enough to remove someone from his platforms."</p> <aside aria-label="advertisement" class="ad-wrap secondary" id="ad-secondary-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-secondary has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_Technology","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1146961818","agg":["1150740117"]},"site":{"desktop":"NPRSecondary","mobile":"NPRMobileSecondary"},"location":"secondary","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-secondary-News_Technology">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<p>Wendy Via, president of the Global Project Against Hate and Extremism, warned Trump's reinstatement will reverberate worldwide.</p> <p>"Authoritarian-leaning politicians everywhere are watching, and they will celebrate this decision," she said. "They have already been inspired by Trump's successful manipulation of Facebook and its lax rule enforcement for the politically powerful. These far-right leaders will simply ramp up their use of Facebook to spread misinformation to build their base, contributing to political violence and an increase in far-right governments."</p> <h3 class="edTag">Facebook is a powerful fundraising tool for Trump's 2024 campaign</h3> <p>Whether or how Trump will return to posting on Facebook is unclear. He has not resumed posting on Twitter and has an agreement with Truth Social to post there first.</p> <p>Meta's decision to reinstate Trump lands in a <a href="https://www.npr.org/2022/12/23/1144997451/from-twitter-chaos-to-tiktok-bans-to-the-metaverse-social-media-had-a-rocky-2022">social media landscape</a> that has changed markedly in the past two years. Facebook is attempting to reinvent itself as a "metaverse company" in a move away from its social networking origins. In 2022, the company announced declines in <a href="https://www.npr.org/2022/07/27/1114041976/facebook-meta-earnings-stock">revenue</a> and <a href="https://www.npr.org/2022/02/03/1077820355/facebooks-transition-to-metaverse-has-eaten-into-the-social-media-giants-profits">users</a> for the first time. </p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res1146967833">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2022\/12\/23\/1144997451\/from-twitter-chaos-to-tiktok-bans-to-the-metaverse-social-media-had-a-rocky-2022"}' href="https://www.npr.org/2022/12/23/1144997451/from-twitter-chaos-to-tiktok-bans-to-the-metaverse-social-media-had-a-rocky-2022" id="featuredStackSquareImage1144997451"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://media.npr.org/assets/img/2022/12/22/gettyimages-1450835668_sq-1933112dd6cbdb8b7af2bd6612635971ee473d2b.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2022/12/22/gettyimages-1450835668_sq-1933112dd6cbdb8b7af2bd6612635971ee473d2b.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2022/12/22/gettyimages-1450835668_sq-1933112dd6cbdb8b7af2bd6612635971ee473d2b.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2022/12/22/gettyimages-1450835668_sq-1933112dd6cbdb8b7af2bd6612635971ee473d2b.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2022/12/22/gettyimages-1450835668_sq-1933112dd6cbdb8b7af2bd6612635971ee473d2b.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2022/12/22/gettyimages-1450835668_sq-1933112dd6cbdb8b7af2bd6612635971ee473d2b.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"/><img alt="From Twitter chaos to TikTok bans to the metaverse, social media had a rocky 2022" class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2022/12/22/gettyimages-1450835668_sq-1933112dd6cbdb8b7af2bd6612635971ee473d2b.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2022/12/22/gettyimages-1450835668_sq-1933112dd6cbdb8b7af2bd6612635971ee473d2b.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2022/12/22/gettyimages-1450835668_sq-1933112dd6cbdb8b7af2bd6612635971ee473d2b.jpg?s=100&amp;c=85&amp;f=jpeg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/technology/">Technology </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2022\/12\/23\/1144997451\/from-twitter-chaos-to-tiktok-bans-to-the-metaverse-social-media-had-a-rocky-2022"}' href="https://www.npr.org/2022/12/23/1144997451/from-twitter-chaos-to-tiktok-bans-to-the-metaverse-social-media-had-a-rocky-2022">From Twitter chaos to TikTok bans to the metaverse, social media had a rocky 2022</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES1146967833" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>Twitter is in chaos under the ownership of billionaire Elon Musk, who <a href="https://www.npr.org/2022/11/19/1131351535/elon-musk-allows-donald-trump-back-on-twitter">reversed his platform's ban</a> on Trump in November after polling the site's users.</p> <p>And a raft of <a href="https://www.npr.org/2021/01/31/962104747/unwelcome-on-facebook-twitter-qanon-followers-flock-to-fringe-sites">alternative social media sites</a> — from Truth Social to Gettr, Parler and Gab — are wooing conservatives who have long accused the bigger networks of muzzling their political views.</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res1146968138">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2022\/11\/15\/1044234232\/trump-announces-run-president-2024"}' href="https://www.npr.org/2022/11/15/1044234232/trump-announces-run-president-2024" id="featuredStackSquareImage1044234232"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://media.npr.org/assets/img/2022/11/16/ap223201319367441_sq-33593e501cc52067254ab6983c3bc9659849957b.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2022/11/16/ap223201319367441_sq-33593e501cc52067254ab6983c3bc9659849957b.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2022/11/16/ap223201319367441_sq-33593e501cc52067254ab6983c3bc9659849957b.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2022/11/16/ap223201319367441_sq-33593e501cc52067254ab6983c3bc9659849957b.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2022/11/16/ap223201319367441_sq-33593e501cc52067254ab6983c3bc9659849957b.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2022/11/16/ap223201319367441_sq-33593e501cc52067254ab6983c3bc9659849957b.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"/><img alt="With midterm losses, Trump's climb to the presidency could be steeper than he'd like" class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2022/11/16/ap223201319367441_sq-33593e501cc52067254ab6983c3bc9659849957b.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2022/11/16/ap223201319367441_sq-33593e501cc52067254ab6983c3bc9659849957b.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2022/11/16/ap223201319367441_sq-33593e501cc52067254ab6983c3bc9659849957b.jpg?s=100&amp;c=85&amp;f=jpeg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/elections/">Elections </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2022\/11\/15\/1044234232\/trump-announces-run-president-2024"}' href="https://www.npr.org/2022/11/15/1044234232/trump-announces-run-president-2024">With midterm losses, Trump's climb to the nomination could be steeper than he'd like</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES1146968138" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>Still, regaining his Facebook account, which had 35 million followers when it was suspended, is likely to be a boon as Trump seeks the <a href="https://www.npr.org/2022/11/15/1044234232/trump-announces-run-president-2024">presidency in 2024</a>. While he famously used Twitter on the campaign trail and in office to announce policy, indulge fans and goad enemies, Facebook was a major <a href="https://www.npr.org/2021/05/06/994063372/why-facebooks-decision-on-trump-could-be-make-or-break-for-his-political-future">engine of his fundraising efforts</a>, generating hundreds of millions of dollars in campaign contributions. (<a href="https://www.axios.com/2021/06/22/team-trumps-facebook-ads-circumvent-ban">Trump's campaign page</a> was not affected by the ban and has continued to raise money via Facebook.)</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res1146968266">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2021\/05\/06\/994063372\/why-facebooks-decision-on-trump-could-be-make-or-break-for-his-political-future"}' href="https://www.npr.org/2021/05/06/994063372/why-facebooks-decision-on-trump-could-be-make-or-break-for-his-political-future" id="featuredStackSquareImage994063372"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://media.npr.org/assets/img/2021/05/05/gettyimages-1232709840_sq-7cb8fc4fc09226299e5554d17c76cdb6d4acec9d.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2021/05/05/gettyimages-1232709840_sq-7cb8fc4fc09226299e5554d17c76cdb6d4acec9d.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2021/05/05/gettyimages-1232709840_sq-7cb8fc4fc09226299e5554d17c76cdb6d4acec9d.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2021/05/05/gettyimages-1232709840_sq-7cb8fc4fc09226299e5554d17c76cdb6d4acec9d.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2021/05/05/gettyimages-1232709840_sq-7cb8fc4fc09226299e5554d17c76cdb6d4acec9d.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2021/05/05/gettyimages-1232709840_sq-7cb8fc4fc09226299e5554d17c76cdb6d4acec9d.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"/><img alt="Why Facebook's Decision On Trump Could Be 'Make Or Break' For His Political Future" class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2021/05/05/gettyimages-1232709840_sq-7cb8fc4fc09226299e5554d17c76cdb6d4acec9d.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2021/05/05/gettyimages-1232709840_sq-7cb8fc4fc09226299e5554d17c76cdb6d4acec9d.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2021/05/05/gettyimages-1232709840_sq-7cb8fc4fc09226299e5554d17c76cdb6d4acec9d.jpg?s=100&amp;c=85&amp;f=jpeg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/politics/">Politics </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2021\/05\/06\/994063372\/why-facebooks-decision-on-trump-could-be-make-or-break-for-his-political-future"}' href="https://www.npr.org/2021/05/06/994063372/why-facebooks-decision-on-trump-could-be-make-or-break-for-his-political-future">Why Facebook's Decision On Trump Could Be 'Make Or Break' For His Political Future</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES1146968266" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<h3 class="edTag">Trump continues to amplify false election fraud claims and other conspiracy theories on social media</h3> <p>Facebook initially <a href="https://www.npr.org/sections/insurrection-at-the-capitol/2021/01/07/954453630/facebook-bans-president-trump-from-posting-for-the-rest-of-his-presidency">suspended</a> Trump indefinitely in the days after the Capitol insurrection. That decision was <a href="https://www.npr.org/2021/05/05/987679590/facebook-justified-in-banning-donald-trump-social-medias-oversight-board-rules">slammed</a> by the company's <a href="https://www.npr.org/2021/01/21/959350053/facebook-asks-oversight-board-whether-trumps-account-should-be-restored-now">Oversight Board</a> —  an outside group of legal experts, human rights scholars, and former journalists and politicians created and funded by Meta — as vague. In June 2021, Facebook revised the penalty to a two-year ban, said it would only reinstate Trump "if the risk to public safety has receded," and vowed to consult experts before doing so.</p> <aside aria-label="advertisement" class="ad-wrap third" id="ad-third-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-third has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_Technology","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1146961818","agg":["1150740117"]},"site":{"desktop":"NPRThird","mobile":"NPRMobileThird"},"location":"third","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-third-News_Technology">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<p>At that time, the company also set out new rules for public figures in times of civil unrest and violence. On Wednesday, Clegg said in addition to removing violating posts and suspending Trump if he again breaks the rules, Meta may also limit the distribution of content "that contributes to the sort of risk that materialized on January 6." For example, it could make those posts only visible if a user went directly to Trump's Facebook page.</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="res1146968482">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2021\/06\/04\/1003284948\/trump-suspended-from-facebook-for-2-years"}' href="https://www.npr.org/2021/06/04/1003284948/trump-suspended-from-facebook-for-2-years" id="featuredStackSquareImage1003284948"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://media.npr.org/assets/img/2021/06/04/gettyimages-1228674205_sq-f456b58cccb6f353bb980337cc35a75b066a8d20.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2021/06/04/gettyimages-1228674205_sq-f456b58cccb6f353bb980337cc35a75b066a8d20.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2021/06/04/gettyimages-1228674205_sq-f456b58cccb6f353bb980337cc35a75b066a8d20.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2021/06/04/gettyimages-1228674205_sq-f456b58cccb6f353bb980337cc35a75b066a8d20.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2021/06/04/gettyimages-1228674205_sq-f456b58cccb6f353bb980337cc35a75b066a8d20.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2021/06/04/gettyimages-1228674205_sq-f456b58cccb6f353bb980337cc35a75b066a8d20.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"/><img alt="Trump Suspended From Facebook For 2 Years" class="img lazyOnLoad" data-format="jpeg" data-original="https://media.npr.org/assets/img/2021/06/04/gettyimages-1228674205_sq-f456b58cccb6f353bb980337cc35a75b066a8d20.jpg?s=100&amp;c=100&amp;f=jpeg" data-template="https://media.npr.org/assets/img/2021/06/04/gettyimages-1228674205_sq-f456b58cccb6f353bb980337cc35a75b066a8d20.jpg?s={width}&amp;c={quality}&amp;f={format}" loading="lazy" src="https://media.npr.org/assets/img/2021/06/04/gettyimages-1228674205_sq-f456b58cccb6f353bb980337cc35a75b066a8d20.jpg?s=100&amp;c=85&amp;f=jpeg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/technology/">Technology </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2021\/06\/04\/1003284948\/trump-suspended-from-facebook-for-2-years"}' href="https://www.npr.org/2021/06/04/1003284948/trump-suspended-from-facebook-for-2-years">Trump Suspended From Facebook For 2 Years</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RES1146968482" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>Since his removal from mainstream social media, Trump has used <a href="https://www.npr.org/2022/10/14/1129024148/google-truth-social-trump">Truth Social</a> as his main mouthpiece. There, he has continued to falsely claim that the 2020 election was <a href="https://www.npr.org/2022/01/05/1070362852/trump-big-lie-election-jan-6-families">stolen</a> from him and amplified the far-right <a href="https://www.npr.org/2023/01/02/1146318331/yoga-guru-qanon-conspiracy-theories">QAnon conspiracy theory</a> to his 4.78 million followers.</p> <p>The advocacy groups Accountable Tech and Media Matters for America estimated last month that <a href="https://accountabletech.org/media/at-mmfa-release-new-research-tv-ad-in-push-to-keep-trump-off-facebook/">more than 350</a> of Trump's Truth Social posts would directly violate Facebook's rules against QAnon content, false election claims and harassment of marginalized groups.</p> <p>Democratic lawmakers had urged Meta not to reinstate Trump's account, arguing that the risk to public safety continues. In a December <a href="https://schiff.house.gov/news/press-releases/congressman-schiff-senator-whitehouse-urge-meta-to-maintain-policies-on-election-misinformation-uphold-trump-suspension">letter</a> to the company, U.S. Rep. Adam Schiff of California and Sen. Sheldon Whitehouse of Rhode Island pointed to Trump's posts on Truth Social casting doubt on the integrity of the 2022 midterm elections, continuing to deny his loss in 2020, and amplifying accounts promoting QAnon-tied conspiracy theories.</p> <p>"We have every reason to believe he would bring similar conspiratorial rhetoric back to Facebook, if given the chance," they wrote.</p>
+</div>
+<div class="tags">
+<ul>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/125099514/social-media">social media</a></li>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/134949364/donald-trump">Donald Trump</a></li>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/135218992/meta">meta</a></li>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/141587905/facebook">Facebook</a></li>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/150292977/instagram">Instagram</a></li>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/1061872461/truth-social">truth social</a></li>
+</ul>
+</div>
+<!-- END CLASS="TAGS" -->
+<div aria-label="Share tools" class="share-tools share-tools--secondary">
+<ul>
+<li class="share-tools__service share-tools__service--facebook"><button class="fbStory1146961818" data-metrics-ga4='{"category":"share","action":"share","clickName":"facebook"}' data-share-facebook='{"storyId": "1146961818" }'><b class="share-tools__service-name">Facebook</b></button></li>
+<li class="share-tools__service share-tools__service--flipboard"><button class="story1146961818" data-metrics-ga4='{"category":"share","action":"share","clickName":"flipboard"}' data-share-flipboard='{"storyId": "1146961818" }'><b class="share-tools__service-name">Flipboard</b></button></li>
+<li class="share-tools__service share-tools__service--email"><button class="share-tools__email-link" data-metrics-ga4='{"category":"share","action":"share","clickName":"email"}' data-story-id="1146961818"><b class="share-tools__service-name">Email</b></button></li>
+</ul>
+</div>
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--SECONDARY" ARIA-LABEL="SHARE TOOLS" -->
+<div data-newsletter='{"newsletterId":"body-electric","title":"Body Electric","marketingHeader":"Sign Up for the Body Electric Challenge","frequency":"","shortDescription":"Our bodies are adapting and changing to meet the demands of the Information Age. Body Electric is an interactive project with TED Radio Hour host, Manoush Zomorodi, that will take you on a journey to understand the impact of tech on your body and how to live better with your devices.","stickyDescription":"Get actionable steps on how to manage tech in your life.","contentImage":"https:\/\/npr.brightspotcdn.com\/78\/a1\/c533ad234fe49f51c5b12e2bab15\/screen-shot-2024-12-18-at-11-23-08-am.png","staticMarkupDir":"NA","brandingDir":" ","brandingLink":" ","recaptchaSiteKey":"6LcdN9IZAAAAAOHT985BJjbzjkBjKSxdxK3GeKSt"}' id="newsletter-acquisition-callout-data">
+</div>
+<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;BODY-ELECTRIC&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;BODY ELECTRIC&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;SIGN UP FOR THE BODY ELECTRIC CHALLENGE&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;OUR BODIES ARE ADAPTING AND CHANGING TO MEET THE DEMANDS OF THE INFORMATION AGE. BODY ELECTRIC IS AN INTERACTIVE PROJECT WITH TED RADIO HOUR HOST, MANOUSH ZOMORODI, THAT WILL TAKE YOU ON A JOURNEY TO UNDERSTAND THE IMPACT OF TECH ON YOUR BODY AND HOW TO LIVE BETTER WITH YOUR DEVICES.&QUOT;,&QUOT;STICKYDESCRIPTION&QUOT;:&QUOT;GET ACTIONABLE STEPS ON HOW TO MANAGE TECH IN YOUR LIFE.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;HTTPS:\/\/NPR.BRIGHTSPOTCDN.COM\/78\/A1\/C533AD234FE49F51C5B12E2BAB15\/SCREEN-SHOT-2024-12-18-AT-11-23-08-AM.PNG&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT;NA&QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT; &QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT; &QUOT;,&QUOT;RECAPTCHASITEKEY&QUOT;:&QUOT;6LCDN9IZAAAAAOHT985BJJBZJKBJKSXDXK3GEKST&QUOT;}" -->
+<div id="callout-end-of-story-mount">
+</div>
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT" -->
+<div class="callout-end-of-story-mount-piano-wrap" id="callout-end-of-story-mount-piano-wrap">
+<div class="callout-end-of-story-mount-piano" id="callout-end-of-story-mount-piano">
+</div>
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT-PIANO" CLASS="CALLOUT-END-OF-STORY-MOUNT-PIANO" -->
+</div>
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT-PIANO-WRAP" CLASS="CALLOUT-END-OF-STORY-MOUNT-PIANO-WRAP" -->
+<aside aria-label="recommended stories" class="recommended-stories recommended-stories--piano" id="end-of-story-recommendations-mount-piano"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT-PIANO" CLASS="RECOMMENDED-STORIES RECOMMENDED-STORIES--PIANO" ARIA-LABEL="RECOMMENDED STORIES" -->
+<aside aria-label="recommended stories" class="recommended-stories" id="end-of-story-recommendations-mount"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT" CLASS="RECOMMENDED-STORIES" ARIA-LABEL="RECOMMENDED STORIES" -->
+</article><footer aria-label="NPR footer" class="npr-footer" id="npr-footer" role="contentinfo"><div class="npr-footer__content">
+<div class="npr-footer__module-group">
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Read &amp; Listen</h6>
+<ul>
+<li class="npr-footer__item"><a href="/">Home</a></li>
+<li class="npr-footer__item"><a href="/sections/news/">News</a></li>
+<li class="npr-footer__item"><a href="/sections/culture/">Culture</a></li>
+<li class="npr-footer__item"><a href="/music/">Music</a></li>
+<li class="npr-footer__item"><a href="/podcasts-and-shows">Podcasts &amp; Shows</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Connect</h6>
+<ul>
+<li class="npr-footer__item"><a href="/newsletters/" target="_blank">Newsletters</a></li>
+<li class="npr-footer__item"><a href="https://www.facebook.com/NPR/">Facebook</a></li>
+<li class="npr-footer__item"><a href="https://www.instagram.com/npr/">Instagram</a></li>
+<li class="npr-footer__item"><a href="/series/750003/press-room/">Press</a></li>
+<li class="npr-footer__item"><a href="/sections/publiceditor/">Public Editor</a></li>
+<li class="npr-footer__item"><a href="/corrections/">Corrections</a></li>
+<li class="npr-footer__item"><a href="/transcripts/">Transcripts</a></li>
+<li class="npr-footer__item"><a href="https://help.npr.org/contact/s/">Contact &amp; Help</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">About NPR</h6>
+<ul>
+<li class="npr-footer__item"><a href="/about/">Overview</a></li>
+<li class="npr-footer__item"><a href="/diversity/">Diversity</a></li>
+<li class="npr-footer__item"><a href="/network/" target="_blank">NPR Network</a></li>
+<li class="npr-footer__item"><a href="/about-npr/1136563345/accessibility">Accessibility</a></li>
+<li class="npr-footer__item"><a href="/ethics/">Ethics</a></li>
+<li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances">Finances</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Get Involved</h6>
+<ul>
+<li class="npr-footer__item"><a href="/support/">Support Public Radio</a></li>
+<li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship">Sponsor NPR</a></li>
+<li class="npr-footer__item"><a href="/careers/">NPR Careers</a></li>
+<li class="npr-footer__item"><a href="https://shopnpr.org/">NPR Shop</a></li>
+<li class="npr-footer__item"><a href="https://www.nprpresents.org">NPR Events</a></li>
+<li class="npr-footer__item"><a href="/sections/npr-extra/">NPR Extra</a></li>
+</ul>
+</div>
+</div>
+<div class="npr-footer__module npr-footer__module--secondary">
+<ul>
+<li class="npr-footer__item"><a href="/about-npr/179876898/terms-of-use">Terms of Use</a></li>
+<li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy">Privacy</a></li>
+<li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy#yourchoices">Your Privacy Choices</a></li>
+<li class="npr-footer__item"><a href="https://text.npr.org/">Text Only</a></li>
+<li class="npr-footer__item"><span class="copy-year"></span></li>
+</ul>
+</div>
+</div>
+</footer><div class="global-stickybar-mount" id="global-stickybar-mount">
+</div>
+<div class="global-stickybar" id="global-stickybar-mount-piano-wrap">
+<div class="global-stickybar-mount-piano" id="global-stickybar-mount-piano">
+</div>
+</div>
+</section> <div id="main-sidebar">
+<div id="right-rail-content-widgets-mount">
+</div>
+<!-- END ID="RIGHT-RAIL-CONTENT-WIDGETS-MOUNT" -->
+<aside aria-label="advertisement" class="ad-wrap standard" id="ad-standard-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config ad-standard has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_Technology","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"1146961818","agg":["1150740117"]},"site":{"desktop":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"location":"standard","deferred":false,"isBetweenContent":false,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-standard-News_Technology">
+<div style="min-height:90px"></div>
+</div>
+<div class="ad-footer"><p class="left">Sponsor Message</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p></div>
+</aside>
+</div>
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+<!-- END ID="WRAPPER" -->
+<section id="global-modal-mount"></section>
+<!-- END ID="GLOBAL-MODAL-MOUNT" -->
+<script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { (window.webpackJsonp=window.webpackJsonp||[]).push([[22],{1159:function(e,n,c){e.exports=c(321)},321:function(e,n,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,Promise.all([c.e(1),c.e(2),c.e(3),c.e(4),c.e(81)]).then(function(e){c(3),c(1132),c(113),c(91),c(60),c(494),c(234),c(114),c(116),c(1133),c(164),c(1134),c(316),c(1135),c(48),c(1136)}.bind(null,c)).catch(c.oe)}},[[1159,0]]]); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+</main></body></html>

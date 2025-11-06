@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+
+<html data-placeholder-focus="false" lang="en-GB">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<title>
+	Guardian Jobs | Privacy Policy
+</title>
+<link href="/assets/dist/css/package.css;p=master,branding;v=da65b3f2a80967df2f1354a79845795a" rel="stylesheet" type="text/css"/>
+<!--[if lt IE 10]>
+			<script src="/assets/dist/js/placeholder.js;v=2de263a6d5502b76cf5a212bd6658267"></script>
+		<![endif]-->
+<!--[if lte IE 8]>
+			<style>.container { width: 1180px; }</style>
+			<script src="/assets/dist/js/html5shiv.js;v=57b8bbbbba9e995322b6283c06b8abd1"></script>
+		<![endif]-->
+<!--[if IE 7 ]><style>.grid-item { behavior: url(/assets/dist/js/boxsizing.htc;v=5914822d787c46f19fd9491de476818a); zoom: 1; }</style><![endif]-->
+<meta content="StaticPage/StaticPagePage.mango" name="templatename"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<script nonce="b4627bd3-8ec0-4c12-af8b-f26ffada8bc7">
+		    window['CAPTCHA_SITEKEY'] = '6Lcvui4hAAAAADD14SQ4S-nrrWLjw33Z_nhPtSY8'
+		    </script>
+<script async="" nonce="b4627bd3-8ec0-4c12-af8b-f26ffada8bc7" src="/assets/dist/js/recaptcha-injector.min.js;v=13aa3e57b8f10e5dfd8cc08a71c1f66d"></script>
+<script async="" defer="" nonce="b4627bd3-8ec0-4c12-af8b-f26ffada8bc7" src="https://www.google.com/recaptcha/api.js?onload=renderGoogleInvisibleRecaptcha&amp;render=explicit"></script>
+<link href="/assets/dist/images/favicon.ico;v=25d8882e159ab3870cdc6b3269082f0d" rel="shortcut icon" type="image/x-icon"/>
+<link href="/assets/dist/images/appIcon-114x114.png;v=495a4d1d5cb4bdb0a77002a9513ab98d" rel="apple-touch-icon" sizes="114x114"/>
+<!-- Global site tag (gtag.js) - Google Ads: 963712709 -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-963712709"></script>
+<script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'AW-963712709');
+    </script>
+<script nonce="b4627bd3-8ec0-4c12-af8b-f26ffada8bc7">
+
+			var mdgx = {};
+
+			if ('querySelector' in document && 'localStorage' in window && 'addEventListener' in window) {
+
+				document.documentElement.className = ' js';
+
+				
+
+				mdgx.root = '/';
+				mdgx.jsLink = 'https://jobs.theguardian.com/';
+				mdgx.platformVer = 'D534C36FA9E7D8C24881A155141B6498FC3DF91F-en-GB';
+				mdgx.dbVer = 'D534C36FA9E7D8C24881A155141B6498FC3DF91F';
+				mdgx.systemSiteName = 'GuardianJobs';
+				mdgx.targetedJobId = '-1';
+
+				
+					
+					mdgx.locationSearchPath = '/ajax-location-search/';
+					
+					mdgx.locationNearPath   = '/location-near-facets/';
+				
+
+				
+
+				!function(e,t,r){function n(){for(;d[0]&&"loaded"==d[0][f];)c=d.shift(),c[o]=!i.parentNode.insertBefore(c,i)}for(var s,a,c,d=[],i=e.scripts[0],o="onreadystatechange",f="readyState";s=r.shift();)a=e.createElement(t),"async"in i?(a.async=!1,e.head.appendChild(a)):i[f]?(d.push(a),a[o]=n):e.write("<"+t+' src="'+s+'" defer></'+t+">"),a.src=s}(document,"script",
+					[
+		
+						"/assets/dist/js/jquery.min.js;v=328bac02e94a55048b0136165c776d0e",	
+						"/assets/dist/js/jquery-patches.min.js;v=5dff6ad109c4d90abb71f6f7a9fff31d",
+						"/assets/dist/js/madgexPolyfill.min.js;v=edc4ec5a2b473696091be231dc264054", 
+						"/_js/dict.js;v=d42ad7d7b2befaa980d5c4c7cf8e1bed",
+						"/assets/dist/js/bundle.min.js;v=5da06d4e89b57a0fa5adc6cca436532c",
+						"/assets/dist/js/paymentFirst.min.js;v=225bfb5759718a74f0b239a896a87543"
+						
+						
+						
+						
+				 	]);
+				
+			}
+		</script>
+<script nonce="b4627bd3-8ec0-4c12-af8b-f26ffada8bc7" type="text/javascript">
+			let csrfForPromotion = "43b27e90-ed6a-43fb-9704-bd97f115b8f9";
+			let addToOrderUrl = "https://www.guardianjobsrecruiter.co.uk/checkout/add-item/";
+		</script>
+<meta content="en-GB" name="lang"/>
+<script nonce="b4627bd3-8ec0-4c12-af8b-f26ffada8bc7">
+var ClientGoogleTagManagerDataLayer = [{
+'conversion\x2dresult': 'None',
+'IsLoggedOn': 'False',
+'UserId': '',
+'UserThirdPartyId': '',
+'Culture': 'en\x2dGB',
+'absolute\x2durl': 'https\x3a\x2f\x2fwww.guardianjobsrecruiter.co.uk\x2fprivacy\x2dpolicy',
+'SiteName': 'Guardian\x20Jobs',
+'page\x2dtitle': 'Privacy\x20Policy',
+'UserCountryCode': 'US'
+}];
+</script>
+<!-- Google Tag Manager Head -->
+<script nonce="b4627bd3-8ec0-4c12-af8b-f26ffada8bc7">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;
+var n=d.querySelector('[nonce]');
+n&&j.setAttribute('nonce',n.nonce||n.getAttribute('nonce'));f.parentNode.insertBefore(j,f);
+})(window,document,'script','ClientGoogleTagManagerDataLayer','GTM-W6X659F');</script>
+<!-- End Google Tag Manager Head -->
+<!-- MetaTag::Begin -->
+<meta content="L05dSduYgfwGCAj0WXNyLcQRoCep4riSCM-NLPFCGx4" name="google-site-verification">
+<!-- MetaTag::End -->
+</meta></head>
+<body class="recruiter-page__privacypolicy recruiter-static-page__PrivacyPolicy" itemscope="" itemtype="http://schema.org/WebPage">
+<!-- Google Tag Manager Body -->
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-W6X659F" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager Body -->
+<div class="container js-container">
+<p class="skip-to-content"><a href="#main">Skip to main content</a></p>
+<div class="position-static" data-block="header-top">
+</div>
+<div class="position-static" data-block="header-main">
+<header class="banner">
+<div class="top-bar" id="top-bar">
+<div class="wrapper cf">
+<ul class="nav-toggles cf js-togglable-nav-triggers">
+<li class="nav-toggles__item nav-toggles__item--secondary">
+<a class="js-togglable-nav-trigger" href="#secondary-nav" title="Secondary menu">
+<i aria-hidden="true" class="icon-after" data-icon="☺"></i>
+<span class="hidden">Skip to secondary menu</span>
+</a>
+</li>
+</ul>
+<nav aria-label="User" class="secondary-nav togglable-nav cf js-togglable-nav" id="secondary-nav">
+<div class="logged-out-nav logged-out-nav--recruiters">
+<a class="logged-out-nav__link logged-out-nav__link--recruiters" href="/">Recruiters:</a>
+<ul class="secondary-nav__items togglable-nav__items cf">
+<li class="togglable-nav__item secondary-nav__item secondary-nav__item--sign-in">
+<a class="js-lightbox" href="/login/">Sign in</a><span class="text or"></span>
+</li>
+<li class="togglable-nav__item secondary-nav__item secondary-nav__item--create-account">
+<a href="/register/">Create account</a>
+</li>
+</ul>
+</div>
+<div class="logged-out-nav logged-out-nav--jobseekers">
+<a class="logged-out-nav__link logged-out-nav__link--jobseekers" href="https://jobs.theguardian.com/">Jobseekers:</a>
+<ul class="secondary-nav__items togglable-nav__items--jobseeker cf">
+<li class="togglable-nav__item secondary-nav__item secondary-nav__item--jobseekers-find-a-job"><a href="https://jobs.theguardian.com/logon/">Sign in</a></li>
+<li class="togglable-nav__item secondary-nav__item secondary-nav__item--jobseekers-sign-in"><a href="https://jobs.theguardian.com/">Find a job</a></li>
+</ul>
+</div>
+<a class="custom-link--mobile icon icon--external-link" href="https://recruiters.theguardian.com/" target="_blank">Why post with us?<span class="hidden">This will open in a new window</span></a>
+</nav>
+</div>
+</div>
+<div class="wrapper cf">
+<div class="primary-logo">
+<a href="/"><img alt="Guardian Jobs logo" src="/assets/dist/images/logo.png;v=0d6b9ef60d7287474df1286914c71da5" title="Guardian Jobs"/></a>
+</div>
+<a class="custom-link--content-site" href="https://www.theguardian.com/">theguardian.com</a>
+<div class="add-more-link">
+</div>
+</div>
+<nav aria-label="main" class="primary-nav togglable-nav js-togglable-nav" id="primary-nav">
+<div class="wrapper">
+<ul class="primary-nav__items togglable-nav__items cf">
+<li class="primary-nav__item primary-nav__item--home primary-nav__item--first"><a class="primary-nav__link" href="/">Products</a></li>
+<li class="primary-nav__item--your-jobs primary-nav__item">
+<a class="primary-nav__link js-lightbox" href="/job-listing/">Your jobs</a>
+<div class="subprimary-nav subprimary-nav--smallscreen" data-set="subnav-yourjobs"></div>
+</li>
+<li class="primary-nav__item primary-nav__item--custom">
+<a class="primary-nav__link icon icon--external-link" href="https://recruiters.theguardian.com/" target="_blank">Why post with us?<span class="hidden"> This will open in a new window</span></a>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+</div>
+<div class="position-static" data-block="header-bottom">
+</div>
+<div class="main cf" id="main" role="main">
+<div class="wrapper">
+</div>
+<div class="wrapper">
+<h1 class="strip no-margin">Privacy Policy</h1>
+<div class="grid">
+<div class="grid-item two-thirds lap-one-whole palm-one-whole">
+<div class="fix-text">
+<style type="text/css">.privacy-policy a {
+        text-decoration: underline;
+        text-decoration-color: #13b1ae;
+    }
+    ul li {
+     padding: 6px 0;
+    }
+</style>
+<div class="privacy-policy margin-top-20 margin-bottom-20 padding-bottom-20"><img alt="" class="privacy-header" src="https://jobs.theguardian.com/assets/dist/images/privacyPolicyPageHeader.jpg">
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Privacy Policy</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Introduction </b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">This is the privacy policy for Guardian Advertising and Guardian Jobs Recruiter and explains how Guardian News &amp; Media Limited (collectively referred to as “Guardian”, “we”, “us” or “our” in this policy) collect, use and share your personal data when you work with us as a business client for advertising, including recruitment purposes, via our services at Guardian Advertising, including Guardian Display, Guardian Labs and/or Guardian Jobs through their associated websites (‘our sites’) and interact with us. Some of our other sites and services have their own policies, which will be relevant to you when you are using those sites and services.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">For information on how personal data is used on theguardian.com website, please read the privacy policy<a href="http://www.theguardian.com/help/privacy-policy"> here</a> and the cookie policy <a href="https://www.theguardian.com/info/cookies">here</a>.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">The sites covered by this privacy policy are:</b></p>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">The Guardian Advertising site: <a href="https://advertising.theguardian.com/">https://advertising.theguardian.com/</a></b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">The Guardian Jobs Recruiter Services site: <a href="https://www.guardianjobsrecruiter.co.uk/">https://www.guardianjobsrecruiter.co.uk/</a></b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">The Guardian Jobs Recruiter site: <a href="https://recruiters.theguardian.com/">https://recruiters.theguardian.com</a></b></p>
+</li>
+</ul>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">The services covered by this privacy policy are what are referred throughout the policy as ‘B2B Client Advertising Services’ which includes Recruitment Advertising and ‘B2B Recruitment Services’ which refers to our Recruiter Services Site, and include: </b></p>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Guardian Jobs, including Guardian Jobs Recruiter Services; Display Advertising online (jobs.theguardian.com; theguardian.com); Programmatic Advertising; Branded Content; Display advertising in Print (The Guardian, The Observer, The Guardian Weekly), Online, Audio and Video advertising; Events (live and online);</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Display advertising services including Programmatic Advertising; Branded Content; Display advertising in Print (The Guardian, The Observer, The Guardian Weekly); Digital, Audio and Video advertising; Events (live and online);</b></p>
+</li>
+</ul>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Our <a href="https://www.theguardian.com/global/blog/2015/sep/22/living-our-values-facts-guardian">values</a> guide everything that we do – including how we use personal data. We are strongly committed to keeping your personal data safe. This commitment exists throughout the lifecycle of your personal data, from the design of our sites which uses personal data to the deletion of that data.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">To complement our global approach to privacy protection, this policy also incorporates specific data privacy rights granted to individuals under Californian and Australian privacy law. This reflects our relationship with our users in these locations where we provide access to Guardian Jobs and Advertising services.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We think carefully about our use of personal data, and below you can find the details of what we do to protect your privacy. This policy covers, among other topics:</b></p>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Information about your rights, the choices available to you, and our obligations in the European Union, in California, in Australia, and elsewhere</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Transparency about how we collect and use your personal data, including when and how it is shared</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Information on how we protect your personal data</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Information on how we will facilitate your rights and respond to your questions</b></p>
+</li>
+</ul>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Find out more about how we manage your personal data below.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Contents</b></p>
+<ol>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">About this privacy policy</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Who we are </b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">The types of personal data we collect about you</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">How we collect personal data</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">How we use your personal data</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Personal data that we receive about you from other organisations</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Children’s personal data</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Security of your personal data</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">When we share your personal data</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">International data transfers</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">How long we keep your personal data</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">How we may contact you</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Cookies and similar technologies</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Your privacy and data protection rights </b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Your California privacy rights</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Your Australian privacy rights</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Contact us for information about how we use your personal data</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Changes to this privacy policy</b></p>
+</li>
+</ol>
+ 
+
+<ol>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">About this privacy policy</b></p>
+</li>
+</ol>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">This privacy policy explains how we collect, use, share, and transfer, and sell (for California residents only) your personal data when you use the services provided on our sites or interact with us. This privacy policy also explains your data privacy rights. </b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Personal data is any information about you by which you are identified or could be identified. This can include information such as:</b></p>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Your name, email address (including your work email address where your true name is used), company name, postal address, phone number, mobile number, job title.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Information about your device (such as the IP address, which is a numerical code to identify your device that can provide information about the country, region or city where you are based).</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Information relating to how you use our sites and services.</b></p>
+</li>
+</ul>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">When we refer to “personal data” in this policy, we are also referencing “personal information,” as it is defined under California law, and as it is defined under Australian law</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Some of our other sites provide additional privacy information. You can read that information using these links:</b></p>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90"><a href="https://www.theguardian.com/help/privacy-policy#nav15">Guardian</a></b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90"><a href="https://jobs.theguardian.com/privacy-policy/">Guardian Jobs</a> (job seekers)</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90"><a href="https://holidays.theguardian.com/privacy-policy/">Guardian Holidays</a></b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90"><a href="https://www.theguardiancrowd.com/MediaServer/15/documents/Privacy_Policy.pdf">Guardian Crowd</a> (pdf)</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90"><a href="https://theguardianfoundation.org/privacy-policy">Guardian Foundation</a></b></p>
+</li>
+</ul>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Sometimes our site may contain links to sites and services that are not part of the Guardian family of offerings. These sites and services have their own privacy policies. If you follow a link to these non-Guardian sites and apps, you should read the privacy policy shown on their site.</b></p>
+ 
+
+<ol start="2">
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Who we are </b></p>
+</li>
+</ol>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Guardian News &amp; Media Limited, Kings Place, 90 York Way, London N1 9GU is the data controller in respect of your personal data that you share with us. This means that we are responsible for deciding how and why we hold and use your personal data when we collaborate with you in relation to our B2B Client Advertising Services and B2B Recruitment Services.If you want to contact us, you can do so via your Guardian account manager or you can find our contact details in the “How to contact us” section below.</b></p>
+<p dir="ltr"> </p>
+<ol start="3">
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">The types of personal data we collect about you </b></p>
+</li>
+</ol>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We collect personal data when you use our sites. Your personal data is used to provide our services, sell advertising space on the site and to analyse how visitors use our sites. We will only collect your personal data in line with applicable laws. We collect your personal data in the following ways:</b></p>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Directly from you, when you sign up for our services, contact us and when you browse our sites.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Personal data we generate about you, e.g. personal data we use to authenticate you, or personal data in the form of your IP address or your preferences.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Personal data we collect from third parties, e.g. personal data that helps us to combat fraud or which we collect, with your permission, when you interact with us through your social media accounts.</b></p>
+</li>
+</ul>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">More details about these three categories of personal data are provided below.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">The personal data we collect when you use our sites</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">When you use our sites, we may collect:  </b></p>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Your name.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Your email address.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Your organisation, including details such as business type, industry sector, as well as billing and mailing addresses.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Your job title and details about your role.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Your telephone number (mobile and landline).</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Your company reporting lines and information about other people in your company who you work with.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Information relating to the products or services you are using or have purchased.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Information relating to the products or services you may be interested in.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Email, contact and conversation history.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Webinar engagement history. </b></p>
+</li>
+</ul>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">When you log in, you have the option to change and update your personal data. When we contact you you also have the option to opt out of further communications and be removed from our contact records.  </b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Personal data we generate about you</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">When you use our sites we may also use cookies or similar technology to collect extra data, including:</b></p>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Your IP address - a numerical code to identify your device, together with the country, region or city where you are based.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Your geolocation data - your IP address can be used to find information about the latitude, longitude, altitude of your device, its direction of travel, your GPS data and data about connection with local Wi-Fi equipment.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Information on how you interact with our services.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Your browsing history of the content you have visited on our sites, including how you were referred to our sites via other websites.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Details of your computer, mobile, TV, tablet or other devices, for example, the unique device ID, mobile advertising ID, unique vendor or advertising ID and browsers used to access our content</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Identifiers derived from those cookies or similar technologies, your device, or generated based on the data described above.</b></p>
+</li>
+</ul>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We will not collect special categories of data from you - such as personal data concerning your race, political opinions, religion, health or sexual orientation - unless you have chosen to provide that type of personal data to us.</b></p>
+<p dir="ltr"> </p>
+<ol start="4">
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">How we collect personal data </b></p>
+</li>
+</ol>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We collect personal data about you when you sign up for our services and when you browse our site. This information is used to promote and provide our advertising services covered by this Privacy Policy and analyse how visitors use our site.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We collect personal data when you:</b></p>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Register as a client (B2B Recruitment Services and Advertising) or purchase our products (B2B Client Advertising Services).</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Provide personal data to us when you contact us to enquire about our services or to purchase our services, either via our sites or via telephone or email or when you use the live chat function on our sites to communicate with us.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Register or attend for events, webinars, sign up to receive marketing information or register to download content.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Access and interact with our sites </b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Contact members of our sales teams via email, social media, or similar technologies or when you mention us on social media.</b></p>
+</li>
+</ul>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We also collect personal data through cookies and other similar technologies. Please refer to our <a href="https://recruiters.theguardian.com/cookie-policy">cookie policy</a> for more details on how we use cookies. </b></p>
+<ol start="5">
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">How we use your personal data</b></p>
+</li>
+</ol>
+<h4 dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We use personal data collected through our sites only when we have a valid reason and the legal grounds to do so. We determine the legal grounds based on the purposes for which we have collected your personal data. </b></h4>
+<h4 dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Legal grounds for using your personal data</b></h4>
+<h4 dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">The legal ground may be one of the following:</b></h4>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Consent: We will use your personal data where we have asked for your consent, which you can withdraw at any time. We will rely on consent to:</b></p>
+<ul>
+<li aria-level="2" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Place non-essential cookies and similar technologies including for personalised advertising as set out in the “Privacy settings” link on our sites in the footer of every page, which you may withdraw at any time</b></p>
+</li>
+</ul>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">To personalise the advertising that you see through non-essential cookies.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Performance of a contract with you or in order to take steps (or to take steps prior to entering into a contract with you):  We will use your personal data if we need to in order to perform a contract with you as a representative of your organisation. For example, where you have purchased B2B Advertising Services from us and we need to use your contact details in order to process the order and deliver the service, and manage your account and your order/s.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Compliance with law: In some cases, we may have a legal obligation to use or keep your personal data.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Our legitimate interests: We may process your personal data where it is necessary for our legitimate interest in a way that might be expected as part of running Guardian services and in a way which does not materially impact your rights and freedoms. For example it is in our legitimate interests for us to understand our business customers, promote our services and operate our site efficiently for the provision of our services. Please refer to the table below for examples of when we rely on our legitimate interests to use your personal data.</b></p>
+</li>
+</ul>
+ 
+
+<table>
+<colgroup>
+<col width="221"/>
+<col width="130"/>
+<col width="289"/>
+</colgroup>
+<tbody>
+<tr>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Purpose</b></p>
+</td>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Lawful Basis</b></p>
+</td>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Our Legitimate Interest (if applicable)</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">To send service communications to you.</b></p>
+</td>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Legitimate Interest</b></p>
+</td>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Email and/or push, on-platform or SMS depending on your preferences.</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">To send marketing communications to you.</b></p>
+</td>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Consent or Legitimate Interest</b></p>
+</td>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We may send marketing if you are in our database and have not opted out of our marketing. </b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">You can opt out of these communications at any time by clicking on the “unsubscribe” link at the bottom of the email or following the instructions in the message. </b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">To analyse what content has been viewed on our sites.</b></p>
+</td>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Legitimate Interest</b></p>
+</td>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">To understand how our sites are used, improve our content.</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">To carry out marketing analysis to better understand your interests and preferences</b></p>
+</td>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Legitimate Interest</b></p>
+</td>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">To make our marketing more relevant to you.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">This includes when we promote our own products and services. For example, we look at what you have viewed on our sites and your engagement with our emails. </b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">To display content on Vimeo. We process personal data so that business customers can access this video player.</b></p>
+</td>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Legitimate Interest</b></p>
+</td>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">To understand how users interact with our content.</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">To improve our services, we use a similar technology to cookies to confirm whether you have opened an email or clicked on a link in the email. </b></p>
+</td>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Legitimate Interest</b></p>
+</td>
+<td>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">To understand the effectiveness of our communication and improve our content.</b></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">In addition to the above, we also rely on the legitimate interests below to use your personal data: </b></p>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">For internal administrative purposes related to our services - such as our accounting and records.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">To collect and log IP addresses to improve and manage our site.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">To personalise our services (for example when you sign in) by remembering your settings, and recognising you when you sign in to access our site.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">When we respond to your queries and to resolve complaints.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">For security and fraud prevention, and to ensure that our sites are safe and secure and used in line with our terms of use.</b></p>
+</li>
+</ul>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Where we rely on cookies to collect any personal data please see our <a href="https://recruiters.theguardian.com/cookie-policy">cookie policy</a> for more information and how to manage your cookie choices through our “Privacy settings” link on our sites in the footer of every page of the Guardian Jobs Recruiter Services site.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">The Guardian is a media organisation and publisher. Data protection law includes certain exemptions when personal data is processed for the purposes of journalism. Those exemptions apply to some of the ways the Guardian uses personal data. This Privacy Policy does not cover personal data that the Guardian processes for the purposes of journalism.</b></p>
+<p dir="ltr"> </p>
+<ol start="6">
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Personal data that we receive about you from other organisations</b></p>
+</li>
+</ol>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Adding to or combining the personal data you provide to us</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">When you sign up to our services we may add to the personal data you give us by combining it with other personal data shared with us by other trusted organisations. This includes, for example, the region that you are located in, so that we can show you relevant information about our services. We may also add personal data to improve the accuracy of your delivery address when we send out mail. We may also obtain your personal data from partners whose offers we include in some of our marketing communications and we use this personal data to ensure that we do not send you irrelevant marketing and to ensure the accuracy of the information we hold.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We also use personal data based on the content you have viewed on our sites and your interaction with the content, so that we can make services more relevant. Sometimes we use data about your interests or demographics that some of our global third parties have collected from you online to add you to these groups, such as Freshdesk and Lead Forensics. Please refer to our <a href="https://recruiters.theguardian.com/cookie-policy">cookie policy</a> for more information on how we use cookies.</b></p>
+<ol start="7">
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Using children’s personal data</b></p>
+</li>
+</ol>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We do not aim any of our products or services directly at children under the age of 13 and we do not knowingly collect personal data about children under 13 in providing our services. Some of our services may have a higher age restriction and this will be shown at the point of registration.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We also note and comply with the California law which prohibits sale of personal data of consumers between 13-16 years of age unless their guardian has authorised the sale.</b></p>
+ 
+
+<ol start="8">
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Security of your personal data</b></p>
+</li>
+</ol>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We have implemented appropriate technical and organisational controls to protect your personal data against unauthorised processing and against accidental loss, damage or destruction. You are responsible for choosing a secure password when we ask you to set up a password to access parts of our sites. You should keep this password confidential and you should choose a password that you do not use on any other site. You should not share your password with anyone else, including anyone who works for us. Unfortunately, sending any information, including personal data, via the internet is not completely secure. We cannot guarantee the security of any personal data sent to our sites while still in transit and so you provide it at your own risk.</b></p>
+ 
+
+<ol start="9">
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">When we share your personal data</b></p>
+</li>
+</ol>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Within the Guardian group of companies </b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Depending on where you live, we may share your personal data within the Guardian group of companies in the UK, US, or Australia. We may share it in order to perform a contract with you, for administrative purposes, or when we have a legitimate interest in doing so. For example:</b></p>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">If you are going to one of our events hosted by an event partner, we may share your personal data with that partner for event administration purposes</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Sometimes we may receive a letter, email or another form of communication from you that we consider to be significant to the history of the Guardian. We may decide to share this with the Guardian Archive run by the Guardian Foundation for historic and archiving purposes</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We may share your data to understand how you interact across our group products or to tailor and offer relevant services  to you.</b></p>
+</li>
+</ul>
+<p dir="ltr"> </p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">With external organisations</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We share your personal data with other organisations that are not directly linked to us under the following circumstances:</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Service providers - We may share your data with other organisations that provide services on our behalf. We may do this to perform a contract we have entered into with you, where it is in our legitimate interests or with your consent. Examples of when we may share your data with service providers include sharing with:</b></p>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Website hosting providers, such as Madgex and Visible Dots.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Fraud management providers that help us to identify and prevent online fraud.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Internet and cloud hosting services providers, such as Amazon Web Services (AWS).</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Software service providers such as Salesforce that assist us with our customer relationship management.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Communications services providers, such as our podcast service provider called Acast.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">error tracking software providers, such as Sentry and Google Firebase, to help us diagnose and fix errors and optimise the performance of our sites.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Service providers that help provide us with insights and analytics that help us to improve our products and services. For example, we use Google Analytics to understand how visitors engage with our sites or apps . If you don’t want Google Analytics to be used in your browser, you can install the ‘Google Analytics Opt-Out Browser Add-On’, provided by Google.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Data management companies, such as Freshdesk, that help us collect data via online forms, surveys and chat and Lead Forensics to identify potential business leads.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Embedded video player providers, such as Vimeo, to provide content on our websites.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Webinars hosting for example through Zoom. </b></p>
+</li>
+</ul>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Advertising partners - We may also share your data collected through our websites with our advertising partners, as set out in our <a href="https://www.theguardian.com/info/cookies">cookie policy</a>. These partners help us deliver relevant advertising across our websites and apps. For example, we use Google Ad Manager to assist us with the delivery of relevant ads.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Agencies and authorities if required by law - We may reveal your personal data to any law enforcement agency, court, regulator, government authority, or in connection with any legal action if we are required to do so to meet a legal or regulatory obligation, where the request is proportionate, or otherwise to protect our rights or the rights of anyone else (for example, in response to valid and properly served legal process such as subpoena or warrant). If we have your contact details, we will take reasonable steps to attempt to notify you prior to disclosing your data unless (i) prohibited by applicable law from doing so, or (ii) there are clear indications of unlawful conduct in connection with your use of GNM services.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Event sponsors and partners - We may share your personal data with sponsors of Guardian events and partners who we hold events with for marketing purposes when you have given your permission for us to do so. We may also share your personal data with these sponsors and partners for event administration and security purposes.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Organisations/s that buy any of the Guardian group companies - We may share your personal data to any other organisation that buys, or to which we transfer all, or substantially all, of our assets and business. If this sale or transfer takes place, we will use reasonable efforts to try to make sure that the organisation we transfer your personal data to uses it in line with our privacy policy.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">When we share your personal data, as specified above, with any organisation which accesses your data in the course of providing services on our behalf will be governed by strict contractual restrictions to make sure that they protect your data and comply with applicable law. We may also independently audit these service providers to make sure that they meet our standards.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">California resident - Do not sell</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">These transfers to third parties may constitute “sale” of your personal information under California law. A California resident can halt these sales at any time by pressing the “California resident - Do not sell” link that is located in the footer of every page on the Guardian Jobs Recruiter Services site. Third-parties do not sell personal information that has been sold to them by the Guardian unless you have first received explicit notice and are provided an opportunity to exercise the right to opt out. </b></p>
+<p dir="ltr"> </p>
+<ol start="10">
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">International data transfers</b></p>
+</li>
+</ol>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Data we collect may be transferred to, stored and processed in any country or territory where one or more of our Guardian group companies or service providers are based or have facilities. While other countries or territories may not have the same standards of data protection as those in your home country, we will continue to protect personal data that we transfer in line with this privacy policy.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Whenever we transfer your personal data out of the United Kingdom and the European Economic Area (EEA), we ensure similar protection and put in place at least one of these safeguards:</b></p>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We will only transfer your personal data to countries that have been found to provide an adequate level of protection for personal data.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We may also use specific approved contracts that use Standard Contractual Clauses for the protection of personal data where appropriate, with our service providers that are based in countries outside the UK and EEA, including those based in the US and Australia. These contracts give your personal data the same protection it has in the UK and EEA.</b></p>
+</li>
+</ul>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">If you are located in the UK or the EEA, you may contact us for a copy of the safeguards which we have put in place for the transfer of your personal data outside the UK or the EEA.</b></p>
+<p dir="ltr"> </p>
+<ol start="11">
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">How long we keep your personal data</b></p>
+</li>
+</ol>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Data will only be kept for as long as we need to. How long we need your personal data depends on what we are using it for,  as set out in this privacy policy. For example, we may need to use it to answer your queries about a product or service and as a result may keep personal data while you are still using our product or services. To determine the appropriate retention period for personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means. We may also need to keep your personal data for accounting purposes.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">If we no longer need your data, we will delete it or make it anonymous by removing all details that identify you. If we have asked for your permission to process your personal data and we have no other lawful grounds to continue with that processing, and you withdraw your permission, we will delete your personal data. However, when you unsubscribe from marketing communications, we will keep your email address to ensure that we do not send you any marketing communications in the future.</b></p>
+<p dir="ltr"> </p>
+<ol start="12">
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">How we may contact you </b></p>
+</li>
+</ol>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Service communications</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">From time to time we may send you service emails, for example, sending you an invoice or information about your purchase and our delivery of services to you. We may also contact you for the same or similar reasons by phone.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Marketing communications</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Where you have provided us with your details in relation to our sites, then we will send you emails that relate to the products and services that you originally contacted us about or currently purchase from us. You can unsubscribe from these emails at any time by clicking the ‘manage your preferences’ link on the bottom of the email. We may also contact you for the same or similar reasons by phone.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Guardian research</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">If we have your permission or you have not opted out, we may contact you for research purposes, for example about the Guardian app. You can opt out from being contacted in this way by signing into your Guardian account and going to the tab “Emails and marketing”.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Responding to your queries or complaints</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">If you have raised a query or a complaint with us, we may contact you to answer your query or to resolve your complaint.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Special Note to California Users<br/>
+If you elect to use the “do not sell” button, we will not recontact you about that choice for at least 12 months.</b></p>
+<p dir="ltr"> </p>
+<ol start="13">
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Cookies and similar technologies</b></p>
+</li>
+</ol>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">When you visit our sites, we may collect personal data from you automatically using cookies or similar technologies. </b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">This privacy policy includes our <a href="https://recruiters.theguardian.com/cookie-policy">cookie policy</a>, where you can find details of our use of cookies.</b></p>
+<p dir="ltr"> </p>
+<ol start="14">
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Your privacy and data protection rights </b></p>
+</li>
+</ol>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">You have a number of rights with regard to the personal data that we hold about you and you can contact us with regard to the following rights in relation to your personal data:</b></p>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">You have the right to receive  a copy of the personal data that we hold about you </b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">You have the right to correct the personal data we hold about you</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Where applicable, you may also have a right to receive a machine-readable copy of your personal data</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">You also have the right to ask us to delete your personal data or restrict how it is used. There may be exceptions to the right to erasure for specific legal reasons which, if applicable, we will set out for you in response to your request</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Where applicable, you have the right to object to processing of your personal data for certain purposes</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Where you have provided us with consent to use your personal data, you can withdraw this consent at any time</b></p>
+</li>
+</ul>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">If you would like to exercise any of your rights specified above, please email dataprotection@theguardian.com or write to the Data Protection Officer at Guardian News &amp; Media Limited, Kings Place, 90 York Way, London N1 9GU. We will respond to all standard legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a large number of requests. In this case, we will notify you and keep you updated.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We may need verification of your identity to proceed with a request. If you provide us with proof of identity containing information that does not match our records, we may request further proof of identity from you. This is a security measure to ensure that your personal data is not disclosed to any person who does not have a right to receive it. </b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">You will not have to pay a fee to obtain a copy of your personal data (or to exercise any of the other rights). However, for any further copies requested by you, we may charge a reasonable fee based on administrative costs.</b></p>
+ 
+
+<ol start="15">
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Your California privacy rights</b></p>
+</li>
+</ol>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">The California Consumer Privacy Act 2018 (“CCPA”) and California Privacy Rights Act 2020 (“CPRA”) provide certain rights to residents of California. The CCPA and CPRA are collectively referred to as “CCPA” below. </b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">If you are a resident of California you may contact us with regard to the following rights in relation to your personal data:</b></p>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Right to Know: At or before the time of collection, you have a right to receive notice of our practices, including the categories of personal data and sensitive personal data to be collected, the purposes for which it is collected and used, whether such personal data is “sold or shared” and for how long personal data is retained. These details are set out in this Privacy Policy.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Right to Access: You have the right to request access to the personal data we may hold on you for the past twelve (12) months. You may submit up to two (2) requests per year of access to your personal data.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Right to Correct: You have the right to correct inaccurate personal data we hold about you.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Right to Opt-Out of Sale of Personal Data: For individuals sixteen (16) years or older, you have the right to opt-out of sale of personal data we may hold on you. You can exercise this right at any time by pressing the “California resident - Do not sell” link in the footer of every page on our site. For individuals between thirteen (13) to sixteen (16) years old, you have the right to opt-in to the sale of personal data we may hold on you.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Right to Deletion: You also have the right to ask us to delete personal data we may hold on you or restrict how it is used. There may be exceptions to the right to deletion which, if applicable, we will set out for you in response to your request.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Right to Limit Use and Disclosure of Sensitive Personal Data: Where applicable, you have the right to limit our use of sensitive personal data for any purposes other than to provide the services you request or as otherwise permitted by law.</b></p>
+</li>
+</ul>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Right to Non-Discrimination: We will not discriminate against you for exercising any of your California Consumer Privacy Act rights.</b></p>
+</li>
+</ul>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">If you want to make any of these requests, please contact <a href="mailto:dataprotection@theguardian.com">dataprotection@theguardian.com</a> or by calling our designated toll-free number (888) 777-6069. We will deal with requests for access to your personal data within forty-five (45) days for California-specific requests.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">To help us respond as you expect, please specify that you are making a request under the CCPA. We may need to request specific information from you to help us confirm your identity. For example, we will verify your identity before complying. If you provide us with proof of identity containing information that does not match our records, we may request further proof of identity from you.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">You can designate an “authorized agent” to make requests to exercise your rights on your behalf under the CCPA. We will clarify that any “authorized agent” has your written permission in making that request. We may also contact you directly to verify your identity.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">To help us respond as you expect, please specify that you are making a request under the CCPA. We may need to request specific information from you to help us confirm your identity.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">California “Shine the Light” privacy rights</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Residents of California can ask us to provide a list of the types of personal data we have disclosed to third parties for direct marketing purposes and the identity of those third parties. We do not generally disclose personal data as defined under the California “Shine the Light” law. To the extent that we share email addresses with third parties in connection with online marketing that could be covered, you may opt-out through your “Manage My Account” choices.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">To make a “Shine the Light” request, please email dataprotection@theguardian.com with “Shine the Light” in the subject line.</b></p>
+ 
+
+<ol start="16">
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Your Australian Privacy Rights</b></p>
+</li>
+</ol>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">The Australian privacy Act has rules around how we handle your personal information that may be different to rules in other regions. These rules are set out in the Australian Privacy Principles in force under the Privacy Act 1988 (Cth) (the Australian privacy Act). We are required to treat your personal information in line with those principles, including to disclose to you what personal information we collect and how we use it, to store your information securely and to support you in exercising your rights.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Personal information we collect and use<br/>
+When we refer to “personal data” throughout this policy, we are also referencing “personal information,” as it is defined under Australian law.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Details about the personal information that we collect, use and disclose is set out throughout this privacy policy. You can navigate these relevant sections by going to the contents section at the top of the page.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Your rights<br/>
+Your rights to privacy are also protected by the Australian Privacy Act, including your:</b></p>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Right of access to the personal information held about you.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Right of correction to correct your information when it is incorrect.</b></p>
+</li>
+</ul>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">These principles and rights are reflected throughout this privacy policy.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Opt out of personalised advertising<br/>
+Under the Australian Privacy Act, you have the right to opt out of the use of your personal information for the purpose of direct marketing, including in relation to personalised advertising. You can opt out of personalised advertising across our sites at any time by going to the “Privacy Settings” link at the bottom of the page of the Guardian Jobs Recruiter Services site. You will still see non-personalised advertising.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">We and our partners use cookies and similar technologies to collect information about your use of the sites to help create reports and statistics on the performance of the site. Analytics cookies such as Google Analytics collect information such as your IP address, device type and operating system, referring URLs, location and pages visited. If you don’t want Google Analytics to be used in your browser, you can install the ‘Google Analytics Opt-Out Browser Add-On’, provided by Google.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">For a complete description of our use of cookies and similar technologies globally, please see our <a href="https://recruiters.theguardian.com/cookie-policy">cookie policy</a>.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">If you have contacted us at dataprotection@theguardian.com with a privacy related complaint and you are not satisfied with our handling of that complaint, you may refer that complaint to the Office of the Australian Information Commissioner:</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">GPO BOX 5218, Sydney NSW 2001<br/>
+1300 363 992<br/>
+<a href="mailto:enquiries@oaic.gov.au">enquiries@oaic.gov.au</a></b></p>
+ 
+
+<ol start="17">
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Contact us for information about how we use your personal data </b></p>
+</li>
+</ol>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">If you have any questions about how we use your personal data or if you have a concern about how your personal data is used, please contact the Data Protection Officer at Guardian News &amp; Media Limited, Kings Place, 90 York Way, London N1 9GU. Or, email dataprotection@theguardian.com.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Complaints will be dealt with by the Data Protection Team, and will be responded to within 30 days.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">If you are not satisfied with the way your concern has been handled, you can refer your complaint to the Information Commissioner’s Office.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">If you have a question about anything else, please see our Contact us page <a href="https://www.theguardian.com/help/contact-us">here</a>.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">For individuals based in the European Union:</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Since we do not have an establishment in the European Union, we have appointed an EU based representative to serve as a direct contact for data protection authorities and individuals on our behalf, who can be contacted at theguardian@mcf.ie or MCF Legal Technology Solutions Limited, Riverside One, Sir John Rogerson's Quay, Dublin 2, Ireland.</b></p>
+<p dir="ltr"> </p>
+<ol start="18">
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Changes to this Privacy policy </b></p>
+</li>
+</ol>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">If we decide to change our privacy policy, the updated privacy policy will be posted on this page. If the changes are significant, we may also choose to email all our registered users with the new details. If required by law, we will get your permission or give you the opportunity to opt out of any new uses of your data.</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">Changes to this privacy policy to date</b></p>
+<p dir="ltr"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">The most recent changes to this privacy policy were made on:</b></p>
+<ul>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">April 2025: General update</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">July 2024: General update</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">September 2021: Updated to apply specifically to services for Guardian Advertising, including  Guardian Display, Guardian Labs and/or Guardian Jobs through their associated websites (‘our sites’).</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">November 2020: Updated to include further information about the Sites and Services covered by this Privacy Policy.</b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">March 2020: Updated to include further information about the Sites and Services covered by this Privacy Policy </b></p>
+</li>
+<li aria-level="1" dir="ltr">
+<p dir="ltr" role="presentation"><b id="docs-internal-guid-dcba9838-7fff-de38-a7f1-f3810f7f5d90">May 2018 Updated to reflect changes resulting from the General Data Protection Regulation and the Data Protection Act 2018</b></p>
+</li>
+</ul>
+<p style="margin-right:30px"> </p>
+</img></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="contact-details print-hide">
+<div class="strip strip--larger brand-highlight">
+<div class="wrapper">
+<div class="palm-small">
+<p class="h2 center-text">
+<span class="palm-width-full"><h2>Need help?</h2></span><p class="contact-details__paragraph heading-font">Email <a href="mailto:recruit@theguardian.com">recruit@theguardian.com</a></p>
+</p>
+</div>
+<p class="center-text no-margin"><a class="button button--brand" href="/callback-request/?PipelinedPage=%7e%2fprivacy-policy">Request a call back</a></p>
+</div>
+</div>
+</div>
+<div class="position-static" data-block="footer-main">
+<footer class="footer contentinfo">
+<div class="back-to-top highlight padded-10">
+<div class="wrapper cf">
+<p class="right-text no-margin"><a class="js-smooth-scrollto block-level" href="#top-bar">Back to top</a></p>
+</div>
+</div>
+<div class="wrapper content">
+<nav aria-label="Footer" class="tertiary-nav block">
+<ul class="tertiary-nav__items cf">
+<div class="flex-grid">
+<div class="flex-grid-item one-quarter lap-one-third portable-one-half palm-two-fifths">
+<ul>
+<li class="tertiary-nav__item"><a class="tertiary-nav__link" href="/about-us/">About us</a></li>
+<li class="tertiary-nav__item"><a class="tertiary-nav__link" href="/privacy-policy/">Privacy Policy</a></li>
+<li class="tertiary-nav__item"><a class="tertiary-nav__link" href="/static-page/270/help/">Help</a></li>
+<li class="tertiary-nav__item"><a class="tertiary-nav__link" href="/contact-us/">Contact us</a></li>
+</ul>
+</div>
+<div class="flex-grid-item one-quarter lap-one-third portable-one-half palm-three-fifths">
+<ul>
+<li class="tertiary-nav__item"><a class="tertiary-nav__link icon icon--external-link" href="https://recruiters.theguardian.com/" target="_blank">Recruiter Advertising Site <span class="hidden"> This will open in a new window</span></a></li>
+<li class="tertiary-nav__item"><a class="tertiary-nav__link" href="/static-page/10289/cookie-policy/">Cookie Policy</a></li>
+<li class="tertiary-nav__item"><a class="tertiary-nav__link" href="/terms-and-conditions/">Terms and Conditions</a></li>
+<li class="tertiary-nav__item"><a class="tertiary-nav__link" href="/static-page/220/accessibility/">Accessibility</a></li>
+</ul>
+</div>
+<div class="flex-grid-item one-quarter lap-one-third portable-one-half palm-three-fifths">
+<ul>
+<li class="tertiary-nav__item">
+<a class="tertiary-nav__link" href="#" onclick="OnClickShowPrivacyWindow()">Privacy Settings</a>
+</li>
+</ul>
+</div>
+<div class="flex-grid-item one-half lap-one-third portable-one-whole palm-one-whole">
+<span class="hidden">Accepted payment methods: </span>
+<ul class="payment-cards cf palm-center-text payment-cards--header">
+<li class="payment-cards__card"><img alt="Delta" src="/assets/dist/images/payment-cards/delta.png;v=30a3c821d62e07044aa53eb2d9e75260"/></li>
+<li class="payment-cards__card"><img alt="Maestro" src="/assets/dist/images/payment-cards/maestro.png;v=740b7dd7f24dd386f68208546ec5d509"/></li>
+<li class="payment-cards__card"><img alt="Mastercard" src="/assets/dist/images/payment-cards/mastercard.png;v=cab802feb205d218b4b8efcda10b11e9"/></li>
+<li class="payment-cards__card"><img alt="Solo" src="/assets/dist/images/payment-cards/solo.png;v=a526e06095dbc53c3ad0baf691a608ff"/></li>
+<li class="payment-cards__card"><img alt="Visa" src="/assets/dist/images/payment-cards/visa.png;v=6f5319d8a571a4c9abfc032ff92a3f4d"/></li>
+</ul>
+<div class="footer-logos">
+<a href="https://jobs.theguardian.com/"><img alt="The Guardian Jobs" class="footer-logo" src="/assets/dist/images/logo-footer.png;v=8b696519870d8028e6d0d628eacba481"/></a>
+<a href="https://www.theguardian.com/"><img alt="Find good company" class="footer-seal" src="/assets/dist/images/big-g.svg;v=f385728adf7e93ae45d0d736b08835fe"/></a>
+</div>
+</div>
+</div>
+</ul>
+</nav>
+<p class="copyright no-margin">© 2013 - 2025 Guardian News and Media Limited, all rights reserved. <span class="white-text">Powered by Madgex Job Board Software</span></p>
+</div>
+</footer>
+</div>
+</div>
+<!-- SiteScope -->
+<script nonce="b4627bd3-8ec0-4c12-af8b-f26ffada8bc7" type="text/javascript">
+				localStorage.removeItem('jps-step');
+			</script>
+</body>
+</html>
+<!-- e -->

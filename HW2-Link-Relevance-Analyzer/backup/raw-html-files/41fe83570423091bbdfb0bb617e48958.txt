@@ -1,0 +1,1238 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+<title>CNN HD Debuts  |  TVWeek</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta charset="utf-8">
+<link href="http://www.tvweek.com/xmlrpc.php" rel="pingback"/>
+<meta content="max-image-preview:large" name="robots"/>
+<link href="https://www.tvweek.com/feed/" rel="alternate" title="TVWeek » Feed" type="application/rss+xml"/>
+<link href="https://www.tvweek.com/comments/feed/" rel="alternate" title="TVWeek » Comments Feed" type="application/rss+xml"/>
+<link href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/feed/" rel="alternate" title="TVWeek » CNN HD Debuts Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.tvweek.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.7"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="http://www.tvweek.com/wp-includes/css/dist/block-library/style.min.css" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.tvweek.com/wp-includes/css/classic-themes.min.css" id="classic-theme-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link href="http://www.tvweek.com/wp-content/themes/tvweek/css/font-awesome.min.css" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.tvweek.com/wp-content/themes/tvweek/css/bootstrap.min.css" id="bootstrap-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.tvweek.com/wp-content/themes/tvweek/css/bootstrap-responsive.min.css" id="bootstrap-responsive-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.tvweek.com/wp-content/themes/tvweek/css/animate.css" id="animate-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.tvweek.com/wp-content/themes/tvweek/css/jquery.fancybox.css" id="jquery.fancybox-css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="http://www.tvweek.com/wp-content/themes/tvweek/css/jquery.bxslider.css" id="jquery.bxslider-css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="http://www.tvweek.com/wp-content/themes/tvweek/style.css" id="style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.tvweek.com/wp-content/themes/tvweek/css/customizer.css.php?ver=1.0" id="custumizer-css" media="screen" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="http://www.tvweek.com/wp-includes/js/jquery/jquery.min.js" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="http://www.tvweek.com/wp-includes/js/jquery/jquery-migrate.min.js" type="text/javascript"></script>
+<link href="https://www.tvweek.com/wp-json/" rel="https://api.w.org/"/><link href="https://www.tvweek.com/wp-json/wp/v2/posts/54083" rel="alternate" type="application/json"/><link href="https://www.tvweek.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://www.tvweek.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 6.2.7" name="generator"/>
+<link href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/" rel="canonical"/>
+<link href="https://www.tvweek.com/?p=54083" rel="shortlink"/>
+<link href="https://www.tvweek.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tvweek.com%2Fin-depth%2F2007%2F09%2Fcnn-hd-debuts%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://www.tvweek.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.tvweek.com%2Fin-depth%2F2007%2F09%2Fcnn-hd-debuts%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<link href="/wp-content/themes/tvweek/img/favicon.png" rel="shortcut icon"/><!--[if IE 7]>
+	<link rel='stylesheet' id='font-awesome-ie7'  href='http://www.tvweek.com/wp-content/themes/tvweek/css/font-awesome-ie7.min.css' type='text/css' media='all' />
+	<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+<script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/62045209/x01', [728, 90], 'div-gpt-ad-1433952988800-0').addService(googletag.pubads());
+googletag.defineSlot('/62045209/x11', [[300, 900], [300, 250]], 'div-gpt-ad-1518453363899-0').addService(googletag.pubads());
+googletag.defineSlot('/62045209/x12', [300, 250], 'div-gpt-ad-1433954821906-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+</meta></head>
+<body class="post-template-default single single-post postid-54083 single-format-standard" id="top">
+<!-- 
+SiteCatalyst code version: H.24.1.
+Copyright 1996-2011 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com 
+-->
+<script type="text/javascript">
+    var s_account = "craintvweek";
+    var s_firstPartyTracking = false;
+</script>
+<script src="https://crain-global.s3.amazonaws.com/s_crainsc.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+
+s_crainsc.channel = s_crainsc.prop1 = s_crainsc.eVar1 = "digital";
+
+
+
+s_crainsc.prop26 = s_crainsc.eVar28 = "20070906";
+
+s_crainsc.prop27 = s_crainsc.eVar29 = "cnn-hd-debuts";
+
+s_crainsc.prop28 = s_crainsc.eVar30 = "54083";
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s_crainsc.t(); if(s_code)document.write(s_code);
+</script>
+<noscript><img alt="" border="0" height="1" src="//crain.d1.sc.omtrdc.net/b/ss/craintvweek/1/H.24.1--NS/0" width="1"/></noscript>
+<!-- END SiteCatalyst code -->
+<div class="boxed active">
+<header itemscope="" itemtype="http://schema.org/WPHeader">
+<div class="wrapper _header_top">
+<div class="container">
+<div class="row-fluid">
+<div class="span12 header_top">
+<div class="social_media"><ul class="socmed"><li><a class="social_icon_twitter" href="https://twitter.com/Chuckmedia" target="_blank" title="Twitter"><i class="icon icon-twitter"></i></a></li><li><a class="social_icon_rss" href="https://tvweek.apl10sub-liquidwebsites.com/rss" target="_blank" title="RSS"><i class="icon icon-rss"></i></a></li></ul></div> </div>
+</div>
+</div>
+</div><!-- end _header_top -->
+<div class="wrapper _header">
+<div class="container">
+<div class="row-fluid">
+<div class="span12 header">
+<h1 class="logo">
+<a href="https://www.tvweek.com/" title="TVWeek">
+<img alt="Logo" src="/wp-content/themes/tvweek/img/logo.png"/>
+</a>
+</h1>
+<div class="header_ad">
+<!-- /62045209/x01 -->
+<div id="div-gpt-ad-1433952988800-0" style="">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1433952988800-0'); });
+</script>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<div class="wrapper _main_navigation">
+<div class="container main_navigation">
+<div class="row-fluid">
+<div class="span12"><nav class="main-navigation" id="main-navigation"><ul class="nav main-menu" id="menu-main-navigation"><li class="menu-item-home menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-60820" id="menu-item-60820"><a href="https://www.tvweek.com/">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63508" id="menu-item-63508"><a href="/tvbizwire">TV Bizwire</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63509" id="menu-item-63509"><a href="/open-mic">Open Mic</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60816" id="menu-item-60816"><a href="/viral_videos">Viral Videos</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60834" id="menu-item-60834"><a href="https://www.tvweek.com/category/newsletters/">Newsletters</a></li>
+</ul></nav> <div class="smallmenu"><div id="dropmenu"></div></div>
+<form action="/" id="witgetsearch" method="get" role="search">
+<div class="input-append">
+<input id="s" name="s" placeholder="Type here to search..." type="text" value=""/>
+<button class="btn btn-primary" type="submit">Search</button>
+</div>
+</form>
+</div>
+</div> </div><!-- end main_navigation -->
+</div>
+</header><!-- END header-->
+<!-- // single.php -->
+<div class="wrapper _content">
+<div class="container">
+<div class="row-fluid">
+<div class="span12 content">
+<div class="main">
+<!-- content.php -->
+<div class="post-54083 post type-post status-publish format-standard hentry category-digital category-in-depth">
+<div class="storycontent">
+<h2 class="_title">CNN HD Debuts</h2>
+<p class="panel">
+<span style="color: #b5001b;">Sep 6, 2007</span>
+<span style="color: #666;"> • </span>
+<a href="#reply-title">Post A Comment</a>
+</p>
+<div class="entry">
+<p>CNN on Saturday launched CNN HD, a high-definition simulcast of its existing network, which will feature original series shot in HD as well as regular news programming.<br/>
+“We’ve known HD technology is out there and we’ve been planning from a technical point for some time,” said Bob Hesskamp, VP of CNN Broadcast Engineering and Systems Technology. “CNN is available on a variety of platforms already, and now it will be available in HD.”<br/>
+DirecTV has confirmed it will carry CNN HD, with launch scheduled for mid-September. CNN would not comment specifically on other carriage deals, but did say it was in negotiations.<br/>
+CNN shows that originate in New York will be produced in high def. The network’s newsgathering will be a mix of high definition and standard definition.<br/>
+“Like with any news organization, we have a large legacy of library material in standard definition,” said Mr. Hesskamp, “and we’ll use that stuff forever.”<br/>
+However, efforts will be made to up-convert content as much as possible, he added. The network has already begun the process of converting some of its current news segments.<br/>
+CNN will continue to upgrade its facilities around the world by replacing existing equipment with high-def versions.<br/>
+The ultimate goal is to have CNN be a news organization that shoots entirely in HD, but Mr. Hesskamp admits it’s not something that will happen overnight.<br/>
+“We’re a global news organization, so it’s a significant endeavor to replace equipment and upgrade the current infrastructures,” he said.<br/>
+Although CNN has been actively working on the launch of the HD simulcast for a little over a year, the network had been preparing itself for an eventual HD launch for nearly three years. The New York set was constructed with HD in mind, and several existing studios and control rooms have been upgraded over the years to be HD-ready.<br/>
+CNN is preparing to air its <a href="https://www.tvweek.com/news/2007/09/cnn_trio_for_planet_in_peril.php">first high-def documentary</a>, “Planet in Peril,” in late October. CNN anchor Anderson Cooper, chief medical correspondent Sanjay Gupta and Animal Planet host Jeff Corwin are part of the project, which aims to address environmental issues threatening the planet.<br/>
+“From the video we’ve seen so far, it’s incredible,” Mr. Hesskamp said. “I think, after all, we’re telling stories and the great video will help us to bring our viewers closer to the stories and report in a way we’ve never been able to do before.”<br/>
+The network plans to do other documentaries and is currently in the process of shooting some in HD, but wouldn’t offer further details.<br/>
+In addition, CNN HD will shoot the next presidential debate in high-def and plans to cover more large special events in HD.</p>
+<div class="clearfix"></div>
+<div class="post_panel post_navigation">
+<div class="prev">
+<strong><a href="https://www.tvweek.com/in-depth/2007/09/this-week-in-hd-superman-retur/" rel="prev">This Week in HD: ‘Superman Returns,’ ‘The Return,’ ‘Curb Your Enthusiasm’</a></strong> </div>
+<div class="next">
+<strong><a href="https://www.tvweek.com/in-depth/2007/09/cable-industry-debuts-psas-abo/" rel="next">Cable Industry Debuts PSAs About Digital Transition</a></strong> </div>
+</div>
+<div class="post_panel">
+<div class="share">
+<span class="pull-left">Share this Post :</span>
+<ul class="social_share"><li><a class="mtc_social_icon2" href="javascript:void(0);" onclick="social_share('http://www.facebook.com/sharer.php?u=https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/')" title="Facebook"><i class="icon-facebook"></i> </a></li><li><a class="mtc_social_icon2" href="javascript:void(0);" onclick="social_share('https://plus.google.com/share?url=https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/')" title="Google+"><i class="icon-google-plus"></i> </a></li><li><a class="mtc_social_icon2" href="javascript:void(0);" onclick="social_share('http://twitter.com/intent/tweet?url=https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/')" title="Twitter"><i class="icon-twitter"></i> </a></li><li><a class="mtc_social_icon2" href="javascript:void(0);" onclick="social_share('http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/')" title="Linkedin"><i class="icon-linkedin"></i> </a></li><li><a class="mtc_social_icon2" href="mailto:?subject=CNN HD Debuts&amp;body=https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/" title="Email"><i class="icon-envelope-alt"></i> </a></li></ul></div> </div>
+</div>
+</div>
+<div class="storycontent">
+<h3 id="comments">
+		
+			61 Comments 		</h3>
+<ol class="commentlist">
+<li class="comment even thread-even depth-1" id="comment-70962">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn">RDW</cite>
+<div class="clock">
+				September 16, 2007  at 09:30 am, 
+								<a aria-label="Reply to RDW" class="comment-reply-link" data-belowelement="comment-70962" data-commentid="70962" data-postid="54083" data-replyto="Reply to RDW" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70962#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>It’s about time that the “world wide leader” in news start broadcasting in HD.  What took you so long?</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/7201850602ab2e735a419973704d54f7?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70963">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn">T Ranciglio</cite>
+<div class="clock">
+				February 13, 2008  at 18:47 pm, 
+								<a aria-label="Reply to T Ranciglio" class="comment-reply-link" data-belowelement="comment-70963" data-commentid="70963" data-postid="54083" data-replyto="Reply to T Ranciglio" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70963#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>When will CNN HD be on Dish network????<br/>
+When will Fox News Channel go HD?</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/27001f9870d93efb5b41293b659201c1?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70964">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn">Gilberto</cite>
+<div class="clock">
+				June 7, 2008  at 13:26 pm, 
+								<a aria-label="Reply to Gilberto" class="comment-reply-link" data-belowelement="comment-70964" data-commentid="70964" data-postid="54083" data-replyto="Reply to Gilberto" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70964#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>WHY IN CNN HD THE CC IS NOT ON?<br/>
+THANKS</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/ff8f8f8c32ef00063919e9fe6c9b4265?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70965">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn">John Hixon</cite>
+<div class="clock">
+				August 25, 2008  at 10:57 am, 
+								<a aria-label="Reply to John Hixon" class="comment-reply-link" data-belowelement="comment-70965" data-commentid="70965" data-postid="54083" data-replyto="Reply to John Hixon" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70965#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>when cnn hd on verizon in southern california?</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/8cfc136951c6cb6b2a716d31106fc675?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70966">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn">steve loughborough,england</cite>
+<div class="clock">
+				April 20, 2009  at 07:25 am, 
+								<a aria-label="Reply to steve loughborough,england" class="comment-reply-link" data-belowelement="comment-70966" data-commentid="70966" data-postid="54083" data-replyto="Reply to steve loughborough,england" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70966#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>when will cnnhd be available to viewers outside america</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/7935966ed46783c1850de3c2e9ef7793?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70967">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.cheaphubcaps.info" rel="ugc external nofollow">Jann Frevert</a></cite>
+<div class="clock">
+				October 24, 2010  at 13:45 pm, 
+								<a aria-label="Reply to Jann Frevert" class="comment-reply-link" data-belowelement="comment-70967" data-commentid="70967" data-postid="54083" data-replyto="Reply to Jann Frevert" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70967#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Zune and iPod: Most people compare the Zune to the Touch, but after seeing how slim and surprisingly small and light it is, I consider it to be a rather unique hybrid that combines qualities of both the Touch and the Nano. It’s very colorful and lovely OLED screen is slightly smaller than the touch screen, but the player itself feels quite a bit smaller and lighter. It weighs about 2/3 as much, and is noticeably smaller in width and height, while being just a hair thicker.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/4173172e827d7cdf3cb66ee6cfacd96f?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70968">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com" rel="ugc external nofollow">Buy Backlinks</a></cite>
+<div class="clock">
+				November 9, 2010  at 18:34 pm, 
+								<a aria-label="Reply to Buy Backlinks" class="comment-reply-link" data-belowelement="comment-70968" data-commentid="70968" data-postid="54083" data-replyto="Reply to Buy Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70968#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Wow, amazing blog layout! How long have you been blogging for? you make blogging look easy.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/201ecb791c04e1a907cd9f00da638b69?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70969">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com" rel="ugc external nofollow">Seo Services</a></cite>
+<div class="clock">
+				November 12, 2010  at 18:32 pm, 
+								<a aria-label="Reply to Seo Services" class="comment-reply-link" data-belowelement="comment-70969" data-commentid="70969" data-postid="54083" data-replyto="Reply to Seo Services" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70969#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Way to focus and straight to your point, i love it. Keep up the work people. Dont let anyone stop us bloggers.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/b91be13d120acb4ba30cb4c4c599f952?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70970">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com" rel="ugc external nofollow">Buy Backlinks</a></cite>
+<div class="clock">
+				November 13, 2010  at 19:01 pm, 
+								<a aria-label="Reply to Buy Backlinks" class="comment-reply-link" data-belowelement="comment-70970" data-commentid="70970" data-postid="54083" data-replyto="Reply to Buy Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70970#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Nice!! Great Ifo. Great People. Great Blog. Thank you for all the great sharing that is being done here.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/97efebe4fccab039518bbf49ed2a3424?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70971">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com" rel="ugc external nofollow">Seo Services</a></cite>
+<div class="clock">
+				November 13, 2010  at 23:05 pm, 
+								<a aria-label="Reply to Seo Services" class="comment-reply-link" data-belowelement="comment-70971" data-commentid="70971" data-postid="54083" data-replyto="Reply to Seo Services" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70971#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>You make blogging look like a walk in the park! I’ve been trying to blog daily but I just cant find writing material.. you’re an inspiration to me and i’m sure many others!</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/bbe3864808fd30b1d9fed4a2efb1948b?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70973">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.how-win-your-ex-back.com/" rel="ugc external nofollow">How To Win Your Ex Back</a></cite>
+<div class="clock">
+				November 18, 2010  at 12:43 pm, 
+								<a aria-label="Reply to How To Win Your Ex Back" class="comment-reply-link" data-belowelement="comment-70973" data-commentid="70973" data-postid="54083" data-replyto="Reply to How To Win Your Ex Back" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70973#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>I would like to start my own blog one day. This was a really nice blog that you made here. Keep up the success 😛</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/e442b95d691e93fc2b10d2830c522eb5?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70974">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.seomarketingservicesonline.com" rel="ugc external nofollow">Buy Backlinks</a></cite>
+<div class="clock">
+				November 18, 2010  at 21:31 pm, 
+								<a aria-label="Reply to Buy Backlinks" class="comment-reply-link" data-belowelement="comment-70974" data-commentid="70974" data-postid="54083" data-replyto="Reply to Buy Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70974#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Interesting thoughts here. I appreciate you taking the time to share them with us all. It’s people like you that make my day 🙂</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/08e3e943fd6b2ea381981c4ec97dcf59?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70975">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com/" rel="ugc external nofollow">Link Building</a></cite>
+<div class="clock">
+				November 19, 2010  at 04:19 am, 
+								<a aria-label="Reply to Link Building" class="comment-reply-link" data-belowelement="comment-70975" data-commentid="70975" data-postid="54083" data-replyto="Reply to Link Building" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70975#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Dreamin. I love blogging. You all express your feelings the right way, because they are your feeling, focus on your blog it is great.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/4300af8607f8561f82c7af8aed37017a?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70976">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.vudew.com/" rel="ugc external nofollow">Snowboards</a></cite>
+<div class="clock">
+				November 24, 2010  at 08:59 am, 
+								<a aria-label="Reply to Snowboards" class="comment-reply-link" data-belowelement="comment-70976" data-commentid="70976" data-postid="54083" data-replyto="Reply to Snowboards" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70976#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Nice blog here! Also your website loads up fast! What host are you using? I wish my website loaded up as fast as yours lol</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/b9fcde6514b73cf1eaf0db7d26e6875d?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70977">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.seomarketingservicesonline.com" rel="ugc external nofollow">Buy Backlinks</a></cite>
+<div class="clock">
+				November 28, 2010  at 01:03 am, 
+								<a aria-label="Reply to Buy Backlinks" class="comment-reply-link" data-belowelement="comment-70977" data-commentid="70977" data-postid="54083" data-replyto="Reply to Buy Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70977#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>I love the way you write and also the theme on your blog. Did you code this yourself or was it done by a professional? I’m very very impressed.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/4aefb50c555f4c012cc5d4eade79e8a8?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70978">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com/" rel="ugc external nofollow">Link Building</a></cite>
+<div class="clock">
+				November 28, 2010  at 09:27 am, 
+								<a aria-label="Reply to Link Building" class="comment-reply-link" data-belowelement="comment-70978" data-commentid="70978" data-postid="54083" data-replyto="Reply to Link Building" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70978#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Hey how are you doing? I just wanted to stop by and say that it’s been a pleasure reading your blog. I have bookmarked your website so that I can come back &amp; read more in the future as well. plz do keep up the quality writing</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/b365c9f4c1d24d0bf2a7b07b52368013?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70980">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com/" rel="ugc external nofollow">Buy Backlinks</a></cite>
+<div class="clock">
+				November 29, 2010  at 01:16 am, 
+								<a aria-label="Reply to Buy Backlinks" class="comment-reply-link" data-belowelement="comment-70980" data-commentid="70980" data-postid="54083" data-replyto="Reply to Buy Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70980#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Love all the opinions expressed here! How is everyone? Love how everyone expresses whatr they feel 🙂</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/befa8f69212aa413d0ec668be46e0f24?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70981">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.Solvegambling.com" rel="ugc external nofollow">Stop Gambling</a></cite>
+<div class="clock">
+				November 29, 2010  at 11:02 am, 
+								<a aria-label="Reply to Stop Gambling" class="comment-reply-link" data-belowelement="comment-70981" data-commentid="70981" data-postid="54083" data-replyto="Reply to Stop Gambling" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70981#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>This is the best blog I’ve ever seen in my life! I really appreciate you taking the time out of your busy day to share your this with everyone.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/9b8dcbbc72077ea48dc3d52afd28c515?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70982">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.Solvegambling.com" rel="ugc external nofollow">Gambling Problems</a></cite>
+<div class="clock">
+				November 29, 2010  at 19:15 pm, 
+								<a aria-label="Reply to Gambling Problems" class="comment-reply-link" data-belowelement="comment-70982" data-commentid="70982" data-postid="54083" data-replyto="Reply to Gambling Problems" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70982#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>I love the way you write and also the theme on your blog. Did you code this yourself or was it done by a professional? I’m very very impressed.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/c85543d7726974476a73044cc9cb2768?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70983">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com/" rel="ugc external nofollow">Buy Backlinks</a></cite>
+<div class="clock">
+				November 29, 2010  at 23:00 pm, 
+								<a aria-label="Reply to Buy Backlinks" class="comment-reply-link" data-belowelement="comment-70983" data-commentid="70983" data-postid="54083" data-replyto="Reply to Buy Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70983#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Interesting thoughts here. I appreciate you taking the time to share them with us all. It’s people like you that make my day 🙂</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/2ccda93e458cea6ae8011bf8d03d38b0?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70984">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.hispaniola.org" rel="ugc external nofollow">Learn Spanish Language</a></cite>
+<div class="clock">
+				December 1, 2010  at 15:12 pm, 
+								<a aria-label="Reply to Learn Spanish Language" class="comment-reply-link" data-belowelement="comment-70984" data-commentid="70984" data-postid="54083" data-replyto="Reply to Learn Spanish Language" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70984#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>I love the way you write and also the theme on your blog. Did you code this yourself or was it done by a professional? I’m very very impressed.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/3a01fb434e983313af1b1f9a32dd6913?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70985">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.seomarketingservicesonline.com" rel="ugc external nofollow">Backlinks</a></cite>
+<div class="clock">
+				December 1, 2010  at 20:35 pm, 
+								<a aria-label="Reply to Backlinks" class="comment-reply-link" data-belowelement="comment-70985" data-commentid="70985" data-postid="54083" data-replyto="Reply to Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70985#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>I really like the colors here on your blog. did you design this yourself or did you outsource it to a professional?</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/7e82d5131b7f5bca9b31c358903c505b?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70986">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com/" rel="ugc external nofollow">Link Building</a></cite>
+<div class="clock">
+				December 1, 2010  at 21:47 pm, 
+								<a aria-label="Reply to Link Building" class="comment-reply-link" data-belowelement="comment-70986" data-commentid="70986" data-postid="54083" data-replyto="Reply to Link Building" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70986#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Hey how are you doing? I just wanted to stop by and say that it’s been a pleasure reading your blog. I have bookmarked your website so that I can come back &amp; read more in the future as well. plz do keep up the quality writing</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/17f2fcf6ab0f534b55cca9f68ed38886?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70987">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.jandjservices.com" rel="ugc external nofollow">Porta Potty Rental</a></cite>
+<div class="clock">
+				December 2, 2010  at 02:23 am, 
+								<a aria-label="Reply to Porta Potty Rental" class="comment-reply-link" data-belowelement="comment-70987" data-commentid="70987" data-postid="54083" data-replyto="Reply to Porta Potty Rental" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70987#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>I agree with your thoughts here and I really love your blog! I’ve bookmarked it so that I can come back &amp; read more in the future.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/7e0ff71b900e9f6f1124bcd05ef4972c?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70988">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.seomarketingservicesonline.com" rel="ugc external nofollow">Backlinks</a></cite>
+<div class="clock">
+				December 2, 2010  at 12:16 pm, 
+								<a aria-label="Reply to Backlinks" class="comment-reply-link" data-belowelement="comment-70988" data-commentid="70988" data-postid="54083" data-replyto="Reply to Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70988#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>This is good info! Where else can if ind out more?? Who runs this joint too? Keep up the good work 🙂</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/3f15ddba62bf2dd8c4a6a60e23d6ace4?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70989">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://7dayfatloss.com/" rel="ugc external nofollow">Hosea Filice</a></cite>
+<div class="clock">
+				December 3, 2010  at 03:27 am, 
+								<a aria-label="Reply to Hosea Filice" class="comment-reply-link" data-belowelement="comment-70989" data-commentid="70989" data-postid="54083" data-replyto="Reply to Hosea Filice" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70989#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p><a href="http://Download-Youtube.net/" rel="nofollow">download YouTube videos</a></p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/48c64f96e4af637dfcebd016cd3e0f9c?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70990">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.seomarketingservicesonline.com" rel="ugc external nofollow">Link Building</a></cite>
+<div class="clock">
+				December 3, 2010  at 04:54 am, 
+								<a aria-label="Reply to Link Building" class="comment-reply-link" data-belowelement="comment-70990" data-commentid="70990" data-postid="54083" data-replyto="Reply to Link Building" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70990#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>I really like the colors here on your blog. did you design this yourself or did you outsource it to a professional?</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/7486ac51cad4f986329cf31b84ded444?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70991">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://Download-Youtube.net/" rel="ugc external nofollow">Stewart Hughston</a></cite>
+<div class="clock">
+				December 3, 2010  at 20:01 pm, 
+								<a aria-label="Reply to Stewart Hughston" class="comment-reply-link" data-belowelement="comment-70991" data-commentid="70991" data-postid="54083" data-replyto="Reply to Stewart Hughston" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70991#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p><a href="http://Download-Youtube.net/" rel="nofollow">download YouTube videos</a></p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/e2b649fe333fcdd10cdf5b2663b0ad93?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70992">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.seomarketingservicesonline.com" rel="ugc external nofollow">Backlinks</a></cite>
+<div class="clock">
+				December 3, 2010  at 22:52 pm, 
+								<a aria-label="Reply to Backlinks" class="comment-reply-link" data-belowelement="comment-70992" data-commentid="70992" data-postid="54083" data-replyto="Reply to Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70992#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>I love the way you write and also the theme on your blog. Did you code this yourself or was it done by a professional? I’m very very impressed.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/909bc4828b78102248b60e485ad9b665?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70993">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.atlaswellnesscentre.com" rel="ugc external nofollow">Bedford Chiropractic Clinic</a></cite>
+<div class="clock">
+				December 13, 2010  at 21:50 pm, 
+								<a aria-label="Reply to Bedford Chiropractic Clinic" class="comment-reply-link" data-belowelement="comment-70993" data-commentid="70993" data-postid="54083" data-replyto="Reply to Bedford Chiropractic Clinic" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70993#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>I love your blog.. very nice colors &amp; theme. Did you create this website yourself or did you hire someone to do it for you? Plz reply back as I’m looking to create my own blog and would like to know wheere u got this from. thanks</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/7fd2a67a04761ad064c65ea32f9aa065?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70994">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com" rel="ugc external nofollow">Backlinks</a></cite>
+<div class="clock">
+				December 14, 2010  at 12:56 pm, 
+								<a aria-label="Reply to Backlinks" class="comment-reply-link" data-belowelement="comment-70994" data-commentid="70994" data-postid="54083" data-replyto="Reply to Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70994#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Great blog!! You should start many more. I love all the info provided. I will stay tuned 🙂</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/d5032334afabd8a5a0685029c78e3429?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70995">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com/" rel="ugc external nofollow">Link Building</a></cite>
+<div class="clock">
+				December 14, 2010  at 21:16 pm, 
+								<a aria-label="Reply to Link Building" class="comment-reply-link" data-belowelement="comment-70995" data-commentid="70995" data-postid="54083" data-replyto="Reply to Link Building" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70995#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Way to focus and straight to your point, i love it. Keep up the work people. Dont let anyone stop us bloggers.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/a0acdae46003f38a32d348044c698672?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70996">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com/" rel="ugc external nofollow">Link Building</a></cite>
+<div class="clock">
+				December 15, 2010  at 01:52 am, 
+								<a aria-label="Reply to Link Building" class="comment-reply-link" data-belowelement="comment-70996" data-commentid="70996" data-postid="54083" data-replyto="Reply to Link Building" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70996#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Interesting thoughts here. I appreciate you taking the time to share them with us all. It’s people like you that make my day 🙂</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/509cbdd1c1b1794a250cf2794a3ad057?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70997">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com/" rel="ugc external nofollow">Link Building</a></cite>
+<div class="clock">
+				December 16, 2010  at 06:35 am, 
+								<a aria-label="Reply to Link Building" class="comment-reply-link" data-belowelement="comment-70997" data-commentid="70997" data-postid="54083" data-replyto="Reply to Link Building" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70997#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Way to focus and straight to your point, i love it. Keep up the work people. Dont let anyone stop us bloggers.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/670f38c7d155e89d3bcca8fc228588d7?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70998">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.InnovativeBuzz.com" rel="ugc external nofollow">Web Design Phoenix</a></cite>
+<div class="clock">
+				December 16, 2010  at 18:44 pm, 
+								<a aria-label="Reply to Web Design Phoenix" class="comment-reply-link" data-belowelement="comment-70998" data-commentid="70998" data-postid="54083" data-replyto="Reply to Web Design Phoenix" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70998#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>High quality info here! Keep up the great work. I love the feelings being expressed.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/1215b47fe92d1e7968f1e2cd8929730d?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-70999">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.InnovativeBuzz.com" rel="ugc external nofollow">Web Designer Phoenix</a></cite>
+<div class="clock">
+				December 16, 2010  at 23:08 pm, 
+								<a aria-label="Reply to Web Designer Phoenix" class="comment-reply-link" data-belowelement="comment-70999" data-commentid="70999" data-postid="54083" data-replyto="Reply to Web Designer Phoenix" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=70999#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Keep focusing on your blog. I love how we can all express our feelings. This is an extremely nice blog here 🙂</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/1024eeb9829f7cf56258277bcd29e7d0?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71000">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.inredesign.eu" rel="ugc external nofollow">business link directory</a></cite>
+<div class="clock">
+				December 18, 2010  at 10:38 am, 
+								<a aria-label="Reply to business link directory" class="comment-reply-link" data-belowelement="comment-71000" data-commentid="71000" data-postid="54083" data-replyto="Reply to business link directory" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71000#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>We are delighted to invite you to submit all your sites to the <a href="http://www.inredesign.eu" rel="nofollow">directory</a>.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/bc6aac2d96af574a7c6e93fbe9d95205?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71001">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.espoirvoyance.com" rel="ugc external nofollow">Voyance Web</a></cite>
+<div class="clock">
+				December 19, 2010  at 22:32 pm, 
+								<a aria-label="Reply to Voyance Web" class="comment-reply-link" data-belowelement="comment-71001" data-commentid="71001" data-postid="54083" data-replyto="Reply to Voyance Web" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71001#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Amazing freakin blog here. I almost cried while reading it!</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/4c24b17b728a066bd06aa23ac326c8d4?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71002">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.tlumaczeniatechniczne.atranspl.com" rel="ugc external nofollow">Italian</a></cite>
+<div class="clock">
+				December 20, 2010  at 21:16 pm, 
+								<a aria-label="Reply to Italian" class="comment-reply-link" data-belowelement="comment-71002" data-commentid="71002" data-postid="54083" data-replyto="Reply to Italian" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71002#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>You make blogging look like a walk in the park! I’ve been trying to blog daily but I just cant find writing material.. you’re an inspiration to me and i’m sure many others!</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/15616d49a8492e206bb0c49036efeec0?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71003">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.tyler-texas-lawyer.com/" rel="ugc external nofollow">Lawyer Tyler Tx</a></cite>
+<div class="clock">
+				December 21, 2010  at 01:58 am, 
+								<a aria-label="Reply to Lawyer Tyler Tx" class="comment-reply-link" data-belowelement="comment-71003" data-commentid="71003" data-postid="54083" data-replyto="Reply to Lawyer Tyler Tx" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71003#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Amazing freakin blog here. I almost cried while reading it!</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/28974447604f6e140f88c2bfce809a59?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71004">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com/" rel="ugc external nofollow">Link Building Services</a></cite>
+<div class="clock">
+				December 21, 2010  at 04:38 am, 
+								<a aria-label="Reply to Link Building Services" class="comment-reply-link" data-belowelement="comment-71004" data-commentid="71004" data-postid="54083" data-replyto="Reply to Link Building Services" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71004#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Hey how are you doing? I just wanted to stop by and say that it’s been a pleasure reading your blog. I have bookmarked your website so that I can come back &amp; read more in the future as well. plz do keep up the quality writing</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/9b307623c1aade9f124a4c646682ee9b?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71005">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.bettingonyourfuture.com" rel="ugc external nofollow">Unique Wedding Favors</a></cite>
+<div class="clock">
+				December 21, 2010  at 17:19 pm, 
+								<a aria-label="Reply to Unique Wedding Favors" class="comment-reply-link" data-belowelement="comment-71005" data-commentid="71005" data-postid="54083" data-replyto="Reply to Unique Wedding Favors" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71005#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>I love the expression. Everyone needs to express there own opinion and feel free to hear others. Keep it up 🙂</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/bb23f0a003368f9aab02f24c4ea30ba2?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71006">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.cybersexservice.com" rel="ugc external nofollow">Wife Swapping</a></cite>
+<div class="clock">
+				December 21, 2010  at 19:11 pm, 
+								<a aria-label="Reply to Wife Swapping" class="comment-reply-link" data-belowelement="comment-71006" data-commentid="71006" data-postid="54083" data-replyto="Reply to Wife Swapping" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71006#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Wow, amazing blog layout! How long have you been blogging for? you make blogging look easy.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/f22857a68120f21e4c5d6b00f56e268c?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71007">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com" rel="ugc external nofollow">Link Building Services</a></cite>
+<div class="clock">
+				December 24, 2010  at 01:30 am, 
+								<a aria-label="Reply to Link Building Services" class="comment-reply-link" data-belowelement="comment-71007" data-commentid="71007" data-postid="54083" data-replyto="Reply to Link Building Services" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71007#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Hey how are you doing? I just wanted to stop by and say that it’s been a pleasure reading your blog. I have bookmarked your website so that I can come back &amp; read more in the future as well. plz do keep up the quality writing</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/373f82caaf9db955d2a10920b0e3af18?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71008">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com" rel="ugc external nofollow">Buy Links</a></cite>
+<div class="clock">
+				December 24, 2010  at 03:11 am, 
+								<a aria-label="Reply to Buy Links" class="comment-reply-link" data-belowelement="comment-71008" data-commentid="71008" data-postid="54083" data-replyto="Reply to Buy Links" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71008#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Nice!! Great Ifo. Great People. Great Blog. Thank you for all the great sharing that is being done here.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/38cb618bb0a766cecb94a2a1b2edf0d4?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71009">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com" rel="ugc external nofollow">Buy Backlinks</a></cite>
+<div class="clock">
+				December 24, 2010  at 19:15 pm, 
+								<a aria-label="Reply to Buy Backlinks" class="comment-reply-link" data-belowelement="comment-71009" data-commentid="71009" data-postid="54083" data-replyto="Reply to Buy Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71009#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Love all the opinions expressed here! How is everyone? Love how everyone expresses whatr they feel 🙂</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/7782d088a590431165fe7d1163e390f0?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71010">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.alltexplumbing.net" rel="ugc external nofollow">Plumbers Longview TX</a></cite>
+<div class="clock">
+				December 27, 2010  at 02:58 am, 
+								<a aria-label="Reply to Plumbers Longview TX" class="comment-reply-link" data-belowelement="comment-71010" data-commentid="71010" data-postid="54083" data-replyto="Reply to Plumbers Longview TX" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71010#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Love all the opinions expressed here! How is everyone? Love how everyone expresses whatr they feel 🙂</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/f67d62b36c9588667bb7a1fa798f989d?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71011">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.goowai.com" rel="ugc external nofollow">Vacanze In Italia</a></cite>
+<div class="clock">
+				December 28, 2010  at 14:13 pm, 
+								<a aria-label="Reply to Vacanze In Italia" class="comment-reply-link" data-belowelement="comment-71011" data-commentid="71011" data-postid="54083" data-replyto="Reply to Vacanze In Italia" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71011#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Love the blog here. Nice colors. I am definitely staying tuned to this one. Hope to see more.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/35c7fa141c91cf2b79a2ac938635f390?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71012">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com" rel="ugc external nofollow">Backlinks</a></cite>
+<div class="clock">
+				December 29, 2010  at 01:10 am, 
+								<a aria-label="Reply to Backlinks" class="comment-reply-link" data-belowelement="comment-71012" data-commentid="71012" data-postid="54083" data-replyto="Reply to Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71012#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Wow, amazing blog layout! How long have you been blogging for? you make blogging look easy.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/5611667a3d9b325468d5a7eb7bc93c91?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71013">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.acquirebacklinks.com" rel="ugc external nofollow">Get Backlinks</a></cite>
+<div class="clock">
+				December 29, 2010  at 19:17 pm, 
+								<a aria-label="Reply to Get Backlinks" class="comment-reply-link" data-belowelement="comment-71013" data-commentid="71013" data-postid="54083" data-replyto="Reply to Get Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71013#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Thanks for such a fantastic post, bookmarked and signed up to your RSS feed. Keep the great posts coming.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/c5a09444c1b87fe10473538ce6aee303?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71014">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.acquirebacklinks.com" rel="ugc external nofollow">Backlinks</a></cite>
+<div class="clock">
+				December 29, 2010  at 21:34 pm, 
+								<a aria-label="Reply to Backlinks" class="comment-reply-link" data-belowelement="comment-71014" data-commentid="71014" data-postid="54083" data-replyto="Reply to Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71014#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Kind Regards,</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/70ad7c05b999ec34071bfaf07b67b49f?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71015">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.acquirebacklinks.com" rel="ugc external nofollow">Backlinks</a></cite>
+<div class="clock">
+				December 29, 2010  at 21:59 pm, 
+								<a aria-label="Reply to Backlinks" class="comment-reply-link" data-belowelement="comment-71015" data-commentid="71015" data-postid="54083" data-replyto="Reply to Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71015#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>LDA – Chief Exec Monthly Store LTD</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/9749fa1033ff2ba3f1b94467a52236c1?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71016">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com" rel="ugc external nofollow">Buy Backlinks</a></cite>
+<div class="clock">
+				December 30, 2010  at 15:52 pm, 
+								<a aria-label="Reply to Buy Backlinks" class="comment-reply-link" data-belowelement="comment-71016" data-commentid="71016" data-postid="54083" data-replyto="Reply to Buy Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71016#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Kudos to you! This is a really good blog here and I love your style of writing. How did you get so good at blogging?</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/9008847ace6324a2166e721db012a14b?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71017">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com" rel="ugc external nofollow">Buy Backlinks</a></cite>
+<div class="clock">
+				December 31, 2010  at 05:38 am, 
+								<a aria-label="Reply to Buy Backlinks" class="comment-reply-link" data-belowelement="comment-71017" data-commentid="71017" data-postid="54083" data-replyto="Reply to Buy Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71017#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Great wordpress blog here.. It’s hard to find quality writing like yours these days. I really appreciate people like you! take care and see you soon</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://0.gravatar.com/avatar/9db807d91914562b300d5a135f6af74f?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71018">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com" rel="ugc external nofollow">Backlinks</a></cite>
+<div class="clock">
+				January 3, 2011  at 20:36 pm, 
+								<a aria-label="Reply to Backlinks" class="comment-reply-link" data-belowelement="comment-71018" data-commentid="71018" data-postid="54083" data-replyto="Reply to Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71018#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Nice!! Great Ifo. Great People. Great Blog. Thank you for all the great sharing that is being done here.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/724516cbf1867fb74fa813517b7843ce?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71019">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com" rel="ugc external nofollow">Backlinks</a></cite>
+<div class="clock">
+				January 4, 2011  at 00:29 am, 
+								<a aria-label="Reply to Backlinks" class="comment-reply-link" data-belowelement="comment-71019" data-commentid="71019" data-postid="54083" data-replyto="Reply to Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71019#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>You make blogging look like a walk in the park! I’ve been trying to blog daily but I just cant find writing material.. you’re an inspiration to me and i’m sure many others!</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/8c00fceff003b75b973f8e4a871c4e59?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71020">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com" rel="ugc external nofollow">Backlinks</a></cite>
+<div class="clock">
+				January 4, 2011  at 14:56 pm, 
+								<a aria-label="Reply to Backlinks" class="comment-reply-link" data-belowelement="comment-71020" data-commentid="71020" data-postid="54083" data-replyto="Reply to Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71020#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>I agree with your thoughts here and I really love your blog! I’ve bookmarked it so that I can come back &amp; read more in the future.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/404e1c1b4a77082ab9275f25c504dd8d?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71021">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com" rel="ugc external nofollow">Backlinks</a></cite>
+<div class="clock">
+				January 4, 2011  at 17:25 pm, 
+								<a aria-label="Reply to Backlinks" class="comment-reply-link" data-belowelement="comment-71021" data-commentid="71021" data-postid="54083" data-replyto="Reply to Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71021#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Keep focusing on your blog. I love how we can all express our feelings. This is an extremely nice blog here 🙂</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/215fe29141f3a36d9dcadcceae2b0c87?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71022">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.SeoMarketingServicesOnline.com" rel="ugc external nofollow">Backlinks</a></cite>
+<div class="clock">
+				January 6, 2011  at 02:48 am, 
+								<a aria-label="Reply to Backlinks" class="comment-reply-link" data-belowelement="comment-71022" data-commentid="71022" data-postid="54083" data-replyto="Reply to Backlinks" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71022#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Neat blog layout! Very easy on the eyes.. i like the colors you picked out</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/222fb34b8f1669260d9b2dc131928ea5?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71023">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://www.saofutpematatoataziua.com" rel="ugc external nofollow">Mary Span</a></cite>
+<div class="clock">
+				January 8, 2011  at 21:21 pm, 
+								<a aria-label="Reply to Mary Span" class="comment-reply-link" data-belowelement="comment-71023" data-commentid="71023" data-postid="54083" data-replyto="Reply to Mary Span" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71023#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>of course like your website but you need to take a look at the spelling on several of your posts. Many of them are rife with spelling issues and I to find it very troublesome to inform the reality on the other hand I will surely come back again.</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://1.gravatar.com/avatar/7a75254be21ad9e9d8d23f83adb85c73?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-71024">
+<div class="rapidx_comment" id="comment-2223">
+<div class="comment-meta commentmetadata">
+<cite class="fn"><a class="url" href="http://aethsrtjsr.com" rel="ugc external nofollow">Lily Aita</a></cite>
+<div class="clock">
+				January 11, 2011  at 01:05 am, 
+								<a aria-label="Reply to Lily Aita" class="comment-reply-link" data-belowelement="comment-71024" data-commentid="71024" data-postid="54083" data-replyto="Reply to Lily Aita" data-respondelement="respond" href="https://www.tvweek.com/in-depth/2007/09/cnn-hd-debuts/?replytocom=71024#respond" rel="nofollow">Reply</a> </div>
+</div>
+<div class="comment-body">
+<p>Good site=)  Will take a decent amount of time to think about your content:)</p>
+</div>
+</div>
+<div class="comment-author vcard"><img alt="" class="avatar avatar-125wp-user-avatar wp-user-avatar-125 alignnone photo avatar-default" height="125" src="http://2.gravatar.com/avatar/2369159c782cb07244bca91bce165484?s=125&amp;d=mm&amp;r=g" width="125"/></div>
+<div class="reply"></div>
+</li><!-- #comment-## -->
+</ol>
+<div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title">Your Comment <small><a href="/in-depth/2007/09/cnn-hd-debuts/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Cancel Reply</a></small></h3><form action="http://www.tvweek.com/wp-comments-post.php" class="comment-form" id="commentform" method="post"><p class="comment-notes">Email (will not be published)</p><p><textarea cols="100" id="comment" name="comment" rows="10" tabindex="4"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label><input aria-required="true" id="author" name="author" size="22" tabindex="1" type="text" value=""/> </p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label><input aria-required="true" id="email" name="email" size="22" tabindex="2" type="text" value=""/> </p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Comment"> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="54083">
+<input id="comment_parent" name="comment_parent" type="hidden" value="0">
+</input></input></input></p><p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="c84d318573"/></p><p class="akismet-fields-container" data-prefix="ak_" style="display: none !important;"><label>Δ<textarea cols="45" maxlength="100" name="ak_hp_textarea" rows="8"></textarea></label><input id="ak_js_1" name="ak_js" type="hidden" value="183"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form> </div><!-- #respond -->
+<div class="spacer"></div>
+</div>
+</div>
+</div><!-- end main -->
+<!-- SIDEBAR -->
+<div class="sidebar" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+<aside class="widget_text widget widget_custom_html" id="custom_html-2"><div class="textwidget custom-html-widget"><img alt="The Buzz" src="https://www.tvweek.com/wp-content/themes/tvweek/img/tvweek/buzzheader.png"/></div></aside><aside class="widget pagesinwidgets_page_section" id="pagesinwidgets_page_section-2"> <div class="the-buzz list_home_content">
+<p>TVWeek’s 2019 Media Buyer of the Year Philip McKeon, Former Child Actor, Dead at 55 Business Is Booming for One Veteran Media Exec — and He Was Just Named Time Magazine’s Businessperson of the Year Three New Stars Join Cast…</p>
+</div>
+</aside>
+</div>
+<!-- END SIDEBAR -->
+<div class="spacer"></div>
+</div>
+</div>
+</div>
+</div>
+<footer itemscope="" itemtype="http://schema.org/WPFooter">
+<div class="wrapper _footer">
+<div class="container">
+<div class="row-fluid">
+<div class="span6">
+<nav class="footer-navigation" id="footer-navigation"><ul class="nav main-menu" id="menu-footer-navigation"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60833" id="menu-item-60833"><a href="https://www.tvweek.com/about-us/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60832" id="menu-item-60832"><a href="https://www.tvweek.com/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60831" id="menu-item-60831"><a href="https://www.tvweek.com/media-kit/">Media Kit</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60830" id="menu-item-60830"><a href="https://www.tvweek.com/privacy-policy/">Privacy Policy</a></li>
+</ul></nav> <div class="clearfix"></div>
+<div class="credits">
+					Copyright © 2018 Dexter Canfield Media Inc.				</div>
+</div>
+<div class="span6">
+<div class="social_media"><ul class="socmed"><li><a class="social_icon_twitter" href="https://twitter.com/Chuckmedia" target="_blank" title="Twitter"><i class="icon icon-twitter"></i></a></li><li><a class="social_icon_rss" href="https://tvweek.apl10sub-liquidwebsites.com/rss" target="_blank" title="RSS"><i class="icon icon-rss"></i></a></li></ul></div> </div>
+</div>
+</div>
+</div>
+</footer>
+</div><!-- end boxed -->
+<script id="bzine-ajax-request-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var bzineAjax = {"postID":"54083","ajaxurl":"https:\/\/www.tvweek.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script id="bzine-ajax-request-js" src="http://www.tvweek.com/wp-content/themes/tvweek/js/bzine-ajax.js" type="text/javascript"></script>
+<script id="comment-reply-js" src="http://www.tvweek.com/wp-includes/js/comment-reply.min.js" type="text/javascript"></script>
+<script id="mtc-rating-sys-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var mtcRating = {"ajaxurl":"https:\/\/www.tvweek.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script id="mtc-rating-sys-js" src="http://www.tvweek.com/wp-content/themes/tvweek/js/mtc-rating-sys.js" type="text/javascript"></script>
+<script id="selectnav-js" src="http://www.tvweek.com/wp-content/themes/tvweek/js/selectnav.min.js" type="text/javascript"></script>
+<script id="bootstrap-js" src="http://www.tvweek.com/wp-content/themes/tvweek/js/bootstrap.min.js" type="text/javascript"></script>
+<script id="jquery.bxslider-js" src="http://www.tvweek.com/wp-content/themes/tvweek/js/jquery.bxslider.min.js" type="text/javascript"></script>
+<script id="jquery.carouFredSel-js" src="http://www.tvweek.com/wp-content/themes/tvweek/js/jquery.carouFredSel.js" type="text/javascript"></script>
+<script id="jquery.fancybox-js" src="http://www.tvweek.com/wp-content/themes/tvweek/js/jquery.fancybox.pack.js" type="text/javascript"></script>
+<script id="jquery.sticky-js" src="http://www.tvweek.com/wp-content/themes/tvweek/js/jquery.sticky.js" type="text/javascript"></script>
+<script id="fluidvids-js" src="http://www.tvweek.com/wp-content/themes/tvweek/js/fluidvids.min.js" type="text/javascript"></script>
+<script id="waypoints-js" src="http://www.tvweek.com/wp-content/themes/tvweek/js/waypoints.min.js" type="text/javascript"></script>
+<script id="imagesloaded-js" src="http://www.tvweek.com/wp-includes/js/imagesloaded.min.js" type="text/javascript"></script>
+<script id="masonry-js" src="http://www.tvweek.com/wp-includes/js/masonry.min.js" type="text/javascript"></script>
+<script id="bzine-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var bzine = {"news_ticker_animation":"reveal","slider_effect":"directscroll","slider_timeoutDuration":"3000"};
+/* ]]> */
+</script>
+<script id="bzine-js" src="http://www.tvweek.com/wp-content/themes/tvweek/js/bzine.js" type="text/javascript"></script>
+<script defer="" id="akismet-frontend-js" src="http://www.tvweek.com/wp-content/plugins/akismet/_inc/akismet-frontend.js" type="text/javascript"></script>
+<!--VISISTAT SNIPPET//-->
+<script type="text/javascript">
+//<![CDATA[
+var DID=173024;
+var pcheck=(window.location.protocol == "https:") ? "https://sniff.visistat.com/live.js":"http://stats.visistat.com/live.js";
+document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'ipt>');
+//]]>
+</script>
+<!--VISISTAT SNIPPET//-->
+<script type="text/javascript">
+
+$(function(){
+    setTimeout(function() {
+        $('.widget .ads300250').each(function(){
+        
+            var $this = $(this);
+            var $img  = $this.find('[id^="oas_"]').html();
+
+            if( $img == '') $this.parent().hide();
+            
+        });
+    }, 5000);
+});
+
+</script>
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 0/389 objects using Memcached
+Page Caching using Memcached 
+Database Caching using Memcached
+
+Served from: www.tvweek.com @ 2025-09-27 13:36:48 by W3 Total Cache
+-->

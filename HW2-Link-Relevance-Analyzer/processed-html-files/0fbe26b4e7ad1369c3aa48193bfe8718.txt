@@ -1,0 +1,276 @@
+Privacy Policy
+Introduction
+This is the privacy policy for Guardian Jobs and explains how Guardian News & Media Limited (collectively referred to as “Guardian”, “we”, “us” or “our” in this policy) collect, use, share and transfer your personal data when you use the services provided on the Guardian Jobs website at https://jobs.theguardian.com/ (“our site”) and interact with us. This privacy policy is separate to how we use personal data collected via theguardian.com website. For information on how personal data is used on theguardian.com website, please read the privacy policy here and the cookie policy here .
+Our values guide everything that we do – including how we use personal data. We are strongly committed to keeping your personal data safe. This commitment exists throughout the lifecycle of your personal data, from the design of any Guardian Jobs service which uses personal data to the deletion of that data.
+To complement our global approach to privacy protection, this policy also incorporates specific data privacy rights granted to individuals under Californian and Australian privacy law. This reflects our relationship with our users in these locations where we provide access to Guardian Jobs services.
+We think carefully about our use of personal data, and below you can find the details of what we do to protect your privacy. This policy covers, among other topics:
+Information about your rights, the choices available to you, and our obligations in the UK, European Union, in California, in Australia, and elsewhere
+Transparency about how we collect and use your personal data, including when and how it is shared
+Information on how we protect your personal data
+Information on how we will facilitate your rights and respond to your questions
+Find out more about how we manage your personal data below.
+Contents
+The types of personal data we collect about you
+How we collect personal data
+How we use your personal data
+Personal data that we receive about you from other organisations
+Children’s personal data
+Security of your personal data
+When we share your personal data
+International data transfers
+How long we keep your personal data
+How we may contact you
+Cookies and similar technologies
+Your privacy and data protection rights
+Your California privacy rights
+Contact us for information about how we use your personal data
+Changes to this privacy policy
+About this privacy policy
+This privacy policy explains how we collect, use, share, transfer, and sell (for California residents only) your personal data when you use the services provided on our site or interact with us. This privacy policy also explains your data privacy rights.
+Personal data is any information about you by which you can be identified or be identifiable. This can include information such as:
+Your name, date of birth, gender, email address, postal address, phone number, mobile number, job title.
+Information about your device (such as the IP address, which is a numerical code to identify your device that can provide information about the country, region or city where you are based).
+Information relating to how you use and interact with our site and services.
+Information relating to your personal circumstances.
+When we refer to “personal data” in this policy, we are also referencing “personal information,” as it is defined under California law, and as it is defined under Australian law.
+Some of our other sites provide additional privacy information. You can read that information using these links:
+Guardian Foundation
+Sometimes our site may contain links to sites and services that are not part of the Guardian family of offerings. These sites and services have their own privacy policies. If you follow a link to these non-Guardian sites, you should read the privacy policy shown on their site.
+Who we are
+Guardian News & Media Limited, Kings Place, 90 York Way, London N1 9GU is the data controller in respect of personal data that we collect from you. This means that we are responsible for our use of your personal data. If you want to contact us directly, you can find our contact details in the “Contact us for information about how we use your personal data” section below.
+The types of personal data we collect about you
+We collect your personal data when you sign up for our services and when you browse our site. Your personal data is used to provide the Guardian Jobs services, sell advertising space on our site and to analyse how visitors use our site. We will only collect your personal data in line with applicable laws. We collect your personal data in the following ways:
+Directly from you, when you sign up for our services, contact us and when you browse our site.
+Personal data we generate about you, e.g. personal data we use to authenticate you, or personal data we generate about you from your IP address or your preferences.
+Personal data we collect from third parties, e.g. personal data that helps us to combat fraud or which we collect, with your permission, when you interact with us through your social media accounts.
+More details about these three categories of personal data are provided below.
+The personal data we collect when you use our site’s basic functions or register for a Guardian Jobs account on our site
+When you interact with our site’s basic function or register for a Guardian Jobs account on our site, we may collect:
+Your name.
+The country you live in.
+Your email address.
+Your IP address.
+Details of your education and working career.
+Details of how you interact with our site, and job vacancies you might be interested in.
+Some limited data from your social media profile (further information on this is below), if you have signed in to Guardian Jobs services using your social media details.
+Any other information you may include in your CV, for example your personal interests.
+When you register on our site, you have access to a profile page where you have the option to change and update your personal data. You can also manage your settings to control who can see your CV if you have one associated with your account.
+Personal data we generate about you
+If you register for an account after being redirected from our site, we assign you a Guardian unique ID number. This allows us to recognise you when you are signed in across Guardian services and also to manage your applications and Guardian Jobs account. This will recognise you if you sign in using the same account on a new device. If you apply for a job or register for a job alert without being logged in, a Guardian Jobs account will be created for you with the information you have provided. In order to log in to this account, and associate it with a Guardian unique ID number, you would need to complete registration of that account following an email sent by Guardian Jobs with registration instructions.  You can find the privacy policy for the Guardian account here .
+An account enables:
+Sending job applications directly to recruiters.
+The option to receive marketing communications about offers and services from Guardian News & Media Limited.
+Adding your CV to the searchable CV database (“CV database”).
+The option to have a third party, TopCV, review and provide feedback on your CV, and
+Signing up for jobs by email (“Job alerts”).
+Setting up a profile within our site (store your CV, add in personal details such as your most recent role, current job title, sectors you have experience working in, current salary, whether you are willing to relocate, details of preferred future role etc) and choosing whether recruiters can search and view your CV and profile).
+When you use our site or access Guardian Jobs via the Guardian app we may also use cookies or similar technologies to collect extra data, including:
+Your IP address - a numerical code to identify your device, together with the country, region or city where you are based.
+Your geolocation data - your IP address can be used to find information about the latitude, longitude, altitude of your device, its direction of travel, your GPS data and data about connection with local Wi-Fi equipment.
+Information on how you interact with our services.
+Your browsing history of the content you have visited on our site, including how you were referred to our site via other websites.
+Details of your computer, mobile, TV, tablet or other devices, for example, the unique device ID, unique vendor or advertising ID and browsers used to access our content.
+Identifiers derived from those cookies or similar technologies, your device, or generated based on the data you share when registering, signing up for newsletters or making a payment, such as your email address, or the data described above.
+We will not collect special categories of data from you - such as personal data concerning your race, political opinions, religion, health or sexual orientation - unless you have chosen to provide that type of personal data to us.
+Using your social media details to sign in to your Guardian account
+When you sign in to our sites using your social media ID, we will use this personal data to form a profile for your Guardian Jobs account. If you remove the Guardian app from your Google settings or your Apple ID, we will no longer have access to this data. However, we will still have the personal data that we received when you first set up your Guardian Jobs account using your Google login, Apple ID, or any other social media sign in.
+Apple
+If you register or sign in with your Apple ID, you give Apple permission to share your personal data with us. This only includes your first and last name, and your email address. You can also choose to hide your email and Apple will create a random email address so your personal email can stay private. This email address will be linked to your Guardian Jobs profile and will be used to retrieve your subscribed content.
+Google
+When you sign in to our sites using your Google login details, you give Google permission to share the personal data that you have made public in your Google profile. This only includes your first and last name, your email address and whether your email address has been validated, a link to your Google profile and, if you have one, your profile picture. This email address will be linked to your Guardian Jobs profile and will be used to retrieve your subscribed content.
+Personal data when you post comments about the Guardian on other social media sites
+If you have mentioned Guardian Jobs in posts on social media sites, then we may collect your social media handles. For example, when you mention Guardian Jobs in a post, we may collect your X handle.
+How we collect personal data
+We collect personal data when you:
+Register as a user (name, email address and password).
+Create a profile (country of residence, job sector and salary information) and upload documents (for example, your CV or cover letter).
+Store a copy of your CV and any other information you provide when you send it to a recruiter directly through our site or if you add your CV to the CV database.
+Sign up for marketing communications.
+Access and interact with our site.
+Contact us via email, social media, our Guardian app or similar technologies or when you mention us on social media.
+Test our products, participate in focus groups or provide us with feedback.
+We also collect personal data through cookies and other similar technologies. Please refer to our cookie policy for more details on how we use cookies.
+How we use your personal data
+We use personal data collected through our site only when we have a valid reason and the legal grounds to do so. We determine the legal grounds based on the purposes for which we have collected your personal data. Legal grounds for using your personal data
+The legal ground may be one of the following:
+Consent: We will use your personal data where we have asked for your consent, which you can withdraw at any time. We will rely on consent to:
+Place non-essential cookies and similar technologies including for personalised advertising as set out in the “Privacy settings” link on our sites in the footer of every page, which you may withdraw at any time.
+Add your CV to the CV database to be viewed by recruiters.
+Performance of a contract with you (or in order to take steps prior to entering into a contract with you):  We will use your personal data if we need to in order to perform a contract with you. To provide your job application to the company that advertised the position or the recruitment company. For example, where you have signed up for a Guardian Jobs account, we will need to collect your account details and profile information.
+Compliance with law: In some cases, we may have a legal obligation to use or keep your personal data.
+Our legitimate interests: We may process your personal data where it is necessary for our legitimate interests in a way that might be expected as part of running our site in a way which does not materially impact your rights and freedoms. Please refer to the table below for examples of when we rely on our legitimate interests to use your personal data.
+Purpose
+Our Legitimate Interest (if applicable)
+To send service communications to you.
+Legitimate Interest
+Email and/or push, on-platform or SMS depending on your preferences.
+To send marketing communications to you.
+Consent or Legitimate Interest
+We send marketing if you have signed up for those communications, signed up for a newsletter, or if you have registered and have not opted out of our marketing.
+You can opt out of these communications at any time by clicking on the “unsubscribe” link at the bottom of the email or following the instructions in the message. You can also opt out and select communication preferences (such as email, SMS, mail) in the “emails and marketing” tab, when signed into your Guardian account.
+To provide your job application to the company that advertised the position or the recruitment company
+Performance of a contract with you
+N/A
+To provide the services you sign up for, for example setting up your Job alerts or your Guardian Jobs profile
+Legitimate Interest
+To provide the services you sign up for
+To analyse what content has been viewed on our site.
+Legitimate Interest
+To understand how our sites are used, improve our content and personalise your signed in experience.
+To carry out marketing analysis to better understand your interests and preferences
+Legitimate Interest
+To make our marketing more relevant to you.
+You can opt out from having your personal data used for marketing analysis by going into your account to the tab “emails and marketing”.
+To analyse what you have viewed on our sites and what products and services you have bought (including what you have looked at and what products or services you have bought on our other platforms, for example Guardian Jobs).
+We use this analysis to create “segments” of particular types of audiences.
+Legitimate Interest
+To analyse our readers and supporters to better understand your interests and preferences so that we can make our marketing more relevant to you and the “segments” that you may be in.
+You can opt out from having your personal data used for marketing analysis by going into your account to the “Data privacy” tab.
+To use those ‘’segments’’ to create “custom audiences”
+Legitimate Interest
+To identify our audience across third party websites.
+This is normally achieved by using cookies as described in our cookie policy. For example we use these “custom audiences” to present advertising on other sites.
+You can manage the use of cookies by clicking the “Privacy Settings” link on our sites in the footer of every page.
+When we embed content on our site, for example to display Guardian content on the unbranded version of the YouTube embedded player, we process personal data so that readers can access this YouTube player.
+Legitimate Interest
+To understand how users interact with our content, for example whether users watch the full video or only a proportion of it. This will involve using cookies as described in our cookie policy and sharing information with YouTube as set out in the “When we share or sell your personal data” section of this privacy policy.
+In addition to the above, we also rely on the legitimate interests below to use your personal data:
+For internal administrative purposes related to our services - such as our accounting and records.
+To enable you to register for an account on our site.
+To collect and log IP addresses to improve and manage our site and monitor our site usage.
+To personalise our services (for example, when you sign in) by remembering your settings, and recognising you when you sign in to access Guardian Jobs services on different devices.
+Enabling you to share our content with others using social media or email.
+When we respond to your queries and to resolve complaints.
+For security and fraud prevention, and to ensure that our site is safe and secure and used in line with our terms of use.
+To test changes to our site we may vary the personal data that is collected and how it is used. This allows us to see the impact on users and how users interact with different options on our site.
+Where we rely on cookies to collect any personal data please see our cookie policy for more information and how to manage your cookie choices through our “Privacy settings” link on our sites in the footer of every page.
+The Guardian is a media organisation and publisher. Data protection law includes certain exemptions when personal data is processed for the purposes of journalism. Those exemptions apply to some of the ways the Guardian uses personal data. This Privacy Policy does not cover personal data that the Guardian processes for the purposes of journalism.
+The Guardian may use generative AI functionalities in our software and systems, including in our use of personal data. The Guardian has set out our generative AI principles on how we will use generative AI.
+Personal data that we receive about you from other organisations
+Adding to or combining the personal data you provide to us
+When you sign up to our services we may add to the personal data you give us by combining it with other personal data shared with us by other trusted organisations. We may also add personal data to improve the accuracy of your delivery address when we send out mail. We may also obtain your personal data from partners whose offers we include in some of our marketing communications and we use this personal data to ensure that we do not send you irrelevant marketing and to ensure the accuracy of the information we hold.
+We also use personal data based on the content you have viewed on our Jobs site and your interaction with the content to add you to groups with similar interests and preferences, so that we can make our online advertising more relevant. Sometimes we use data about your interests or demographics that some of our global third parties have collected from you online to add you to these groups, such as Ipsos Mori, Comscore and Nielsen. Please refer to our cookie policy for more information on how we use cookies.
+Personal data shared by event partners
+When you register or book a ticket for a Guardian Jobs event organised by an event partner, your registration data may be shared with us by the event partner.
+Children’s personal data
+We do not aim any of our products or services directly at children under the age of 13 and we do not knowingly collect personal data about children under 13 in providing our services. Some of our services may have a higher age restriction and this will be shown at the point of registration.
+We also note and comply with the California law which prohibits sale of personal data of consumers between 13-16 years of age unless their guardian has authorised the sale.
+Security of your personal data
+We have implemented appropriate technical and organisational controls to protect your personal data against unauthorised processing and against accidental loss, damage or destruction. You are responsible for choosing a secure password when we ask you to set up a password to access parts of our site. You should keep this password confidential and you should choose a password that you do not use on any other site. You should not share your password with anyone else, including anyone who works for us. Sending any information, including personal data, via the internet is not completely secure. We cannot guarantee the security of any personal data sent to our site while still in transit and so you provide it at your own risk.
+Please do not ever disclose any private information in response to a job advertisement or include on your CV any of the following: National Insurance number, driving licence number, passport number, bank/credit card details and date of birth. If you are ever asked to do this by a recruiter please contact us immediately. For more information about secure job searching click here .
+When we share your personal data
+Within the Guardian group of companies
+Depending on where you live, we may share your personal data within the Guardian group of companies in the UK, US, or Australia. We may share it in order to perform a contract with you, for administrative purposes, or when we have a legitimate interest in doing so. For example:
+If you are going to one of our events hosted by an event partner, we may share your personal data with that partner for event administration purposes.
+Sometimes we may receive a letter, email or another form of communication from you that we consider to be significant to the history of the Guardian. We may decide to share this with the Guardian Archive run by the Guardian Foundation for historic and archiving purposes.
+We may share your data to understand how you interact across our group products or to tailor and offer relevant advertising to you.
+With external organisations
+We share your personal data for completing one-off job applications, adding you to our CV database and sending your CV to TopCV for review. If you have created an account or have provided your email address during this process and you click through to an advertiser’s website, your email address and name will be shared with the hiring company or advertiser of the job.
+When you submit a one-off application through our site, we share it directly with the company who advertised the position. We will keep a copy of your CV for six months. However, sometimes you can also submit your CV directly to the company. In this case we do not receive a copy of your CV. When applying without a profile on our site, you have the option for us to store a copy of your CV on the CV database for recruiters to search as explained above.
+When you apply for jobs on our site and upload your CV, a copy is stored. You can choose to add your CV to the CV database that can only be searched by recruiters if you allow this in your settings. To control whether recruiters (or what particular recruiters) can see your CV on the database, you need to create a profile and click on the settings that apply.  If you choose to share your CV or personal details with recruiters, we ask them not to hold your CV for longer than is necessary and not to use your CV for purposes other than recruitment.
+We share your personal data with other organisations that are not directly linked to us under the following circumstances:
+Service providers - We may share your data with other organisations that provide services on our behalf. We may do this to perform a contract we have entered into with you, where it is in our legitimate interests or with your consent. Examples of when we may share your data with service providers include sharing with:
+Website hosting and CRM providers, such as Madgex.
+Fraud management providers that help us to identify and prevent online fraud.
+Internet and cloud hosting services providers, such as Amazon Web Services (AWS).
+Life-cycle engagement platforms such as Braze, to help us build and manage our campaigns and send our email communications.
+Software service providers such as Salesforce and mParticle that assist us with our customer relationship management.
+Communications services providers, such as our podcast service provider called Acast.
+Error tracking software providers, such as Sentry and Google Firebase, to help us diagnose and fix errors and optimise the performance of our site.
+Service providers that help us carry out analytics, facilitate audience creation and segmentation and to measure our audience engagement. For example, Permutive provides us with data management platform services.
+Service providers that help provide us with insights and analytics that help us improve our products and services. For example, we use Google Analytics to understand how visitors engage with our site. If you don’t want Google Analytics to be used in your browser, you can install the ‘Google Analytics Opt-Out Browser Add-On’, provided by Google.
+Google ReCaptcha, which we use to protect our sites from fraudulent users.
+Data management companies, such as Formstack, that help us collect data via online forms and surveys.
+Service providers that help provide online identity-as-a-service and access management services such as Okta.
+Service providers that allow us to deliver personalised advertising to your device, such as Criteo.
+Service providers that allow us to compare your personal data with information held by advertising partners and identify if you are known to both us and our advertising partner, such as Permutive.
+YouTube because we use their unbranded embedded player to provide video content on our site. The embedded player relies on the YouTube API, which is a type of software that allows data to be communicated between our site and the YouTube player. This will include personal data which will also be collected by cookies as set out in our cookie policy. We will provide this data about how you interact with videos to enable YouTube to provide statistical information such as how many views a video has, or how many users watch the entire video. More information about how YouTube will use this personal data, which includes usage data when you interact or use the embedded YouTube player, can be found at the Google Privacy Policy: https://policies.google.com/privacy .
+Advertising partners - We may also share your data collected through our site with our advertising partners, as set out in our cookie policy . These partners help us deliver relevant advertising across our sites. For example, we use Google Ad Manager to assist us with the delivery of relevant ads.
+Agencies and authorities if required by law - We may reveal your personal data to any law enforcement agency, court, regulator, government authority, or in connection with any legal action if we are required to do so to meet a legal or regulatory obligation, where the request is proportionate, or otherwise to protect our rights or the rights of anyone else (for example, in response to a valid and properly served legal process such as subpoena or warrant). If we have your contact details, we will take reasonable steps to attempt to notify you prior to disclosing your data unless (i) prohibited by applicable law from doing so, or (ii) there are clear indications of unlawful conduct in connection with your use of Guardian Jobs services.
+Event sponsors and partners - We may share your personal data with sponsors of Guardian events and partners who we hold events with for marketing purposes when you have given your permission for us to do so. We may also share your personal data with these sponsors and partners for event administration and security purposes.
+Social media organisations - We may share your personal data with other organisations when our site uses social plug-ins from these organisations (such as liking or sharing on social media). These other organisations may receive and use personal data about your visit to our site. If you browse our site, personal data they collect may be connected to your account on their site. For more information on how these organisations use personal data, please read their privacy policies.
+Organisation/s that buy any of the Guardian group companies - We may share your personal data to any other organisation that buys, or to which we transfer all, or substantially all, of our assets and business. If this sale or transfer takes place, we will use reasonable efforts to try to make sure that the organisation we transfer your personal data to uses it in line with our privacy policy.
+When we share your personal data, as specified above, with any organisation which accesses your data in the course of providing services on our behalf will be governed by strict contractual restrictions to make sure that they protect your data and comply with applicable law. We may also independently audit these service providers to make sure that they meet our standards.
+California resident - Do not sell
+These transfers to third parties may constitute “sale” of your personal information under California law. A California resident can halt these sales at any time by pressing the “California resident - Do not sell” link that is located in the footer of every page on our site. Third-parties do not sell personal information that has been sold to them by the Guardian unless you have first received explicit notice and are provided an opportunity to exercise the right to opt out.
+International data transfers
+Data we collect may be transferred to, stored and processed in any country or territory where one or more of our Guardian group companies or service providers are based or have facilities. While other countries or territories may not have the same standards of data protection as those in your home country, we will continue to protect personal data that we transfer in line with this privacy policy.
+Whenever we transfer your personal data out of the UK or the European Economic Area (EEA), we ensure similar protection and put in place at least one of these safeguards:
+We will only transfer your personal data to countries that have been found to provide an adequate level of protection for personal data.
+We may also use specific approved contracts that use Standard Contractual Clauses for the protection of personal data where appropriate, with our service providers that are based in countries outside the UK or the EEA, including those based in the US and Australia. These contracts give your personal data the same protection it has in the UK or the EEA.
+If you are located in the UK or the EEA, you may contact us for a copy of the safeguards which we have put in place for the transfer of your personal data outside the UK or the EEA.
+How long we keep your personal data
+If you have applied for a particular job using our site and submitted your CV, we will keep your CV for six months. For some jobs advertised on our site, you will be redirected directly to the recruiter or employer and we will not receive your CV or application. We are not responsible for how recruiters or employers who have received your CV store your details or CV.
+We will delete your Guardian Jobs profile and any remaining CV after 30 months of inactivity or make it anonymous by removing all your details that identify you. If we asked for your permission to process your personal data and we have no other lawful grounds to continue with that processing, and you withdraw your permission, we will delete your personal data. However, when you unsubscribe from marketing communications, we will keep your email address to ensure that we will not send you any marketing in future.
+Any other data will only be kept for as long as we need to. How long we need your personal data depends on what we are using it for, as set out in this privacy policy. For example, we may need to use it to answer your queries about a product or service and as a result may keep personal data while you are still using our product or services. To determine the appropriate retention period for personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means. If we no longer need your data, we will delete it or make it anonymous by removing all details that identify you. If we have asked for your permission to process your personal data and we have no other lawful grounds to continue with that processing, and you withdraw your permission, we will delete your personal data. However, when you unsubscribe from marketing communications, we will keep your email address to ensure that we do not send you any marketing communications in the future.
+How we may contact you
+Service communications
+From time to time we may send you service emails.
+Marketing Communications
+If you have opted in for theguardian.com marketing emails through our site, you can receive marketing and general jobs newsletter emails. These may be based on your Guardian Job profile. You can unsubscribe from these emails by clicking the link at the bottom of each email.
+If we have your permission or you have not opted out, we may send you materials we think may interest you, such as new Guardian Jobs offers and updates. Depending on your marketing preferences, this may be by email, phone, SMS or post.
+You can decide not to receive these emails at any time and will be able to “unsubscribe” directly by clicking a link in the email or through your email preferences in the tab “Emails and marketing” when you are signed in to your Guardian account.
+Guardian research
+If we have your permission or you have not opted out, we may contact you for research purposes, for example about the Guardian app. You can opt out from being contacted in this way by signing into your Guardian account and going to the tab “Emails and marketing”.
+Responding to your queries or complaints
+If you have raised a query or a complaint with us, we may contact you to answer your query or to resolve your complaint.
+Special Note to California Users
+If you elect to use the “California resident - do not sell” button, we will not recontact you about that choice for at least 12 months.
+Cookies and similar technologies
+When you visit our site, we may collect personal data from you automatically using cookies or similar technologies.
+This privacy policy includes our cookie policy , where you can find details of our use of cookies.
+Your privacy and data protection rights
+You have a number of rights with regard to the personal data that we hold about you and you can contact us with regard to the following rights in relation to your personal data:
+You have the right to receive a copy of the personal data we hold about you.
+You have the right to correct the personal data we hold about you.
+Where applicable, you may also have a right to receive a machine-readable copy of your personal data.
+You also have the right to ask us to delete your personal data or restrict how it is used. There may be exceptions to the right to erasure for specific legal reasons which, if applicable, we will set out for you in response to your request.
+Where applicable, you have the right to object to processing of your personal data for certain purposes.
+Where you have provided us with consent to use your personal data, you can withdraw this consent at any time.
+If you do not want us to use your personal data for marketing analysis, you can change your settings in the “Emails and marketing” tab of your Guardian Jobs account.
+If you would like to exercise any of your rights specified above, please email dataprotection@theguardian.com or write to the Data Protection Officer at Guardian News & Media Limited, Kings Place, 90 York Way, London N1 9GU. We will respond to all standard legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a large number of requests. In this case, we will notify you and keep you updated.
+We may need verification of your identity to proceed with a request. If you provide us with proof of identity containing information that does not match our records, we may request further proof of identity from you. This is a security measure to ensure that your personal data is not disclosed to any person who does not have a right to receive it.
+You will not have to pay a fee to obtain a copy of your personal data (or to exercise any of the other rights). However, for any further copies requested by you, we may charge a reasonable fee based on administrative costs.
+Your California privacy rights
+The California Consumer Privacy Act 2018 (“CCPA”) and California Privacy Rights Act 2020 (“CPRA”) provide certain rights to residents of California. The CCPA and CPRA are collectively referred to as “CCPA” below.
+If you are a resident of California you may contact us with regard to the following rights in relation to your personal data:
+Right to Know: At or before the time of collection, you have a right to receive notice of our practices, including the categories of personal data and sensitive personal data to be collected, the purposes for which it is collected and used, whether such personal data is “sold or shared” and for how long personal data is retained. These details are set out in this Privacy Policy.
+Right to Access: You have the right to request access to the personal data we may hold on you for the past twelve (12) months. You may submit up to two (2) requests per year of access to your personal data.
+Right to Correct: You have the right to correct inaccurate personal data we hold about you.
+Right to Opt-Out of Sale of Personal Data: For individuals sixteen (16) years or older, you have the right to opt-out of sale of personal data we may hold on you. You can exercise this right at any time by pressing the “California resident - Do not sell” link in the footer of every page on our site. For individuals between thirteen (13) to sixteen (16) years old, you have the right to opt-in to the sale of personal data we may hold on you.
+Right to Deletion: You also have the right to ask us to delete personal data we may hold on you or restrict how it is used. There may be exceptions to the right to deletion which, if applicable, we will set out for you in response to your request.
+Right to Limit Use and Disclosure of Sensitive Personal Data: Where applicable, you have the right to limit our use of sensitive personal data for any purposes other than to provide the services you request or as otherwise permitted by law.
+Right to Non-Discrimination: We will not discriminate against you for exercising any of your California Consumer Privacy Act rights.
+If you want to make any of these requests, please contact dataprotection@theguardian.com . We will deal with requests for access to your personal data within forty-five (45) days for California-specific requests.
+To help us respond as you expect, please specify that you are making a request under the CCPA. We may need to request specific information from you to help us confirm your identity. For example, we will verify your identity before complying. If you provide us with proof of identity containing information that does not match our records, we may request further proof of identity from you.
+You can designate an “authorized agent” to make requests to exercise your rights on your behalf under the CCPA. We will clarify that any “authorized agent” has your written permission in making that request. We may also contact you directly to verify your identity.
+California “Shine the Light” privacy rights
+Residents of California can ask us to provide a list of the types of personal data we have disclosed to third parties for direct marketing purposes and the identity of those third parties. We do not generally disclose personal data as defined under the California “Shine the Light” law. To the extent that we share email addresses with third parties in connection with online marketing that could be covered, you may opt-out through your “Manage My Account” choices.
+To make a “Shine the Light” request, please email dataprotection@theguardian.com with “Shine the Light” in the subject line.
+Your Australian Privacy Rights
+The Australian Privacy Act has rules around how we handle your personal information that may be different to rules in other regions. These rules are set out in the Australian Privacy Principles in force under the Privacy Act 1988 (Cth) (the Australian Privacy Act). We are required to treat your personal information in line with those principles, including to disclose to you what personal information we collect and how we use it, to store your information securely and to support you in exercising your rights.
+Personal information we collect and use When we refer to “personal data” throughout this policy, we are also referencing “personal information” as it is defined under Australian law.
+Details about the personal information that we collect, use and disclose is set out throughout this privacy policy. You can navigate these relevant sections by going to the contents section at the top of the page.
+Your rights Your rights to privacy are also protected by the Australian Privacy Act, including your:
+Right of access to the personal information held about you.
+Right of correction to correct your information when it is incorrect.
+These principles and rights are reflected throughout this privacy policy.
+Opt out of personalised advertising Under the Australian Privacy Act, you have the right to opt out of the use of your personal information for the purpose of direct marketing, including in relation to personalised advertising. You can opt out of personalised advertising across our site at any time by going to the “Privacy Settings” link on our site in the footer of every page. You will still see non-personalised advertising.
+We and our partners use cookies and similar technologies to collect information about your use of our site to help create reports and statistics on the performance of our site. Analytics cookies such as Google Analytics collect information such as your IP address, device type and operating system, referring URLs, location and pages visited. If you don’t want Google Analytics to be used in your browser, you can install the ‘Google Analytics Opt-Out Browser Add-On’, provided by Google.
+For a complete description of our use of cookies and similar technologies globally, please see our cookie policy .
+If you have contacted us at dataprotection@theguardian.com with a privacy related complaint and you are not satisfied with our handling of that complaint, you may refer that complaint to the Office of the Australian Information Commissioner:
+GPO BOX 5218, Sydney NSW 2001 1300 363 992 enquiries@oaic.gov.au
+Contact us for information about how we use your personal data
+If you have any questions about how we use your personal data or if you have a concern about how your personal data is used, please contact the Data Protection Officer at Guardian News & Media Limited, Kings Place, 90 York Way, London N1 9GU. Or, email dataprotection@theguardian.com.
+Complaints will be dealt with by the Data Protection Team, and will be responded to within 30 days.
+If you are not satisfied with the way your concern has been handled, you can refer your complaint to the Information Commissioner’s Office.
+If you have a question about anything else, please see our Contact us page here .
+For individuals based in the European Union:
+Since we do not have an establishment in the European Union, we have appointed an EU based representative to serve as a direct contact for data protection authorities and individuals on our behalf, who can be contacted at theguardian@mcf.ie or MCF Legal Technology Solutions Limited, Riverside One, Sir John Rogerson's Quay, Dublin 2, Ireland.
+Changes to this privacy policy
+If we decide to change our privacy policy, the updated privacy policy will be posted on this page. If the changes are significant, we may also choose to email all our registered users with the new details. If required by law, we will get your permission or give you the opportunity to opt out of any new uses of your data.
+Changes to this privacy policy to date
+The most recent changes to this privacy policy were made on:
+1 August 2025: General Update
+March 2025: General update
+

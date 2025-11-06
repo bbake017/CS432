@@ -1,0 +1,536 @@
+
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="All over the world, there are people who are living extraordinary lives, full of happiness and health â and with hardly any heart disease, cancer or diabetes. Dr. Sanjay Gupta has been on a decades-long mission to understand how they do it, and how we can all learn from them. Scientists now believe we can even reverse the symptoms of Alzheimerâs dementia, and in fact grow sharper and more resilient as we age. Sanjay is a dad â of three teenage daughters, he is a doctor - who operates on the brain, and he is a reporter with more than two decades of experience - who travels the earth to uncover and bring you the secrets of the happiest and healthiest people on the planet â so that you too, can Chase Life." name="description"/>
+<meta content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" name="viewport"/>
+<link href="/audio/static/images/cnn.7bf5c0ae.png" rel="shortcut icon"/>
+<title>Chasing Life with Dr. Sanjay Gupta - Podcast on CNN Podcasts</title>
+<link href="/audio/static/css/global.8a65bc49.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/fonts.f425c4c7.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/vars.4841e111.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/services.e23edd5b.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/loader.6cbabf83.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/header.67ec7b8d.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/left-nav.c9f1d2cc.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/directory.e8b77bef.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/podcast.19fee565.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/how-to.a0b70da1.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/bottom-player.4b837891.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/footer.1b9f240c.css" rel="stylesheet" type="text/css"/><link href="https://www.cnn.com/audio/podcasts/chasing-life" rel="canonical"/><meta content="Chasing Life with Dr. Sanjay Gupta - Podcast on CNN Podcasts" property="og:title"/><meta content="website" property="og:type"/><meta content="https://www.cnn.com/audio/podcasts/chasing-life" property="og:url"/><meta content="https://www.cnn.com/audio/static/images/podcasts/chasing-life/wide.880809e3.jpg" property="og:image"/><meta content="Dr. Sanjay Gupta" property="og:image:alt"/><meta content="Dr. Sanjay Gupta is on a mission to help us approach our new normal mindfully, finding a balance between self-care and productivity, and talking to doctors and researchers about the surprising science behind how we thrive." property="og:description"/><meta content="CNN" property="og:site_name"/><meta content="80401312489" name="fb:app_id"/><meta content="player" name="twitter:card"/><meta content="Chasing Life with Dr. Sanjay Gupta - Podcast on CNN Podcasts" name="twitter:title"/><meta content="@cnn" name="twitter:site"/><meta content="Dr. Sanjay Gupta is on a mission to help us approach our new normal mindfully, finding a balance between self-care and productivity, and talking to doctors and researchers about the surprising science behind how we thrive." name="twitter:description"/><meta content="https://www.cnn.com/audio/static/images/podcasts/chasing-life/wide.880809e3.jpg" name="twitter:image"/><meta content="https://www.cnn.com/audio/podcasts/chasing-life.app" name="twitter:player"/><meta content="350" name="twitter:player:width"/><meta content="640" name="twitter:player:height"/>
+<script type="application/ld+json">
+        {
+          "@context": "http://schema.org",
+          "@type": "WebPage",
+          "url": "https://www.cnn.com/audio/podcasts/chasing-life",
+          "name": "Chasing Life with Dr. Sanjay Gupta - Podcast on CNN Podcasts",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "foundingDate": "1980-06-01",
+            "logo": {
+              "@context": "https://schema.org",
+              "@id": "https://media.cnn.com/api/v1/images/stellar/prod/cnnlogo.png?q=w_60,h_61",
+              "@type": "ImageObject",
+              "contentUrl": "https://media.cnn.com/api/v1/images/stellar/prod/cnnlogo.png?q=w_60,h_61",
+              "url": "https://media.cnn.com/api/v1/images/stellar/prod/cnnlogo.png?q=w_60,h_61"
+            },
+            "name": "CNN",
+            "url": "https://www.cnn.com/"
+          }
+        }
+      </script>
+<script type="text/javascript">
+        const CNN_SOURCE = "9c4e68bd-e974-4fe3-b9d5-35dc478f604e";
+        const USE_ANALYTICS = true;
+      </script>
+<script src="/wmuc/cnn_user_consent.min.js" type="text/javascript"></script>
+<link href="https://www.cnn.com/audio/podcasts/chasing-life" hreflang="en-us" rel="alternate"/>
+<link href="https://www.cnn.com/audio/podcasts/chasing-life" hreflang="en-ca" rel="alternate"/>
+<link href="https://edition.cnn.com/audio/podcasts/chasing-life" hreflang="en-gb" rel="alternate"/>
+<link href="https://edition.cnn.com/audio/podcasts/chasing-life" hreflang="x-default" rel="alternate"/>
+<script type="text/javascript">
+    (function() {
+        /** CONFIGURATION START **/
+        var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+        _sf_async_config.uid = 37612; 
+        _sf_async_config.domain = "cnn.com";
+        _sf_async_config.useCanonical = true;
+        _sf_async_config.useCanonicalDomain = true;
+        _sf_async_config.sections = 'audio';
+        _sf_async_config.authors = '';
+        /** CONFIGURATION END **/
+        function loadChartbeat() {
+            var e = document.createElement('script');
+            var n = document.getElementsByTagName('script')[0];
+            e.type = 'text/javascript';
+            e.async = true;
+            e.src = '//static.chartbeat.com/js/chartbeat.js';
+            n.parentNode.insertBefore(e, n);
+        }
+        loadChartbeat();
+    })();
+  </script>
+</head>
+<body>
+<header>
+<div>
+<h1 class="cnn-logo">
+<a href="/">CNN</a>
+</h1>
+<h1 class="logo">
+<a href="/audio">CNN Podcasts</a>
+</h1>
+</div>
+<menu-icon-wc></menu-icon-wc>
+</header>
+<left-nav>
+<section>
+<audio-player-wc class="left-nav-player" data-guid="9ce1ead2-299a-11ef-b327-77a0746f48d3" data-position="0" data-template="left-nav" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY3068202999.mp3?updated=1758910873">
+<div slot="title">5 Good Things: The Lucky Guy with a Tooth for an Eye</div>
+<div slot="author">5 Things</div>
+<div slot="description">Listen to<br/>CNN 5 Things</div>
+<div slot="date">Sat, Sep 27</div>
+</audio-player-wc>
+</section>
+<section>
+<div class="header">New Episodes</div>
+<ul class="new-releases">
+<li class="item">
+<a href="/audio/podcasts/amanpour/episodes/166c826a-2994-11ef-99d4-dbc3037e7369" target="_self">
+<div><img class="coverart" src="/audio/static/images/podcasts/amanpour/square-s.dee6dce7.jpg"/></div>
+<div class="title">Amanpour</div>
+</a>
+</li>
+<li class="item">
+<a href="/audio/podcasts/smerconish-on-cnn/episodes/45d54576-2cca-11ef-88f0-2f86f7ff8821" target="_self">
+<div><img class="coverart" src="/audio/static/images/podcasts/smerconish-on-cnn/square-s.6177bba0.jpg"/></div>
+<div class="title">Smerconish on CNN</div>
+</a>
+</li>
+<li class="item">
+<a href="/audio/podcasts/5-cosas/episodes/de0d9742-c920-11ef-afcb-4f340f183324" target="_self">
+<div><img class="coverart" src="/audio/static/images/podcasts/5-cosas/square-s.c488624e.jpg"/></div>
+<div class="title">CNN 5 Cosas</div>
+</a>
+</li>
+<li class="item">
+<a href="/audio/podcasts/5-good-things/episodes/b3e7fff0-2fdf-11ef-89ae-7fc2fa8dcbeb" target="_self">
+<div><img class="coverart" src="/audio/static/images/podcasts/5-good-things/square-s.45e43096.jpg"/></div>
+<div class="title">CNN 5 Good Things</div>
+</a>
+</li>
+</ul>
+</section>
+<section>
+<div class="header">How To Listen</div>
+<a href="/audio/how-to-listen-to-podcasts#computer" target="_self">On your computer</a>
+<a href="/audio/how-to-listen-to-podcasts#mobile" target="_self">On your mobile device</a>
+<a href="/audio/how-to-listen-to-podcasts#smart-speaker" target="_self">Smart speakers</a>
+</section>
+<section>
+<div class="header">Explore CNN</div>
+<a href="/us" target="_blank">US</a>
+<a href="/world" target="_blank">World</a>
+<a href="/politics" target="_blank">Politics</a>
+<a href="/business" target="_blank">Business</a>
+</section>
+</left-nav>
+<div class="podcast directory how-to" id="main">
+<section class="top chasing-life cnn-app-margin-zero" id="top-section" style="background-image:linear-gradient(50deg, #1c283b 40%, #404f59 100%);">
+<div class="top-wrapper">
+<div class="title-description">
+<div class="category">podcast</div>
+<h1 class="title" data-title="Chasing Life with Dr. Sanjay Gupta - Podcast on CNN Podcasts">Chasing Life</h1>
+<h2 class="description">All over the world, there are people who are living extraordinary lives, full of happiness and health â and with hardly any heart disease, cancer or diabetes. Dr. Sanjay Gupta has been on a decades-long mission to understand how they do it, and how we can all learn from them. Scientists now believe we can even reverse the symptoms of Alzheimerâs dementia, and in fact grow sharper and more resilient as we age. Sanjay is a dad â of three teenage daughters, he is a doctor - who operates on the brain, and he is a reporter with more than two decades of experience - who travels the earth to uncover and bring you the secrets of the happiest and healthiest people on the planet â so that you too, can Chase Life.</h2>
+<div class="services">
+<follow-button-wc class="follow-button">Follow</follow-button-wc>
+<div class="share-sheet follow-sheet" id="follow-sheet">
+<div class="sheet-menu">
+<div class="sheet-close" id="follow-sheet-close"></div>
+<div class="sheet-title">Follow</div>
+<ul class="service-icons">
+<li class="service-wrapper">
+<a class="service light amazon" href="https://link.chtbl.com/eg-piPba" tabindex="0" target="_blank" title="Amazon">
+<span>Amazon</span>
+</a>
+</li><li class="service-wrapper">
+<a class="service light apple" href="https://link.chtbl.com/WVeser_B" tabindex="0" target="_blank" title="Apple Podcasts">
+<span>Apple Podcasts</span>
+</a>
+</li><li class="service-wrapper">
+<a class="service light audacy" href="https://link.chtbl.com/GXLxFOyQ" tabindex="0" target="_blank" title="Audacy">
+<span>Audacy</span>
+</a>
+</li><li class="service-wrapper">
+<a class="service light iheart" href="https://link.chtbl.com/h5A2JFtD" tabindex="0" target="_blank" title="iHeart Radio">
+<span>iHeart Radio</span>
+</a>
+</li><li class="service-wrapper">
+<a class="service light pandora" href="https://link.chtbl.com/06qUAvG0" tabindex="0" target="_blank" title="Pandora">
+<span>Pandora</span>
+</a>
+</li><li class="service-wrapper">
+<a class="service light rss" href="https://link.chtbl.com/5xxceK-s" tabindex="0" target="_blank" title="RSS">
+<span>RSS</span>
+</a>
+</li><li class="service-wrapper">
+<a class="service light spotify" href="https://link.chtbl.com/Q5thmj8T" tabindex="0" target="_blank" title="Spotify">
+<span>Spotify</span>
+</a>
+</li><li class="service-wrapper">
+<a class="service light tunein" href="https://link.chtbl.com/J_hINOhn" tabindex="0" target="_blank" title="TuneIn">
+<span>TuneIn</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<share-button-wc>
+<svg height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M16.5,11.0000188 C16.914,11.0000188 17.25,11.3360188 17.25,11.7500188 L17.25,11.7500188 L17.25,20.7500188 C17.25,21.1640188 16.914,21.5000188 16.5,21.5000188 L16.5,21.5000188 L1.5,21.5000188 C1.086,21.5000188 0.75,21.1640188 0.75,20.7500188 L0.75,20.7500188 L0.75,11.7500188 C0.75,11.3360188 1.086,11.0000188 1.5,11.0000188 C1.914,11.0000188 2.25,11.3360188 2.25,11.7500188 L2.25,11.7500188 L2.25,20.0000188 L15.75,20.0000188 L15.75,11.7500188 C15.75,11.3360188 16.086,11.0000188 16.5,11.0000188 Z M8.4531375,0.71965625 C8.7497625,0.42678125 9.2308875,0.42678125 9.5275125,0.71965625 L9.5275125,0.71965625 L9.6073875,0.79878125 L9.6073875,0.79878125 L9.6077625,0.79915625 L14.7700125,5.89578125 C14.9620125,6.08553125 15.0538875,6.36715625 14.9668875,6.62103125 C14.7628875,7.21878125 14.0728875,7.32865625 13.6900125,6.95065625 L13.6900125,6.95065625 L9.7498875,3.12490625 L9.7498875,15.4999063 C9.7498875,15.8749063 9.3748875,16.2499063 8.9998875,16.2499063 C8.6248875,16.2499063 8.2498875,15.8734063 8.2498875,15.4999063 L8.2498875,15.4999063 L8.2498875,3.12490625 L4.2906375,6.95065625 C3.9643875,7.27278125 3.4153875,7.24090625 3.1333875,6.85465625 C2.9121375,6.55128125 2.9773875,6.12565625 3.2451375,5.86165625 L3.2451375,5.86165625 L8.3725125,0.79915625 C8.3725125,0.79878125 8.3725125,0.79878125 8.3728875,0.79878125 Z" id="share-a"></path></defs><g fill="none" fill-rule="evenodd"><rect height="24" width="24"></rect><use fill="#E6E6E6" transform="translate(3 1)" xlink:href="#share-a"></use></g></svg>
+</share-button-wc>
+</div>
+</div>
+<div><img alt="Dr. Sanjay Gupta" class="coverart" id="top-coverart" src="/audio/static/images/podcasts/chasing-life/square-m.a3a44ac4.jpg"/></div>
+</div>
+</section>
+<section class="middle cnn-app-margin-zero" id="middle-section">
+<div class="episodes" id="episodes">
+<audio-player-wc class="episode" data-guid="b8a997f4-37bb-11ef-8219-9f34dfc7bb1c" data-position="0" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7188689040.mp3?updated=1758854307">
+<a href="/audio/podcasts/chasing-life/episodes/b8a997f4-37bb-11ef-8219-9f34dfc7bb1c" slot="title" tabindex="0">How To Use Technology and Not Lose Our Minds</a>
+<a href="/audio/podcasts/chasing-life" slot="author" target="_blank">Chasing Life</a>
+<div slot="description">Is delegating tasks and even thinking to digital devices making us lose our minds, or at least some brain function? Dr. Sanjay Gupta and neuroscientist Baroness Susan Greenfield, Oxford University professor and author of âMind Change: How Digital Technologies Are Leaving Their Mark on Our Brains,â discuss and debate how screen time might be impacting our human connections and own cognitive abilities. Plus, Greenfield gives us three ways to reclaim our digital independence.Â 
+
+Producer: SofÃ­a SÃ¡nchez
+
+Medical Writer: Andrea KaneShowrunner: Amanda SealySenior Producer: Dan BloomTechnical Director: Dan Dzula</div>
+<div slot="date">Sep 26, 2025</div>
+<time slot="eplength">30 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/chasing-life/square-m.a3a44ac4.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/chasing-life/square-l.88c13274.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/chasing-life/square.51da0764.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="9f499324-cd37-11ef-b277-7bd2991f3fe1" data-position="1" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2765873198.mp3?updated=1758586278">
+<a href="/audio/podcasts/chasing-life/episodes/9f499324-cd37-11ef-b277-7bd2991f3fe1" slot="title" tabindex="0">Kissing Bug Disease Is Spreading; How To Stay Safe</a>
+<a href="/audio/podcasts/chasing-life" slot="author" target="_blank">Chasing Life</a>
+<div slot="description">The kissing bug disease â aka: Chagas disease â is slowly becoming endemic in certain parts of the United States. Dr. Sanjay Gupta explains what you need to know about detecting it, treating it and avoiding it. Youâll also learn if it can infect your fur babies, too.
+
+Producer: Andrea Kaneâ¯
+
+Showrunner: Amanda Sealyâ¯
+
+Senior Producer: Dan Bloomâ¯
+
+Technical Director: Dan Dzula</div>
+<div slot="date">Sep 23, 2025</div>
+<time slot="eplength">14 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/chasing-life/square-m.a3a44ac4.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/chasing-life/square-l.88c13274.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/chasing-life/square.51da0764.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="b866f296-37bb-11ef-8219-b3f03b4b556f" data-position="2" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7029563743.mp3?updated=1758220160">
+<a href="/audio/podcasts/chasing-life/episodes/b866f296-37bb-11ef-8219-b3f03b4b556f" slot="title" tabindex="0">Why You Should Care About Public Health</a>
+<a href="/audio/podcasts/chasing-life" slot="author" target="_blank">Chasing Life</a>
+<div slot="description">Public health is, in the words of this weekâs guest, âthe organized actions of society to make people safer and healthier.â Unfortunately, to some, it feels like the country is waging a war against the very institutionsÂ entrusted to carry out that mission. Dr. Sanjay Gupta sits down with public health expert and former CDC director Dr. Thomas Frieden about the critical and often-invisible role of public health, and what he hopes to accomplish with his new book, The Formula For Better Health.
+
+This episode was produced by Andrea KaneÂ 
+
+Showrunner: Amanda Sealy Â 
+
+Senior Producer: Dan BloomÂ 
+
+Technical Director: Dan Dzula</div>
+<div slot="date">Sep 19, 2025</div>
+<time slot="eplength">29 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/chasing-life/square-m.a3a44ac4.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/chasing-life/square-l.88c13274.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/chasing-life/square.51da0764.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="9ef0241a-cd37-11ef-b277-cf46b92c1155" data-position="3" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY3467981490.mp3?updated=1757964093">
+<a href="/audio/podcasts/chasing-life/episodes/9ef0241a-cd37-11ef-b277-cf46b92c1155" slot="title" tabindex="0">The Dirty Truth About Showering and Handwashing</a>
+<a href="/audio/podcasts/chasing-life" slot="author" target="_blank">Chasing Life</a>
+<div slot="description">Diffusers, with their different scents, are meant to create a mood and relax you. But is it healthy to breathe in mist enhanced by essential oils? Dr Sanjay Gupta digs into that issue on this episode of Paging Dr Gupta. Also, how do you know if you are bathing frequently enough? What about washing your hands?
+
+This episode was produced by Kyra Dahring and Andrea Kane.Â Medical Writer: Andrea Kane; Showrunner: Amanda Sealy; Senior Producer: Dan Bloom; Technical Director: Dan Dzula</div>
+<div slot="date">Sep 16, 2025</div>
+<time slot="eplength">12 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/chasing-life/square-m.a3a44ac4.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/chasing-life/square-l.88c13274.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/chasing-life/square.51da0764.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="b823df38-37bb-11ef-8219-3f772ae789d4" data-position="4" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY9392633757.mp3?updated=1757630932">
+<a href="/audio/podcasts/chasing-life/episodes/b823df38-37bb-11ef-8219-3f772ae789d4" slot="title" tabindex="0">What Ultra-Marathoner Rich Roll Learned From His Chronic Pain</a>
+<a href="/audio/podcasts/chasing-life" slot="author" target="_blank">Chasing Life</a>
+<div slot="description">You may feel pain in the body, but it really begins in the brain. To explain, Dr. Sanjay Gupta sits down at 92nd Street Y in New York to talk about his new book âIt Doesnât Have to Hurtâ with his friend and ultra-marathoner Rich Roll. They also discuss how our brains can create pain proactively and protectively. Plus, how memories might have something to do with your chronic pain â and how to move through, with, and past those painful reminders.Â 
+
+Â 
+
+Our show was produced by Jennifer Lai,Â with assistance from Sofia Sanchez. Â 
+
+Medical Writer: Andrea KaneÂ Showrunner: Amanda SealyÂ Senior Producer: Dan BloomÂ Technical Director: Dan Dzula</div>
+<div slot="date">Sep 12, 2025</div>
+<time slot="eplength">28 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/chasing-life/square-m.a3a44ac4.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/chasing-life/square-l.88c13274.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/chasing-life/square.51da0764.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="9e6fb956-cd37-11ef-b277-7f570051af44" data-position="5" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7971390256.mp3?updated=1757377922">
+<a href="/audio/podcasts/chasing-life/episodes/9e6fb956-cd37-11ef-b277-7f570051af44" slot="title" tabindex="0">Can You Eat or Meditate Your Way to Less Pain?</a>
+<a href="/audio/podcasts/chasing-life" slot="author" target="_blank">Chasing Life</a>
+<div slot="description">An estimated 51 million Americans live with chronic pain. But our understanding of pain has evolved and so has the ways we can treat and reduce pain. Dr. Sanjay Gupta explains how both diet and meditation can affect the way we experience pain.
+
+Our show is produced by Eryn Mathewson, Jennifer Lai, Grace Walker, Lori Galarreta, Jesse Remedios, Sofia Sanchez, Kyra Dahring, and Madeleine Thompson.â¯â¯Â 
+
+Medical Writer: Andrea Kaneâ¯
+
+Showrunner: Amanda Sealyâ¯
+
+Senior Producer: Dan Bloomâ¯â¯Â 
+
+Technical Director: Dan Dzula</div>
+<div slot="date">Sep 9, 2025</div>
+<time slot="eplength">13 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/chasing-life/square-m.a3a44ac4.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/chasing-life/square-l.88c13274.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/chasing-life/square.51da0764.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="b7e2fe1e-37bb-11ef-8219-cf89fb5e0d71" data-position="6" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7970774633.mp3?updated=1756993030">
+<a href="/audio/podcasts/chasing-life/episodes/b7e2fe1e-37bb-11ef-8219-cf89fb5e0d71" slot="title" tabindex="0">Can AI Hear Cancer in Your Voice?</a>
+<a href="/audio/podcasts/chasing-life" slot="author" target="_blank">Chasing Life</a>
+<div slot="description">Voices are powerful. They can signal that weâre feeling sick, show our age, and reveal our secrets. One day, with the help of artificial intelligence, they might even be able to help doctors diagnose us. Dr. YaÃ«l Bensoussan is an assistant professor of otolaryngology at the University of South Florida, and the director of the USF Health Voice Center. She talks to Dr. Sanjay Gupta about what kind of medical information our voices contain, and how sheâs using AI to listen for diseases like Parkinsonâs and cancer.Â 
+
+This episode was produced by Madeleine Thompson and Lauren Kim.Â Â 
+
+Medical Writer: Andrea KaneÂ Showrunner: Amanda SealyÂ Senior Producer: Dan BloomÂ Technical Director: Dan Dzula</div>
+<div slot="date">Sep 5, 2025</div>
+<time slot="eplength">30 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/chasing-life/square-m.a3a44ac4.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/chasing-life/square-l.88c13274.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/chasing-life/square.51da0764.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="9dfa1674-cd37-11ef-b277-fbf4285c32c1" data-position="7" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY3137892056.mp3?updated=1756737288">
+<a href="/audio/podcasts/chasing-life/episodes/9dfa1674-cd37-11ef-b277-fbf4285c32c1" slot="title" tabindex="0">Is Your Immune System Ready for Fall? Hereâs How to Support It</a>
+<a href="/audio/podcasts/chasing-life" slot="author" target="_blank">Chasing Life</a>
+<div slot="description">Can years teaching in a classroom make you less likely to get sick? Dr. Sanjay Gupta answers a listenerâs question about immunity and shares smart strategies for supporting your immune system as cold and flu season kicks off. Plus, how you can get better sleep â and more of it â this fall.Â Â 
+
+Our show is produced by Eryn Mathewson, Jennifer Lai, Grace Walker, Lori Galaretta, Jesse Remedios, Sofia Sanchez, Kyra Dahring, and Madeleine Thompson.Â Â Â 
+
+Medical Writer: Andrea KaneÂ Â 
+
+Showrunner: Amanda SealyÂ Â 
+
+Senior Producer: Dan BloomÂ Â 
+
+Technical Director: Dan Dzula</div>
+<div slot="date">Sep 2, 2025</div>
+<time slot="eplength">17 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/chasing-life/square-m.a3a44ac4.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/chasing-life/square-l.88c13274.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/chasing-life/square.51da0764.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="b79f3224-37bb-11ef-8219-5f124309f33b" data-position="8" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY8331269401.mp3?updated=1756418837">
+<a href="/audio/podcasts/chasing-life/episodes/b79f3224-37bb-11ef-8219-5f124309f33b" slot="title" tabindex="0">The Lessons of Katrina: Coping With the Next Crisis</a>
+<a href="/audio/podcasts/chasing-life" slot="author" target="_blank">Chasing Life</a>
+<div slot="description">1,800 lives lost and hundreds of thousands displaced. But the storm left behind more than physical damage. It exposed the lasting psychological toll disasters can take. Nearly 20 years later, catastrophic weather events have only become more common. Dr. Stefan Schulenberg, a leading expert on disaster mental health, explains how trauma lingers, what resilience really looks like, and what Katrina can teach us about facing the crises ahead.Â 
+
+This episode was produced by Lori Galarreta
+
+Showrunner: Amanda Sealy
+
+
+
+Technical Director: Dan Dzula
+
+Executive Producer:Â Steve Lickteig</div>
+<div slot="date">Aug 29, 2025</div>
+<time slot="eplength">31 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/chasing-life/square-m.a3a44ac4.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/chasing-life/square-l.88c13274.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/chasing-life/square.51da0764.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="9d871b2e-cd37-11ef-b277-638afa2c4e2d" data-position="9" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2412849224.mp3?updated=1756470615">
+<a href="/audio/podcasts/chasing-life/episodes/9d871b2e-cd37-11ef-b277-638afa2c4e2d" slot="title" tabindex="0">The Belly Fat You Actually Need to Worry About</a>
+<a href="/audio/podcasts/chasing-life" slot="author" target="_blank">Chasing Life</a>
+<div slot="description">Not all belly fat is created equal. Dr. Sanjay Gupta explains what makes some belly fat âtoxic,â how to know if you have it, and what you can do to reduce it. Then, he tackles a follow-up question on the new blood pressure guidelines, including what lifestyle changes really work.
+
+Our show is produced by Eryn Mathewson, Jennifer Lai, Grace Walker, Lori Galaretta, Jesse Remedios, Sofia Sanchez, Kyra Dahring, and Madeleine Thompson.
+
+Medical Writer: Andrea Kane
+
+Showrunner: Amanda Sealy
+
+Senior Producer: Dan Bloom
+
+Technical Director: Dan Dzula</div>
+<div slot="date">Aug 26, 2025</div>
+<time slot="eplength">13 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/chasing-life/square-m.a3a44ac4.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/chasing-life/square-l.88c13274.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/chasing-life/square.51da0764.jpg"/>
+</picture>
+</audio-player-wc>
+<div class="load-more-wrapper" id="load-more-wrapper">
+<load-more-wc aria-label="Show more episodes" aria-role="link" class="load-more" data-key='{"id":"e_9d871b2e-cd37-11ef-b277-638afa2c4e2d","podcastId":"9c4e68bd-e974-4fe3-b9d5-35dc478f604e","episodeCreatedAt":1756195200000}' id="load-more" tabindex="0">Show more episodes</load-more-wc>
+<div class="episodes-loader">
+<svg class="load-circle" id="load-circle" viewbox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+<path class="load-circle-front" d="M18 2.0845
+                  a 15.9155 15.9155 0 0 1 0 31.831
+                  a 15.9155 15.9155 0 0 1 0 -31.831" id="load-circle-front" stroke-dasharray="0, 100"></path>
+<path class="load-circle-back" d="M18 2.0845
+                  a 15.9155 15.9155 0 0 1 0 31.831
+                  a 15.9155 15.9155 0 0 1 0 -31.831" id="load-circle-back" stroke-dasharray="100, 100"></path>
+</svg>
+</div>
+</div>
+</div>
+</section>
+</div>
+<bottom-player-wc>
+<div class="metadata">
+<div class="author" id="author"></div>
+<div class="title" id="title"></div>
+</div>
+<div class="controls-progress">
+<div class="controls">
+<button aria-label="Replay Last 10 Seconds" class="control replay clickt" data-clickt="replay-button" id="control-replay"></button>
+<button aria-label="Toggle Play And Pause" class="control play-pause" id="control-play-pause"></button>
+<button aria-label="Toggle Playback Speed" class="control speed" id="control-speed"></button>
+</div>
+<div class="progress-time">
+<time class="elapsed" id="elapsed">0:01</time>
+<progress-bar>
+<front></front>
+</progress-bar>
+<time class="duration" id="duration">1:22:37</time>
+</div>
+</div>
+</bottom-player-wc>
+<footer class="cnn-app-display-none">
+<div class="logo-follow inner">
+<a aria-label="CNN Podcasts Home" class="logo" href="/audio" target="_self"></a>
+<div class="follow">
+<div class="follow-text">Follow CNN</div>
+<div class="social-icons">
+<a class="social-icon" href="https://facebook.com/CNN" rel="noopener" target="_blank" title="Facebook">
+<svg aria-hidden="true" class="facebook-icon" fill="" height="64" viewbox="0 0 64 64" width="64" xmlns="https://www.w3.org/2000/svg">
+<path d="M56,5.1H8c-1.6,0-3,1.4-3,3v48.8c0,1.7,1.3,3,3,3h25.9V38.7h-7v-8.3h7v-6.1 c0-7.1,4.3-10.9,10.5-10.9c3,0,5.9,0.2,6.7,0.3v7.7h-4.7c-3.4,0-4.1,1.6-4.1,4v5h8.1l-1,8.3h-7v21.2H56c1.6,0,3-1.4,3-3V8.1 C59,6.4,57.7,5.1,56,5.1"></path>
+</svg>
+</a>
+<a class="social-icon" href="https://twitter.com/CNN" rel="noopener" target="_blank" title="Twitter">
+<svg aria-hidden="true" class="twitter-icon" fill="" height="64" viewbox="0 0 64 64" width="64" xmlns="https://www.w3.org/2000/svg">
+<path d="M60,15.2c-2.1,0.9-4.3,1.5-6.6,1.7c2.4-1.4,4.2-3.6,5.1-6.1c-2.2,1.3-4.7,2.2-7.3,2.7 c-2.1-2.2-5.1-3.5-8.4-3.5c-6.3,0-11.5,5-11.5,11.1c0,0.9,0.1,1.7,0.3,2.5C22,23.2,13.6,18.8,7.9,12c-1,1.6-1.6,3.5-1.6,5.6 c0,3.9,2,7.3,5.1,9.2c-1.9-0.1-3.7-0.6-5.2-1.4v0.1c0,5.4,4,9.9,9.2,10.9c-1,0.3-2,0.4-3,0.4c-0.7,0-1.5-0.1-2.2-0.2 c1.5,4.4,5.7,7.6,10.7,7.7c-3.9,3-8.9,4.8-14.3,4.8c-0.9,0-1.8-0.1-2.7-0.2c5.1,3.2,11.1,5,17.6,5c21.1,0,32.7-16.9,32.7-31.6 c0-0.5,0-1,0-1.4C56.5,19.4,58.5,17.4,60,15.2"></path>
+</svg>
+</a>
+<a class="social-icon" href="https://instagram.com/cnn" rel="noopener" target="_blank" title="Instagram">
+<svg aria-hidden="true" class="instagram-icon" fill="" height="64" viewbox="0 0 64 64" width="64" xmlns="https://www.w3.org/2000/svg">
+<path d="M47,13.2c-1.9,0-3.5,1.6-3.5,3.6s1.6,3.6,3.5,3.6s3.5-1.6,3.5-3.6S49,13.2,47,13.2 L47,13.2z M31.9,23c-5.1,0-9.3,4.3-9.3,9.5s4.2,9.5,9.3,9.5s9.3-4.3,9.3-9.5S37,23,31.9,23L31.9,23z M31.9,46.7 c-7.7,0-14-6.4-14-14.2s6.3-14.2,14-14.2s14,6.4,14,14.2S39.6,46.7,31.9,46.7L31.9,46.7z M15.7,8.8c-3.9,0-7,3.2-7,7.1v33.2 c0,3.9,3.1,7.1,7,7.1h32.7c3.9,0,7-3.2,7-7.1V15.9c0-3.9-3.1-7.1-7-7.1C48.4,8.8,15.7,8.8,15.7,8.8z M48.3,60.9H15.7 C9.2,60.9,4,55.6,4,49.1V15.9C4,9.4,9.2,4.1,15.7,4.1h32.7C54.8,4.1,60,9.4,60,15.9v33.2C60,55.6,54.8,60.9,48.3,60.9L48.3,60.9z"></path>
+</svg>
+</a>
+</div>
+</div>
+</div>
+<ul class="links inner">
+<li>
+<a href="/terms" target="_blank">Terms of Use</a>
+</li>
+<li>
+<a href="/privacy" target="_blank">Privacy Policy</a>
+</li>
+<li>
+<a href="https://www.warnermediaprivacy.com/policycenter/b2c/WMNS/" target="_blank">Ad Choices</a>
+</li>
+<li id="user-consent">
+<user-consent-wc></user-consent-wc>
+</li>
+<li>
+<a href="/about" target="_blank">About Us</a>
+</li>
+<li>
+<a href="/tour" target="_blank">CNN Studio Tours</a>
+</li>
+<li>
+<a href="https://store.cnn.com" target="_blank">CNN Store</a>
+</li>
+<li>
+<a href="/newsletters" target="_blank">Newsletters</a>
+</li>
+<li>
+<a href="/transcripts" target="_blank">Transcripts</a>
+</li>
+<li>
+<a href="/collections" target="_blank">License Footage</a>
+</li>
+<li>
+<a href="https://cnnnewsource.com/" target="_blank">CNN Newsource</a>
+</li>
+<li>
+<a href="/sitemap.html" target="_blank">Sitemap</a>
+</li>
+</ul>
+<div class="copyright inner">
+<span>Â© 2025 Cable News Network</span>
+<a href="https://www.turner.com/" target="_blank">A Warner Bros. Discovery Company.</a>
+<span>All Rights Reserved.</span>
+</div>
+<div class="copyright inner">
+<span>CNN Sans â¢ &amp; Â© 2016 Cable News Network.</span>
+</div>
+</footer>
+<script src="/audio/static/scripts/zion-suite.1a1174c6.js" type="text/javascript"></script>
+<script src="/audio/static/scripts/adobe.f478f3eb.js" type="text/javascript"></script>
+<script src="/audio/static/modules/bottom-player.d4ce3641.js" type="module"></script>
+<script src="/audio/static/modules/share-button.c5b849c5.js" type="module"></script>
+<script src="/audio/static/modules/menu-icon.59c9101a.js" type="module"></script>
+<script src="/audio/static/modules/hub-player-template.b3a75539.js" type="module"></script>
+<script src="/audio/static/modules/left-nav-player-template.68ce5f22.js" type="module"></script>
+<script src="/audio/static/modules/user-consent.78c22120.js" type="module"></script>
+<script src="/audio/static/modules/follow-button.8334b3b6.js" type="module"></script>
+<script src="/audio/static/modules/hero-arrow.a0a57d74.js" type="module"></script>
+<script src="/audio/static/modules/router.165609c7.js" type="module"></script>
+<script src="/audio/static/modules/load-more.1c20a0c4.js" type="module"></script>
+<script src="/audio/static/modules/audio-player.902967ed.js" type="module"></script>
+<script src="/audio/static/modules/live-audio-player.36667ef9.js" type="module"></script>
+<script src="/audio/static/modules/base-player-template.89c77b4e.js" type="module"></script>
+<script src="/audio/static/modules/registry.0de615f8.js" type="module"></script>
+<script src="/audio/static/modules/player.2a19e3aa.js" type="module"></script>
+<script src="/audio/static/modules/player-model.0f9b222b.js" type="module"></script>
+<div class="loader" id="loader">
+<div class="circle">
+<svg class="load-circle" id="load-circle" viewbox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+<path class="load-circle-front" d="M18 2.0845
+                          a 15.9155 15.9155 0 0 1 0 31.831
+                          a 15.9155 15.9155 0 0 1 0 -31.831" id="load-circle-front" stroke-dasharray="0, 100"></path>
+<path class="load-circle-back" d="M18 2.0845
+                          a 15.9155 15.9155 0 0 1 0 31.831
+                          a 15.9155 15.9155 0 0 1 0 -31.831" id="load-circle-back" stroke-dasharray="100, 100">
+</path>
+</svg>
+</div>
+</div>
+<script type="text/javascript">
+        if (!window.CNN) {
+          window.CNN = {};
+        }
+        if (!window.CNN.omniture) {
+          window.CNN.omniture = {
+            'content_type': 'audio',
+            'template_type': 'podcast'
+          }
+        }
+        window.addEventListener('load', e => {
+          const event = new CustomEvent('CNN:PageView');
+          window.dispatchEvent(event);
+        });
+      </script>
+</body>
+</html>
+

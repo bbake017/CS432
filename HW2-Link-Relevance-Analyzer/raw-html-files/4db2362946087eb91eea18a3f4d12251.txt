@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+<meta content="yes" name="mobile-web-app-capable"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="FactCheck.org - A Project of The Annenberg Public Policy Center" name="apple-mobile-web-app-title"/>
+<link href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&amp;family=Space+Grotesk:wght@400&amp;display=swap" rel="stylesheet"/>
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<link href="https://www.factcheck.org/xmlrpc.php" rel="pingback"/>
+<link href="/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/manifest.json" rel="manifest"/>
+<meta content="#ffffff" name="msapplication-TileColor"/>
+<meta content="/ms-icon-144x144.png" name="msapplication-TileImage"/>
+<meta content="#ffffff" name="theme-color"/>
+<script async="" src="//dhpikd1t89arn.cloudfront.net/js/include/sharethefacts-v1.js"></script> <meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots">
+<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer="">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+
+	const gtm4wp_scrollerscript_debugmode         = false;
+	const gtm4wp_scrollerscript_callbacktime      = 100;
+	const gtm4wp_scrollerscript_readerlocation    = 150;
+	const gtm4wp_scrollerscript_contentelementid  = "content";
+	const gtm4wp_scrollerscript_scannertime       = 60;
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- This site is optimized with the Yoast SEO plugin v25.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Trump's Border Wall: Where Does It Stand? - FactCheck.org</title>
+<link href="https://www.factcheck.org/2020/12/trumps-border-wall-where-does-it-stand/" rel="canonical">
+<meta content="en_US" property="og:locale">
+<meta content="article" property="og:type">
+<meta content="Trump's Border Wall: Where Does It Stand? - FactCheck.org" property="og:title">
+<meta content='In the final weeks of his presidency, President Donald Trump has returned to the signature issue that brought him to the White House -- his pledge to build "a beautiful, gorgeous, big wall" on the southern border.' property="og:description">
+<meta content="https://www.factcheck.org/2020/12/trumps-border-wall-where-does-it-stand/" property="og:url">
+<meta content="FactCheck.org" property="og:site_name">
+<meta content="https://www.facebook.com/factcheck.org" property="article:publisher">
+<meta content="2020-12-22T15:40:17+00:00" property="article:published_time">
+<meta content="2021-02-16T22:19:03+00:00" property="article:modified_time"/>
+<meta content="https://cdn.factcheck.org/UploadedFiles/borderwallprototypes2.jpg" property="og:image"/>
+<meta content="300" property="og:image:width"/>
+<meta content="300" property="og:image:height"/>
+<meta content="image/jpeg" property="og:image:type"/>
+<meta content="Robert Farley" name="author"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@factcheckdotorg" name="twitter:creator"/>
+<meta content="@factcheckdotorg" name="twitter:site"/>
+<meta content="Written by" name="twitter:label1"/>
+<meta content="Robert Farley" name="twitter:data1"/>
+<meta content="Est. reading time" name="twitter:label2"/>
+<meta content="20 minutes" name="twitter:data2"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.factcheck.org/2020/12/trumps-border-wall-where-does-it-stand/","url":"https://www.factcheck.org/2020/12/trumps-border-wall-where-does-it-stand/","name":"Trump's Border Wall: Where Does It Stand? - FactCheck.org","isPartOf":{"@id":"https://www.factcheck.org/#website"},"primaryImageOfPage":{"@id":"https://www.factcheck.org/2020/12/trumps-border-wall-where-does-it-stand/#primaryimage"},"image":{"@id":"https://www.factcheck.org/2020/12/trumps-border-wall-where-does-it-stand/#primaryimage"},"thumbnailUrl":"https://cdn.factcheck.org/UploadedFiles/borderwallprototypes2.jpg","datePublished":"2020-12-22T15:40:17+00:00","dateModified":"2021-02-16T22:19:03+00:00","author":{"@id":"https://www.factcheck.org/#/schema/person/3ded3dc4c00993c541f3013e5a7b4fdb"},"breadcrumb":{"@id":"https://www.factcheck.org/2020/12/trumps-border-wall-where-does-it-stand/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.factcheck.org/2020/12/trumps-border-wall-where-does-it-stand/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.factcheck.org/2020/12/trumps-border-wall-where-does-it-stand/#primaryimage","url":"https://cdn.factcheck.org/UploadedFiles/borderwallprototypes2.jpg","contentUrl":"https://cdn.factcheck.org/UploadedFiles/borderwallprototypes2.jpg","width":300,"height":300,"caption":"Acting Deputy Commissioner Ronald D. Vitiello visits the Border Wall Construction Site near the Otay Mesa Port of Entry as eight different prototypes of the Border Wall were unveiled at the U.S. border with Mexico. October 26 2017. Photos Courtesy of U.S. Customs and Border Protection Taken by Yesica Uvina"},{"@type":"BreadcrumbList","@id":"https://www.factcheck.org/2020/12/trumps-border-wall-where-does-it-stand/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.factcheck.org/"},{"@type":"ListItem","position":2,"name":"Trump&#8217;s Border Wall: Where Does It Stand?"}]},{"@type":"WebSite","@id":"https://www.factcheck.org/#website","url":"https://www.factcheck.org/","name":"FactCheck.org","description":"A Project of The Annenberg Public Policy Center","inLanguage":"en-US"},{"@type":"Person","@id":"https://www.factcheck.org/#/schema/person/3ded3dc4c00993c541f3013e5a7b4fdb","name":"Robert Farley","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.factcheck.org/#/schema/person/image/adfdd10e4197ff72514739975088917e","url":"https://secure.gravatar.com/avatar/f55590ff6fabc8df454df014e7e3da4cadb22706e245375f1b8686a7a806513b?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/f55590ff6fabc8df454df014e7e3da4cadb22706e245375f1b8686a7a806513b?s=96&d=mm&r=g","caption":"Robert Farley"},"description":"Deputy Director, FactCheck.org","url":"https://www.factcheck.org/author/robert-farley/"}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="//code.jquery.com" rel="dns-prefetch">
+<link href="//assets.factcheck.org" rel="dns-prefetch">
+<link href="https://www.factcheck.org/feed/" rel="alternate" title="FactCheck.org » Feed" type="application/rss+xml">
+<link href="https://assets.factcheck.org/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="co-authors-plus-coauthors-style-inline-css" type="text/css">
+.wp-block-co-authors-plus-coauthors.is-layout-flow [class*=wp-block-co-authors-plus]{display:inline}
+
+</style>
+<style id="co-authors-plus-avatar-style-inline-css" type="text/css">
+.wp-block-co-authors-plus-avatar :where(img){height:auto;max-width:100%;vertical-align:bottom}.wp-block-co-authors-plus-coauthors.is-layout-flow .wp-block-co-authors-plus-avatar :where(img){vertical-align:middle}.wp-block-co-authors-plus-avatar:is(.alignleft,.alignright){display:table}.wp-block-co-authors-plus-avatar.aligncenter{display:table;margin-inline:auto}
+
+</style>
+<style id="co-authors-plus-image-style-inline-css" type="text/css">
+.wp-block-co-authors-plus-image{margin-bottom:0}.wp-block-co-authors-plus-image :where(img){height:auto;max-width:100%;vertical-align:bottom}.wp-block-co-authors-plus-coauthors.is-layout-flow .wp-block-co-authors-plus-image :where(img){vertical-align:middle}.wp-block-co-authors-plus-image:is(.alignfull,.alignwide) :where(img){width:100%}.wp-block-co-authors-plus-image:is(.alignleft,.alignright){display:table}.wp-block-co-authors-plus-image.aligncenter{display:table;margin-inline:auto}
+
+</style>
+<link href="https://assets.factcheck.org/wp-includes/css/dashicons.min.css?ver=6.8.2" id="dashicons-css" media="all" rel="stylesheet" type="text/css">
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link href="https://assets.factcheck.org/wp-content/themes/factcheckstrap/css/child-theme.min.css?ver=1.2.3" id="child-understrap-styles-css" media="all" rel="stylesheet" type="text/css">
+<link href="https://assets.factcheck.org/wp-content/plugins/social-pug/assets/dist/style-frontend-pro.css?ver=2.26.2" id="dpsp-frontend-style-pro-css" media="all" rel="stylesheet" type="text/css">
+<style id="dpsp-frontend-style-pro-inline-css" type="text/css">
+
+				@media screen and ( max-width : 720px ) {
+					.dpsp-content-wrapper.dpsp-hide-on-mobile,
+					.dpsp-share-text.dpsp-hide-on-mobile {
+						display: none;
+					}
+					.dpsp-has-spacing .dpsp-networks-btns-wrapper li {
+						margin:0 2% 10px 0;
+					}
+					.dpsp-network-btn.dpsp-has-label:not(.dpsp-has-count) {
+						max-height: 40px;
+						padding: 0;
+						justify-content: center;
+					}
+					.dpsp-content-wrapper.dpsp-size-small .dpsp-network-btn.dpsp-has-label:not(.dpsp-has-count){
+						max-height: 32px;
+					}
+					.dpsp-content-wrapper.dpsp-size-large .dpsp-network-btn.dpsp-has-label:not(.dpsp-has-count){
+						max-height: 46px;
+					}
+				}
+			
+</style>
+<script id="gtm4wp-scroll-tracking-js" src="https://assets.factcheck.org/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/analytics-talk-content-tracking.js?ver=1.22.1" type="text/javascript"></script>
+<script id="popper-scripts-js" src="https://assets.factcheck.org/wp-content/themes/understrap/js/popper.min.js?ver=6.8.2" type="text/javascript"></script>
+<link href="https://www.factcheck.org/wp-json/" rel="https://api.w.org/"><link href="https://www.factcheck.org/wp-json/wp/v2/posts/194687" rel="alternate" title="JSON" type="application/json"><link href="https://www.factcheck.org/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml">
+<meta content="WordPress 6.8.2" name="generator"/>
+<link href="https://www.factcheck.org/?p=194687" rel="shortlink">
+<link href="https://www.factcheck.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.factcheck.org%2F2020%2F12%2Ftrumps-border-wall-where-does-it-stand%2F" rel="alternate" title="oEmbed (JSON)" type="application/json+oembed">
+<link href="https://www.factcheck.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.factcheck.org%2F2020%2F12%2Ftrumps-border-wall-where-does-it-stand%2F&amp;format=xml" rel="alternate" title="oEmbed (XML)" type="text/xml+oembed">
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.factcheck.org/?wordfence_lh=1&hid=0EF2A52D2AA1AC28DF9FB98162BC6A0E');
+</script>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to automatic -->
+<script data-cfasync="false" data-pagespeed-no-defer="">
+	var dataLayer_content = {"pagePostType":"post","pagePostType2":"single-post","pageCategory":["the-factcheck-wire"],"pagePostAuthor":"Robert Farley"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false" data-pagespeed-no-defer="">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PFGD5J2');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><meta description="Hubbub Pro 2.26.2" name="hubbub-info"/></link></link></link></link></link></link></link></link></link></link></link></link></link></meta></meta></meta></meta></meta></meta></meta></meta></link></meta></head>
+<body class="wp-singular post-template-default single single-post postid-194687 single-format-standard wp-theme-understrap wp-child-theme-factcheckstrap group-blog">
+<svg role="img" style="display: none;" xmlns="http://www.w3.org/2000/svg">
+<symbol id="facebook" viewbox="0 0 48.01 47.89">
+<title>Facebook</title>
+<path d="M42,0H6A6,6,0,0,0,0,6V41.91a6,6,0,0,0,6,6H25.93V28.53H21.56V21.8H25.8c0-2,0-3.76,0-5.6,0-5.3,4.07-6.84,7.73-6.84H39.7V16H36.12c-.13,0-2.31-.12-2.31,2,0,.85,0,3.8,0,3.8h5.91l-.48,6.62H34v19.5H42a6,6,0,0,0,6-6V6A6,6,0,0,0,42,0Z"></path>
+</symbol>
+<symbol id="twitter" viewbox="0 0 48 48">
+<title>Twitter</title>
+<path d="M42,0H6A6,6,0,0,0,0,6V42a6,6,0,0,0,6,6H42a6,6,0,0,0,6-6V6A6,6,0,0,0,42,0ZM37.11,18q0,.4,0,.81c0,8.26-6.28,17.77-17.77,17.77a17.68,17.68,0,0,1-9.58-2.81A12.58,12.58,0,0,0,19,31.17a6.25,6.25,0,0,1-5.84-4.34,6.33,6.33,0,0,0,1.18.11A6.21,6.21,0,0,0,16,26.72a6.25,6.25,0,0,1-5-6.12v-.08a6.22,6.22,0,0,0,2.83.78A6.25,6.25,0,0,1,11.9,13a17.74,17.74,0,0,0,12.88,6.53,6.31,6.31,0,0,1-.16-1.42,6.25,6.25,0,0,1,10.81-4.28,12.48,12.48,0,0,0,4-1.52,6.27,6.27,0,0,1-2.75,3.46,12.47,12.47,0,0,0,3.59-1A12.72,12.72,0,0,1,37.11,18Z"></path>
+</symbol>
+<symbol id="tumblr" viewbox="0 0 47.92 47.92">
+<title>Tumblr</title>
+<path d="M41.93,0H6A6,6,0,0,0,0,6V41.93a6,6,0,0,0,6,6H41.93a6,6,0,0,0,6-6V6A6,6,0,0,0,41.93,0ZM34.71,39.33A26.58,26.58,0,0,1,26,40.61c-5.35,0-7.83-2.81-7.83-6.14V21.07H14V16.84s6.88-2.49,6.93-9.53h4.39v8.52h8.47v5.35H25.29v11s-.16,6.14,9.42,1.9Z"></path>
+</symbol>
+<symbol id="modal-close" preserveaspectratio="xMidYMid meet" viewbox="0 0 112 112" xmlns="http://www.w3.org/2000/svg">
+<title>Close</title>
+<path d="M3 3l105 105m0-105L3 108" fill="none" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="15"></path>
+</symbol>
+<symbol id="arrow" preserveaspectratio="xMidYMid meet" viewbox="0 0 50 28">
+<path d="M0 14h43M36 0l14 14-14 13" fill="none" stroke="#231f20" stroke-miterlimit="10"></path>
+</symbol>
+</svg>
+<svg style="display: none;" viewbox="0 0 136.9 108.9" xmlns="http://www.w3.org/2000/svg">
+<symbol id="factcheck-logo" viewbox="0 0 136.9 108.9">
+<path class="fc-blue" d="M137 29.2H0V109h137zm-7 72.8H7v-.3a107.2 107.2 0 0 1 30.3-17.3C60 76.2 70.6 77 70.6 77s.3-4.8-2.4-13c-1.6-4.4-4-10-9.5-19l-23 35.8L7 67.2V41.4L30 55l27.3-25.8H69l-4.6 7H130z"></path><path class="fc-red" d="M62 40l2.4-4H130v5.4s-9.4 3-13.8 4S104 48 96.6 48l-29 .2a30.5 30.5 0 0 0-2.6-4.6 36.2 36.2 0 0 0-3-3.7zm12 21.6l16.8-.4a149 149 0 0 0 24-3.3l15.2-5v14s-4 1.7-7 2.6c-4 1.4-14.5 3.2-18 3.6l-26.5 3s-1-4.6-1.8-7.5-2.5-7-2.5-7zM96.5 102h-57s8.3-4 14.2-6.2a220.3 220.3 0 0 1 26-7.3c6-1 17-2.7 24.7-3.4s25.6-5 25.6-5v14l-11.3 3-22 5z"></path><path class="fc-blue" d="M87.8 0L57.4 29.2H69L88 0"></path>
+</symbol>
+</svg>
+<a class="sr-only sr-only-focusable" href="#main">Skip to main content</a>
+<div class="hfeed site" id="page">
+<!-- ******************* The Navbar Area ******************* -->
+<div class="container container-branding container-branding-xl">
+<div class="row">
+<div class="col-7 col-xl-9">
+<a aria-label="FactCheck.org" class="logo" href="https://www.factcheck.org/" rel="home">
+<svg class="d-none d-md-inline-flex d-lg-inline-flex d-xl-inline-flex">
+<use xlink:href="#factcheck-logo">
+</use></svg>
+<!--[if lt IE 9]>
+            <img src="/img/logomark.png" alt="FactCheck.org">
+          <![endif]-->
+<span class="logotype">
+            FactCheck<span class="text-fc-red">.org</span><sup>®</sup>
+</span>
+</a>
+<span class="appc-credit">A Project of The Annenberg Public Policy Center</span>
+</div>
+<div class="d-none d-md-inline col-5 col-xl-3">
+<div class="fc-social-media-header">
+<div class="fc-social-media-header-icon">
+<a href="https://www.facebook.com/factcheck.org">
+<img alt="Become a Facebook fan" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-facebook-mini.png"/>
+</a>
+</div>
+<div class="fc-social-media-header-icon">
+<a href="https://www.x.com/factcheckdotorg">
+<img alt="Follow us on Twitter" src="https://cdn.factcheck.org/UploadedFiles/x-icon-logo-black.png"/>
+</a>
+</div>
+<div class="fc-social-media-header-icon">
+<a href="https://www.factcheck.org/feed/">
+<img alt="Get the RSS feed" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-rss.png"/>
+</a>
+</div>
+<div class="fc-social-media-header-icon">
+<a href="https://www.instagram.com/factcheckorg/">
+<img alt="Follow on Insta" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-instagram-1.png"/>
+</a>
+</div>
+<div class="fc-social-media-header-icon">
+<a href="https://www.factcheck.org/subscribe/">
+<img alt="Sign up for the email newsletter" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-email.png"/>
+</a>
+</div>
+<div class="fc-social-media-header-icon">
+<a href="https://giving.aws.cloud.upenn.edu/?fastStart=simpleForm&amp;program=ANS&amp;fund=602014">
+<img alt="Help us hold politicians accountable. " src="https://cdn.factcheck.org/UploadedFiles/fc-icon-donate.png"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wrapper-fluid wrapper-navbar" id="wrapper-navbar">
+<nav class="navbar navbar-expand-md navbar-light bg-light">
+<div class="container">
+<button aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarNavDropdown" data-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"></span>
+</button>
+<a aria-label="FactCheck.org" class="logo logo-xs" href="https://www.factcheck.org/" rel="home">
+<span class="logotype">
+              FactCheck<span class="text-fc-red">.org</span><sup>®</sup>
+</span>
+</a>
+<!-- The WordPress Menu goes here -->
+<div class="collapse navbar-collapse" id="navbarNavDropdown"><ul class="navbar-nav" id="main-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-75121 nav-item" id="menu-item-75121" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org" title="Home">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-75124 nav-item" id="menu-item-75124" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" id="menu-item-dropdown-75124" title="Articles">Articles</a>
+<ul aria-labelledby="menu-item-dropdown-75124" class="dropdown-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46900 nav-item" id="menu-item-46900" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/the-factcheck-wire/" title="FactCheck Posts">FactCheck Posts</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-121568 nav-item" id="menu-item-121568" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/scicheck/" title="SciCheck">SciCheck</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-125157 nav-item" id="menu-item-125157" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/fake-news/" title="Debunking Viral Claims">Debunking Viral Claims</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-200446 nav-item" id="menu-item-200446" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/es/en-espanol/" title="En Español">En Español</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-121564 nav-item" id="menu-item-121564" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" id="menu-item-dropdown-121564" title="Ask a Question">Ask a Question</a>
+<ul aria-labelledby="menu-item-dropdown-121564" class="dropdown-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75166 nav-item" id="menu-item-75166" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/askfactcheck/" title="Ask FactCheck">Ask FactCheck</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-121565 nav-item" id="menu-item-121565" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/askscicheck/" title="Ask SciCheck">Ask SciCheck</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-135871 nav-item" id="menu-item-135871" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://giving.aws.cloud.upenn.edu/fund?fastStart=simpleForm&amp;program=ANS&amp;fund=602014" title="Donate">Donate</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-75144 nav-item" id="menu-item-75144" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" id="menu-item-dropdown-75144" title="Topics">Topics</a>
+<ul aria-labelledby="menu-item-dropdown-75144" class="dropdown-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-person menu-item-197214 nav-item" id="menu-item-197214" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/person/donald-trump/" title="President Trump">President Trump</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-issue menu-item-232361 nav-item" id="menu-item-232361" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/issue/health/" title="health">health</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174394 nav-item" id="menu-item-174394" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/a-guide-to-our-coronavirus-coverage/" title="Coronavirus">Coronavirus</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-issue menu-item-199652 nav-item" id="menu-item-199652" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/issue/immigration/" title="immigration">immigration</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-issue menu-item-101750 nav-item" id="menu-item-101750" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/issue/climate-change/" title="climate change">climate change</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46906 nav-item" id="menu-item-46906" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/archives/" title="View All">View All</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-75727 nav-item" id="menu-item-75727" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" id="menu-item-dropdown-75727" title="About Us">About Us</a>
+<ul aria-labelledby="menu-item-dropdown-75727" class="dropdown-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75731 nav-item" id="menu-item-75731" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/about/our-mission/" title="Our Mission">Our Mission</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117787 nav-item" id="menu-item-117787" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/our-process/" title="Our Process">Our Process</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75730 nav-item" id="menu-item-75730" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/our-funding/" title="Our Funding">Our Funding</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75728 nav-item" id="menu-item-75728" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/our-staff/" title="Our Staff">Our Staff</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103776 nav-item" id="menu-item-103776" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/undergraduate-fellows/" title="Undergraduate Fellows">Undergraduate Fellows</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76678 nav-item" id="menu-item-76678" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/awards/" title="Awards">Awards</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156842 nav-item" id="menu-item-156842" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/request-a-correction/" title="Request a Correction">Request a Correction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75729 nav-item" id="menu-item-75729" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/about/contact-us/" title="Contact Us">Contact Us</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75130 nav-item" id="menu-item-75130" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/search/" title="Search">Search</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-75125 nav-item" id="menu-item-75125" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" id="menu-item-dropdown-75125" title="More">More</a>
+<ul aria-labelledby="menu-item-dropdown-75125" class="dropdown-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46786 nav-item" id="menu-item-46786" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/hot-topics/" title="Viral Claims">Viral Claims</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171642 nav-item" id="menu-item-171642" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/subscribe/" title="Subscribe">Subscribe</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-209955 nav-item" id="menu-item-209955" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.instagram.com/factcheckorg/" title="Instagram">Instagram</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-254261 nav-item" id="menu-item-254261" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.threads.net/@factcheckorg" title="Threads">Threads</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-253367 nav-item" id="menu-item-253367" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.youtube.com/factcheckdotorg" title="YouTube">YouTube</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-209954 nav-item" id="menu-item-209954" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://twitter.com/factcheckdotorg" title="X (Twitter)">X (Twitter)</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-209953 nav-item" id="menu-item-209953" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.facebook.com/factcheck.org" title="Facebook">Facebook</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-253366 nav-item" id="menu-item-253366" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.tiktok.com/@factcheckorg" title="TikTok">TikTok</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75126 nav-item" id="menu-item-75126" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/on-the-air/" title="FactCheck On the Air">FactCheck On the Air</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46908 nav-item" id="menu-item-46908" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/factcheck-mailbag/" title="Mailbag">Mailbag</a></li>
+</ul>
+</li>
+</ul></div> </div><!-- .container -->
+</nav><!-- .site-navigation -->
+</div><!-- .wrapper-navbar end -->
+<div class="wrapper" id="single-wrapper">
+<div class="container" id="content" tabindex="-1">
+<header class="entry-header">
+<div class="breadcrumb-category"><a href="https://www.factcheck.org/the-factcheck-wire/">FactCheck Posts</a></div>
+<h1 class="entry-title">Trump’s Border Wall: Where Does It Stand?</h1>
+<div class="entry-meta">
+<p class="byline"> By <a class="author url fn" href="https://www.factcheck.org/author/robert-farley/" rel="author" title="Posts by Robert Farley">Robert Farley</a></p><p class="posted-on">Posted on <time class="entry-date published updated" datetime="2020-12-22T10:40:17-05:00">December 22, 2020</time> | Updated on February 16, 2021</p>
+</div><!-- .entry-meta -->
+</header><!-- .entry-header -->
+<hr/>
+<div class="row">
+<!-- Do the left sidebar check -->
+<div class="col-lg-8 content-area" id="primary">
+<main class="site-main" id="main">
+<!-- Show the language switcher -->
+<article class="post-194687 post type-post status-publish format-standard has-post-thumbnail hentry category-the-factcheck-wire issue-border issue-border-wall issue-illegal-immigration person-donald-trump grow-content-body" id="post-194687">
+<div class="entry-content">
+<div class="dpsp-content-wrapper dpsp-shape-rectangular dpsp-size-small dpsp-has-spacing dpsp-has-buttons-count dpsp-show-on-mobile dpsp-button-style-1" id="dpsp-content-top" style="min-height:32px;position:relative">
+<ul class="dpsp-networks-btns-wrapper dpsp-networks-btns-share dpsp-networks-btns-content dpsp-column-auto dpsp-has-button-icon-animation" style="padding:0;margin:0;list-style-type:none">
+<li class="dpsp-network-list-item dpsp-network-list-item-facebook" style="float:left">
+<a aria-label="Share on Facebook" class="dpsp-network-btn dpsp-facebook dpsp-no-label dpsp-first dpsp-has-label-mobile" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.factcheck.org%2F2020%2F12%2Ftrumps-border-wall-where-does-it-stand%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-pug&amp;t=Trump%27s%20Border%20Wall%3A%20Where%20Does%20It%20Stand%3F" rel="nofollow noopener" style="font-size:14px;padding:0rem;max-height:32px" target="_blank" title="Share on Facebook"> <span class="dpsp-network-icon"><span class="dpsp-network-icon-inner"><svg height="32" version="1.1" viewbox="0 0 18 32" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M17.12 0.224v4.704h-2.784q-1.536 0-2.080 0.64t-0.544 1.92v3.392h5.248l-0.704 5.28h-4.544v13.568h-5.472v-13.568h-4.544v-5.28h4.544v-3.904q0-3.328 1.856-5.152t4.96-1.824q2.624 0 4.064 0.224z"></path></svg></span></span>
+</a></li>
+<li class="dpsp-network-list-item dpsp-network-list-item-x" style="float:left">
+<a aria-label="Share on X" class="dpsp-network-btn dpsp-x dpsp-no-label dpsp-has-label-mobile" href="https://x.com/intent/tweet?text=Trump%27s%20Border%20Wall%3A%20Where%20Does%20It%20Stand%3F&amp;url=https%3A%2F%2Fwww.factcheck.org%2F2020%2F12%2Ftrumps-border-wall-where-does-it-stand%2F%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-pug&amp;via=factcheckdotorg" rel="nofollow noopener" style="font-size:14px;padding:0rem;max-height:32px" target="_blank" title="Share on X"> <span class="dpsp-network-icon"><span class="dpsp-network-icon-inner"><svg height="32" version="1.1" viewbox="0 0 32 30" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M30.3 29.7L18.5 12.4l0 0L29.2 0h-3.6l-8.7 10.1L10 0H0.6l11.1 16.1l0 0L0 29.7h3.6l9.7-11.2L21 29.7H30.3z M8.6 2.7 L25.2 27h-2.8L5.7 2.7H8.6z"></path></svg></span></span>
+</a></li>
+<li class="dpsp-network-list-item dpsp-network-list-item-threads" style="float:left">
+<a aria-label="Share on Threads" class="dpsp-network-btn dpsp-threads dpsp-no-label dpsp-has-label-mobile" href="https://www.threads.net/intent/post?text=Trump%27s%20Border%20Wall%3A%20Where%20Does%20It%20Stand%3F+https%3A%2F%2Fwww.factcheck.org%2F2020%2F12%2Ftrumps-border-wall-where-does-it-stand%2F%3Futm_source%3Dthreads%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-pug" rel="nofollow noopener" style="font-size:14px;padding:0rem;max-height:32px" target="_blank" title="Share on Threads"> <span class="dpsp-network-icon"><span class="dpsp-network-icon-inner"><svg height="32" version="1.1" viewbox="0 0 16 16" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M6.321 6.016c-.27-.18-1.166-.802-1.166-.802.756-1.081 1.753-1.502 3.132-1.502.975 0 1.803.327 2.394.948s.928 1.509 1.005 2.644q.492.207.905.484c1.109.745 1.719 1.86 1.719 3.137 0 2.716-2.226 5.075-6.256 5.075C4.594 16 1 13.987 1 7.994 1 2.034 4.482 0 8.044 0 9.69 0 13.55.243 15 5.036l-1.36.353C12.516 1.974 10.163 1.43 8.006 1.43c-3.565 0-5.582 2.171-5.582 6.79 0 4.143 2.254 6.343 5.63 6.343 2.777 0 4.847-1.443 4.847-3.556 0-1.438-1.208-2.127-1.27-2.127-.236 1.234-.868 3.31-3.644 3.31-1.618 0-3.013-1.118-3.013-2.582 0-2.09 1.984-2.847 3.55-2.847.586 0 1.294.04 1.663.114 0-.637-.54-1.728-1.9-1.728-1.25 0-1.566.405-1.967.868ZM8.716 8.19c-2.04 0-2.304.87-2.304 1.416 0 .878 1.043 1.168 1.6 1.168 1.02 0 2.067-.282 2.232-2.423a6.2 6.2 0 0 0-1.528-.161"></path></svg></span></span>
+</a></li>
+<li class="dpsp-network-list-item dpsp-network-list-item-bluesky" style="float:left">
+<a aria-label="Share on Bluesky" class="dpsp-network-btn dpsp-bluesky dpsp-no-label dpsp-has-label-mobile" href="https://bsky.app/intent/compose?text=Trump%27s%20Border%20Wall%3A%20Where%20Does%20It%20Stand%3F+https%3A%2F%2Fwww.factcheck.org%2F2020%2F12%2Ftrumps-border-wall-where-does-it-stand%2F%3Futm_source%3Dbluesky%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-pug" rel="nofollow noopener" style="font-size:14px;padding:0rem;max-height:32px" target="_blank" title="Share on Bluesky"> <span class="dpsp-network-icon"><span class="dpsp-network-icon-inner"><svg height="32" version="1.1" viewbox="0 0 32 28" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M6.9,1.9c3.7,2.8,7.6,8.3,9.1,11.3,1.4-3,5.4-8.6,9.1-11.3,2.6-2,6.9-3.5,6.9,1.4s-.6,8.2-.9,9.4c-1.1,4.1-5.3,5.1-9,4.5,6.5,1.1,8.1,4.7,4.6,8.4-6.8,6.9-9.7-1.7-10.5-4-.1-.4-.2-.6-.2-.4,0-.2,0,0-.2.4-.8,2.2-3.7,10.9-10.5,4-3.6-3.6-1.9-7.3,4.6-8.4-3.7.6-7.9-.4-9-4.5C.6,11.5,0,4.3,0,3.3,0-1.6,4.3-.1,6.9,1.9Z"></path></svg></span></span>
+</a></li>
+<li class="dpsp-network-list-item dpsp-network-list-item-tumblr" style="float:left">
+<a aria-label="Share on Tumblr" class="dpsp-network-btn dpsp-tumblr dpsp-no-label dpsp-has-label-mobile" href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Fwww.factcheck.org%2F2020%2F12%2Ftrumps-border-wall-where-does-it-stand%2F%3Futm_source%3Dtumblr%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-pug" rel="nofollow noopener" style="font-size:14px;padding:0rem;max-height:32px" target="_blank" title="Share on Tumblr"> <span class="dpsp-network-icon"><span class="dpsp-network-icon-inner"><svg height="32" version="1.1" viewbox="0 0 18 32" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M16.864 23.744l1.408 4.224q-0.384 0.608-1.952 1.184t-3.168 0.576q-1.856 0.032-3.424-0.48t-2.528-1.312-1.696-1.888-0.992-2.144-0.288-2.112v-9.728h-3.008v-3.84q1.28-0.448 2.304-1.248t1.632-1.6 1.024-1.824 0.608-1.76 0.256-1.568q0.032-0.096 0.096-0.16t0.128-0.064h4.352v7.584h5.952v4.48h-5.952v9.248q0 0.544 0.096 0.992t0.416 0.96 0.896 0.736 1.44 0.256q1.408-0.032 2.4-0.512z"></path></svg></span></span>
+</a></li>
+<li class="dpsp-network-list-item dpsp-network-list-item-flipboard" style="float:left">
+<a aria-label="Share on Flipboard" class="dpsp-network-btn dpsp-flipboard dpsp-no-label dpsp-has-label-mobile" href="https://share.flipboard.com/bookmarklet/popout?v=2&amp;url=https%3A%2F%2Fwww.factcheck.org%2F2020%2F12%2Ftrumps-border-wall-where-does-it-stand%2F%3Futm_source%3Dflipboard%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-pug&amp;title=Trump%27s%20Border%20Wall%3A%20Where%20Does%20It%20Stand%3F" rel="nofollow noopener" style="font-size:14px;padding:0rem;max-height:32px" target="_blank" title="Share on Flipboard"> <span class="dpsp-network-icon"><span class="dpsp-network-icon-inner"><svg height="32" version="1.1" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M0 0h10.272v32h-10.272v-32zM11.328 11.328h10.4v10.4h-10.4v-10.4zM11.328 0h20.672v10.272h-20.672v-10.272z"></path></svg></span></span>
+</a></li>
+<li class="dpsp-network-list-item dpsp-network-list-item-email" style="float:left">
+<a aria-label="Send over email" class="dpsp-network-btn dpsp-email dpsp-no-label dpsp-last dpsp-has-label-mobile" href="mailto:?subject=Trump%27s%20Border%20Wall%3A%20Where%20Does%20It%20Stand%3F&amp;body=https%3A%2F%2Fwww.factcheck.org%2F2020%2F12%2Ftrumps-border-wall-where-does-it-stand%2F%3Futm_source%3Demail%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-pug" rel="nofollow noopener" style="font-size:14px;padding:0rem;max-height:32px" target="_blank" title="Send over email"> <span class="dpsp-network-icon"><span class="dpsp-network-icon-inner"><svg height="32" version="1.1" viewbox="0 0 28 32" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M18.56 17.408l8.256 8.544h-25.248l8.288-8.448 4.32 4.064zM2.016 6.048h24.32l-12.16 11.584zM20.128 15.936l8.224-7.744v16.256zM0 24.448v-16.256l8.288 7.776z"></path></svg></span></span>
+</a></li>
+</ul></div>
+<p>In the final weeks of his presidency, President Donald Trump has returned to the signature issue that brought him to the White House — his pledge to build “a beautiful, gorgeous, big wall” on the southern border. On two separate occasions, Trump has said he is “completing the wall, like I said I would” and that it is “almost finished.”</p>
+<p>To be sure, the Trump administration has built hundreds of miles of border fencing, more than under any other president in American history. But by the end of Trump’s term in January, the length of fencing will be well short of what Trump promised repeatedly during the campaign or what his administration initially proposed when he took office.</p>
+<p>Border experts say construction crews won’t come close to even finishing the work that is currently funded.</p>
+<p>Most of the wall constructed to date has been replacement for existing dilapidated or inadequate fencing, despite earlier plans to build new barriers where none existed before. In 2018, an administration official testified that his agency would build 316 miles of new pedestrian barriers “in addition to what is there now.” But to date only about 40 miles of such new fencing have been built.</p>
+<p>Other border experts warn not to minimize the impact of the replacement fencing. In some cases, the new barriers erected replaced fencing made from Vietnam-era landing mats. U.S. Customs and Border Protection also has replaced nearly 200 miles of vehicle barriers — the type that people could walk right through — with 30-foot-high steel bollards, lighting and other technology.</p>
+<p>That’s a dramatic change. Below are before-and-after photos of vehicle barriers replaced by fencing in <a href="https://www.nps.gov/orpi/index.htm">Organ Pipe Cactus National Monument</a> in Arizona. The first was taken in April 2019, the second in January 2020:</p>
+<table style="height: 74px; width: 723px;">
+<tbody>
+<tr>
+<td style="width: 369.017px;">
+<div>
+<div>
+<figure aria-describedby="caption-attachment-194868" class="wp-caption aligncenter" id="attachment_194868" style="width: 300px"><img alt="" class="size-full wp-image-194868" decoding="async" fetchpriority="high" height="224" sizes="(max-width: 300px) 100vw, 300px" src="https://cdn.factcheck.org/UploadedFiles/Before1.png" srcset="https://cdn.factcheck.org/UploadedFiles/Before1.png 300w, https://cdn.factcheck.org/UploadedFiles/Before1-194x145.png 194w" width="300"><figcaption class="wp-caption-text" id="caption-attachment-194868">Before</figcaption></img></figure>
+</div>
+</div></td>
+<td style="width: 345.983px;">
+<div>
+<div>
+<figure aria-describedby="caption-attachment-194870" class="wp-caption aligncenter" id="attachment_194870" style="width: 300px"><img alt="" class="size-full wp-image-194870" decoding="async" height="223" sizes="(max-width: 300px) 100vw, 300px" src="https://cdn.factcheck.org/UploadedFiles/After.png" srcset="https://cdn.factcheck.org/UploadedFiles/After.png 300w, https://cdn.factcheck.org/UploadedFiles/After-195x145.png 195w" width="300"><figcaption class="wp-caption-text" id="caption-attachment-194870">After</figcaption></img></figure>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+<p>But whether the wall is “almost finished” is another question. Part of the difficulty of measuring that is the ambiguity around what a completed wall would look like. Trump has constantly moved the goal posts on how long the wall should be, and no master plan for the project has ever been publicly released.</p>
+<p>Those who have tracked the construction closely say fencing mostly has been built where there was least resistance, where the federal government already owned the land — particularly in Arizona and New Mexico. Far less has been built in areas of Texas, especially, where private landowners have fought condemnation of their land in the courts.</p>
+<p>What has resulted, border experts say, is a patchwork of fencing. Nonetheless, with no publicly shared benchmarks for “completion” of the wall, Trump has declared near-victory.</p>
+<p>“You know, we’re completing the wall, like I said I would,” Trump said in <a href="https://factba.se/transcript/donald-trump-interview-fox-news-sunday-morning-futures-maria-bartiromo-november-29-2020">an interview</a> on Fox News on Nov. 29. “Everyone said, you would never be able to do it.”</p>
+<p>At a <a href="https://www.rev.com/blog/transcripts/donald-trump-georgia-rally-transcript-before-senate-runoff-elections-december-5">Dec. 5 rally in Georgia</a>, Trump said, “They even want to take down the wall. … I heard him [President-elect Joe Biden] say it the other day, ‘We will take down the wall.’ We have the strongest border we’ve ever had now. We’re almost finished with the wall.”</p>
+<p>As <a href="https://www.factcheck.org/2020/08/factchecking-trumps-weekend-press-briefings/">we have written</a>, Biden has not said he plans to “take down the wall,” contrary to Trump’s claim. But Biden <a href="https://www.dallasnews.com/news/politics/2020/08/05/biden-says-border-wall-construction-will-stop-if-hes-elected-president/">did vow</a> in August that, if elected, “there will not be another foot of wall construction in my administration.”</p>
+<p>According to a <a href="https://cdn.factcheck.org/UploadedFiles/CBP-Border-Wall-Status-Paper_as-of-12182020_FINAL.pdf">CBP status report</a>, the U.S. has constructed 438 miles of “border wall system” under Trump, as of Dec. 18. Most of that, 365 miles of it, as we said, is replacement for primary or secondary fencing that was dilapidated or of outdated design. In addition, 40 miles of new primary wall and 33 miles of secondary wall have been built in locations where there were no barriers before.</p>
+<p>So the footprint of the wall is 40 miles longer than it was before Trump took office.</p>
+<p>CBP says it has funding in place to construct another 241 miles of fencing where there were no barriers before. But border experts say most of that is not going to get built.</p>
+<p>According to <a href="https://twitter.com/KannoYoungs/status/1310961746400681987">CBP updates</a>, in the last three months about 31 miles of new wall have been constructed in areas where there was no barrier before. At that rate, and assuming Biden immediately puts a halt to all new wall construction as promised, the administration will complete less than a quarter of the new miles for which it has funding — and that will be well short of the new miles of wall Trump had originally promised.</p>
+<p style="text-align: left;"><strong>What did Trump promise?</strong></p>
+<p>Although the <a href="https://www.presidency.ucsb.edu/documents/2016-republican-party-platform">2016 Republican platform</a> stated, “The border wall must cover the entirety of the southern border and must be sufficient to stop both vehicular and pedestrian traffic,” that’s not actually what Trump talked about during the campaign.</p>
+<p>At the time, Trump consistently talked about needing 1,000 miles of wall. Here are just a few examples over a 10-month period during the campaign:</p>
+<ul>
+<li>“Here, we actually need 1,000 because we have natural barriers. So we need 1,000.” — Trump during the <a href="https://www.youtube.com/watch?v=wpCOloV3DZk&amp;feature=youtu.be&amp;t=626">third Republican primary debate</a>, on Oct. 28, 2015.</li>
+<li>“Now, it’s 2,000 miles but we need 1,000 miles of wall. Nothing. It’s nothing. I will have the most gorgeous wall you’ve ever seen. Someday, when I’m gone they’ll name it the Trump wall.” — Trump during a <a href="https://www.youtube.com/watch?v=FyEs4nulEgE&amp;feature=emb_logo">campaign speech</a> in Harrisburg, Pennsylvania, on April 21, 2016.</li>
+<li>“We have 2,000 miles [of border] of which we really need 1,000 miles [of wall] because you have a lot of natural barriers — lot of natural barriers. So you need 1,000. — Trump at a <a href="https://youtu.be/SmFj37u701o?t=2583">rally in Abingdon, Virginia</a>, on Aug. 10, 2016.</li>
+</ul>
+<p>Given that Trump inherited about 650 miles of barriers, that would mean building another 350 miles (in addition to any replacement fencing).</p>
+<p>But once Trump was elected, he began to move the goal posts — from 1,000 miles to 900 to 800 to 700 and even less.</p>
+<ul>
+<li>“And remember this, it’s a 2,000 mile border, but you don’t need 2,000 miles of wall because you have a lot of natural barriers. You have mountains. You have some rivers that are violent and vicious. You have some areas that are so far away that you don’t really have people crossing. So you don’t need that. But you’ll need anywhere from 700 to 900 miles.” — Trump in a <a href="https://factba.se/transcript/donald-trump-interview-air-force-one-gaggle-july-12-2017" rel="noopener noreferrer" target="_blank">July 12, 2017, interview</a>.</li>
+<li>“But we need to have a wall that’s about 800 miles — 700 to 800 miles of the 2,000-mile stretch. We have a lot of natural boundaries.” — Trump in <a href="https://www.youtube.com/watch?v=RVtxFSyBJlU&amp;feature=youtu.be&amp;t=611" rel="noopener noreferrer" target="_blank">remarks at the White House</a> on April 3, 2018.</li>
+<li>“We need about 700 miles of wall. It’s 2,000 miles. We need about 700 miles of wall. We’re getting it.” — Trump at <a href="https://www.youtube.com/watch?v=ddBTZLI6E1Y&amp;feature=youtu.be&amp;t=1342">a rally in Nashville, Tennessee</a>, on May 29, 2018.</li>
+<li>“We are going to do about 537 miles altogether. And it will give a complete, beautiful wall on our southern border that’s really helped.” — Trump in a <a href="https://factba.se/transcript/donald-trump-interview-hannity-fox-news-july-23-2020">July 23, 2020, interview.</a></li>
+</ul>
+<p>“We do not need 2,000 miles of concrete wall from sea to shining sea — we never did; we never proposed that; we never wanted that — because we have barriers at the border where natural structures are as good as anything that we can build,” Trump said in <a href="https://factba.se/transcript/donald-trump-remarks-government-shutdown-january-25-2019">remarks from the White House</a> on Jan. 25, 2019. “They’re already there. They’ve been there for millions of years. Our proposed structures will be in predetermined high-risk locations that have been specifically identified by the Border Patrol to stop illicit flows of people and drugs.”</p>
+<p>But is the wall being built in “predetermined high-risk locations”?</p>
+<p><strong>What was the Trump administration’s plan?</strong></p>
+<p>In his <a href="https://www.whitehouse.gov/presidential-actions/executive-order-border-security-immigration-enforcement-improvements/">executive order</a> on border security issued on Jan. 25, 2017, just days after he was inaugurated, Trump called on the secretary of the Department of Homeland Security to “produce a comprehensive study of the security of the southern border, to be completed within 180 days of this order, that shall include the current state of southern border security, all geophysical and topographical aspects of the southern border, the availability of Federal and State resources necessary to achieve complete operational control of the southern border, and a strategy to obtain and maintain complete operational control of the southern border.”</p>
+<p>A <a href="https://www.oig.dhs.gov/sites/default/files/assets/2020-07/OIG-20-52-Jul20.pdf">July 2020 report</a> from the Office of the Inspector General for the Department of Homeland Security said the report ultimately submitted by CBP — the Comprehensive Southern Border Study and Strategy — was four months late (after the 180 deadline imposed by the executive order). The IG said the plan was inadequate because CBP didn’t demonstrate it could acquire the land necessary to carry out its plan and the agency didn’t justify the priorities it set out in the plan.</p>
+<p><span> Specifically, it states that CBP “</span><span>did not conduct an Analysis of Alternatives to assess </span><span>and select the most effective, appropriate, and affordable </span><span>solutions to obtain operational control of the southern </span><span>border as directed, but instead relied on prior outdated </span><span>border solutions to identify materiel alternatives for </span><span>meeting its mission requirement; and </span><span>… </span><span>did not use a sound, well-documented methodology to </span><span>identify and prioritize investments in areas along the </span><span>border that would best benefit from physical barriers.”</span></p>
+<p>The CBP report was never released publicly.</p>
+<p>During <a href="https://www.hsdl.org/?view&amp;did=818299">a congressional hearing</a> on March 15, 2018, Rep. Martha McSally said that in late 2017, Congress asked CBP leadership “to provide Congress with a list of what they needed to adequately secure the border.”</p>
+<p>In response, in early January 2018, CBP produced a document called “Critical CBP Requirements to Improve Border Security,” which was also never publicly released. <a href="https://www.cnn.com/2018/01/05/politics/border-security-billions-trump-wall/index.html">According to CNN</a>, which obtained the documents, CBP laid out a long-term vision for “about 864 miles of new wall and about 1,163 miles of replacement or secondary wall” and asked for $18 billion over 10 years to build 722 miles of border wall, including “about 316 new miles of primary structure and about 407 miles of replacement and secondary wall.”</p>
+<p>At the March 15, 2018, committee hearing, Ronald D. Vitiello, acting deputy commissioner of U.S. Customs and Border Protection, confirmed that the CBP document called for constructing 316 miles of new pedestrian fencing, “in addition to what is there now.” In other words, that was in addition to the 654 miles of existing border barriers.</p>
+<p>Again, to date, 40 miles of new fencing have been constructed where there were no barriers before.</p>
+<p><strong>Where did construction take place?</strong></p>
+<p>There also have been questions raised about CBP’s methods for determining where new barriers should be located.</p>
+<p>A Government Accountability Office <a href="https://www.gao.gov/products/GAO-19-538R">report</a> published in July 2019 found that <span>CBP’s 2018 Border Security Improvement Plan “doesn’t explain how projects will address the highest priority security needs.”</span></p>
+<p>The Center for Biological Diversity’s <a href="https://www.biologicaldiversity.org/about/staff/">Laiken Jordahl</a>, who opposes fencing construction, told us in a phone interview that the project always has been shrouded in secrecy, and CBP has not shared with the public any analysis of where it thinks a wall should be built for maximum impact.</p>
+<p>“There’s never been any sort of strategic planning,” Jordahl said. “There certainly hasn’t been anything presented to the general public” about where CBP intends to build the wall and why. “From Day 1, it has never been about tactics. It has been a theatrical campaign from the beginning.”</p>
+<p>Rather than building fencing in areas identified as being of the greatest need, he said, the Trump administration has done most of the construction in areas of least resistance.</p>
+<p>“They are building where they can,” Jordahl said.</p>
+<p>Much of the construction has been to replace dilapidated or inadequate fencing in New Mexico, Arizona and California, where the government owns the Roosevelt Easement, a 60-foot wide strip of land along the U.S.-Mexico border in those three states.</p>
+<p>“He has completely changed the landscape of the Arizona and New Mexico border,” Jordahl said. “It has had absolutely disastrous environmental impacts.”</p>
+<p>It has destroyed the habitat for animals like <a href="https://www.nationalgeographic.com/animals/mammals/o/ocelot/">ocelots</a>, <a href="https://www.nationalgeographic.com/animals/mammals/p/pronghorn/">pronghorns</a> and <a href="https://www.desertmuseum.org/kids/oz/long-fact-sheets/Javelina.php">javelinas</a>, all of which need room to roam, Jordahl said. It has cut off the genetic interchange of <a href="https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals/Gray-Wolf">gray wolves</a> on either side of the border, threatening their survival. And it has hampered the ability of <a href="https://www.azgfd.com/wildlife/speciesofgreatestconservneed/jaguars/program/">jaguars</a> to recolonize in the U.S.</p>
+<p><a href="https://www.sierraclub.org/sierra/2014-6-november-december/grilled/scott-nicol" rel="noopener noreferrer" target="_blank">Scott Nicol</a>, co-chairman of the Sierra Club’s Borderlands team, told us via email: “More miles have been completed there since there is no need to condemn private property, but the miles under construction are in the most rugged, technically challenging, and environmentally destructive locations.”</p>
+<p>But Trump’s claim that the wall is “almost finished” is “absolutely not true, particularly in South Texas,” where large swaths of the borderlands are privately owned, Nicol said. In South Texas, Nicol said, “the need to acquire property on which to build the border wall has stymied construction” as landowners have tied up the government in the courts.</p>
+<p>According to a <a href="https://www.gao.gov/assets/720/710707.pdf">GAO analysis</a> issued in November, as of July 2020 the federal government had acquired 135 tracts of privately owned land, but was still working to acquire 991 additional tracts, almost all of them in the Rio Grande Valley and Laredo sectors in South Texas.</p>
+<p>“So nothing has been built on any of those [unacquired] properties,” Nicol said.</p>
+<p>“The construction that has occurred in the RGV sector (nothing has gone up in the Laredo sector yet) first targeted U.S. Fish and Wildlife refuge properties that are part of the Lower Rio Grande Valley National Wildlife Refuge system,” Nicol said. “That is tremendously environmentally destructive, but it does not translate into more than a mile or so of wall in multiple disconnected segments. There have also been some landowners whose property has been taken where walls have been built.”</p>
+<p>“Contractors … have built on land as soon as the government acquires it, but due to the time it takes to condemn that means that only a fraction of these walls have been built,” Nicol said. “So, for example, the Southwest Valley Constructors contract is for 11.45 miles of wall, but they have only been able to build 2 or maybe 3 miles in 6 or 7 disconnected, relatively short spans. The same applies for the other contracts in Hidalgo County [Texas], which is in the middle of the RGV sector. Cameron County [Texas] has seen no construction, and Starr [County, Texas] has seen 3 or 4 miles total.”</p>
+<p>According to the GAO report, 107 miles of new border wall are slated to be built in the Rio Grande Valley, but Nicol said, “Right now a total of 6 or 7 miles are up, and those are scattered rather than completed contracts.” The Laredo sector is supposed to get 123 miles of new fencing, but Nicol said it has not yet gotten any.</p>
+<p>“So not even close to being finished,” Nicol said.</p>
+<p><span><a href="https://www.bakerinstitute.org/experts/gil-kerlikowske/">Gil Kerlikowske</a>, who served as CBP commissioner under then-President Barack Obama,</span> said that the issues with acquiring property from private landowners in Texas means the fence is not going up in areas where there are the most illegal border crossings.</p>
+<p>“The areas where a large number of people cross into the U.S. is the RGV (McAllen, TX area),” Kerlikowske told us via email. “It is much more difficult to erect a barrier there because of private land ownership, a changing Rio Grande river, and agriculture. So the area where you could justify the need is the one neglected.”</p>
+<p>Activists like Jordahl and Nicol are counting on Biden to immediately put a stop to fence construction long before the current contracts are completed.</p>
+<p>The Center for Biological Diversity and the Sierra Club were among the 100 groups that sent <a href="https://cdn.factcheck.org/UploadedFiles/Biden-transition-border-wall-letter-Nov_17.pdf">a letter</a> last month to the Biden transition team asking the president-elect to “take immediate action to order the Department of Homeland Security, Department of Defense, and Department of Justice to halt all construction and land acquisition efforts for Trump’s border wall on your first day in office.”<span></span><span></span></p>
+<p><strong>How much did it cost and who paid?</strong></p>
+<p>Trump, of course, repeatedly promised that Mexico would pay for the wall. And that hasn’t happened, despite Trump’s false claims that Mexico is paying somehow through the <a href="https://www.factcheck.org/2019/01/trumps-border-blunders/">United States-Mexico-Canada Agreement</a> or with a <a href="https://www.factcheck.org/2020/10/trump-on-the-stump-2/">border toll</a>.</p>
+<p>According to CBP data provided to FactCheck.org, the Trump administration secured a total of $15 billion during his presidency for wall construction. Some of it was appropriated in annual budgets by Congress, and some was diverted by Trump from counternarcotics and military construction funding. But it has all been borne by American taxpayers.</p>
+<p>The figure committed to date for wall construction — $15 billion — suggests the wall Trump got is well short of what he wanted.</p>
+<p>And it is unlikely the Trump administration will be able to spend even that much. According to U.S. Army Corps of Engineers’ estimates reviewed by the <em><a href="https://www.washingtonpost.com/immigration/stopping-border-wall-save-billions/2020/12/16/fa096958-3fd1-11eb-a402-fba110db3b42_story.html">Washington Post</a>, </em>there will be about $3.3 billion in unused border barrier funding when Biden takes office. If Biden immediately stops construction as promised, it would cost the U.S. about $700 million to terminate those contracts, saving the U.S. government about $2.6 billion.</p>
+<p>“The administration has also said that with the $15 billion in funding it allotted for the wall, it could build <a href="https://twitter.com/KannoYoungs/status/1310961746400681987">738 miles</a>,” <span><a href="https://www.migrationpolicy.org/about/staff/sarah-pierce">Sarah Pierce</a>, a policy analyst with the Migration Policy Institute, </span>told us via email. “So, no, the total amount of wall that the administration had planned to construct is not close to being completed and will not be completed.”</p>
+<p>The <a href="https://www.congress.gov/bill/116th-congress/senate-bill/53/all-info">WALL Act of 2019</a>, introduced by Republican Sen. James Inhofe in January 2019 and co-sponsored by five other Republicans, sought $25 billion for wall construction, an attempt to fully fund the wall. The bill never went anywhere, but it is another indication of how far short the president has come to building the wall he promised.</p>
+<p>The recently agreed upon pandemic relief bill includes $1.375 billion for “the construction of barrier system,” the same amount Congress has appropriated the last three years. A House Democratic aide told us the funding has five years of availability, so that none of the funding would need to be obligated until fiscal year 2025. In addition, Democrats were able to strike language used in prior years that required funding to be used for new border wall construction, which would have significantly tied Biden’s hands, the aide said.</p>
+<p>Even if the Trump administration were able to obligate all of this funding for new border wall prior to Biden’s inauguration on Jan. 20, Biden would be able to cancel those contracts with little loss of funding. The wording of the bill would also give Biden the discretion to use any remaining funds for “barrier system,” including technology, roads and lighting for already constructed border barriers, the aide said.</p>
+<p><strong>What kind of ‘wall’ was built?</strong></p>
+<p>The type of wall Trump promised to build also has evolved over time.</p>
+<p>During the 2016 campaign, Trump once talked about a wall made of <a href="https://www.realclearpolitics.com/video/2015/08/19/trump_on_border_maybe_theyll_call_it_the_trump_wall.html">precast concrete slabs</a>. After he became president, Trump <a href="https://www.cbp.gov/newsroom/national-media-release/cbp-requests-proposals-border-wall-prototypes">commissioned</a> wall prototypes, many of them of solid concrete construction. But the new fencing being built doesn’t resemble any of the prototypes. Rather, Congress only <a href="https://www.factcheck.org/2018/04/has-the-border-wall-begun/">authorized</a> Trump to build the same see-through steel bollard fencing previously used for the wall.</p>
+<p>Gone, too, are the arguments over the vocabulary used — fencing or wall. It once made a difference to Trump. During the 2016 campaign, for example, Trump lambasted Republican primary opponent Jeb Bush for calling his proposal a fence. “It’s not a fence, Jeb,” he wrote. “It’s a WALL, and there’s a BIG difference!”</p>
+<p>But during his presidency, Trump has dropped that distinction. Not coincidentally, it was dropped around the time Congress <a href="https://www.factcheck.org/2018/04/has-the-border-wall-begun/">forced him to accept</a> “operationally effective designs deployed as of the date of the Consolidated Appropriations Act, 2017, [<a href="https://www.congress.gov/bill/115th-congress/house-bill/244/text">May 5, 2017</a>] such as currently deployed steel bollard designs, that prioritize agent safety.”</p>
+<p>“The walls we are building are not medieval walls,” Trump said in <a href="https://factba.se/transcript/donald-trump-remarks-government-shutdown-january-25-2019">remarks from the White House</a> on Jan. 25, 2019. “They are smart walls designed to meet the needs of frontline border agents, and are operationally effective. These barriers are made of steel, have see-through visibility, which is very important, and are equipped with sensors, monitors, and cutting-edge technology, including state-of-the-art drones.”</p>
+<p>But words used to describe the fence are still important to the administration.</p>
+<p>Last January, Acting Secretary of Homeland Security Chad Wolf took issue with characterizing much of the fence construction as “replacement wall.”</p>
+<p>“One thing I want to emphasize is that every inch of the 100 miles that we have constructed is new border wall system,” <a href="https://cis.org/Arthur/There-100-Miles-New-Border-Wall-or-Not">Wolf said</a>. “It’s not so-called replacement wall, as some of our critics claimed. It is new wall.”</p>
+<p>According to a <a href="https://www.washingtonpost.com/immigration/trump-administration-plans-to-announce-100-mile-mark-on-border-wall-construction/2020/01/09/9ed58874-3301-11ea-898f-eb846b7e9feb_story.html"><em>Washington Post</em></a> story in January, “Nearly all of the 100 miles of new fencing completed thus far is labeled ‘replacement barrier’ by CBP, but the White House has asked the agency to stop using that term because it sounds like less of an accomplishment.”</p>
+<p>A January <a href="https://crsreports.congress.gov/product/pdf/R/R45888">Congressional Research Service </a>report on border barrier funding said the debate over nomenclature misses the point.</p>
+<p>“Is the Administration ‘building the wall,’ or is it ‘just replacing existing fences?’ Framing the debate on barrier or wall building at the border using these extremes often does not capture the complexity of the situation, in terms of what CBP states the barriers can be expected to do and the realities of the terrain and geography of the border,” the authors stated. “Much of the current wave of construction — whether new or replacement barriers — is 18- to 30-foot high reinforced bollard fencing. It poses a formidable barrier, but it is not the high, thick masonry structure that most dictionaries term a ‘wall.’”</p>
+<p>Whatever one wants to call it, CBP has <a href="https://www.npr.org/2020/12/11/945194147/contractors-dynamite-mountains-bulldoze-desert-in-race-to-build-trumps-border-wa">accelerated the pace</a> of construction to get as much finished as possible before Biden takes office. U.S. attorneys have also stepped up their efforts to <a href="https://www.npr.org/2020/11/16/934784015/trumps-border-wall-builders-carry-on-even-though-projects-may-never-be-completed">condemn property</a> in Texas for the wall. Some who live near the border oppose that construction, and <a href="https://www.npr.org/2020/12/11/945194147/contractors-dynamite-mountains-bulldoze-desert-in-race-to-build-trumps-border-wa">others say</a> it has made their communities safer.</p>
+<p>But, as we have said, even if Trump reached his goal of building <a href="https://twitter.com/realDonaldTrump/status/1282281745585504265">450 miles of wall</a> before his term is over, it wouldn’t be “finished,” at least not to the point CBP has indicated in previous reports is necessary to “achieve complete operational control of the southern border,” the goal outlined in Trump’s post-inaugural executive order. Nor will it be anywhere close to what Trump promised during his 2016 campaign.</p>
+<p><strong>Has it been effective?</strong></p>
+<p>Back in August, when Trump was accepting the Republican nomination, <a href="https://www.nbcnews.com/politics/2020-election/read-full-text-president-donald-trump-s-acceptance-speech-rnc-n1238636">he boasted:</a> “The wall will soon be complete, and it is working beyond our wildest expectations.”</p>
+<p>But it may be years before we are able to tell how effective the wall has been at stopping illegal immigration. Many factors that have nothing to do with the wall — COVID-19, the economy, civil unrest — all play a role in attempted illegal border crossings.</p>
+<p>Experts use figures on border apprehensions to gauge the level of illegal border crossings. The data from CBP present a mixed bag when it comes to making Trump’s case.</p>
+<p>Border apprehensions spiked in fiscal year 2019, and then <a href="https://www.pewresearch.org/fact-tank/2020/11/04/after-surging-in-2019-migrant-apprehensions-at-u-s-mexico-border-fell-sharply-in-fiscal-2020-2/">fell by about half</a> in fiscal 2020, which ended on Sept. 30. It is impossible to tease out how much of that drop may be as a result of the new barriers constructed under Trump, but a Pew Research Center report documenting the decline attributed it mostly to a worldwide decrease in the movement of migrants due to the COVID-19 outbreak, and governments fully or partially closing their borders as a result.</p>
+<p>Most immigrants who cross into the U.S. illegally come from Mexico and Central American countries that have passed measures restricting the movements of their residents due to COVID-19.</p>
+<p style="text-align: center;"><a href="https://cdn.factcheck.org/UploadedFiles/southwest-border-apprehensions4.jpg"><img alt="" class="alignnone size-full wp-image-195350" decoding="async" height="701" sizes="(max-width: 550px) 100vw, 550px" src="https://cdn.factcheck.org/UploadedFiles/southwest-border-apprehensions4.jpg" srcset="https://cdn.factcheck.org/UploadedFiles/southwest-border-apprehensions4.jpg 550w, https://cdn.factcheck.org/UploadedFiles/southwest-border-apprehensions4-114x145.jpg 114w, https://cdn.factcheck.org/UploadedFiles/southwest-border-apprehensions4-279x355.jpg 279w" width="550"/></a></p>
+<p>Meanwhile, southwest <a href="https://www.cbp.gov/newsroom/stats/sw-border-migration">border apprehensions</a> for October and November, the first two months of fiscal year 2021, have <a href="https://www.cbp.gov/newsroom/stats/sw-border-migration-fy2020">crept back up</a>, topping just over 67,000 each month. That’s higher than <a href="https://www.cbp.gov/sites/default/files/assets/documents/2020-Jan/U.S.%20Border%20Patrol%20Monthly%20Apprehensions%20%28FY%202000%20-%20FY%202019%29_1.pdf">October and November 2016</a> (when there were about 46,000 and 47,000 apprehensions, respectively), before Trump took office.</p>
+<p><strong><em>Update, Feb. 16</em></strong><em>: According to a CBP status report dated Jan. 22, two days after Trump left office, the U.S. constructed 458 miles of “border wall system” under Trump. That included 373 miles of replacement barriers for primary or secondary fencing, and 52 miles of primary wall and 33 miles of secondary wall in locations where there were no barriers before.</em></p>
+<p><em>Biden did halt construction of new border barriers immediately upon taking office. The U.S. Army Corps of Engineers said it “suspended all bollard barrier and gate construction </em><a href="calendar:T2:January%2021,%202021"><em>January 21, 2021</em></a><em>, and suspended all work on border infrastructure </em><a href="calendar:T2:January%2023,%202021"><em>January 23, 2021</em></a><em>.” </em></p>
+<p><i><span>Editor’s Note: Please consider a donation to FactCheck.org. We do not accept advertising. We rely on grants and individual donations from people like you. Credit card donations may be made through </span></i><a data-auth="NotApplicable" href="https://giving.aws.cloud.upenn.edu/?fastStart=simpleForm&amp;program=ANS&amp;fund=602014" rel="noopener noreferrer" target="_blank"><i><span>our “Donate” page</span></i></a><i data-event-added="1"><span>. If you prefer to give by check, send to: FactCheck.org, Annenberg Public Policy Center, 202 S. 36th St., Philadelphia, PA 19104.</span></i></p>
+</div><!-- .entry-content -->
+<footer class="entry-footer">
+<div class="term-listing-footer"><ul>
+<li class="categories">Categories<ul> <li class="cat-item cat-item-4"><a href="https://www.factcheck.org/the-factcheck-wire/">FactCheck Posts</a>
+</li>
+</ul></li><li class="issue">Issue<ul> <li class="cat-item cat-item-2608"><a href="https://www.factcheck.org/issue/border/">border</a>
+</li>
+<li class="cat-item cat-item-4647"><a href="https://www.factcheck.org/issue/border-wall/">border wall</a>
+</li>
+<li class="cat-item cat-item-1494"><a href="https://www.factcheck.org/issue/illegal-immigration/">Illegal immigration</a>
+</li>
+</ul></li><li class="person">People<ul> <li class="cat-item cat-item-1854"><a href="https://www.factcheck.org/person/donald-trump/">Donald Trump</a>
+</li>
+</ul></li></ul></div>
+</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+<hr/>
+<nav class="container navigation post-navigation">
+<div class="row nav-links justify-content-between">
+<a class="col-6 post-pagination-wrapper" href="https://www.factcheck.org/2020/12/flawed-calculation-behind-false-claim-of-fraudulent-votes/"><div class="post-pagination-block"><span class="post-pagination-header">Previous Story</span><span class="nav-previous">Flawed Calculation Behind False Claim of Fraudulent Votes</span></div></a><a class="col-6 post-pagination-wrapper" href="https://www.factcheck.org/2020/12/a-guide-to-modernas-covid-19-vaccine/"><div class="post-pagination-block"><span class="post-pagination-header">Next Story</span><span class="nav-nextious">A Guide to Moderna’s COVID-19 Vaccine</span></div></a> </div><!-- .nav-links -->
+</nav><!-- .navigation -->
+</main><!-- #main -->
+<hr class="d-block d-sm-none"/>
+</div><!-- #primary -->
+<!-- Do the right sidebar check -->
+<div class="col-md-4 widget-area" id="right-sidebar" role="complementary">
+<aside class="widget widget_factcheck_additional_resources_widget" id="factcheck_additional_resources_widget-2"></aside><aside class="widget widget_factcheck_ask_widget" id="factcheck_ask_widget-2"><div class="fc-ask-widget"><div class="h5">Ask FactCheck</div>
+<p><strong>Q: Have many of the mass shooters been transgender?</strong></p>
+<p><strong>A: The number of transgender mass shooters in the U.S. varies depending on how “mass shooting” is defined, but is relatively small. The Gun Violence Archive, which uses a broader definition, lists five mass shootings by transgender or nonbinary people since January 2013. </strong><strong>That’s less than 0.1% of the mass shootings it says happened in that period. </strong> </p>
+<div style="text-align:right"><a href="https://www.factcheck.org/2025/09/few-mass-shooters-have-been-transgender/">Read the full question and answer</a></div><div style="text-align:right"></div><div style="text-align:right"> <a href="https://www.factcheck.org/askfactcheck/">View the Ask FactCheck archives</a></div><div style="text-align:right">Have a question? <a href="https://www.factcheck.org/ask-factcheck/ask-us-a-question/">Ask us.</a></div></div></aside><aside class="widget widget_factcheck_donate_widget" id="factcheck_donate_widget-2">
+<a class="fc-donate-widget-wrapper" href="https://giving.aws.cloud.upenn.edu/?fastStart=simpleForm&amp;program=ANS&amp;fund=602014" rel="noopener" target="_blank" title="Because facts matter.">
+<div class="fc-donate-widget">
+<div class="fc-donate-widget-head">Donate Now</div>
+<div class="fc-donate-widget-subhead">Because facts matter.</div>
+</div>
+</a>
+</aside><aside class="widget widget_factcheck_widget_links" id="factcheck_widget_links-2"> <div class="fc-links-widget">
+<a href="https://www.factcheck.org/covid-misconceptions/"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="SciCheck's COVID-19/Vaccination Project" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/misconceptions2.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>SciCheck's COVID-19/Vaccination Project</h5>
+<h6 class="d-none d-sm-block">Preempting and exposing vaccination and COVID-19 misinformation.</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/es/covid-misconceptions/"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="Proyecto de Vacunación/COVID-19" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/misconceptions2.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>Proyecto de Vacunación/COVID-19</h5>
+<h6 class="d-none d-sm-block">Precaviendo y exponiendo la desinformación sobre el COVID-19 y sus vacunas</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/scicheck/"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="SciCheck" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-scicheck.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>SciCheck</h5>
+<h6 class="d-none d-sm-block">Fact-checking science-based claims.</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/fake-news/"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="Facebook Initiative" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-facebook.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>Facebook Initiative</h5>
+<h6 class="d-none d-sm-block">Debunking viral claims.</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/players-guide/2024/"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="Players Guide 2024" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/PlayersGuide2018-square.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>Players Guide 2024</h5>
+<h6 class="d-none d-sm-block">The special interest groups behind the TV ads.</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/hot-topics/"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="Viral Spiral" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-viralspiral.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>Viral Spiral</h5>
+<h6 class="d-none d-sm-block">Don’t get spun by internet rumors.</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/subscribe"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="Sign Up" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-signup.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>Sign Up</h5>
+<h6 class="d-none d-sm-block">Get free email alerts.</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/factcheck-mailbag/"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="Mailbag" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-mailbag.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>Mailbag</h5>
+<h6 class="d-none d-sm-block">Letters from our readers.</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/on-the-air"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="On the Air" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-ota.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>On the Air</h5>
+<h6 class="d-none d-sm-block">Our staff on TV and radio.</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/newsfeed-defenders/"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="NewsFeed Defenders" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/factchecksidebar_icon-1.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>NewsFeed Defenders</h5>
+<h6 class="d-none d-sm-block">A media literacy game to detect misinformation.</h6>
+</div>
+</div>
+</div>
+</a>
+</div>
+</aside>
+</div><!-- #secondary -->
+</div><!-- .row -->
+</div><!-- Container end -->
+</div><!-- Wrapper end -->
+<div class="wrapper" id="wrapper-footer">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<footer class="site-footer" id="colophon">
+<div class="site-info">
+<div class="menu-footer-menu-container"><ul class="menu" id="menu-footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122847" id="menu-item-122847"><a href="https://www.factcheck.org/archives/">Archives</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46791" id="menu-item-46791"><a href="https://www.factcheck.org/privacy/">Privacy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46792" id="menu-item-46792"><a href="https://www.factcheck.org/copyright-policy/">Copyright Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122853" id="menu-item-122853"><a href="https://www.factcheck.org/about/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-163332" id="menu-item-163332"><a href="https://accessibility.web-resources.upenn.edu/get-help">Report Accessibility Issues and Get Help</a></li>
+</ul></div> </div><!-- .site-info -->
+<span class="copyright-text">© Copyright 2025 FactCheck.org <sup>®</sup><br/>A Project of The Annenberg Public Policy Center of the University of Pennsylvania</span>
+</footer><!-- #colophon -->
+</div><!--col end -->
+</div><!-- row end -->
+</div><!-- container end -->
+</div><!-- wrapper end -->
+</div><!-- #page we need this extra closing tag here -->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/factcheckstrap\/*","\/wp-content\/themes\/understrap\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<div data-settings='{"general":{"contentSelector":false,"show_count":{"content":true,"sidebar":false,"pop_up":false,"sticky_bar":false},"isTrellis":false,"license_last4":"339b"},"post":{"ID":275161,"categories":[{"ID":3},{"ID":4}]},"shareCounts":{"facebook":0,"pinterest":0,"reddit":0,"twitter":0,"tumblr":0},"shouldRun":true,"buttonSVG":{"share":{"height":32,"width":26,"paths":["M20.8 20.8q1.984 0 3.392 1.376t1.408 3.424q0 1.984-1.408 3.392t-3.392 1.408-3.392-1.408-1.408-3.392q0-0.192 0.032-0.448t0.032-0.384l-8.32-4.992q-1.344 1.024-2.944 1.024-1.984 0-3.392-1.408t-1.408-3.392 1.408-3.392 3.392-1.408q1.728 0 2.944 0.96l8.32-4.992q0-0.128-0.032-0.384t-0.032-0.384q0-1.984 1.408-3.392t3.392-1.408 3.392 1.376 1.408 3.424q0 1.984-1.408 3.392t-3.392 1.408q-1.664 0-2.88-1.024l-8.384 4.992q0.064 0.256 0.064 0.832 0 0.512-0.064 0.768l8.384 4.992q1.152-0.96 2.88-0.96z"]},"facebook":{"height":32,"width":18,"paths":["M17.12 0.224v4.704h-2.784q-1.536 0-2.080 0.64t-0.544 1.92v3.392h5.248l-0.704 5.28h-4.544v13.568h-5.472v-13.568h-4.544v-5.28h4.544v-3.904q0-3.328 1.856-5.152t4.96-1.824q2.624 0 4.064 0.224z"]},"twitter":{"height":30,"width":32,"paths":["M30.3 29.7L18.5 12.4l0 0L29.2 0h-3.6l-8.7 10.1L10 0H0.6l11.1 16.1l0 0L0 29.7h3.6l9.7-11.2L21 29.7H30.3z M8.6 2.7 L25.2 27h-2.8L5.7 2.7H8.6z"]},"threads":{"height":16,"width":16,"paths":["M6.321 6.016c-.27-.18-1.166-.802-1.166-.802.756-1.081 1.753-1.502 3.132-1.502.975 0 1.803.327 2.394.948s.928 1.509 1.005 2.644q.492.207.905.484c1.109.745 1.719 1.86 1.719 3.137 0 2.716-2.226 5.075-6.256 5.075C4.594 16 1 13.987 1 7.994 1 2.034 4.482 0 8.044 0 9.69 0 13.55.243 15 5.036l-1.36.353C12.516 1.974 10.163 1.43 8.006 1.43c-3.565 0-5.582 2.171-5.582 6.79 0 4.143 2.254 6.343 5.63 6.343 2.777 0 4.847-1.443 4.847-3.556 0-1.438-1.208-2.127-1.27-2.127-.236 1.234-.868 3.31-3.644 3.31-1.618 0-3.013-1.118-3.013-2.582 0-2.09 1.984-2.847 3.55-2.847.586 0 1.294.04 1.663.114 0-.637-.54-1.728-1.9-1.728-1.25 0-1.566.405-1.967.868ZM8.716 8.19c-2.04 0-2.304.87-2.304 1.416 0 .878 1.043 1.168 1.6 1.168 1.02 0 2.067-.282 2.232-2.423a6.2 6.2 0 0 0-1.528-.161"]},"bluesky":{"height":28,"width":32,"paths":["M6.9,1.9c3.7,2.8,7.6,8.3,9.1,11.3,1.4-3,5.4-8.6,9.1-11.3,2.6-2,6.9-3.5,6.9,1.4s-.6,8.2-.9,9.4c-1.1,4.1-5.3,5.1-9,4.5,6.5,1.1,8.1,4.7,4.6,8.4-6.8,6.9-9.7-1.7-10.5-4-.1-.4-.2-.6-.2-.4,0-.2,0,0-.2.4-.8,2.2-3.7,10.9-10.5,4-3.6-3.6-1.9-7.3,4.6-8.4-3.7.6-7.9-.4-9-4.5C.6,11.5,0,4.3,0,3.3,0-1.6,4.3-.1,6.9,1.9Z"]},"tumblr":{"height":32,"width":18,"paths":["M16.864 23.744l1.408 4.224q-0.384 0.608-1.952 1.184t-3.168 0.576q-1.856 0.032-3.424-0.48t-2.528-1.312-1.696-1.888-0.992-2.144-0.288-2.112v-9.728h-3.008v-3.84q1.28-0.448 2.304-1.248t1.632-1.6 1.024-1.824 0.608-1.76 0.256-1.568q0.032-0.096 0.096-0.16t0.128-0.064h4.352v7.584h5.952v4.48h-5.952v9.248q0 0.544 0.096 0.992t0.416 0.96 0.896 0.736 1.44 0.256q1.408-0.032 2.4-0.512z"]},"flipboard":{"height":32,"width":32,"paths":["M0 0h10.272v32h-10.272v-32zM11.328 11.328h10.4v10.4h-10.4v-10.4zM11.328 0h20.672v10.272h-20.672v-10.272z"]},"email":{"height":32,"width":28,"paths":["M18.56 17.408l8.256 8.544h-25.248l8.288-8.448 4.32 4.064zM2.016 6.048h24.32l-12.16 11.584zM20.128 15.936l8.224-7.744v16.256zM0 24.448v-16.256l8.288 7.776z"]}},"saveThis":{"spotlight":"","successMessage":"","consent":"","consentForMailingList":"","position":"","mailingListService":""},"utmParams":{"utm_source":"","utm_medium":"social","utm_campaign":"social-pug"},"pinterest":{"pinDescriptionSource":"image_alt_tag","pinDescription":null,"pinTitle":null,"pinImageURL":null,"pinnableImages":"all_images","postImageHidden":null,"postImageHiddenMultiple":null,"lazyLoadCompatibility":null,"buttonPosition":"","buttonShape":null,"showButtonLabel":null,"buttonLabelText":null,"buttonShareBehavior":"post_image","hoverButtonShareBehavior":null,"minimumImageWidth":null,"minimumImageHeight":null,"showImageOverlay":null,"alwaysShowMobile":null,"alwaysShowDesktop":null,"postTypeDisplay":null,"imagePinIt":"0","hasContent":"1","shareURL":"https:\/\/www.factcheck.org\/2020\/12\/trumps-border-wall-where-does-it-stand\/?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=social-pug","bypassClasses":["mv-grow-bypass","no_pin"],"bypassDenyClasses":["dpsp-post-pinterest-image-hidden-inner","mv-create-pinterest"],"ignoreSelectors":[],"hoverButtonIgnoreClasses":["lazyloaded","lazyload","lazy","loading","loaded","td-animation-stack","ezlazyloaded","penci-lazy","ut-lazy","ut-image-loaded","ut-animated-image","skip-lazy"],"disableIframes":null},"inlineContentHook":["loop_start"]}' id="mv-grow-data"></div><script id="pll_cookie_script-js-after" type="text/javascript">
+/* <![CDATA[ */
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
+			}());
+/* ]]> */
+</script>
+<script id="jquery-js" src="https://code.jquery.com/jquery-latest.min.js?ver=6.8.2" type="text/javascript"></script>
+<script id="child-understrap-scripts-js" src="https://assets.factcheck.org/wp-content/themes/factcheckstrap/js/child-theme.min.js?ver=1.2.3" type="text/javascript"></script>
+<script id="dpsp-frontend-js-pro-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var dpsp_ajax_send_save_this_email = {"ajax_url":"https:\/\/www.factcheck.org\/wp-admin\/admin-ajax.php","dpsp_token":"6b03e34e78"};
+/* ]]> */
+</script>
+<script id="dpsp-frontend-js-pro-js-before" type="text/javascript">
+/* <![CDATA[ */
+		var dpsp_pin_button_data = {"pin_description_source":"image_alt_tag","pinterest_pinnable_images":"all_images","pinterest_button_share_behavior":"post_image"}
+	
+/* ]]> */
+</script>
+<script async="" data-cfasync="false" data-noptimize="" id="dpsp-frontend-js-pro-js" src="https://assets.factcheck.org/wp-content/plugins/social-pug/assets/dist/front-end-pro.js?ver=2.26.2" type="text/javascript"></script>
+</body>
+</html>
+<!--Theme: factcheckstrap version 1.2.3-->
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: www.factcheck.org @ 2025-09-28 01:58:52 by W3 Total Cache
+-->

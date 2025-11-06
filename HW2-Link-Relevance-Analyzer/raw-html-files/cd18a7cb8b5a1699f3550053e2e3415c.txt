@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="https://data.bnf.fr/fr/data/icons/favicon.ico" rel="shortcut icon"/>
+<title>Donald Trump</title>
+<link href="http://purl.org/dc/elements/1.1/" rel="schema.DC">
+<meta content="Donald Trump" name="DC.title">
+<meta content="ark:/12148/cb12195835j" name="DC.identifier"/>
+<meta content="https://data.bnf.fr/fr/ark:/12148/cb12195835j" property="og:url"/>
+<meta content="Donald Trump - Auteur - Ressources de la Bibliothèque nationale de France" property="og:title"/>
+<meta content="Toutes les informations de la Bibliothèque Nationale de France sur : Donald Trump" property="og:description"/>
+<meta content="data.bnf.fr" property="og:site_name"/>
+<meta content="author" property="og:type"/>
+<meta content="https://commons.wikimedia.org/wiki/Special:FilePath/Official%20Presidential%20Portrait%20of%20President%20Donald%20J.%20Trump%20%282025%29.jpg" property="og:image"/>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Person",
+  "@id": "https://data.bnf.fr/ark:/12148/cb12195835j",
+  "name": "Donald Trump",
+  "alternateName": [
+    {
+      "@value": "Donald J. Trump",
+      "@language": "fr"
+    },
+    {
+      "@value": "Donald John Trump",
+      "@language": "fr"
+    }
+  ],
+  "birthDate": {
+    "@value": "14-06-1946",
+    "@type": "date"
+  },
+  "birthPlace": "Paris",
+  "gender": "male",
+  "description": "Promoteur immobilier (en 1991). - Producteur de la s\u00e9rie t\u00e9l\u00e9vis\u00e9e \"the Apprentice\". - Homme politique, homme d'\u00c9tat. - 45\u00e8me Pr\u00e9sident des \u00c9tats-Unis (2017-2021)",
+  "image": "https://commons.wikimedia.org/wiki/File:Official%20Presidential%20Portrait%20of%20President%20Donald%20J.%20Trump%20%282025%29.jpg",
+  "nationality": "\u00c9tats-Unis",
+  "sameAs": [
+    "http://fr.dbpedia.org/resource/Donald_Trump",
+    "http://www.idref.fr/145942198",
+    "http://isni.org/isni/0000000108986765",
+    "https://musicbrainz.org/artist/13dc1600-baca-4aaf-beee-fb000b66ae24",
+    "https://orcid.org/0009-0004-4759-9142",
+    "https://francearchives.gouv.fr/agent/221487541",
+    "http://viaf.org/viaf/49272447",
+    "http://wikidata.org/entity/Q22686",
+    "http://fr.wikipedia.org/wiki/Donald_Trump"
+  ]
+}
+   </script>
+<script>
+    
+      var BASE_URL = "https://data.bnf.fr/fr/";
+    
+      var DATADIR_URL = "https://data.bnf.fr/data/3eb7ffd5d209ec92eb30e5e5fec0a164/";
+    
+</script>
+<link async="" href="https://data.bnf.fr/data/3eb7ffd5d209ec92eb30e5e5fec0a164/v2/fontawesome/font-awesome.min.css" media="all" rel="stylesheet" type="text/css"/>
+<link async="" href="https://data.bnf.fr/data/3eb7ffd5d209ec92eb30e5e5fec0a164/v2/main.css" media="all" rel="stylesheet" type="text/css"/>
+<link async="" href="https://data.bnf.fr/data/3eb7ffd5d209ec92eb30e5e5fec0a164/v2/searchbar.css" media="all" rel="stylesheet" type="text/css"/>
+<link async="" href="https://data.bnf.fr/data/3eb7ffd5d209ec92eb30e5e5fec0a164/v2/header.css" media="all" rel="stylesheet" type="text/css"/>
+<link async="" href="https://data.bnf.fr/data/3eb7ffd5d209ec92eb30e5e5fec0a164/v2/footer.css" media="all" rel="stylesheet" type="text/css"/>
+<link async="" href="https://data.bnf.fr/data/3eb7ffd5d209ec92eb30e5e5fec0a164/v2/databnf_print.css" media="print" rel="stylesheet" type="text/css"/>
+<link href="https://commons.wikimedia.org" rel="preconnect"/>
+</meta></link></head>
+<body id="">
+<header id="header">
+<div class="content-header">
+<div class="logos">
+<a aria-label="Lien vers le site institutionnel www.bnf.fr" href="http://www.bnf.fr" id="bnf-logo" target="_blank">
+<img alt="Bnf" src="https://data.bnf.fr/data/3eb7ffd5d209ec92eb30e5e5fec0a164/v2/databnf_logo.svg"/>
+</a>
+<a aria-label="Lien vers la page d'accueil du site data.bnf.fr" href="https://data.bnf.fr/fr/" id="databnf-logo">
+                Data
+            </a>
+</div>
+<div data-search-url="https://data.bnf.fr/fr/search" id="searchform"></div>
+<div class="liens-transverses">
+<div class="dropdown widescreen-only">
+<div class="dropdown-title">Données</div>
+<ul class="dropdown-content">
+<li>
+<a href="https://data.bnf.fr/fr/sparql_sparna_doc" rel="nofollow">
+                            Documentation sur SPARQL et Sparnatural
+                        </a>
+</li>
+<li>
+<a href="https://data.bnf.fr/sparql/" rel="nofollow">
+                            Sparql
+                        </a>
+</li>
+<li>
+<a href="https://data.bnf.fr/sparnatural/" rel="nofollow">
+                            Sparnatural
+                        </a>
+</li>
+<li>
+<a href="https://api.bnf.fr/fr/dumps-de-databnffr" rel="nofollow">
+                            Dumps des données
+                        </a>
+</li>
+<li>
+<a href="https://data.bnf.fr/fr/semanticweb" rel="nofollow">
+                            Web sémantique et modèle de données
+                        </a>
+</li>
+<li>
+<a href="https://data.bnf.fr/fr/vocabulary" rel="nofollow">
+                            Pages de vocabulaire
+                        </a>
+</li>
+<li>
+<a href="https://data.bnf.fr/fr/dataviz" rel="nofollow">
+                            Visualisation de données
+                        </a>
+</li>
+</ul>
+</div>
+<div class="dropdown">
+<div class="dropdown-title" id="consultation"></div>
+<ul class="dropdown-content">
+<li>
+<a href="https://data.bnf.fr/fr/summary" rel="nofollow">
+                            Se repérer sur data
+                        </a>
+</li>
+<li>
+<a href="https://data.bnf.fr/fr/askdata" rel="nofollow">
+                            Que demander à data
+                        </a>
+</li>
+<li class="widescreen-only">
+<a href="https://data.bnf.fr/fr/about" rel="nofollow">
+                            Le projet data
+                        </a>
+</li>
+<li class="widescreen-only">
+<a href="https://data.bnf.fr/fr/videotutorial" rel="nofollow">
+                            Tutoriel vidéo
+                        </a>
+</li>
+<li class="widescreen-only">
+<a href="https://data.bnf.fr/fr/valorisation" rel="nofollow">
+                            Valorisation
+                        </a>
+</li>
+</ul>
+</div>
+<div class="separator"></div>
+<div class="dropdown">
+<div class="dropdown-title"><u>FR</u></div>
+<ul class="dropdown-content">
+<li>
+<a href="https://data.bnf.fr/en/ark:/12148/cb12195835j" rel="nofollow">EN</a>
+</li>
+<li>
+<a href="https://data.bnf.fr/de/ark:/12148/cb12195835j" rel="nofollow">DE</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</header>
+<main>
+<div data-eid="12195835" id="reactapp-sections"></div>
+</main>
+<div id="returntop">
+<a aria-label="Back to top" class="fa fa-arrow-up" href="#" role="button">
+</a>
+</div>
+<script>
+let returnTopBtn = document
+    .getElementById('returntop');
+
+window.addEventListener('scroll', function () {
+    if (document.body.scrollTop > 20
+        || document.documentElement.scrollTop > 20) {
+        returnTopBtn.style.display = 'block';
+    } else {
+        returnTopBtn.style.display = 'none';
+    }
+});
+</script>
+<footer>
+<div class="footer-links">
+<div>informations mises à jour le 04-09-2025</div>
+<div><a href="https://data.bnf.fr/fr/licence">Mentions légales</a></div>
+<div><a href="https://data.bnf.fr/fr/privacy">Politique de confidentialité</a></div>
+<div><a href="https://data.bnf.fr/fr/contact">Contact</a></div>
+<div>version 4.5.4</div>
+</div>
+<script src="https://data.bnf.fr/data/3eb7ffd5d209ec92eb30e5e5fec0a164/i18n/translations.js"></script>
+<script defer="" src="https://data.bnf.fr/data/3eb7ffd5d209ec92eb30e5e5fec0a164/v2/bundle-v2_searchbar.js"></script>
+<script defer="" src="https://data.bnf.fr/data/3eb7ffd5d209ec92eb30e5e5fec0a164/v2/bundle-v2_du.js"></script>
+</footer>
+<!-- Appel à bnf_marquage.js -->
+<!-- marquage cf. #92133 -->
+<script async="" defer="" src="https://multimedia-ext.bnf.fr/bnf_marquage/bnf_marquage.js?version=1.0&amp;domaine=data_p.bnf.fr" type="text/javascript">
+</script>
+<!-- balise div de class "marquage-page" avec les attributs data-*  -->
+<div class="marquage-page" data-chapitre1="" data-level2="37" data-siten1="18798" data-titre="Le titre de ma page">
+</div>
+<script>
+    // Obtenir la référence du div
+    
+    const divMarquage = document.querySelector('.marquage-page');
+    //console.log(divMarquage)
+    if (divMarquage) {
+      // Modifier le contenu du div
+      divMarquage.setAttribute('data-titre', document.title);
+     } else {
+      console.error("Aucun élément avec la classe 'marquage-page' trouvé.");
+    }    
+ //   console.log(divMarquage)
+
+    </script>
+</body>
+</html>

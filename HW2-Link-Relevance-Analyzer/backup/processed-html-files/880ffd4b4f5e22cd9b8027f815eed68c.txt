@@ -1,0 +1,249 @@
+How to contact the Guardian securely
+Mon 2 Jun 2025 06.48 EDT
+Last modified on Sun 20 Jul 2025 23.19 EDT
+Share
+How to contact the Guardian securely
+Some of the most important stories published by the Guardian have come
+			from confidential tips. If you have something sensitive to
+			share with us, here’s how to get in touch.
+Confidential tips
+Journalists work closely with readers like you to investigate stories
+					in the public interest. While no communication system is foolproof we
+					go to great lengths to protect your identity and information. If
+					you’re ready to share information with a journalist you’re in the
+					right place, and we will treat you as a confidential journalistic
+					source.
+We rely on people sharing tips in the public interest – and we’re
+					grateful that you’re thinking about getting in touch.
+Composing your message
+We’re unlikely to pursue a lead unless we think it may lead to a news
+					story, and we can't act on information that is vague or speculative.
+					Our job is to hold power to account, to reveal institutional or
+					systemic failings and to report on topics that are genuinely
+					newsworthy. Please be clear, detailed and specific about your tip, why
+					you think it matters, and what evidence you have.
+Facts: Specifics are critical, such as names,
+		locations and dates.
+I work at government department ‘Department name’ in 
+		the procurement section.
+Clearly state the nature of your tip: Be concise 
+		and focus on what you know, rather than what you think or suspect.
+I have discovered evidence of a senior official's 
+		involvement in corruption and bribery. ‘Name’, the head of our 
+		section, has received $150,000 in under-the-radar payments.
+Evidence: Tell us how you know what you know,
+		and how we might verify it.
+I have photographic evidence of transactions from the past two years and access to further 
+		documents that show these were a quid pro quo for awarding 
+		contracts to multinational company ‘Company name’.
+Choose your contact method
+There are many ways to contact the Guardian securely. Review the
+				following options to see which one is best for you.
+SecureMessaging
+Share your story with a journalist. Securely & easily. Inside our news app.
+Pros:
+Free and easy to download.
+End-to-end encrypted.
+Sending messages is indistinguishable from normal use of the Guardian app.
+Connects you, anonymously if you choose, directly to our journalists.
+Designed to be easy for everyone to use, without expert tech knowledge.
+Consider other platforms:
+If you live or work in a place where the Guardian app is not safe to
+				have on your device, scroll down for alternative ways to contact us.
+Download the Guardian app
+Go to 'Secure Messaging' in the menu
+2 of 3
+3 of 3
+SecureDrop
+Our SecureDrop system is a great way to contact us and to send documents. However, it does require more technical preparation.
+Pros:
+SecureDrop does not record where things come from.
+All material is encrypted automatically.
+We read your submissions on secure computers.
+Cons:
+You will need to download Tor software to access our SecureDrop system.
+If you are being watched, the very act of using Tor may arouse suspicion.
+SecureDrop allows you to safely send us messages and documents, and to follow
+	up with us later if you wish. All we get is what you send us plus a codename
+	that allows us to reply to you. SecureDrop records nothing else about you. To
+	prevent interception at our end, we decrypt any material that you send us on 
+	a system that is completely offline.
+Get started:
+On a computer that you are confident is not being monitored, install Tor Browser . Then go to theguardian.com/securedrop and follow the instructions there.
+After that:
+When you first visit our SecureDrop site itself, you will be given a 
+	passphrase before you can send anything. This phrase allows you to log back in 
+	to view replies from us and to continue correspondence, if you so wish. 
+	We do not always reply to messages and even when we do, responses can take several days.
+SecureDrop is quite a slow way to communicate, so after you have begun
+	corresponding with a reporter they may suggest a more direct way to interact.
+	You don’t have to agree to this, of course, but it can make things smoother
+	under some circumstances.
+SecureDrop is an open source project managed by the Freedom of the Press Foundation .
+Show more
+Instant messenger apps
+End to end encrypted messaging apps such as Signal and WhatsApp provide good protection for the content of your messages, and are very easy to use.
+Signal is trusted by journalists, human rights activists and security experts
+	worldwide, and is our recommended instant messaging app. WhatsApp, while not 
+	quite as secure, also encrypts the content of communications and benefits from 
+	being so ubiquitous that using it is unlikely (in itself) to raise suspicion 
+	in most parts of the world. Other secure messenger apps tend to be less widely 
+	used for communication between sources and our journalists.
+Pros:
+They’re very easy to use.
+They allow for speedy back-and-forth communication.
+Everything is encrypted in transit and on the service providers’ servers, so
+		not even they can read the content of your messages.
+Cons:
+On WhatsApp, information about the participants in a conversation is less
+		secure than the content itself.
+There are ways for very sophisticated adversaries, such as government spy 
+		agencies, to ascertain that someone is communicating with a journalist 
+		using messaging apps – even if they can’t read the message content.
+Instant messenger communication requires advance knowledge of the
+		participants’ contact details. For WhatsApp it must be a phone number; for
+		Signal it can be a username or phone number. Many journalists are reluctant
+		to publish their personal contact details widely because such information 
+		can be abused.
+It’s not uncommon for conversations with journalists to shift to instant messenger
+	apps once both sides have established some trust and have discussed the
+	benefits and risks. But you or the journalist may decide not to use them.
+Get started:
+Decide whether you want to do this on your normal phone or if you want to buy
+	a less easily traceable phone for this purpose. After installing the app, make
+	it as secure as possible: if there are extra authentication options, activate
+	them. And activate disappearing messages so your conversations don’t sit
+	around forever on your device.
+Read more about Signal here and about WhatsApp here .
+After that:
+If you’re worried about surveillance and you’ve not used the app before,
+	consider using it for few innocuous purposes first, such as exchanging 
+	messages with friends. That way, when you message us, your use of the app 
+	doesn’t look out of the ordinary.
+Signal/WhatsApp numbers for our investigations teams:
+United Kingdom: +44 7721 857348
+United States: +1 646 886 8761
+Australia: +61 490 758 250
+Please don’t call or send ordinary text messages to those numbers. You won’t
+	get a reply.
+Check our journalists’ profile pages for other contact details.
+	Google their name and “the Guardian” and you should find them. If you can’t
+	find the right contact details for the journalist, you could message one of
+	the above numbers and ask for your details to be passed on to the person you
+	have in mind.
+Please note the recommendations earlier in this guide for what to say about 
+	the information you wish to share.
+Show more
+Email
+Use a tailor-made email account to make it less obvious that you are in contact with a journalist.
+If the information you wish to share with us isn’t extremely sensitive, 
+	email is probably the easiest way to get in touch. Even so, you may 
+	consider it worthwhile to put a bit of distance between your messages 
+	to a journalist and the rest of your life. Plus, because journalists 
+	receive so many emails, you should take extra care to make sure your 
+	message doesn’t get lost in the noise.
+Pros:
+Everyone knows how to use email, and many Guardian journalists publish
+		their email addresses.
+You can send long messages and attachments. This is difficult using phone
+		apps.
+It's possible (but not straightforward) to add encryption to email messages.
+Cons:
+Normal emails are not at all secure. Your correspondence can be monitored. 
+		Even a purpose-built email account can reveal information about you.
+Adding encryption to emails is difficult and does not hide some information
+		(who is talking to whom, the subject lines, etc).
+Email is an inherently insecure medium but you can do some things to make your 
+	correspondence less likely to be intercepted.
+Get started:
+Don’t use your regular work or personal email address. Create a new email account 
+	solely for corresponding with the Guardian. Do this on a computer that can't easily
+	be linked back to you.
+When you sign up for a new email account, make sure the sign-up information 
+	you provide doesn’t tie the account back to you. Never use the same password 
+	for different accounts.
+After that:
+Because it's so easy to send emails, journalists often receive a lot of spurious
+	and irrelevant messages. So anything that doesn't get their attention quickly may 
+	be overlooked. Read the advice further up in this guide about what makes a 
+	good story tip.
+Information carried with an email message can reveal your IP address. 
+	If you don’t want the location you send from to be traceable, connect to your 
+	email service over the Tor network. or send from somewhere that doesn’t easily identify you.
+Remember to log out after sending the message. You may also wish to delete the 
+	history of the correspondence from your browser or email software. Keep your computer secure.
+Some Guardian journalists publish PGP keys, allowing you to encrypt the content
+	of email messages (but not the subject line or the fact that you are communicating with them).
+	See theguardian.com/pgp.
+Show more
+Telephone
+Although telephone communication is far from secure, it can be a practical way to get a conversation started.
+Pros:
+Useful to initiate communication with a journalist to exchange contact
+		information for more secure channels.
+Cons:
+Telephone communication can be intercepted and could reveal your identity
+		and/or location.
+It’s not always easy to verify that the person you’re speaking to is who
+		they say they are.
+Get started:
+Before you get in touch, find the name of the journalist you want to speak to,
+	and decide in advance exactly how much you want to tell them about who you are
+	and how they can get back to you. The journalist you want may not be available
+	when you call, so you may have to leave a message. Be prepared for that.
+If you plan to share documents with us later, look at some of the other
+	options in this guide before calling so you can tell the journalist how you’d
+	prefer to do that.
+Consider whether or not it is safe to call us from your work or home phone, or
+	from any mobile phone that is associated with you. If you buy a pay-as-you-go
+	sim card to call us from a new number, think carefully about where and when
+	you buy it, and how you pay for it. And remember that mobile phone calls
+	disclose the handset ID as well as the sim card.
+After that:
+Call us on one of these numbers:
+London office: +44 (0)20 3353 2000
+Sydney office: +61 (0)2 8076 8500
+New York office: +1 212 231 7762
+Washington office: +1 202 517 89042
+San Francisco office: +1 415 919 5874
+Find the number you need
+Postal mail
+Post still has its uses, especially if you want to send us hard copies.
+Pros:
+If appropriate measures are taken, conventional mail can be a reasonably
+		good way to hide who you are.
+If you don’t want to meet a journalist in person, it’s the only reliable way
+		to hand over physical objects.
+Cons:
+Post can get hijacked or at least scanned in transit.
+Post can get lost.
+If you’re not actually being followed it’s fairly unlikely that an envelope or
+	small package will get intercepted.
+Get started:
+Stuff can go missing in the post, so consider how bad it would be to lose the
+	material you’re planning to send us. Can you make copies?
+Think about whether or not you need to preserve your anonymity. Could the
+	posting location give you up? How about the materials and packaging? If you’re
+	very worried about the package being traced back to you, post it somewhere
+	busy and make sure there is nothing memorable about your or the package’s
+	appearance.
+Mail is scanned for dangerous compounds and objects. Don’t include anything
+	that could cause problems with delivery. International mail needs a customs
+	declaration, and registered mail requires you to provide sender details.
+After that:
+Guardian UK postal address: The Guardian Kings Place 90 York Way London N1 9GU United Kingdom
+Guardian US postal address: The Guardian 315 West 36th St New York NY 10018 USA
+Guardian Australia postal address: The Guardian Level 2 19 Foster St Surry Hills NSW 2010 Australia
+Find the address you need
+Still can’t decide?
+Guardian software developers and journalists built the Secure Messaging
+				tool in our app specifically to help people speak to our reporters as
+				securely as possible. We recommend you use it if you live and work in a
+				place where it is safe to use the Guardian news app.
+Not what you were looking for?
+Are you looking for other ways to contact us?
+This page is about ways to contact Guardian journalists about issues that
+			you think we should report on. It’s not for customer service enquiries,
+			complaints, article pitches, etc. Try instead our standard contact us page. If you’re looking for help with your account, visit our Help Centre .
+Explore more on these topics
+

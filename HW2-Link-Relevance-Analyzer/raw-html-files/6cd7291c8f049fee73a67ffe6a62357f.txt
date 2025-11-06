@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+
+<html class="root root_js_disabled" data-platform="desktop" lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<title>404 Not Found | kgw.com</title>
+<link href="/themes/cool.css" rel="stylesheet"/>
+<link href="/critical.min.css" rel="stylesheet"/>
+<link href="/modules.min_9.16.1.css" rel="stylesheet"/>
+<link href="/assets/favicons/KGW.png" rel="icon"/>
+<style>
+        .page__grid {
+            margin: 0 auto !important;
+            width: 1170px !important;
+        }
+
+        .footer__inner {
+        }
+
+        .error__button {
+            text-decoration: none;
+            line-height: 82px;
+            padding: 0 75px;
+            margin-right: 30px;
+        }
+
+        #action-container {
+            display: flex;
+        }
+        
+        .search__search-form {
+            flex-grow: 1;
+            box-sizing: border-box;
+            background: #f3f8fc url(/assets/shared-images/backgrounds/diag-5x5-blue-2x.png) left top repeat;
+            background-size: 5px 5px;
+            padding: 12px;
+        }
+
+        .search__search-label {
+            display: none;
+        }
+
+        .search__search-submit {
+            display: none;
+        }
+
+        .search__search-box {
+            border: 1px solid #cccccc;
+            width: 100%;
+            color: #161616;
+            font-size: 16px;
+            line-height: 1.25;
+            padding: 18px 28px;
+            font-family: "proximanova", sans-serif;
+            -webkit-appearance: none;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            .error {
+                background-image: none;
+            }
+            
+            .error__button {
+                color: #ffffff;
+            }
+            
+            .search__search-form {
+                background: #000000 url(/assets/shared-images/backgrounds/diag-5x5-white-50-2x-darker.png) left top repeat;
+                background-size: 6px 6px;
+            }
+            
+            .search__search-box {
+                background-color: #000000;
+                color: #cacaca;
+            }
+        }
+    </style>
+<script>bazadebezolkohpepadr="256586153"</script><script defer="" src="https://www.kgw.com/akam/13/f4b318a" type="text/javascript"></script></head>
+<body>
+<div class="page" data-module="page" data-platform="desktop">
+<div class="page__header">
+<header class="header" data-module="header">
+<div class="header__main">
+<div class="header__main-inner">
+<a class="header__station-branding" href="/">
+<img alt="Home" class="header__logo" loading="eager" src="/assets/shared-images/logos/kgw.png" width="112"/>
+</a>
+<nav class="header__not-logo">
+<h2 class="header__nav-heading">Navigation</h2>
+<ul class="header__nav">
+<li class="header__nav-item">
+<a class="header__nav-link" href="/news">
+<span class="header__nav-label">News</span>
+</a>
+</li>
+<li class="header__nav-item">
+<a class="header__nav-link" href="/weather">
+<span class="header__nav-label">Weather</span>
+</a>
+</li>
+<li class="header__nav-item">
+<a class="header__nav-link" href="/watch">
+<span class="header__nav-label">Watch</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</header>
+</div>
+<main class="page__main" id="main">
+<div class="page__grid">
+<div class="error">
+<h1 class="error__title">404</h1>
+<div class="error__description"><p>The page you are looking for can’t be found.</p></div>
+<div id="action-container">
+<a class="error__button" href="/">Go Back Home</a>
+<form action="https://www.google.com/search" class="search__search-form" method="GET" target="_blank">
+<label class="search__search-label" for="site_search">Search:</label>
+<input class="search__search-box" id="site_search" name="q" placeholder="Enter Search Terms" type="search"/>
+<input name="as_sitesearch" type="hidden" value="kgw.com">
+<input name="tbm" type="hidden" value="nws"/>
+<button class="search__search-submit" type="submit">Search</button>
+</input></form>
+</div>
+</div>
+</div>
+</main>
+<div class="page__footer page__footer_theme_default">
+<footer class="footer" data-module="footer">
+<div class="footer__outer">
+<div class="footer__inner">
+<div class="footer__logo-wrap">
+<img alt="KGW-TV" class="footer__logo" src="/assets/shared-images/logos/kgw.png"/>
+</div>
+<div class="footer__menu">
+<ul class="footer__list">
+<li class="footer__item"><a class="footer__link" href="/terms" rel="" target="_self">Terms of Service</a></li>
+<li class="footer__item"><a class="footer__link" href="/privacy" rel="" target="_self">Privacy Policy</a></li>
+</ul>
+</div>
+<div class="footer__copyright">
+                            © 2025 KGW-TV. All Rights Reserved.
+                        </div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script data-gtm-id="GTM-PJ4Q76GQ">
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer',document.currentScript.dataset.gtmId);
+            window.dataLayer.push({
+                'event': 'page_view',
+                'event_name_ga4': 'page_view',
+                'platform': 'desktop',
+                'target': 'ga4', 
+                'subsection': '',
+                'subcategory': '',
+                'section': 'error',
+                'page_type': 'error',
+                'page_name': '404',
+                'division': 'broadcast',
+                'site_type': 'desktop',
+                'market': 'Portland, OR'
+            });
+        </script>
+<noscript><img src="https://www.kgw.com/akam/13/pixel_f4b318a?a=dD03YmFkYWYyMTc2NDc3YjY5M2QyODZhNjE1MzcyMWY4ZWUwMDczMjllJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;"/></noscript><script defer="" src="/4ivR/Id8E/d/78H/FX3Zqw/pfmErfYVk3mY/Qy4wAg/Eyok/VS5KD2dpAQ?v=02d3db8a-f802-ec36-ba68-0410c58b17de" type="text/javascript"></script></body>
+</html>
+

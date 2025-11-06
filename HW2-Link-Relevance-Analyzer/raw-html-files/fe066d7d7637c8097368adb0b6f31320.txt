@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+<meta charset="utf-8"/>
+<meta content="Drupal 10 (https://www.drupal.org)" name="Generator"/>
+<meta content="width" name="MobileOptimized"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<link href="/sites/default/files/apple-icon.png" rel="icon" type="image/png"/>
+<link href="http://www.trumplibrary.gov/home" rel="canonical"/>
+<link href="http://www.trumplibrary.gov/node/8" rel="shortlink"/>
+<title>Home | Donald J. Trump Presidential Library</title>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WLMC86');</script>
+<!-- End Google Tag Manager -->
+<link href="/sites/default/files/css/css_Sp4C5Eo1NuNIym7ZTp8YBWamsYzE8_dwLfXyZ_ot-i8.css?delta=0&amp;language=en&amp;theme=trump_library&amp;include=eJyFkEEOhCAMRS-EciRStINEoKStGm8_RDMuhoXL_vfT9NUTqShDdR6YI9kPFYUDhTIa30POfZpRBAKKSzEs2vNCM5qwKRaPHKxPNK0y7BEPwyiVisQdXcay2b95fHa9NxlhrRSLvlZFzxRLMEJThNSyOUK7vaxi-2jUBdsr5BTFbD0IGuUt10Y9A582JPKQht_SCzbmHmF3C9_el_YXxMCVug" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_stOvAM0GlgY-8cLH6ozPIf-R1_98dqgB4qtMXPfcyQI.css?delta=1&amp;language=en&amp;theme=trump_library&amp;include=eJyFkEEOhCAMRS-EciRStINEoKStGm8_RDMuhoXL_vfT9NUTqShDdR6YI9kPFYUDhTIa30POfZpRBAKKSzEs2vNCM5qwKRaPHKxPNK0y7BEPwyiVisQdXcay2b95fHa9NxlhrRSLvlZFzxRLMEJThNSyOUK7vaxi-2jUBdsr5BTFbD0IGuUt10Y9A582JPKQht_SCzbmHmF3C9_el_YXxMCVug" media="all" rel="stylesheet"/>
+<link href="//use.fontawesome.com/releases/v5.13.0/css/all.css" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_65-2Ufwp7dGEGht53J9H-9dj7zJCaRFktCg-9nVlHUU.css?delta=3&amp;language=en&amp;theme=trump_library&amp;include=eJyFkEEOhCAMRS-EciRStINEoKStGm8_RDMuhoXL_vfT9NUTqShDdR6YI9kPFYUDhTIa30POfZpRBAKKSzEs2vNCM5qwKRaPHKxPNK0y7BEPwyiVisQdXcay2b95fHa9NxlhrRSLvlZFzxRLMEJThNSyOUK7vaxi-2jUBdsr5BTFbD0IGuUt10Y9A582JPKQht_SCzbmHmF3C9_el_YXxMCVug" media="all" rel="stylesheet"/>
+</head>
+<body class="layout-no-sidebars page-node-8 path-frontpage node--type-page">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe alt="Google Tag Manager" height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-WLMC86" style="display:none;visibility:hidden" title="Google Tag Manager" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<a class="visually-hidden focusable skip-link" href="#main-content">
+      Skip to main content
+    </a>
+<script id="narabannerjs" src="https://www.archives.gov/nara-banner/narabanner.js"></script>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+<div id="page-wrapper">
+<div id="page">
+<header aria-label="Site header" class="header" id="header" role="banner">
+<div class="container">
+<nav class="navbar navbar-dark bg-secondary" id="navbar-top">
+<a class="navbar-brand" href="/" rel="home" title="Home">
+<img alt="Home" class="img-fluid d-inline-block align-top" src="/sites/default/files/Donald-J-Trump-Library-Logo.png"/>
+<span class="ml-2 d-none d-md-inline"></span>
+</a>
+<div class="form-inline navbar-form ml-auto">
+<div class="search-api-page-block-form-search search-api-page-block-form search-form search-block-form container-inline block block-search-api-page block-search-api-page-form-block" data-drupal-selector="search-api-page-block-form-search" id="block-searchapipagesearchblockform">
+<div class="content">
+<form accept-charset="UTF-8" action="/" id="search-api-page-block-form-search" method="post">
+<div class="js-form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label mb-3">
+<label class="visually-hidden" for="edit-keys">Search</label>
+<input class="form-search form-control" data-drupal-selector="edit-keys" id="edit-keys" maxlength="128" name="keys" size="15" title="Enter the terms you wish to search for." type="search" value=""/>
+</div>
+<input autocomplete="off" class="form-control" data-drupal-selector="form-jjybcc2-ioqan6tzqks0yuoqfojp31d4pblepavuede" name="form_build_id" type="hidden" value="form-jjybcC2-Ioqan6TzqkS0yUOQFoJp31D4pBLEpAVuEDE"/>
+<input class="form-control" data-drupal-selector="edit-search-api-page-block-form-search" name="form_id" type="hidden" value="search_api_page_block_form_search"/>
+<div class="form-actions js-form-wrapper form-wrapper mb-3" data-drupal-selector="edit-actions" id="edit-actions"><button class="search-form__submit button js-form-submit form-submit btn btn-primary" data-drupal-selector="edit-submit" id="edit-submit" name="op" type="submit" value="Search">Search</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</nav>
+<nav class="navbar navbar-dark bg-primary navbar-expand-lg" id="navbar-main">
+<button aria-controls="CollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right" data-target="#CollapsingNavbar" data-toggle="collapse" type="button"><span class="navbar-toggler-icon"></span></button>
+<div class="collapse navbar-collapse justify-content-center" id="CollapsingNavbar">
+<section class="container region region-primary-menu">
+<nav aria-labelledby="block-trump-library-main-menu-menu" class="block block-menu navigation menu--main" id="block-trump-library-main-menu" role="navigation">
+<h2 class="visually-hidden" id="block-trump-library-main-menu-menu">Main navigation</h2>
+<ul class="clearfix nav navbar-nav">
+<li class="nav-item menu-item--collapsed">
+<a class="nav-link nav-link--trumps" data-drupal-link-system-path="node/20" href="/trumps">The Trumps</a>
+</li>
+<li class="nav-item menu-item--collapsed">
+<a class="nav-link nav-link--research" data-drupal-link-system-path="node/15" href="/research">Research</a>
+</li>
+<li class="nav-item menu-item--collapsed">
+<a class="nav-link nav-link--about-us" data-drupal-link-system-path="node/6" href="/about-us">About Us</a>
+</li>
+</ul>
+</nav>
+</section>
+</div>
+</nav>
+</div>
+</header>
+<div class="highlighted">
+<aside class="container section clearfix" role="complementary">
+<div class="hidden" data-drupal-messages-fallback=""></div>
+</aside>
+</div>
+<div id="site_hero">
+<section class="section">
+<section class="row region region-hero">
+<div class="block-content-image_block block block-block-content block-block-content16c88cbb-c7ed-4226-bc71-4d78e38f5328" id="block-heroimage">
+<div class="content">
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><strong>“</strong>America is the place where anything can happen. America is the place where anyone can rise. And here, on this land, on this soil, on this continent, the most incredible dreams come true.<strong>”</strong></p><div class="sign1">Donald J. Trump<br/>State of the Union Address, February 4, 2020</div></div>
+<div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"> <img alt="President Trump Travels to NC" height="800" loading="lazy" src="/sites/default/files/2021-01/President-Trump-Travels-to-NC.jpg" typeof="foaf:Image" width="1200"/>
+</div>
+</div>
+</div>
+</section>
+</section>
+</div>
+<div class="layout-main-wrapper clearfix" id="main-wrapper">
+<div class="container" id="main">
+<div class="row row-offcanvas row-offcanvas-left clearfix">
+<main class="main-content col order-last" id="content" role="main">
+<section class="section">
+<a id="main-content" tabindex="-1"></a>
+<div class="block block-system block-system-main-block" id="block-trump-library-content">
+<div class="content">
+<article about="/home" class="node node--type-page node--view-mode-full clearfix" data-history-node-id="8" typeof="schema:WebPage">
+<header>
+<span class="rdf-meta hidden" content="Home" property="schema:name"></span>
+</header>
+<div class="node__content clearfix">
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item" property="schema:text">
+<div class="wp-block-columns homepage-cards-group">
+<div class="wp-block-column">
+<figure class="wp-block-image size-large"><a href="/trumps/president-donald-j-trump"><img alt="Pesident Donald J. Trump" class="wp-image-6" data-entity-type="file" data-entity-uuid="6f65a813-da87-4568-bf47-7c24a409acbf" data-image-style="original" src="/sites/default/files/styles/large/public/inline-images/bKdtQOFqysBtIouEEJ8qTEKDXzXMGxPNtKiabYesOay7bPYwPm.jpg?itok=EUGOqCsj"/></a><figcaption><strong><a href="/trumps/president-donald-j-trump">President Donald J. Trump</a></strong></figcaption></figure>
+</div>
+<div class="wp-block-column">
+<figure class="wp-block-image size-large"><a href="/trumps/first-lady-melania-trump"><img alt="First Lady Melania Trump" class="wp-image-24" data-entity-type="file" data-entity-uuid="7e0d5a9f-e363-4408-b8d1-a1b8aa440bdb" data-image-style="original" src="/sites/default/files/styles/large/public/2021-01/First-Lady-Melania-Trump_1.png?itok=Zst-qve9"/></a><figcaption><strong><a href="/trumps/first-lady-melania-trump">First Lady Melania Trump</a></strong></figcaption></figure>
+</div>
+<div class="wp-block-column">
+<figure class="wp-block-image size-large"><a href="/research/frequently-asked-questions"><img alt="Frequently Asked Questions" class="wp-image-43" src="/sites/default/files/styles/large/public/2021-01/49797211198_28cb7d09a0_o.jpg?itok=6LPlvYZo"/></a><figcaption><strong><a href="/research/frequently-asked-questions">Frequently Asked Questions</a></strong><br/> </figcaption></figure>
+</div>
+</div>
+<div class="wp-block-columns homepage-cards-group">
+<div class="wp-block-column">
+<figure class="wp-block-image size-large"><a href="/research/archived-social-media"><img alt="Achived Social Media" class="wp-image-12" data-entity-type="file" data-entity-uuid="6c9f5420-9d05-486b-993d-c888562eaaee" data-image-style="original" src="/sites/default/files/styles/large/public/inline-images/uKNCFnIwFW8pDq8fyFyTWfQP7a1oTo528jugXFLpEjadx3b36G.jpg?itok=_pfFGuuw"/></a><figcaption><strong><a href="/research/archived-social-media">Archived Social Media</a></strong></figcaption></figure>
+</div>
+<div class="wp-block-column">
+<figure class="wp-block-image size-large"><a href="/research/archived-websites"><img alt="Ahived Websites" class="wp-image-11" data-entity-type="file" data-entity-uuid="0103e985-08af-406e-abb4-94f71c05c8fc" data-image-style="original" src="/sites/default/files/styles/large/public/inline-images/wkfYfJhXf53MmIDTH79tnyb7qU3G7E0kZSyOuTa673Z1O1yOvb.png?itok=K9kzrI75"/></a><figcaption><strong><a href="/research/archived-websites">Archived Websites</a></strong></figcaption></figure>
+<p></p>
+</div>
+<div class="wp-block-column">
+<figure class="wp-block-image size-large"><a href="/about-us/about-national-archives-and-presidential-libraries"><img alt="About Presidential Libraries" class="wp-image-8" data-entity-type="file" data-entity-uuid="b7c59e65-ed72-4fa6-a140-7f5cbaab2725" data-image-style="original" src="/sites/default/files/styles/large/public/inline-images/xxZ44pGmMmz0YVSQRd9JCLS1F6UWn4hZvyIblQ9ICWfvGyosFq.jpg?itok=Pk5mLxjn"/></a><figcaption><strong><a href="/about-us/about-national-archives-and-presidential-libraries">About Presidential Libraries</a></strong></figcaption></figure>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</section>
+</main>
+</div>
+</div>
+</div>
+<div class="archive-bar">
+<div class="container">
+</div>
+</div>
+<div class="container"></div>
+<footer class="site-footer">
+<div class="container">
+<div class="container row footer-section">
+<div class="col-md-8">
+<section class="row region region-footer-first">
+<div class="block-content-basic block block-block-content block-block-content35eb8748-154e-40b6-809b-a83c5b2d7f73" id="block-narainfo">
+<div class="content">
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>The Trump Presidential Library is part of the Presidential Libraries system administered by the National Archives and Records Administration, a federal agency.</p></div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="container site-footer__bottom">
+<div class="row bottom-line">
+<div class="col-md-4">
+<section class="row region region-footer-third">
+<div class="block-content-basic block block-block-content block-block-content69160318-73c4-4aa9-afa3-1a42ed01588c" id="block-naralogohorizontal">
+<div class="content">
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img alt="National Archives Logo" data-entity-type="file" data-entity-uuid="ef5ece18-b0c4-459c-a2b5-a94ac6b9c405" height="40" loading="lazy" src="/sites/default/files/inline-images/national-archives.png" width="300"/></p></div>
+</div>
+</div>
+</section>
+</div>
+<div class="col-md-8">
+<section class="row region region-footer-fourth">
+<nav aria-labelledby="block-trump-library-footer-menu" class="block block-menu navigation menu--footer" id="block-trump-library-footer" role="navigation">
+<h2 class="visually-hidden" id="block-trump-library-footer-menu">Footer menu</h2>
+<ul class="clearfix nav navbar-nav">
+<li class="nav-item">
+<a class="nav-link nav-link-https--wwwarchivesgov-global-pages-accessibility" href="https://www.archives.gov/global-pages/accessibility">ACCESSIBILITY</a>
+</li>
+<li class="nav-item">
+<a class="nav-link nav-link-https--wwwarchivesgov-" href="https://www.archives.gov/">ARCHIVES.GOV</a>
+</li>
+<li class="nav-item">
+<a class="nav-link nav-link-https--wwwarchivesgov-foia" href="https://www.archives.gov/foia">FOIA</a>
+</li>
+<li class="nav-item">
+<a class="nav-link nav-link-https--wwwarchivesgov-global-pages-privacyhtml" href="https://www.archives.gov/global-pages/privacy.html">PRIVACY POLICY</a>
+</li>
+</ul>
+</nav>
+</section>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+</div>
+<div class="off-canvas-wrapper"><div id="off-canvas">
+<ul>
+<li class="menu-item--_d74fbd3-7ef1-49c3-9932-396b51198eaa menu-name--main">
+<a data-drupal-link-system-path="node/20" href="/trumps">The Trumps</a>
+<ul>
+<li class="menu-item--e8a596eb-d27a-4d2d-a22c-6bf558a20d27 menu-name--main">
+<a data-drupal-link-system-path="node/23" href="/trumps/president-donald-j-trump">President Donald J. Trump</a>
+</li>
+<li class="menu-item--_0bbb501-73f6-439a-80b9-67ca8e33576f menu-name--main">
+<a data-drupal-link-system-path="node/24" href="/trumps/first-lady-melania-trump">First Lady Melania Trump</a>
+</li>
+</ul>
+</li>
+<li class="menu-item--_7a9523c-e49b-44f4-a610-67f4889050b1 menu-name--main">
+<a data-drupal-link-system-path="node/15" href="/research">Research</a>
+<ul>
+<li class="menu-item--d249b309-7104-48c2-8719-48380d585c83 menu-name--main">
+<a data-drupal-link-system-path="node/21" href="/research/archived-social-media">Archived Social Media</a>
+</li>
+<li class="menu-item--e29a4c23-e135-45aa-b8c8-c757f9a8c9ad menu-name--main">
+<a data-drupal-link-system-path="node/22" href="/research/archived-websites">Archived Websites</a>
+</li>
+<li class="menu-item--_9d3363a-b92d-4477-aa7a-525357e11417 menu-name--main">
+<a data-drupal-link-system-path="node/27" href="/research/frequently-asked-questions">Frequently Asked Questions</a>
+</li>
+<li class="menu-item--c4aa338a-f056-4f26-bb7b-b3a418f17260 menu-name--main">
+<a data-drupal-link-system-path="node/16" href="/research/ordering-photos-videos">Ordering Photos &amp; Videos</a>
+</li>
+<li class="menu-item--be7f265a-f7eb-4e10-a95c-5e2c51dff080 menu-name--main">
+<a data-drupal-link-system-path="node/17" href="/research/research-links">Research Links</a>
+</li>
+</ul>
+</li>
+<li class="menu-item--bb10b1aa-8505-4f67-844f-b111f74796da menu-name--main">
+<a data-drupal-link-system-path="node/6" href="/about-us">About Us</a>
+<ul>
+<li class="menu-item--_bcf5774-9e22-4085-bff7-3dc0154f4232 menu-name--main">
+<a data-drupal-link-system-path="node/25" href="/about-us/about-national-archives-and-presidential-libraries">About the National Archives and Presidential Libraries</a>
+</li>
+<li class="menu-item--_554d608-1411-4803-84a9-8c169ef0883e menu-name--main">
+<a data-drupal-link-system-path="node/18" href="/about-us/employment-and-internship-opportunities">Employment and Internship Opportunities</a>
+</li>
+<li class="menu-item--_fff14dc-dd49-433f-9d9a-d4c9f0160785 menu-name--main">
+<a data-drupal-link-system-path="node/19" href="/about-us/contact-us">Contact Us</a>
+</li>
+</ul>
+</li>
+</ul>
+</div></div>
+<script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/8","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"responsive_menu":{"position":"left","theme":"theme-dark","pagedim":"pagedim","modifyViewport":true,"use_bootstrap":true,"breakpoint":"(min-width: 960px)","drag":false},"exIcons":{"paths":{"nara_virtual_exhibits":"\/modules\/nara\/nara_virtual_exhibits\/dist\/icons.svg?0fc94983b3e88c4a"}},"nara_data_visualization":{"path":"modules\/nara\/nara_data_visualization"},"csp":{"nonce":"zAFy83Kfo3n-Ly4DttnFiA"},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"ada1c85e04437cd18ad89678b234338afa8a0c728d429851752cc6a94ce12413"}}</script>
+<script src="/sites/default/files/js/js_QD3CUwkrmFrhjv5eFG91d0cYYdSMVgyDiDM9zQR89cc.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=trump_library&amp;include=eJxVydEKgCAMQNEfyvwkcTGGNJ1s0_Dvi3rq6XI5italWZmYKrYR9f87iLi55r65jtoTF9CsKxILZA7mi0ujDx9LNBwboFICluO0-CbMgtcNOiorSw"></script>
+</body>
+</html>
+

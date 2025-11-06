@@ -1,0 +1,512 @@
+
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="Join CNN Political Director David Chalian as he guides you through our ever-changing political landscape. Every week, David and a guest take you inside the latest developments with insight and analysis from the key players in politics." name="description"/>
+<meta content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" name="viewport"/>
+<link href="/audio/static/images/cnn.7bf5c0ae.png" rel="shortcut icon"/>
+<title>CNN Political Briefing - Podcast on CNN Podcasts</title>
+<link href="/audio/static/css/global.8a65bc49.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/fonts.f425c4c7.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/vars.4841e111.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/services.e23edd5b.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/loader.6cbabf83.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/header.67ec7b8d.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/left-nav.c9f1d2cc.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/directory.e8b77bef.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/podcast.19fee565.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/how-to.a0b70da1.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/bottom-player.4b837891.css" rel="stylesheet" type="text/css"/><link href="/audio/static/css/footer.1b9f240c.css" rel="stylesheet" type="text/css"/><link href="https://www.cnn.com/audio/podcasts/political-briefing" rel="canonical"/><meta content="CNN Political Briefing - Podcast on CNN Podcasts" property="og:title"/><meta content="website" property="og:type"/><meta content="https://www.cnn.com/audio/podcasts/political-briefing" property="og:url"/><meta content="https://www.cnn.com/audio/static/images/podcasts/political-briefing/square-l.e4eba9fe.jpg" property="og:image"/><meta content="" property="og:image:alt"/><meta content="The political news you need to know, in 10 minutes or less. Hosted by David Chalian." property="og:description"/><meta content="CNN" property="og:site_name"/><meta content="80401312489" name="fb:app_id"/><meta content="player" name="twitter:card"/><meta content="CNN Political Briefing - Podcast on CNN Podcasts" name="twitter:title"/><meta content="@cnn" name="twitter:site"/><meta content="The political news you need to know, in 10 minutes or less. Hosted by David Chalian." name="twitter:description"/><meta content="https://www.cnn.com/audio/static/images/podcasts/political-briefing/square-l.e4eba9fe.jpg" name="twitter:image"/><meta content="https://www.cnn.com/audio/podcasts/political-briefing.app" name="twitter:player"/><meta content="350" name="twitter:player:width"/><meta content="640" name="twitter:player:height"/>
+<script type="application/ld+json">
+        {
+          "@context": "http://schema.org",
+          "@type": "WebPage",
+          "url": "https://www.cnn.com/audio/podcasts/political-briefing",
+          "name": "CNN Political Briefing - Podcast on CNN Podcasts",
+          "publisher": {
+            "@type": "NewsMediaOrganization",
+            "foundingDate": "1980-06-01",
+            "logo": {
+              "@context": "https://schema.org",
+              "@id": "https://media.cnn.com/api/v1/images/stellar/prod/cnnlogo.png?q=w_60,h_61",
+              "@type": "ImageObject",
+              "contentUrl": "https://media.cnn.com/api/v1/images/stellar/prod/cnnlogo.png?q=w_60,h_61",
+              "url": "https://media.cnn.com/api/v1/images/stellar/prod/cnnlogo.png?q=w_60,h_61"
+            },
+            "name": "CNN",
+            "url": "https://www.cnn.com/"
+          }
+        }
+      </script>
+<script type="text/javascript">
+        const CNN_SOURCE = "7abaafde-7ff5-4733-8277-5cc06e9c820c";
+        const USE_ANALYTICS = true;
+      </script>
+<script src="/wmuc/cnn_user_consent.min.js" type="text/javascript"></script>
+<link href="https://www.cnn.com/audio/podcasts/political-briefing" hreflang="en-us" rel="alternate"/>
+<link href="https://www.cnn.com/audio/podcasts/political-briefing" hreflang="en-ca" rel="alternate"/>
+<link href="https://edition.cnn.com/audio/podcasts/political-briefing" hreflang="en-gb" rel="alternate"/>
+<link href="https://edition.cnn.com/audio/podcasts/political-briefing" hreflang="x-default" rel="alternate"/>
+<script type="text/javascript">
+    (function() {
+        /** CONFIGURATION START **/
+        var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+        _sf_async_config.uid = 37612; 
+        _sf_async_config.domain = "cnn.com";
+        _sf_async_config.useCanonical = true;
+        _sf_async_config.useCanonicalDomain = true;
+        _sf_async_config.sections = 'audio';
+        _sf_async_config.authors = '';
+        /** CONFIGURATION END **/
+        function loadChartbeat() {
+            var e = document.createElement('script');
+            var n = document.getElementsByTagName('script')[0];
+            e.type = 'text/javascript';
+            e.async = true;
+            e.src = '//static.chartbeat.com/js/chartbeat.js';
+            n.parentNode.insertBefore(e, n);
+        }
+        loadChartbeat();
+    })();
+  </script>
+</head>
+<body>
+<header>
+<div>
+<h1 class="cnn-logo">
+<a href="/">CNN</a>
+</h1>
+<h1 class="logo">
+<a href="/audio">CNN Podcasts</a>
+</h1>
+</div>
+<menu-icon-wc></menu-icon-wc>
+</header>
+<left-nav>
+<section>
+<audio-player-wc class="left-nav-player" data-guid="9ce1ead2-299a-11ef-b327-77a0746f48d3" data-position="0" data-template="left-nav" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY3068202999.mp3?updated=1758910873">
+<div slot="title">5 Good Things: The Lucky Guy with a Tooth for an Eye</div>
+<div slot="author">5 Things</div>
+<div slot="description">Listen to<br/>CNN 5 Things</div>
+<div slot="date">Sat, Sep 27</div>
+</audio-player-wc>
+</section>
+<section>
+<div class="header">New Episodes</div>
+<ul class="new-releases">
+<li class="item">
+<a href="/audio/podcasts/amanpour/episodes/166c826a-2994-11ef-99d4-dbc3037e7369" target="_self">
+<div><img class="coverart" src="/audio/static/images/podcasts/amanpour/square-s.dee6dce7.jpg"/></div>
+<div class="title">Amanpour</div>
+</a>
+</li>
+<li class="item">
+<a href="/audio/podcasts/smerconish-on-cnn/episodes/45d54576-2cca-11ef-88f0-2f86f7ff8821" target="_self">
+<div><img class="coverart" src="/audio/static/images/podcasts/smerconish-on-cnn/square-s.6177bba0.jpg"/></div>
+<div class="title">Smerconish on CNN</div>
+</a>
+</li>
+<li class="item">
+<a href="/audio/podcasts/5-cosas/episodes/de0d9742-c920-11ef-afcb-4f340f183324" target="_self">
+<div><img class="coverart" src="/audio/static/images/podcasts/5-cosas/square-s.c488624e.jpg"/></div>
+<div class="title">CNN 5 Cosas</div>
+</a>
+</li>
+<li class="item">
+<a href="/audio/podcasts/5-good-things/episodes/b3e7fff0-2fdf-11ef-89ae-7fc2fa8dcbeb" target="_self">
+<div><img class="coverart" src="/audio/static/images/podcasts/5-good-things/square-s.45e43096.jpg"/></div>
+<div class="title">CNN 5 Good Things</div>
+</a>
+</li>
+</ul>
+</section>
+<section>
+<div class="header">How To Listen</div>
+<a href="/audio/how-to-listen-to-podcasts#computer" target="_self">On your computer</a>
+<a href="/audio/how-to-listen-to-podcasts#mobile" target="_self">On your mobile device</a>
+<a href="/audio/how-to-listen-to-podcasts#smart-speaker" target="_self">Smart speakers</a>
+</section>
+<section>
+<div class="header">Explore CNN</div>
+<a href="/us" target="_blank">US</a>
+<a href="/world" target="_blank">World</a>
+<a href="/politics" target="_blank">Politics</a>
+<a href="/business" target="_blank">Business</a>
+</section>
+</left-nav>
+<div class="podcast directory how-to" id="main">
+<section class="top political-briefing cnn-app-margin-zero" id="top-section" style="background-image:linear-gradient(90deg, #2A2A2A 20%, #4F4F4F 100%)">
+<div class="top-wrapper">
+<div class="title-description">
+<div class="category">podcast</div>
+<h1 class="title" data-title="CNN Political Briefing - Podcast on CNN Podcasts">CNN Political Briefing</h1>
+<h2 class="description">Join CNN Political Director David Chalian as he guides you through our ever-changing political landscape. Every week, David and a guest take you inside the latest developments with insight and analysis from the key players in politics.</h2>
+<div class="services">
+<follow-button-wc class="follow-button">Follow</follow-button-wc>
+<div class="share-sheet follow-sheet" id="follow-sheet">
+<div class="sheet-menu">
+<div class="sheet-close" id="follow-sheet-close"></div>
+<div class="sheet-title">Follow</div>
+<ul class="service-icons">
+<li class="service-wrapper">
+<a class="service light amazon" href="https://link.chtbl.com/739Jsyc7" tabindex="0" target="_blank" title="Amazon">
+<span>Amazon</span>
+</a>
+</li><li class="service-wrapper">
+<a class="service light apple" href="https://link.chtbl.com/yoPVM6y1" tabindex="0" target="_blank" title="Apple Podcasts">
+<span>Apple Podcasts</span>
+</a>
+</li><li class="service-wrapper">
+<a class="service light audacy" href="https://link.chtbl.com/NgPmAFgA" tabindex="0" target="_blank" title="Audacy">
+<span>Audacy</span>
+</a>
+</li><li class="service-wrapper">
+<a class="service light iheart" href="https://link.chtbl.com/1K823Mqw" tabindex="0" target="_blank" title="iHeart Radio">
+<span>iHeart Radio</span>
+</a>
+</li><li class="service-wrapper">
+<a class="service light pandora" href="https://link.chtbl.com/dOBmnKJp" tabindex="0" target="_blank" title="Pandora">
+<span>Pandora</span>
+</a>
+</li><li class="service-wrapper">
+<a class="service light rss" href="https://link.chtbl.com/1I6yiFvq" tabindex="0" target="_blank" title="RSS">
+<span>RSS</span>
+</a>
+</li><li class="service-wrapper">
+<a class="service light spotify" href="https://link.chtbl.com/VGKmjp0b" tabindex="0" target="_blank" title="Spotify">
+<span>Spotify</span>
+</a>
+</li><li class="service-wrapper">
+<a class="service light tunein" href="https://link.chtbl.com/zQurcETP" tabindex="0" target="_blank" title="TuneIn">
+<span>TuneIn</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<share-button-wc>
+<svg height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M16.5,11.0000188 C16.914,11.0000188 17.25,11.3360188 17.25,11.7500188 L17.25,11.7500188 L17.25,20.7500188 C17.25,21.1640188 16.914,21.5000188 16.5,21.5000188 L16.5,21.5000188 L1.5,21.5000188 C1.086,21.5000188 0.75,21.1640188 0.75,20.7500188 L0.75,20.7500188 L0.75,11.7500188 C0.75,11.3360188 1.086,11.0000188 1.5,11.0000188 C1.914,11.0000188 2.25,11.3360188 2.25,11.7500188 L2.25,11.7500188 L2.25,20.0000188 L15.75,20.0000188 L15.75,11.7500188 C15.75,11.3360188 16.086,11.0000188 16.5,11.0000188 Z M8.4531375,0.71965625 C8.7497625,0.42678125 9.2308875,0.42678125 9.5275125,0.71965625 L9.5275125,0.71965625 L9.6073875,0.79878125 L9.6073875,0.79878125 L9.6077625,0.79915625 L14.7700125,5.89578125 C14.9620125,6.08553125 15.0538875,6.36715625 14.9668875,6.62103125 C14.7628875,7.21878125 14.0728875,7.32865625 13.6900125,6.95065625 L13.6900125,6.95065625 L9.7498875,3.12490625 L9.7498875,15.4999063 C9.7498875,15.8749063 9.3748875,16.2499063 8.9998875,16.2499063 C8.6248875,16.2499063 8.2498875,15.8734063 8.2498875,15.4999063 L8.2498875,15.4999063 L8.2498875,3.12490625 L4.2906375,6.95065625 C3.9643875,7.27278125 3.4153875,7.24090625 3.1333875,6.85465625 C2.9121375,6.55128125 2.9773875,6.12565625 3.2451375,5.86165625 L3.2451375,5.86165625 L8.3725125,0.79915625 C8.3725125,0.79878125 8.3725125,0.79878125 8.3728875,0.79878125 Z" id="share-a"></path></defs><g fill="none" fill-rule="evenodd"><rect height="24" width="24"></rect><use fill="#E6E6E6" transform="translate(3 1)" xlink:href="#share-a"></use></g></svg>
+</share-button-wc>
+</div>
+</div>
+<div><img alt="" class="coverart" id="top-coverart" src="/audio/static/images/podcasts/political-briefing/square-m.b46f17b1.jpg"/></div>
+</div>
+</section>
+<section class="middle cnn-app-margin-zero" id="middle-section">
+<div class="episodes" id="episodes">
+<audio-player-wc class="episode" data-guid="947dc010-585a-11f0-bf06-4f2f96a78844" data-position="0" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY7335667391.mp3?updated=1758888016">
+<a href="/audio/podcasts/political-briefing/episodes/947dc010-585a-11f0-bf06-4f2f96a78844" slot="title" tabindex="0">The Democrats' Plan to Win the Shutdown</a>
+<a href="/audio/podcasts/political-briefing" slot="author" target="_blank">CNN Political Briefing</a>
+<div slot="description">With Washington bracing for a government shutdown, Democrats and Republicans are already trying to pin the blame on each other. As Chair of the Democratic Congressional Campaign Committee, Representative Suzan DelBene (D-WA) is laser-focused on re-capturing the House in 2026. She tells David ChalianÂ how Democrats can put themselves on a path to winning the majority.Â 
+
+Producer: Dan Bloom
+
+Technical Director: Dan Dzula
+
+Executive Producer: Steve Lickteig</div>
+<div slot="date">Sep 26, 2025</div>
+<time slot="eplength">19 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/political-briefing/square-m.b46f17b1.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/political-briefing/square-l.e4eba9fe.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/political-briefing/square.e17aade7.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="94440050-585a-11f0-bf06-53dba1f9bc3f" data-position="1" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2685347034.mp3?updated=1758247756">
+<a href="/audio/podcasts/political-briefing/episodes/94440050-585a-11f0-bf06-53dba1f9bc3f" slot="title" tabindex="0">New Jersey Could Have the Sleeper Race of 2025</a>
+<a href="/audio/podcasts/political-briefing" slot="author" target="_blank">CNN Political Briefing</a>
+<div slot="description">The 2025 campaign season is heating up, and the race for New Jersey governor could be the sleeper contest of the year. Democratic candidate Congresswoman Mikie Sherrill will face Republican Jack Ciattarelli, a former assemblyman, in their first debate on Sunday. While Sherrill currently leads in polling, Ciattarelli hopes to stage another come-from-behind surprise  with President Trump's backing. New Jersey Globe editor-in-chief David Wildstein gives David Chalian an insider's perspective on the race.
+
+Producer: Paola Ortiz
+
+Senior Producer: Dan Bloom
+
+Technical Director: Dan Dzula
+
+Executive Producer: Steve Lickteig</div>
+<div slot="date">Sep 19, 2025</div>
+<time slot="eplength">16 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/political-briefing/square-m.b46f17b1.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/political-briefing/square-l.e4eba9fe.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/political-briefing/square.e17aade7.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="94090234-585a-11f0-bf06-7ff0959d8adb" data-position="2" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5428335316.mp3?updated=1757647158">
+<a href="/audio/podcasts/political-briefing/episodes/94090234-585a-11f0-bf06-7ff0959d8adb" slot="title" tabindex="0">Bringing Politics Back From the Brink</a>
+<a href="/audio/podcasts/political-briefing" slot="author" target="_blank">CNN Political Briefing</a>
+<div slot="description">The assassination of conservative activist Charlie Kirk has shocked American politics. Michigan Senate Majority Whip Mallory McMorrow is now running for U.S. Senate, and she joins us to explore her path forward in a competitive swing state and address the urgent question of how America can break the its pattern of political violence.
+
+Producer: SofÃ­a SÃ¡nchez
+
+Senior Producer: Dan Bloom
+
+Technical Director: Dan Dzula
+
+Executive Producer: Steve Lickteig</div>
+<div slot="date">Sep 12, 2025</div>
+<time slot="eplength">19 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/political-briefing/square-m.b46f17b1.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/political-briefing/square-l.e4eba9fe.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/political-briefing/square.e17aade7.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="93cca30c-585a-11f0-bf06-93c27e75dfcc" data-position="3" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5085013707.mp3?updated=1757016996">
+<a href="/audio/podcasts/political-briefing/episodes/93cca30c-585a-11f0-bf06-93c27e75dfcc" slot="title" tabindex="0">Illinois Gov to Trump: Donât Send Troops to Chicago</a>
+<a href="/audio/podcasts/political-briefing" slot="author" target="_blank">CNN Political Briefing</a>
+<div slot="description">After federal forces rolledÂ through Los Angeles and Washington, D.C., Ilinois officials are takingÂ President Trumpâs threats to Chicago very seriously, none more soÂ than Governor J.B. Pritzker. Eric Bradner is National PoliticalÂ Reporter for CNN and heâsÂ here to discuss the politicalÂ calculations behind Governor Pritzker's recent moves countering the president.
+
+Producer: Kyra Dahring
+
+Senior Producers: Faiz Jamil, Dan Bloom
+
+Technical Director: Dan Dzula
+
+Executive Producer: Steve Lickteig</div>
+<div slot="date">Sep 5, 2025</div>
+<time slot="eplength">19 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/political-briefing/square-m.b46f17b1.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/political-briefing/square-l.e4eba9fe.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/political-briefing/square.e17aade7.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="938e873e-585a-11f0-bf06-e7c7f434ebff" data-position="4" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5673771556.mp3?updated=1756342293">
+<a href="/audio/podcasts/political-briefing/episodes/938e873e-585a-11f0-bf06-e7c7f434ebff" slot="title" tabindex="0">How Democrats Plan to Counter Trump</a>
+<a href="/audio/podcasts/political-briefing" slot="author" target="_blank">CNN Political Briefing</a>
+<div slot="description">President Trump has spent much of August exerting his power and sparking challenges to its limits. He has upended the traditional independence of the Federal Reserve, launched investigations and searches on his political opponents, and threatened to expand his command of policing America's cities beyond the nation's capital. How should Democrats respond to this shifting political landscape in America? CNN Chief Political Analyst David Axelrod takes us inside the party's internal debates to produce an answer to that critical question.
+
+Producer: Kyra Dahring
+
+Senior Producers: Faiz Jamil, Dan Bloom
+
+Technical Director: Dan Dzula 
+
+Executive Producer:  Steve Lickteig</div>
+<div slot="date">Aug 29, 2025</div>
+<time slot="eplength">25 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/political-briefing/square-m.b46f17b1.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/political-briefing/square-l.e4eba9fe.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/political-briefing/square.e17aade7.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="9351565c-585a-11f0-bf06-871a73e51251" data-position="5" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5131612537.mp3?updated=1755836342">
+<a href="/audio/podcasts/political-briefing/episodes/9351565c-585a-11f0-bf06-871a73e51251" slot="title" tabindex="0">Who Will Win the Gerrymandering War?</a>
+<a href="/audio/podcasts/political-briefing" slot="author" target="_blank">CNN Political Briefing</a>
+<div slot="description">David Daley, author ofÂ Ratf**ked: Why Your Vote Doesn't Count,Â breaks down the gerrymandering arms race sparked by the redistricting push in Texasâhow we got here, what comes next and whether thereâs a way to cool this war down.
+
+
+
+This episode was Produced by Emily Williams.
+
+Senior Producer: Faiz JamilTechnical Director: Dan DzulaÂ Â Â Executive Producer: Â Steve Lickteig</div>
+<div slot="date">Aug 22, 2025</div>
+<time slot="eplength">20 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/political-briefing/square-m.b46f17b1.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/political-briefing/square-l.e4eba9fe.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/political-briefing/square.e17aade7.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="93178a58-585a-11f0-bf06-6bb2a02cbb04" data-position="6" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5069313259.mp3?updated=1755205656">
+<a href="/audio/podcasts/political-briefing/episodes/93178a58-585a-11f0-bf06-6bb2a02cbb04" slot="title" tabindex="0">What Trump and Putin Want Out of Their Summit</a>
+<a href="/audio/podcasts/political-briefing" slot="author" target="_blank">CNN Political Briefing</a>
+<div slot="description">Former national intelligence officer and Russia expert Angela Stent breaks down what President Donald Trump and Russian President Vladimir Putin want out of their summitâand why it's about more than Ukraine. Plus, she shares why sheâs unsure whether Trump will be able to parse Putinâs true intentions after the meeting.Â 
+
+This episode was Produced by Emily Williams.
+
+Senior Producer: Faiz JamilTechnical Director: Dan DzulaÂ Â Â Executive Producer: Â Steve Lickteig</div>
+<div slot="date">Aug 15, 2025</div>
+<time slot="eplength">20 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/political-briefing/square-m.b46f17b1.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/political-briefing/square-l.e4eba9fe.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/political-briefing/square.e17aade7.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="92daa82c-585a-11f0-bf06-bbcd8adbe10f" data-position="7" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5008816874.mp3?updated=1754603911">
+<a href="/audio/podcasts/political-briefing/episodes/92daa82c-585a-11f0-bf06-bbcd8adbe10f" slot="title" tabindex="0">What the Texas House Dems Are Fighting For</a>
+<a href="/audio/podcasts/political-briefing" slot="author" target="_blank">CNN Political Briefing</a>
+<div slot="description">Texas state Rep. James Talarico, along with dozens of his Democratic colleagues, captured the nationâs attention this week when they fled their state to try to block a Republican gerrymandering effort. He shares why they walked out, what he thinks it can accomplish and how his faith informs his approach to politics.</div>
+<div slot="date">Aug 8, 2025</div>
+<time slot="eplength">25 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/political-briefing/square-m.b46f17b1.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/political-briefing/square-l.e4eba9fe.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/political-briefing/square.e17aade7.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="929b17e8-585a-11f0-bf06-5b2b68fd9bee" data-position="8" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY2096506052.mp3?updated=1754014699">
+<a href="/audio/podcasts/political-briefing/episodes/929b17e8-585a-11f0-bf06-5b2b68fd9bee" slot="title" tabindex="0">Dan Balz on Lessons from 47 Years at the Washington Post</a>
+<a href="/audio/podcasts/political-briefing" slot="author" target="_blank">CNN Political Briefing</a>
+<div slot="description">Dan Balz is something of a legend in Washington media. He retired this week from full-time reporting after 47 years at the Washington Post. He shares his insights on the first six months of this second Trump administration and gives some of his best advice for political reporters in an increasingly competitive, rapid-fire industry.</div>
+<div slot="date">Aug 1, 2025</div>
+<time slot="eplength">23 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/political-briefing/square-m.b46f17b1.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/political-briefing/square-l.e4eba9fe.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/political-briefing/square.e17aade7.jpg"/>
+</picture>
+</audio-player-wc>
+<audio-player-wc class="episode" data-guid="925dbeb6-585a-11f0-bf06-177e82ff176a" data-position="9" data-type="podcast" src="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E31CC9/swap.fm/track/2nzGkisFXQswLYT5s325/traffic.megaphone.fm/WMHY5326242994.mp3?updated=1753934004">
+<a href="/audio/podcasts/political-briefing/episodes/925dbeb6-585a-11f0-bf06-177e82ff176a" slot="title" tabindex="0">Epstein Talk Takes Over Capitol Hill</a>
+<a href="/audio/podcasts/political-briefing" slot="author" target="_blank">CNN Political Briefing</a>
+<div slot="description">Jeffrey Epstein talk took over Capitol Hill this week. And while President Donald Trump seems eager to change the subject, some of his closest allies in Congress are calling for answers. Senior White House Correspondent Kristen Holmes and Congressional Correspondent Lauren Fox discuss how this drama played out among House GOP members and why a summer break may not be enough to cool this issue down.</div>
+<div slot="date">Jul 25, 2025</div>
+<time slot="eplength">21 mins</time>
+<picture>
+<source data-type="medium" srcset="/audio/static/images/podcasts/political-briefing/square-m.b46f17b1.jpg"/>
+<source data-type="large" srcset="/audio/static/images/podcasts/political-briefing/square-l.e4eba9fe.jpg"/>
+<source data-type="original" srcset="/audio/static/images/podcasts/political-briefing/square.e17aade7.jpg"/>
+</picture>
+</audio-player-wc>
+<div class="load-more-wrapper" id="load-more-wrapper">
+<load-more-wc aria-label="Show more episodes" aria-role="link" class="load-more" data-key='{"id":"e_925dbeb6-585a-11f0-bf06-177e82ff176a","podcastId":"7abaafde-7ff5-4733-8277-5cc06e9c820c","episodeCreatedAt":1753430400000}' id="load-more" tabindex="0">Show more episodes</load-more-wc>
+<div class="episodes-loader">
+<svg class="load-circle" id="load-circle" viewbox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+<path class="load-circle-front" d="M18 2.0845
+                  a 15.9155 15.9155 0 0 1 0 31.831
+                  a 15.9155 15.9155 0 0 1 0 -31.831" id="load-circle-front" stroke-dasharray="0, 100"></path>
+<path class="load-circle-back" d="M18 2.0845
+                  a 15.9155 15.9155 0 0 1 0 31.831
+                  a 15.9155 15.9155 0 0 1 0 -31.831" id="load-circle-back" stroke-dasharray="100, 100"></path>
+</svg>
+</div>
+</div>
+</div>
+</section>
+</div>
+<bottom-player-wc>
+<div class="metadata">
+<div class="author" id="author"></div>
+<div class="title" id="title"></div>
+</div>
+<div class="controls-progress">
+<div class="controls">
+<button aria-label="Replay Last 10 Seconds" class="control replay clickt" data-clickt="replay-button" id="control-replay"></button>
+<button aria-label="Toggle Play And Pause" class="control play-pause" id="control-play-pause"></button>
+<button aria-label="Toggle Playback Speed" class="control speed" id="control-speed"></button>
+</div>
+<div class="progress-time">
+<time class="elapsed" id="elapsed">0:01</time>
+<progress-bar>
+<front></front>
+</progress-bar>
+<time class="duration" id="duration">1:22:37</time>
+</div>
+</div>
+</bottom-player-wc>
+<footer class="cnn-app-display-none">
+<div class="logo-follow inner">
+<a aria-label="CNN Podcasts Home" class="logo" href="/audio" target="_self"></a>
+<div class="follow">
+<div class="follow-text">Follow CNN</div>
+<div class="social-icons">
+<a class="social-icon" href="https://facebook.com/CNN" rel="noopener" target="_blank" title="Facebook">
+<svg aria-hidden="true" class="facebook-icon" fill="" height="64" viewbox="0 0 64 64" width="64" xmlns="https://www.w3.org/2000/svg">
+<path d="M56,5.1H8c-1.6,0-3,1.4-3,3v48.8c0,1.7,1.3,3,3,3h25.9V38.7h-7v-8.3h7v-6.1 c0-7.1,4.3-10.9,10.5-10.9c3,0,5.9,0.2,6.7,0.3v7.7h-4.7c-3.4,0-4.1,1.6-4.1,4v5h8.1l-1,8.3h-7v21.2H56c1.6,0,3-1.4,3-3V8.1 C59,6.4,57.7,5.1,56,5.1"></path>
+</svg>
+</a>
+<a class="social-icon" href="https://twitter.com/CNN" rel="noopener" target="_blank" title="Twitter">
+<svg aria-hidden="true" class="twitter-icon" fill="" height="64" viewbox="0 0 64 64" width="64" xmlns="https://www.w3.org/2000/svg">
+<path d="M60,15.2c-2.1,0.9-4.3,1.5-6.6,1.7c2.4-1.4,4.2-3.6,5.1-6.1c-2.2,1.3-4.7,2.2-7.3,2.7 c-2.1-2.2-5.1-3.5-8.4-3.5c-6.3,0-11.5,5-11.5,11.1c0,0.9,0.1,1.7,0.3,2.5C22,23.2,13.6,18.8,7.9,12c-1,1.6-1.6,3.5-1.6,5.6 c0,3.9,2,7.3,5.1,9.2c-1.9-0.1-3.7-0.6-5.2-1.4v0.1c0,5.4,4,9.9,9.2,10.9c-1,0.3-2,0.4-3,0.4c-0.7,0-1.5-0.1-2.2-0.2 c1.5,4.4,5.7,7.6,10.7,7.7c-3.9,3-8.9,4.8-14.3,4.8c-0.9,0-1.8-0.1-2.7-0.2c5.1,3.2,11.1,5,17.6,5c21.1,0,32.7-16.9,32.7-31.6 c0-0.5,0-1,0-1.4C56.5,19.4,58.5,17.4,60,15.2"></path>
+</svg>
+</a>
+<a class="social-icon" href="https://instagram.com/cnn" rel="noopener" target="_blank" title="Instagram">
+<svg aria-hidden="true" class="instagram-icon" fill="" height="64" viewbox="0 0 64 64" width="64" xmlns="https://www.w3.org/2000/svg">
+<path d="M47,13.2c-1.9,0-3.5,1.6-3.5,3.6s1.6,3.6,3.5,3.6s3.5-1.6,3.5-3.6S49,13.2,47,13.2 L47,13.2z M31.9,23c-5.1,0-9.3,4.3-9.3,9.5s4.2,9.5,9.3,9.5s9.3-4.3,9.3-9.5S37,23,31.9,23L31.9,23z M31.9,46.7 c-7.7,0-14-6.4-14-14.2s6.3-14.2,14-14.2s14,6.4,14,14.2S39.6,46.7,31.9,46.7L31.9,46.7z M15.7,8.8c-3.9,0-7,3.2-7,7.1v33.2 c0,3.9,3.1,7.1,7,7.1h32.7c3.9,0,7-3.2,7-7.1V15.9c0-3.9-3.1-7.1-7-7.1C48.4,8.8,15.7,8.8,15.7,8.8z M48.3,60.9H15.7 C9.2,60.9,4,55.6,4,49.1V15.9C4,9.4,9.2,4.1,15.7,4.1h32.7C54.8,4.1,60,9.4,60,15.9v33.2C60,55.6,54.8,60.9,48.3,60.9L48.3,60.9z"></path>
+</svg>
+</a>
+</div>
+</div>
+</div>
+<ul class="links inner">
+<li>
+<a href="/terms" target="_blank">Terms of Use</a>
+</li>
+<li>
+<a href="/privacy" target="_blank">Privacy Policy</a>
+</li>
+<li>
+<a href="https://www.warnermediaprivacy.com/policycenter/b2c/WMNS/" target="_blank">Ad Choices</a>
+</li>
+<li id="user-consent">
+<user-consent-wc></user-consent-wc>
+</li>
+<li>
+<a href="/about" target="_blank">About Us</a>
+</li>
+<li>
+<a href="/tour" target="_blank">CNN Studio Tours</a>
+</li>
+<li>
+<a href="https://store.cnn.com" target="_blank">CNN Store</a>
+</li>
+<li>
+<a href="/newsletters" target="_blank">Newsletters</a>
+</li>
+<li>
+<a href="/transcripts" target="_blank">Transcripts</a>
+</li>
+<li>
+<a href="/collections" target="_blank">License Footage</a>
+</li>
+<li>
+<a href="https://cnnnewsource.com/" target="_blank">CNN Newsource</a>
+</li>
+<li>
+<a href="/sitemap.html" target="_blank">Sitemap</a>
+</li>
+</ul>
+<div class="copyright inner">
+<span>Â© 2025 Cable News Network</span>
+<a href="https://www.turner.com/" target="_blank">A Warner Bros. Discovery Company.</a>
+<span>All Rights Reserved.</span>
+</div>
+<div class="copyright inner">
+<span>CNN Sans â¢ &amp; Â© 2016 Cable News Network.</span>
+</div>
+</footer>
+<script src="/audio/static/scripts/zion-suite.1a1174c6.js" type="text/javascript"></script>
+<script src="/audio/static/scripts/adobe.f478f3eb.js" type="text/javascript"></script>
+<script src="/audio/static/modules/bottom-player.d4ce3641.js" type="module"></script>
+<script src="/audio/static/modules/share-button.c5b849c5.js" type="module"></script>
+<script src="/audio/static/modules/menu-icon.59c9101a.js" type="module"></script>
+<script src="/audio/static/modules/hub-player-template.b3a75539.js" type="module"></script>
+<script src="/audio/static/modules/left-nav-player-template.68ce5f22.js" type="module"></script>
+<script src="/audio/static/modules/user-consent.78c22120.js" type="module"></script>
+<script src="/audio/static/modules/follow-button.8334b3b6.js" type="module"></script>
+<script src="/audio/static/modules/hero-arrow.a0a57d74.js" type="module"></script>
+<script src="/audio/static/modules/router.165609c7.js" type="module"></script>
+<script src="/audio/static/modules/load-more.1c20a0c4.js" type="module"></script>
+<script src="/audio/static/modules/audio-player.902967ed.js" type="module"></script>
+<script src="/audio/static/modules/live-audio-player.36667ef9.js" type="module"></script>
+<script src="/audio/static/modules/base-player-template.89c77b4e.js" type="module"></script>
+<script src="/audio/static/modules/registry.0de615f8.js" type="module"></script>
+<script src="/audio/static/modules/player.2a19e3aa.js" type="module"></script>
+<script src="/audio/static/modules/player-model.0f9b222b.js" type="module"></script>
+<div class="loader" id="loader">
+<div class="circle">
+<svg class="load-circle" id="load-circle" viewbox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+<path class="load-circle-front" d="M18 2.0845
+                          a 15.9155 15.9155 0 0 1 0 31.831
+                          a 15.9155 15.9155 0 0 1 0 -31.831" id="load-circle-front" stroke-dasharray="0, 100"></path>
+<path class="load-circle-back" d="M18 2.0845
+                          a 15.9155 15.9155 0 0 1 0 31.831
+                          a 15.9155 15.9155 0 0 1 0 -31.831" id="load-circle-back" stroke-dasharray="100, 100">
+</path>
+</svg>
+</div>
+</div>
+<script type="text/javascript">
+        if (!window.CNN) {
+          window.CNN = {};
+        }
+        if (!window.CNN.omniture) {
+          window.CNN.omniture = {
+            'content_type': 'audio',
+            'template_type': 'podcast'
+          }
+        }
+        window.addEventListener('load', e => {
+          const event = new CustomEvent('CNN:PageView');
+          window.dispatchEvent(event);
+        });
+      </script>
+</body>
+</html>
+

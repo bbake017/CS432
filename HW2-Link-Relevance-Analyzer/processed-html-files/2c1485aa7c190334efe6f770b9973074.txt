@@ -1,0 +1,16 @@
+Bitte geben Sie Ihr Passwort ein
+Passwort bestätigen*
+Bitte geben Sie das gleiche Passwort ein
+Ich habe die Nutzungsbedingungen und die Datenschutzerklärung zur Erhebung persönlicher Daten gelesen und stimme ihnen zu. *
+Dieses Feld ist ein Pflichtfeld.
+Ich möchte den Newsletter der Deutschen Digitalen Bibliothek abonnieren. Siehe Informationen zum Newsletter-Abonnement .
+Benutzerkonto anlegen
+Benutzerkonto angelegt
+Ihr „Meine DDB“-Konto wurde erfolgreich angelegt. Bevor Sie sich in Ihrem Konto anmelden können, müssen Sie auf den Bestätigungslink in der Nachricht klicken, die wir gerade an die von Ihnen angegebene E-Mail-Adresse geschickt haben
+Passwort zurücksetzen
+Felder mit * müssen ausgefüllt werden.
+Benutzername oder E-Mail*
+Bitte geben Sie Ihren Benutzernamen oder Ihre E-Mail ein
+Passwort zurücksetzen
+Ihr Passwort wurde zurückgesetzt. Wir haben eine Nachricht mit einem neuen Passwort an Ihre E-Mail-Adresse geschickt. Damit die Änderung wirksam wird, müssen Sie auf den in der E-Mail angegebenen Bestätigungslink klicken. Anschließend können Sie sich mit dem neuen Passwort anmelden.
+

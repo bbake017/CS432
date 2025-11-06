@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>Trump Twitter Archive</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="Brendan Brown" name="author"/>
+<meta content="All 50,000+ of Trump's tweets, instantly searchable" name="description"/>
+<meta content="donald trump, twitter, tweets, archive, all tweets, realDonaldTrump, politics, president, presidential race, GOP, republican, democrat, election 2020" name="keywords"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="All 50,000+ of Trump's tweets, instantly searchable" property="og:description"/>
+<meta content="https://i.ibb.co/wsf7FVH/archive-screenshot.png" property="og:image"/>
+<meta content="Trump Twitter Archive" property="og:title"/>
+<meta content="website" property="og:type"/>
+<meta content="//www.thetrumparchive.com" property="og:url"/>
+<link href="favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="https://thorin-us-east-1.searchly.com" rel="preconnect"/>
+<script crossorigin="" src="/assets/index-zfCwjnuD.js" type="module"></script>
+<link crossorigin="" href="/assets/index-iqjU-TPD.css" rel="stylesheet"/>
+</head>
+<body>
+<div id="app"></div>
+<script async="async" src="https://truthsocial.com/embed.js"></script>
+</body>
+</html>
+

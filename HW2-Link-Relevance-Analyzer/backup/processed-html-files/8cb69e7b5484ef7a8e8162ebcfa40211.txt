@@ -1,0 +1,6 @@
+Connected accounts Add a password to your CNN account Connect your Google or Apple account
+Manage the accounts you use to sign in.
+For security, we'll ask you to sign in again with Google or Apple before adding a password.
+To connect your Google or Apple account, enter your CNN account password.
+Disconnect Google
+

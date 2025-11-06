@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html lang="en">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<!-- Copy and paste title and meta tags from original file -->
+<title>Welcome to the New CNN.com - Interactive tour</title> <meta content="Welcome to the New CNN.com - Interactive tour" name="Title"/> <meta content="Your news experience just got a whole lot richer. CNN.com is taking storytelling to the next level with breathtaking photography and video. Find the latest and most compelling stories and images you expect from CNN.com" name="Description"/> <meta content="CNN, CNN news, CNN.com, CNN TV, news, news online, breaking news, U.S. news, world news, weather, business, CNN Money, sports, politics, law, technology, entertainment, education, travel, health, special reports, autos, developing story, news video, CNN Intl" name="Keywords"/>
+<link href="http://i.cdn.turner.com/cnn/.element/css/3.0/common.css" rel="stylesheet" type="text/css"/>
+<link href="http://i.cdn.turner.com/cnn/.element/css/3.0/connect/overlay.css" rel="stylesheet" type="text/css"/>
+<script src="http://i.cdn.turner.com/cnn/.element/js/3.0/protoaculous.1.8.2.min.js" type="text/javascript"></script>
+<script src="http://i.cdn.turner.com/cnn/.element/js/3.0/main.js" type="text/javascript"></script>
+<script src="http://i.cdn.turner.com/cnn/.element/js/3.0/StorageManager.js" type="text/javascript"></script>
+<script src="http://i.cdn.turner.com/cnn/.element/js/3.0/csiManager.js" type="text/javascript"></script>
+<script src="http://i.cdn.turner.com/cnn/.element/js/3.0/connect/connect-lite.js" type="text/javascript"></script>
+<script src="http://i.cdn.turner.com/cnn/.element/js/3.0/swfobject-2.2.js" type="text/javascript"></script>
+<!--#include virtual="/.element/ssi/auto/3.0/global/time/currenttime.txt"-->
+<!--#include virtual="/cnn_adspaces/ad_head0.txt" -->
+</head>
+<body>
+<!-- 728 ceiling ad -->
+<!-- header -->
+<!--#include virtual="/editionssi/misc/3.0/header/sect/generic.html" -->
+<div id="cnnContainer">
+<div id="cnnContentContainer">
+<!-- breaking news banner -->
+<!--#include virtual="/editionssi/breaking_news/3.0/bannerCSI.html"-->
+<div id="cnnMainContent">
+<div align="center" style="padding:25px 0;">
+<div id="cnn_Flash1" style="width:980px;background-color:#0D0D0D;"></div>
+<script>
+
+function cnn_embedFlash1() {
+	
+	var cnn_eflashcntr = 'cnn_Flash1';
+
+	if ( ( typeof CNN_FlashDetect != 'undefined' ) && new CNN_FlashDetect().detectVersion( 9 ) ) {
+		try {
+			var cnn_flash_url = 'CNN-InteractiveTour.swf';
+			var module = new CNN_FlashObject("module", cnn_flash_url,980, 517, {"loop" : false, "allowscriptAccess" : "always"});
+			module.writeMosaicHtml(cnn_eflashcntr);
+		}
+		catch ( e ) { } 
+	}
+	else { Element.update(cnn_eflashcntr, '<a href="http://get.adobe.com/flashplayer/" target="_blank"><img src="/.element/img/3.0/global/misc/320x180_no_flash.gif" width="320" height="180" alt="" border="0"></a>'); }
+	
+}
+
+cnn_embedFlash1();
+
+</script>
+<noscript><a href="http://get.adobe.com/flashplayer/" target="_blank"><img alt="" border="0" height="234" src="/.element/img/3.0/global/misc/416x234_no_flash.gif" width="416"/></a></noscript>
+</div>
+</div><!-- /cnnMainContent -->
+</div><!-- /cnnContentContainer -->
+</div><!-- /cnnContainer -->
+<script type="text/javascript">cnnInitOverlay();</script>
+
+<div align="center">
+<!--#include virtual="/editionssi/misc/3.0/footer/main.html"-->
+</div>
+<!--#include virtual="/cnn_adspaces/ad_tail0.txt" -->
+</body>
+</html>
+

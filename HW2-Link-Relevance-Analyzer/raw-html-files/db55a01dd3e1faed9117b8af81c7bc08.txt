@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>Work for us</title>
+<meta content="" name="description"/>
+<meta content="concrete5 - 5.6.4.0" name="generator"/>
+<script type="text/javascript">
+var CCM_DISPATCHER_FILENAME = '/index.php';var CCM_CID = 1;var CCM_EDIT_MODE = false;var CCM_ARRANGE_MODE = false;var CCM_IMAGE_PATH = "/concrete/images";
+var CCM_TOOLS_PATH = "/index.php/tools/required";
+var CCM_BASE_URL = "http://workforus.theguardian.com";
+var CCM_REL = "";
+
+</script>
+<link href="/concrete/css/ccm.base.css" rel="stylesheet" type="text/css"/>
+<script src="/concrete/js/jquery.js" type="text/javascript"></script>
+<script src="/concrete/js/ccm.base.js" type="text/javascript"></script>
+<link href="/concrete/blocks/search/view.css" rel="stylesheet" type="text/css"/>
+<link href="/concrete/blocks/page_list/view.css" rel="stylesheet" type="text/css"/>
+<link href="/blocks/page_picker/view.css" rel="stylesheet" type="text/css"/>
+<script src="/blocks/page_picker/view.js" type="text/javascript"></script>
+<meta content="ThirtyThree LLP" name="author"/>
+<!-- Viewport -->
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<!-- CSS -->
+<link href="/themes/guarcare1401/assets/css/main.css?v=1" rel="stylesheet"/>
+<!-- Guardian Web Fonts -->
+<link href="https://pasteup.guim.co.uk/0.0.8/css/fonts.pasteup.min.css" rel="stylesheet"/>
+<!-- IE CSS -->
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="/themes/guarcare1401/assets/css/old-ie.css">
+    <![endif]-->
+<!-- Modernizr -->
+<script src="/themes/guarcare1401/assets/js/inc/modernizr-2.8.1.min.js"></script>
+<!-- Social Icons -->
+<link href="/themes/guarcare1401/assets/img/32x32.ico" rel="shortcut icon" type="image/png">
+<link href="/themes/guarcare1401/assets/img/152x152.png" rel="apple-touch-icon" sizes="152x152">
+<link href="/themes/guarcare1401/assets/img/144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/themes/guarcare1401/assets/img/120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/themes/guarcare1401/assets/img/114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/themes/guarcare1401/assets/img/72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/themes/guarcare1401/assets/img/57x57.png" rel="apple-touch-icon-precomposed"/>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-K333RL6');</script>
+<!-- End Google Tag Manager -->
+<!-- ReciteMe Plugin-->
+<script>
+        var serviceUrl = "//api.reciteme.com/asset/js?key=";
+        var serviceKey = "b99cc632fc42cd790234d3d0b752f0b2c0151ba6";
+        var options = {};  // Options can be added as needed
+        var autoLoad = false;
+        var enableFragment = "#reciteEnable";
+        var loaded = [], frag = !1; window.location.hash === enableFragment && (frag = !0); function loadScript(c, b) { var a = document.createElement("script"); a.type = "text/javascript"; a.readyState ? a.onreadystatechange = function () { if ("loaded" == a.readyState || "complete" == a.readyState) a.onreadystatechange = null, void 0 != b && b() } : void 0 != b && (a.onload = function () { b() }); a.src = c; document.getElementsByTagName("head")[0].appendChild(a) } function _rc(c) { c += "="; for (var b = document.cookie.split(";"), a = 0; a < b.length; a++) { for (var d = b[a]; " " == d.charAt(0);)d = d.substring(1, d.length); if (0 == d.indexOf(c)) return d.substring(c.length, d.length) } return null } function loadService(c) { for (var b = serviceUrl + serviceKey, a = 0; a < loaded.length; a++)if (loaded[a] == b) return; loaded.push(b); loadScript(serviceUrl + serviceKey, function () { "function" === typeof _reciteLoaded && _reciteLoaded(); "function" == typeof c && c(); Recite.load(options); Recite.Event.subscribe("Recite:load", function () { Recite.enable() }) }) } "true" == _rc("Recite.Persist") && loadService(); if (autoLoad && "false" != _rc("Recite.Persist") || frag) document.addEventListener ? document.addEventListener("DOMContentLoaded", function (c) { loadService() }) : loadService();
+    </script>
+<script type="text/javascript">
+        document.addEventListener("DOMContentLoaded", function(event) {
+            var reciteButton = document.getElementById('enableRecite');
+            var reciteIcon = document.getElementById('enableRecite-icon');
+            
+            function hideReciteControls() {
+                if (reciteButton) reciteButton.style.display = 'none';
+                if (reciteIcon) reciteIcon.style.display = 'none';
+                // Remove aria-expanded since buttons are hidden
+            }
+
+            // Hide controls when ReciteMe is active
+            if (typeof Recite !== 'undefined') {
+                Recite.Event.subscribe('Recite:load', hideReciteControls);
+            }
+
+            reciteButton.addEventListener("click", function() {                
+                loadService();
+                hideReciteControls();
+            });
+
+            reciteIcon.addEventListener("click", function() {
+                loadService();
+                hideReciteControls();
+            });
+        });
+    </script>
+<!-- End ReciteMe Plugin-->
+</link></link></head>
+<body class="type-home home no-subnav">
+<div class="site">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-K333RL6" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!--[if lt IE 7]>
+      <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+    <![endif]-->
+<div class="skip">
+<div class="constrain">
+<a class="skip__link" href="#main-content">Skip to main content</a>
+</div>
+</div>
+<header class="site-header" role="banner">
+<div class="constrain">
+<div class="reciteme-plugin">
+<button aria-controls="recite-header" aria-label="Launch Recite Me , accessibility tool" class="Reciteme-btn" id="enableRecite" type="button">
+                Accessibility toolbar 
+                <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+                    <path d="M20.5,4c-2.61,0.7-5.67,1-8.5,1S6.11,4.7,3.5,4L3,6c1.86,0.5,4,0.83,6,1v12h2v-6h2v6h2V7c2-0.17,4.14-0.5,6-1L20.5,4z M12,4c1.1,0,2-0.9,2-2s-0.9-2-2-2s-2,0.9-2,2S10.9,4,12,4z M7,24h2v-2H7V24z M11,24h2v-2h-2V24z M15,24h2v-2h-2V24z"/>
+                </svg> -->
+</button>
+</div>
+<div class="applicants">
+<p class="applicants__lead">Already applied for a job at Guardian News &amp; Media?</p>
+<a class="applicants__link button is-small is-rev" href="https://fa-euxy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/my-profile" onclick="_gaq.push(['_trackEvent', 'Applicant Login', 'Click']);">Track your application</a>
+</div>
+<nav aria-labelledby="aria-nav--services" class="nav-services" role="navigation">
+<h2 class="visibility-hidden" id="aria-nav--services">Services Menu</h2>
+<ul>
+<li class="nav__item"><a class="nav__link" href="http://www.theguardian.com/" target="_blank"><span>theguardian.com</span></a></li> </ul>
+</nav>
+<div class="site-brand" itemscope="" itemtype="http://schema.org/Organization">
+<a class="site-brand__link" href="/" itemprop="url" rel="home">
+<h1 class="site-brand__heading" itemprop="name">The Guardian Work For Us</h1>
+<img alt="The Guardian Work For Us Logo" class="site-brand__media" itemprop="logo" src="/themes/guarcare1401/assets/img/RGB_The Guardian_OneLine_Work for us-01.png"/>
+</a>
+</div>
+</div>
+<div class="nav-main">
+<div class="constrain grp">
+<div class="nav-scroll">
+<nav aria-labelledby="aria-nav--local" class="nav-local" role="navigation">
+<h2 class="visibility-hidden" id="aria-nav--local">Local Menu</h2>
+<div class="nav-local__list nav-local__list--suborsibling"></div> </nav>
+<nav aria-hidden="false" aria-labelledby="aria-nav--primary" class="nav-primary" id="js-nav-primary" role="navigation">
+<h2 class="visibility-hidden" id="aria-nav--primary">Primary Menu</h2>
+<ul class="nav--tier-1"> <li class="nav__item is-first is-selected"> <a class="nav__link" href="/" target="_self">Work for us</a> </li> <li class="nav__item"> <a class="nav__link" href="/life-at-GNM/" target="_self">About us</a> </li> <li class="nav__item"> <a class="nav__link" href="/careers/" target="_self">Careers</a> </li> <li class="nav__item"> <a class="nav__link" href="/entry-level-opportunities/" target="_self">Entry level opportunities</a> </li> <li class="nav__item"> <a class="nav__link" href="/faqs/" target="_self">FAQs</a> </li> <li class="nav__item"> <a class="nav__link" href="/locations/" target="_self">Our locations</a> </li> <li class="nav__item"> <a class="nav__link" href="/search-jobs-and-apply/" target="_self">Search jobs and apply</a> </li></ul> </nav>
+</div>
+<a class="menu-toggle" href="" id="js-menu-toggle">
+<span class="menu-close"><span role="presentation"></span></span>
+<span class="hide-to-wide">browse </span>
+<span>all</span>
+<span class="hide-to-tabletlandscape"> sections</span>
+</a>
+<nav aria-hidden="true" aria-labelledby="aria-nav--full" class="nav-all is-closed" id="js-nav-all" role="navigation">
+<h2 class="visibility-hidden" id="aria-nav--full">Full Menu</h2>
+<ul class="nav--tier-1"><li class="nav__item is-selected is-first"> <a class="nav__link" href="/" target="_self">Work for us</a></li><li class="nav__item nav-dropdown"> <a class="nav__link" href="/life-at-GNM/" target="_self">About us</a><ul class="nav--tier-2"><li class="nav__item is-first"> <a class="nav__link" href="/life-at-GNM/diversity-inclusion/" target="_self">Diversity &amp; Inclusion</a></li><li class="nav__item"> <a class="nav__link" href="/life-at-GNM/climate-pledge/" target="_self">Positive Impact &amp; Sustainability</a></li></ul></li><li class="nav__item nav-dropdown"> <a class="nav__link" href="/careers/" target="_self">Careers</a><ul class="nav--tier-2"><li class="nav__item is-first"> <a class="nav__link" href="/careers/editorial/" target="_self">Editorial</a></li><li class="nav__item"> <a class="nav__link" href="/careers/product-engineering/" target="_self">Product &amp; Engineering</a></li><li class="nav__item"> <a class="nav__link" href="/careers/commercial/" target="_self">Commercial</a></li><li class="nav__item"> <a class="nav__link" href="/careers/business-operations/" target="_self">Business operations</a></li></ul></li><li class="nav__item nav-dropdown"> <a class="nav__link" href="/entry-level-opportunities/" target="_self">Entry level opportunities</a><ul class="nav--tier-2"><li class="nav__item is-first"> <a class="nav__link" href="/entry-level-opportunities/scott-trust-bursaries/" target="_self">Scott Trust Bursary</a></li><li class="nav__item"> <a class="nav__link" href="/entry-level-opportunities/summer-internships/" target="_self">Commercial Summer Internships</a></li><li class="nav__item"> <a class="nav__link" href="/entry-level-opportunities/positive-action-scheme/" target="_self">Positive Action Scheme 2025</a></li><li class="nav__item"> <a class="nav__link" href="/entry-level-opportunities/digital-development-scheme/" target="_self">Software Engineering Fellowship</a></li></ul></li><li class="nav__item"> <a class="nav__link" href="/faqs/" target="_self">FAQs</a></li><li class="nav__item nav-dropdown"> <a class="nav__link" href="/locations/" target="_self">Our locations</a><ul class="nav--tier-2"><li class="nav__item is-first"> <a class="nav__link" href="/locations/london/" target="_self">UK</a></li><li class="nav__item"> <a class="nav__link" href="/locations/new-york/" target="_self">USA</a></li><li class="nav__item"> <a class="nav__link" href="/locations/sydney/" target="_self">Australia</a></li></ul></li><li class="nav__item"> <a class="nav__link" href="/search-jobs-and-apply/" target="_self">Search jobs and apply</a></li></ul> </nav>
+</div>
+</div>
+</header>
+<main class="site-main" id="main-content" role="main">
+<section class="site-content site-content--wide masthead">
+<div class="banner banner--pinned" style="background-image: url(/files/5514/5760/3141/h-homepagex2.jpg);">
+<div class="constrain">
+<div class="banner__body">
+<h2 class="page-header-7 color--black">Work for us</h2>
+<p class="headline-4"><strong>at Guardian News &amp; Media</strong></p>
+<form action="/index.php/search-jobs-and-apply/" class="ccm-search-block-form" method="get" role="search">
+<input name="search_paths[]" type="hidden" value="/jobs"/>
+<label class="visibility-hidden" for="search-query">Search Text</label>
+<input class="ccm-search-block-text" id="search-query" name="query" type="text" value=""/>
+<input class="ccm-search-block-submit" name="submit" type="submit" value="Search Jobs"/>
+</form>
+<div class="clocks">
+<a href="/locations/london">
+<time datetime="2025-09-28T07:22">London<i class="arrow guar-icon-arrow-right"></i></time>
+</a>
+<a href="/locations/new-york">
+<time datetime="2025-09-28T02:22">New York<i class="arrow guar-icon-arrow-right"></i></time>
+</a>
+<a href="/locations/sydney">
+<time datetime="2025-09-29T04:22">Sydney<i class="arrow guar-icon-arrow-right"></i></time>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="constrain">
+<section class="site-content site-content--main">
+<div class="content-wrap cs-o"><h2 class="site-content__title"><a href="/search-jobs-and-apply/" title="jobs">Jobs</a></h2></div>
+<div class="constrain__inner layout--grid cs-o">
+<article class="item grid__item grid__item--job" itemscope="" itemtype="http://schema.org/JobPosting">
+<h3 class="item__title">
+<a class="item__link" href="/jobs/737/" onclick="_gaq.push(['_trackEvent', 'Jobs List', 'Click', 'Deputy US Arts Editor']);" target="_self"><span itemprop="title">Deputy US Arts Editor</span></a>
+</h3>
+<div class="item__body" itemprop="description">
+<p>Full time - New York, New York, United States, United States</p>
+</div>
+</article>
+<article class="item grid__item grid__item--job" itemscope="" itemtype="http://schema.org/JobPosting">
+<h3 class="item__title">
+<a class="item__link" href="/jobs/871/" onclick="_gaq.push(['_trackEvent', 'Jobs List', 'Click', 'Cyber Security Engineer']);" target="_self"><span itemprop="title">Cyber Security Engineer</span></a>
+</h3>
+<div class="item__body" itemprop="description">
+<p>Full time - London, United Kingdom, United Kingdom</p>
+</div>
+</article>
+<article class="item grid__item grid__item--job" itemscope="" itemtype="http://schema.org/JobPosting">
+<h3 class="item__title">
+<a class="item__link" href="/jobs/832/" onclick="_gaq.push(['_trackEvent', 'Jobs List', 'Click', 'Guardian Australia Scott Trust Cadet']);" target="_self"><span itemprop="title">Guardian Australia Scott Trust Cadet</span></a>
+</h3>
+<div class="item__body" itemprop="description">
+<p>Full time - Sydney, New South Wales, Australia, Australia</p>
+</div>
+</article>
+<article class="item grid__item grid__item--job" itemscope="" itemtype="http://schema.org/JobPosting">
+<h3 class="item__title">
+<a class="item__link" href="/jobs/846/" onclick="_gaq.push(['_trackEvent', 'Jobs List', 'Click', 'Guardian Australia Scott Trust Cadet (Indigenous identified)']);" target="_self"><span itemprop="title">Guardian Australia Scott Trust Cadet (Indigenous identified)</span></a>
+</h3>
+<div class="item__body" itemprop="description">
+<p>Full time - Sydney, New South Wales, Australia, Australia</p>
+</div>
+</article>
+<article class="item grid__item grid__item--job is-hidden" itemscope="" itemtype="http://schema.org/JobPosting">
+<h3 class="item__title">
+<a class="item__link" href="/jobs/853/" onclick="_gaq.push(['_trackEvent', 'Jobs List', 'Click', 'State Sales Director, VIC + SA']);" target="_self"><span itemprop="title">State Sales Director, VIC + SA</span></a>
+</h3>
+<div class="item__body" itemprop="description">
+<p>Full time - Melbourne, Victoria, Australia, Australia</p>
+</div>
+</article>
+<article class="item grid__item grid__item--job is-hidden" itemscope="" itemtype="http://schema.org/JobPosting">
+<h3 class="item__title">
+<a class="item__link" href="/jobs/854/" onclick="_gaq.push(['_trackEvent', 'Jobs List', 'Click', 'Site editor, international desk']);" target="_self"><span itemprop="title">Site editor, international desk</span></a>
+</h3>
+<div class="item__body" itemprop="description">
+<p>Full time - Sydney, New South Wales, Australia, Australia</p>
+</div>
+</article>
+<article class="item grid__item grid__item--job is-hidden" itemscope="" itemtype="http://schema.org/JobPosting">
+<h3 class="item__title">
+<a class="item__link" href="/jobs/861/" onclick="_gaq.push(['_trackEvent', 'Jobs List', 'Click', 'Technical Account Manager']);" target="_self"><span itemprop="title">Technical Account Manager</span></a>
+</h3>
+<div class="item__body" itemprop="description">
+<p>Full time - United Kingdom, United Kingdom</p>
+</div>
+</article>
+<article class="item grid__item grid__item--job is-hidden" itemscope="" itemtype="http://schema.org/JobPosting">
+<h3 class="item__title">
+<a class="item__link" href="/jobs/862/" onclick="_gaq.push(['_trackEvent', 'Jobs List', 'Click', 'Reporter, movement building and politics']);" target="_self"><span itemprop="title">Reporter, movement building and politics</span></a>
+</h3>
+<div class="item__body" itemprop="description">
+<p>Full time - United States, United States</p>
+</div>
+</article>
+<article class="item grid__item grid__item--job is-hidden" itemscope="" itemtype="http://schema.org/JobPosting">
+<h3 class="item__title">
+<a class="item__link" href="/jobs/820/" onclick="_gaq.push(['_trackEvent', 'Jobs List', 'Click', 'Vice President, Marketing']);" target="_self"><span itemprop="title">Vice President, Marketing</span></a>
+</h3>
+<div class="item__body" itemprop="description">
+<p>Full time - New York, New York, United States, United States</p>
+</div>
+</article>
+<article class="item grid__item grid__item--job is-hidden" itemscope="" itemtype="http://schema.org/JobPosting">
+<h3 class="item__title">
+<a class="item__link" href="/jobs/857/" onclick="_gaq.push(['_trackEvent', 'Jobs List', 'Click', 'Operations Specialist']);" target="_self"><span itemprop="title">Operations Specialist</span></a>
+</h3>
+<div class="item__body" itemprop="description">
+<p>Full time - New York, New York, United States, United States</p>
+</div>
+</article>
+<article class="item grid__item grid__item--job is-hidden" itemscope="" itemtype="http://schema.org/JobPosting">
+<h3 class="item__title">
+<a class="item__link" href="/jobs/863/" onclick="_gaq.push(['_trackEvent', 'Jobs List', 'Click', 'Reporter, movement building and communities']);" target="_self"><span itemprop="title">Reporter, movement building and communities</span></a>
+</h3>
+<div class="item__body" itemprop="description">
+<p>Full time - United States, United States</p>
+</div>
+</article>
+<article class="item grid__item grid__item--job is-hidden" itemscope="" itemtype="http://schema.org/JobPosting">
+<h3 class="item__title">
+<a class="item__link" href="/jobs/855/" onclick="_gaq.push(['_trackEvent', 'Jobs List', 'Click', 'Chief political correspondent']);" target="_self"><span itemprop="title">Chief political correspondent</span></a>
+</h3>
+<div class="item__body" itemprop="description">
+<p>Full time - Canberra, Australian Capital Territory, Australia, Australia</p>
+</div>
+</article>
+<div class="reveal js-reveal">
+<a class="reveal__cta button button--link is-small" data-x="" data-y="" href="/search-jobs-and-apply/?query=United+Kingdom">5 UK Jobs</a>
+<a class="reveal__cta button button--link is-small" data-x="" data-y="" href="/search-jobs-and-apply/?query=United+States">11 USA Jobs</a>
+<a class="reveal__cta button button--link is-small" data-x="" data-y="" href="/search-jobs-and-apply/?query=Australia">5 Australia Jobs</a>
+<a class="reveal__cta button button--link is-small" href="/search-jobs-and-apply/" onclick="_gaq.push(['_trackEvent', 'Jobs List', 'Click', 'View all jobs']);">View all jobs</a>
+</div>
+</div>
+<div class="content-wrap nowrap"><h2 class="site-content__title"><a href="/careers/" title="Careers">Careers</a></h2></div>
+<div class="constrain__inner constrain__inner--wide layout--col">
+<div class="layout--col__wrap">
+<a class="item col__item col__item--quarter" href="/careers/editorial/" onclick="_gaq.push(['_trackEvent', 'Related Content', 'Click', 'Editorial']);">
+<article aria-labelledby="item-484--editorial">
+<h3 class="item__title visibility-hidden" id="item-484--editorial">
+<span class="item__link">Editorial</span>
+</h3>
+<div class="item__media">
+<img alt="Editorial" src="/files/cache/1ef25335687120183e62da28621c79d0_f113.jpg">
+</img></div>
+<div class="item__body"><p>Our open journalism takes bigger stories to a bigger audience</p><span class="button button--link">Editorial</span></div>
+</article>
+</a>
+<a class="item col__item col__item--quarter" href="/careers/product-engineering/" onclick="_gaq.push(['_trackEvent', 'Related Content', 'Click', 'Product &amp; Engineering']);">
+<article aria-labelledby="item-484--product-engineering">
+<h3 class="item__title visibility-hidden" id="item-484--product-engineering">
+<span class="item__link">Product &amp; Engineering</span>
+</h3>
+<div class="item__media">
+<img alt="Product &amp; Engineering" src="/files/cache/b715829ae583ffcd91d298047b79884e_f112.jpg"/>
+</div>
+<div class="item__body"><p>We’re shaping the future of digital journalism. Join us.</p><span class="button button--link">Product &amp; Engineering</span></div>
+</article>
+</a>
+<a class="item col__item col__item--quarter" href="/careers/commercial/" onclick="_gaq.push(['_trackEvent', 'Related Content', 'Click', 'Commercial']);">
+<article aria-labelledby="item-484--commercial">
+<h3 class="item__title visibility-hidden" id="item-484--commercial">
+<span class="item__link">Commercial</span>
+</h3>
+<div class="item__media">
+<img alt="Commercial" src="/files/cache/5c858e999ec3f7c18de588cf486b910f_f111.jpg"/>
+</div>
+<div class="item__body"><p>Harness the power of a uniquely progressive brand</p><span class="button button--link">Commercial</span></div>
+</article>
+</a>
+<a class="item col__item col__item--quarter" href="/careers/business-operations/" onclick="_gaq.push(['_trackEvent', 'Related Content', 'Click', 'Business operations']);">
+<article aria-labelledby="item-484--business-operations">
+<h3 class="item__title visibility-hidden" id="item-484--business-operations">
+<span class="item__link">Business operations</span>
+</h3>
+<div class="item__media">
+<img alt="Business operations" src="/files/cache/fc9265ebc4ddaa50c6f1c6a3def209ed_f110.jpg"/>
+</div>
+<div class="item__body"><p>The business of driving our international success </p><span class="button button--link">Business operations</span></div>
+</article>
+</a>
+</div>
+</div>
+<div class="content-wrap nowrap title-wrap" data-template="heading_2_title"><h2><a href="/entry-level-opportunities/" title="Entry level opportunities">Early Career Opportunities</a></h2></div><div class="content-wrap nowrap no-title"><h2 class="site-content__title"><span class="visibility-hidden">Related Content</span></h2></div>
+<div class="constrain__inner constrain__inner--wide layout--col">
+<div class="layout--col__wrap">
+<a class="item col__item col__item--quarter" href="/entry-level-opportunities/scott-trust-bursaries/" onclick="_gaq.push(['_trackEvent', 'Related Content', 'Click', 'Scott Trust Bursary']);">
+<article aria-labelledby="item-1661161--scott-trust-bursaries">
+<h3 class="item__title visibility-hidden" id="item-1661161--scott-trust-bursaries">
+<span class="item__link">Scott Trust Bursary</span>
+</h3>
+<div class="item__media">
+<img alt="Scott Trust Bursary" src="/files/cache/1c4ccd47b53d285d778459983e174ee5_f115.jpg"/>
+</div>
+<div class="item__body"><p>6 postgraduate journalism bursaries</p><span class="button button--link">Scott Trust Bursary</span></div>
+</article>
+</a>
+<a class="item col__item col__item--quarter" href="/entry-level-opportunities/positive-action-scheme/" onclick="_gaq.push(['_trackEvent', 'Related Content', 'Click', 'Positive Action Scheme 2025']);">
+<article aria-labelledby="item-1661161--positive-action-scheme">
+<h3 class="item__title visibility-hidden" id="item-1661161--positive-action-scheme">
+<span class="item__link">Positive Action Scheme 2025</span>
+</h3>
+<div class="item__media">
+<img alt="Positive Action Scheme 2025" src="/files/cache/322ece846f9bb3b5a751f0f6d8034018_f149.jpg"/>
+</div>
+<div class="item__body"><p>Paid schemes during the summer for disabled people, and for Black, Asian and Minority Ethnic (BAME) applicants.
+</p><span class="button button--link">Positive Action Scheme 2025</span></div>
+</article>
+</a>
+</div>
+</div>
+</section>
+</div>
+<section aria-labelledby="aria-days-since-launch" class="site-content site-content--wide">
+<h3 class="visibility-hidden" id="aria-days-since-launch">Days Since Launch</h3>
+<div class="banner banner--home-footer banner--cta banner--large banner--fact theme-fact" style="background-image: url(/files/3214/3082/6835/home-about-gnm.jpg);">
+<div class="constrain">
+<div class="banner__body">
+<p class="headline-7"><span>74,657</span> days<br/> since The Guardian was first published. <strong>Fact</strong>.</p>
+<a class="button button--link button--white" href="/life-at-GNM/">About Guardian News &amp; Media</a>
+</div>
+</div>
+</div>
+</section>
+</main>
+<footer class="site-footer">
+<div class="site-footer__bar">
+<div class="constrain">
+<a aria-label="Back to top" class="back-to-top-link" href="#top"><span class="guar-icon-up"></span>back to top</a>
+<div class="site-brand" itemscope="" itemtype="http://schema.org/Organization">
+<a class="site-brand__link" href="/" itemprop="url" rel="home">
+<h1 class="site-brand__heading" itemprop="name">The Guardian Work For Us</h1>
+<img alt="The Guardian Work For Us Logo" class="site-brand__media" itemprop="logo" src="/themes/guarcare1401/assets/img/RGB_The Guardian_OneLine_Work for us-02.png"/>
+</a>
+</div>
+</div>
+</div>
+<nav aria-labelledby="aria-nav--supporting" class="site-footer__nav nav-supporting" role="navigation">
+<div class="constrain">
+<h2 class="visibility-hidden" id="aria-nav--supporting">Supporting Menu</h2>
+<ul class="nav__list">
+<li class="nav__item">
+<a class="nav__link" href="http://www.theguardian.com/help/terms-of-service" target="_blank">Terms &amp; Conditions</a>
+</li>
+<li class="nav__item">
+<a class="nav__link" href="/privacy-policy" target="_blank">Privacy Policy</a>
+</li>
+<li class="nav__item">
+<a class="nav__link" href="https://workforus-secure.theguardian.com/privacy-policy#cookies" target="_blank">Cookie Policy</a>
+</li>
+<li class="nav__item">
+<a class="nav__link" href="https://workforus.theguardian.com/diversity-statement" target="_blank">Diversity Statement</a>
+</li>
+<li class="nav__item">
+<a class="nav__link" href="/our-values" target="_blank">Our Values</a>
+</li>
+<li class="nav__item">
+<a class="nav__link" href="/contact-us/" target="_blank">contact us</a>
+</li>
+</ul>
+</div>
+</nav>
+<div class="site-footer__contentinfo" role="contentinfo">
+<div class="constrain">
+<p>© 2025 Guardian News and Media Limited or its affiliated companies. All rights reserved.</p>
+</div>
+</div>
+</footer>
+</div>
+<button aria-controls="recite-header" aria-label="Launch Recite Me , accessibility tool" class="Reciteme-btn-icon" id="enableRecite-icon" type="button">
+<svg aria-hidden="true" fill="none" focusable="false" height="50" viewbox="0 0 38 38" width="50">
+<circle cx="19" cy="19" r="17.0667" stroke="currentColor" stroke-width="2.13333"></circle>
+<path d="M19.1329 12.9999c-.4615 0-.9126-.1368-1.2963-.3932-.3838-.2564-.6828-.6208-.8594-1.0472-.1766-.4263-.2228-.8955-.1328-1.3481.09-.45265.3123-.86841.6386-1.19473.3263-.32632.7421-.54855 1.1947-.63858.4526-.09003.9218-.04383 1.3481.13278.4264.1766.7908.47567 1.0472.85939.2564.38371.3932.83484.3932 1.29634-.0006.6186-.2467 1.2117-.6841 1.6492-.4375.4374-1.0306.6835-1.6492.6841Z" fill="currentColor"></path>
+<path d="m26.4663 13.0332-.0187.005-.0175.0054c-.0417.0117-.0834.0242-.125.0371-.7754.2275-4.5388 1.2883-7.19 1.2883-2.4638 0-5.8867-.9166-6.9817-1.2279-.109-.0421-.2203-.078-.3333-.1075-.7917-.2083-1.3334.5959-1.3334 1.3309 0 .7279.6542 1.0745 1.3146 1.3233v.0117l3.9675 1.2391c.4054.1554.5138.3142.5667.4517.1721.4412.0346 1.315-.0142 1.62l-.2416 1.875-1.3413 7.3412c-.0042.02-.0079.0405-.0112.0613l-.0096.0529c-.0967.6729.3975 1.3258 1.3333 1.3258.8167 0 1.1771-.5637 1.3333-1.3308.1563-.7671 1.1667-6.5654 1.75-6.5654.5834 0 1.785 6.5654 1.785 6.5654.1563.7671.5167 1.3308 1.3334 1.3308.9383 0 1.4325-.6558 1.3333-1.3308-.0085-.0567-.0191-.1132-.0317-.1692l-1.3595-7.2804-.2413-1.875c-.1746-1.0921-.0342-1.4529.0133-1.5375.0013-.002.0024-.0041.0034-.0062.045-.0834.25-.27.7283-.4496l3.72-1.3004c.0229-.0061.0454-.0133.0675-.0217.6667-.25 1.3333-.5958 1.3333-1.3304s-.5412-1.54-1.3329-1.3321Z" fill="currentColor"></path>
+</svg>
+</button>
+<script src="/themes/guarcare1401/assets/js/plugins.js"></script>
+<script src="/themes/guarcare1401/assets/js/main.js"></script>
+</body>
+</html>
+

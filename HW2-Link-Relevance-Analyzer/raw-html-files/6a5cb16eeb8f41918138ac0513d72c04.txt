@@ -1,0 +1,69 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="text/html" http-equiv="Content-Type"/>
+<meta content="2; url='/retrieve/articleSelectSinglePerm?Redirect=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0165176520303554%3Fvia%253Dihub&amp;key=912b1a4b700d119c241bc8bff785787bdb877aa5'" http-equiv="REFRESH">
+<meta content="1" name="tdm-reservation">
+<meta content="https://www.elsevier.com/tdm/tdmrep-policy.json" name="tdm-policy"/>
+<script src="/retrieve/static/script/siteCatalystHelper.js" type="text/JavaScript"></script>
+<script src="https://assets.adobedtm.com/4a848ae9611a/519188bfaff2/launch-d9c9ae460653.min.js"></script>
+<title>Redirecting</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<script language="JavaScript" type="text/javascript">
+var timerStart = Date.now();
+var pageName = "";
+
+if (pageName == "") {
+	pageName = "Auto Article Locator";
+} 
+	function autoRedirectToURL() {
+		var url = '/retrieve/'+document.getElementById('resultName').value+'?Redirect='+document.getElementById('redirectURL').value+'&key='+document.getElementById('key').value
+	  window.location = url;
+	}
+	
+</script>
+</meta></meta></head>
+<body onload="autoRedirectToURL();">
+<tr style="display:none;">
+<td colspan="2">
+<input id="redirectURL" name="redirectURL" type="hidden" value="https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0165176520303554%3Fvia%253Dihub"/> </td>
+</tr>
+<tr style="display:none;">
+<td colspan="2">
+<input id="key" name="key" type="hidden" value="912b1a4b700d119c241bc8bff785787bdb877aa5"/> </td>
+</tr>
+<tr style="display:none;">
+<td colspan="2">
+<input id="id" name="id" type="hidden" value="S0165176520303554"/> </td>
+</tr>
+<tr style="display:none;">
+<td colspan="2">
+<input id="resultName" name="resultName" type="hidden" value="articleSelectSinglePerm"/> </td>
+</tr>
+</body>
+<script>
+
+		siteCatalyst.pageDataLoad({
+			     businessUnit : 'ELS:RP:ST',
+			     environment : 'prod',
+			     language : 'en',
+			     loadTime : (Date.now() - timerStart).toString(),
+			     loadTimestamp : Date.now().toString(),
+			     name : pageName,
+			     productName : 'IH',
+			     type : 'ih:article',        
+			     detail : 'sciencedirect',
+			     format :"MIME-XHTML",
+			     accessType : 'ih:anon_guest',
+			     ipAddress : '72.194.213.149',
+			     identifierType : 'PII',
+                 identifierValue : 'S0165176520303554',
+			     articleName : 'Later bedtimes predict President Trump&rsquo;s performance',
+			     location : "Linking Hub"
+		});
+	</script>
+</html>
+

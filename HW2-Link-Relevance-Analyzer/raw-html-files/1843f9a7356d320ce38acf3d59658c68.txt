@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en"><head><!-- OneTrust Cookies Consent Notice start for npr.org -->
+<script src="https://cdn.cookielaw.org/consent/82089dfe-410c-4e1b-a7f9-698174b62a86/OtAutoBlock.js" type="text/javascript"></script>
+<script charset="UTF-8" data-domain-script="82089dfe-410c-4e1b-a7f9-698174b62a86" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript"></script>
+<script type="text/javascript">
+function OptanonWrapper() {
+    NPR_OptanonWrapper = true;
+    document.dispatchEvent(new CustomEvent('npr:DataConsentAvailable'));
+    
+    OneTrust.OnConsentChanged(function() {
+        document.dispatchEvent(new CustomEvent('npr:DataConsentChanged'));
+    });
+ }
+</script>
+<!-- OneTrust Cookies Consent Notice end for npr.org -->
+<script ccpa-opt-out-geo="us" ccpa-opt-out-ids="C0004" ccpa-opt-out-lspa="false" charset="UTF-8" src="https://cdn.cookielaw.org/opt-out/otCCPAiab.js" type="text/javascript"></script><script class="optanon-category-C0004" type="text/plain">
+    document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+    var setNptTechAdblockerCookie = function(adblocker) {
+        var d = new Date();
+        d.setTime(d.getTime() + 60 * 5 * 1000);
+        document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+    };
+    (() => {
+        var script = document.createElement("script");
+        script.setAttribute("async", true);
+        script.setAttribute("src", "//www.npttech.com/advertising.js");
+        script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+        document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+</script><script>
+(function (e, o, n, i) {
+    if (!e) {
+        e = e || {}, window.permutive = e, e.q = [];
+        var t = function () {
+            return ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, function (e) {
+                return (e ^ (window.crypto || window.msCrypto).getRandomValues(new Uint8Array(1))[0] & 15 >> e / 4).toString(16)
+            })
+        };
+        e.config = i || {}, e.config.apiKey = o, e.config.workspaceId = n, e.config.environment = e.config.environment || "production", (window.crypto || window.msCrypto) && (e.config.viewId = t());
+        for (var g = ["addon", "identify", "track", "trigger", "query", "segment", "segments", "ready", "on", "once", "user", "consent"], r = 0; r < g.length; r++) {
+            var w = g[r];
+            e[w] = function (o) {
+                return function () {
+                    var n = Array.prototype.slice.call(arguments, 0);
+                    e.q.push({functionName: o, arguments: n})
+                };
+            }(w);
+        }
+    }
+})(window.permutive, "12730e07-f09d-4a69-93da-99b43983b663", "e1cef1f0-495f-4973-ba1c-880786e73a66", {"consentRequired": true});
+</script>
+<!--
+
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnn         nnnnnn ppp          pppppp rrr           rrrr
+nnn   nnnn    nnnn ppp   pppppp   pppp rrr   rrrrrr   rrr
+nnn   nnnnnn   nnn ppp   ppppppp   ppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppp    pppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp           ppppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppppppppppp rrr   rrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppp   ppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+
+We are hiring!
+
+https://boards.greenhouse.io/nationalpublicradioinc
+
+-->
+<script>dataLayer = [];</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.setAttributeNode(d.createAttribute('data-ot-ignore'));j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer', 'GTM-MVD397M');</script>
+<!-- End Google Tag Manager -->
+<script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemref="speakable" itemscope="" itemtype="https://schema.org/SpeakableSpecification"/><title>Trump inherits a strong economy by the numbers. What's his plan to lower prices? : NPR</title><meta content="[data-is-speakable]" id="speakable" itemprop="cssSelector"/><meta content="1VqzbDm4ukeFVHOoq5LjIKA2fVKZD-EYv8cXZhKXSfU" id="google-site-verification" name="google-site-verification"/><meta charset="utf-8"/><meta content="noarchive,index,follow,max-image-preview:none" name="robots"/><meta content="app-id=324906251, app-argument=https://www.npr.org/2025/01/25/nx-s1-5270829/trump-inherits-a-strong-economy-by-the-numbers-whats-his-plan-to-lower-prices" name="apple-itunes-app"/><meta content="General" name="Rating"/><meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/><meta name="npr-pjax"/><meta content="2025-01-25" name="date"/><link href="https://www.npr.org/2025/01/25/nx-s1-5270829/trump-inherits-a-strong-economy-by-the-numbers-whats-his-plan-to-lower-prices" rel="canonical"/><meta content="President Trump is promising a new golden age for the U.S. economy. Americans are enjoying strong growth and low unemployment, although many are still unhappy about the high cost of living." name="description"/><link href="https://feeds.npr.org/1017/rss.xml" rel="alternate" title="Economy" type="application/rss+xml"/><meta content="article" name="cXenseParse:pageclass"/><meta content="2025-01-25T08:22:23-05:00" name="cXenseParse:publishtime"/><meta content="Economy" name="cXenseParse:zbq-eyebrowText"/><meta content="https://www.npr.org/sections/economy/" name="cXenseParse:zbq-eyebrowUrl"/><meta content="News/Business/Economy" name="cXenseParse:taxonomy"/><meta content="Scott Horsley|Scott Simon" data-separator="|" name="cXenseParse:author"/><link href="https://media.npr.org/chrome/favicon/favicon-180x180.png" rel="apple-touch-icon" sizes="180x180"/><link href="https://media.npr.org/chrome/favicon/favicon.ico" rel="shortcut icon"/><link href="https://media.npr.org/chrome/favicon/favicon-96x96.png" rel="icon" sizes="96x96"/><link href="https://media.npr.org/chrome/favicon/favicon-48x48.png" rel="icon" sizes="48x48"/><link href="https://media.npr.org/chrome/favicon/favicon-32x32.png" rel="icon" sizes="32x32"/><link href="https://media.npr.org/chrome/favicon/favicon-16x16.png" rel="icon" sizes="16x16"/><meta content="Trump inherits a strong economy by the numbers. What's his plan to lower prices?" property="og:title"/><meta content="https://www.npr.org/2025/01/25/nx-s1-5270829/trump-inherits-a-strong-economy-by-the-numbers-whats-his-plan-to-lower-prices" property="og:url"/><meta content="article" property="og:type"/><meta content="President Trump is promising a new golden age for the U.S. economy. Americans are enjoying strong growth and low unemployment, although many are still unhappy about the high cost of living." property="og:description"/><meta content="https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg" property="og:image"/><meta content="NPR" property="og:site_name"/><meta content="138837436154588" property="fb:app_id"/><meta content="10643211755" property="fb:pages"/><meta content="free" property="article:content_tier"/><meta content="false" property="article:opinion"/><meta content="summary" name="twitter:card"/><meta content="Trump inherits a strong economy by the numbers. What's his plan to lower prices?" name="twitter:title"/><meta content="@NPR" name="twitter:site"/><meta content="npr.org" name="twitter:domain"/><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","geolocationHost":"https:\/\/www.npr.org","legacyWebHost":"https:\/\/legacy.npr.org","stripeServiceHost":"https:\/\/stripe.npr.org","recaptchaV3SiteKey":"6LcdN9IZAAAAAOHT985BJjbzjkBjKSxdxK3GeKSt","placesApiKey":"AIzaSyB_wzlXPVwS4kHRAZsM6scMzUAIsJ6aMZ4","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","identityHost":"https:\/\/identity.api.npr.org","apiHost":"https:\/\/api.npr.org","stationApiHost":"https:\/\/station.api.npr.org","environment":"prod","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","gtmKey":"GTM-MVD397M","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":true,"cookieDomain":".npr.org","organizationV4Host":"https:\/\/organization.api.npr.org","staticAssetsHost":"https:\/\/prod-eks-static-assets.npr.org","stripeAPIVersion":"2025-02-24.acacia"};
+NPR.serverVars = {"storyId":"nx-s1-5270829","storyCategory":"Business","sponsorship":{"baseAdConfig":{"network":"\/6735\/","zone":"News_Business_Economy","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"nx-s1-5270829","program":"Weekend_Edition_Saturday"}},"end-of-story":{"site":{"desktop":"NPREndStory","mobile":"NPRMobileEndStory"},"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false,"deferred":true}},"isHiring":true,"facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/prod-eks-bundles.npr.org\/dist\/bundles\/","persistenceVersion":"206dc7b47576a78214a305edec14c9b0","isBuildOut":false,"pageLayoutName":"NewsStoryLayout","bingeModeId":"","isPreviewMode":false,"topicIds":["P1017"],"primaryTopic":"Economy","topics":["Economy"],"theme":"1017","programId":"Weekend Edition Saturday","program":"7","aggIds":["7","1017","2788801","3874941","nx-s1-5245821"],"byline":["Scott Horsley","Scott Simon"],"contentPartnerOrgFullName":"1 | NPR","pubDate":"2025012508","fullPubDate":"Sat, 25 Jan 2025 08:22:23 -0500","pageTypeId":"1","title":"Trump inherits a strong economy by the numbers. What\u0026#039;s his plan to lower prices?","publisherOrgId":"1"};
+</script>
+<script src="https://cdn.optimizely.com/js/11107397707.js" type="text/javascript">
+</script>
+<script src="https://prod-eks-static-assets.npr.org/static/javascript/lib/modernizr/modernizr.custom.js" type="text/javascript">
+</script>
+<script src="https://prod-eks-static-assets.npr.org/static/javascript/lib/svg-loader.min.js" type="text/javascript">
+</script>
+<script async="" src="https://js.stripe.com/v3/" type="text/javascript">
+</script>
+<script>
+   !function(e){function r(r){for(var n,a,o=r[0],d=r[1],u=r[2],i=0,l=[];i<o.length;i++)a=o[i],Object.prototype.hasOwnProperty.call(f,a)&&f[a]&&l.push(f[a][0]),f[a]=0;for(n in d)Object.prototype.hasOwnProperty.call(d,n)&&(e[n]=d[n]);for(b&&b(r);l.length;)l.shift()();return c.push.apply(c,u||[]),t()}function t(){for(var e,r=0;r<c.length;r++){for(var t=c[r],n=!0,o=1;o<t.length;o++){var d=t[o];0!==f[d]&&(n=!1)}n&&(c.splice(r--,1),e=a(a.s=t[0]))}return e}var n={},f={0:0},c=[];function a(r){if(n[r])return n[r].exports;var t=n[r]={i:r,l:!1,exports:{}};return e[r].call(t.exports,t,t.exports,a),t.l=!0,t.exports}a.e=function(e){var r=[],t=f[e];if(0!==t)if(t)r.push(t[2]);else{var n=new Promise((function(r,n){t=f[e]=[r,n]}));r.push(t[2]=n);var c,o=document.createElement("script");o.charset="utf-8",o.timeout=120,a.nc&&o.setAttribute("nonce",a.nc),o.src=function(e){return a.p+""+e+"."+{1:"74e5455220e76322b034",2:"52c45d4e347cf8e5dcb2",3:"ddf46da314b9bf76329c",4:"9d7710d53f5e7e55c583",5:"770897aa30c19cedc146",6:"aef2673d74ec371c64c2",7:"f5a8c3b210f0f07e1046",8:"3e76814c3524be0bb828",9:"a17197143a04c64ee87e",10:"2c217d97d258fcffa420",11:"9a1e856ad54b333aad1b",75:"d501cbe3cf5eedd1f5d5",76:"dc969865439098d9fed4",77:"77d1e85151151476697f",78:"31a804e4e8c4f052cb14",79:"be836fb908109387e62a",80:"ceea6b70915441ff0630",81:"ecf0936fa246e259efa8",82:"4cff7b4bc7f13b0c4831",83:"b5a1c2399bef9232ff62",84:"9e35b7681eccbf5c3ec6",85:"ae34de3d376f078bf4a4",86:"0ffeb4eeb10f6fec03f0",87:"09b26050dd3b61d31d17",88:"e0ea33db1c92600d0809",89:"4006c64e2319594ef3cc",90:"16ec6d0ac2d1ef8b52ce",91:"b9d0a003aba29ef38f9d",92:"d5ad0b6eec3a295de074",93:"ead04419969e4f277494",94:"e141f117eacadeae10fc",95:"7ffd11553f8bd62048e6",96:"f206052038a221873b88",97:"836b2acd00c986122ff4",98:"be309d534e5ec0f83c3e",99:"5bd7ae837f3dd9ac4006",100:"abbc394d086f423fd989",101:"e94f5dfc20c8d4f99a55"}[e]+".chunk.js"}(e);var d=new Error;c=function(r){o.onerror=o.onload=null,clearTimeout(u);var t=f[e];if(0!==t){if(t){var n=r&&("load"===r.type?"missing":r.type),c=r&&r.target&&r.target.src;d.message="Loading chunk "+e+" failed.\n("+n+": "+c+")",d.name="ChunkLoadError",d.type=n,d.request=c,t[1](d)}f[e]=void 0}};var u=setTimeout((function(){c({type:"timeout",target:o})}),12e4);o.onerror=o.onload=c,document.head.appendChild(o)}return Promise.all(r)},a.m=e,a.c=n,a.d=function(e,r,t){a.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},a.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},a.t=function(e,r){if(1&r&&(e=a(e)),8&r)return e;if(4&r&&"object"==typeof e&&e&&e.__esModule)return e;var t=Object.create(null);if(a.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:e}),2&r&&"string"!=typeof e)for(var n in e)a.d(t,n,function(r){return e[r]}.bind(null,n));return t},a.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return a.d(r,"a",r),r},a.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},a.p="/dist/bundles/",a.oe=function(e){throw console.error(e),e};var o=window.webpackJsonp=window.webpackJsonp||[],d=o.push.bind(o);o.push=r,o=o.slice();for(var u=0;u<o.length;u++)r(o[u]);var b=d;t()}([]);
+</script>
+<script src="https://prod-eks-bundles.npr.org/dist/bundles/33.aed3b3f7e6f244a3eeb2.chunk.js" type="text/javascript">
+</script>
+<link data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/persistent-css-92c61b5f7e3f4388b1d2.css" media="screen, print" rel="stylesheet"/><link data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/persistent_medium-css-92c61b5f7e3f4388b1d2.css" media="screen and (min-width: 768px)" rel="stylesheet"/><link data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/persistent_large-css-92c61b5f7e3f4388b1d2.css" media="screen and (min-width: 1025px)" rel="stylesheet"/><link as="style" data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/fonts-css-92c61b5f7e3f4388b1d2.css" media="screen, print" onload="this.onload=null;this.rel='stylesheet'" rel="preload"/><link href="https://prod-eks-bundles.npr.org/dist/bundles/newsStory-css-92c61b5f7e3f4388b1d2.css" media="screen, print" rel="stylesheet"/><script type="application/ld+json">
+   {"@type":"NewsArticle","publisher":{"@type":"Organization","name":"NPR","logo":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/chrome\/npr-logo-2025.jpg"}},"headline":"Trump inherits a strong economy by the numbers. What's his plan to lower prices?","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.npr.org\/2025\/01\/25\/nx-s1-5270829\/trump-inherits-a-strong-economy-by-the-numbers-whats-his-plan-to-lower-prices"},"datePublished":"2025-01-25T08:22:23-05:00","dateModified":"2025-01-25T08:22:23-05:00","author":{"@type":"Person","name":["Scott Horsley"]},"description":"President Trump is promising a new golden age for the U.S. economy. Americans are enjoying strong growth and low unemployment, although many are still unhappy about the high cost of living.","image":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/include\/images\/facebook-default-wide.jpg"},"@context":"http:\/\/schema.org"}
+</script>
+<script type="text/javascript">
+   document.domain="www.npr.org";
+</script>
+<script data-piano-aid="9ENxKQ58pu" id="piano-aid" type="text/javascript">
+    (function(src) {
+        var a = document.createElement("script");
+        a.type = "text/javascript";
+        a.async = true;
+        a.src = src;
+        var b = document.getElementsByTagName("script")[0];
+        b.parentNode.insertBefore(a, b)
+    })("//cdn.piano.io/api/tinypass.min.js");
+
+    window.pdl = window.pdl || {};
+    window.pdl.requireConsent = true;
+
+    tp = window.tp || [];
+
+    tp.push(["init", function() {
+        tp.enableGACrossDomainLinking();
+    }]);
+</script>
+<script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="MBVDT-3L9KY-36ZMJ-SPSAR-JR833",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"MBVDT-3L9KY-36ZMJ-SPSAR-JR833";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="jdbnlfix2t5as2gzpsmq-f-cd3dcf3f0-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"55818","ak.ai":parseInt("290690",10),"ak.ol":"0","ak.cr":18,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"15c9e483","ak.r":41487,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"72.194.213.0","ak.cport":65117,"ak.gh":"23.220.106.9","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1759083673","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==H8bOEqCfd9eBEirQBtSQZFPiTGK0zZrw2QQ5cTo6sKcDS9ty+F6e4g04T19w3aB7sOjVV22mmEJMzz0o4AIUhONoY4DsG3jBVnP2DVyfh8FczdoFQ6+IZmSDr8tivT9T/zzy2BO6LhdOS0k8rRsDr3tVQ235HXcPhwaeqNdwFs/VjvLwOXyLStXxuFIud04uLMmud0AKDUaaUNAk0id4/JuNpTfaWP8T3VbI/caT36FPDGW+y3La7O6m8+skYsa3M+una1lh3qO1Kev4pdjqAIcOnCAa79BwrJdOn9u6BR3Vmo37rgU7uL3EF0fR/GYCSi1Nww56iDtbhMkYQ1FqDqYq3Md0t4xtLAV/2g2GOUw48vlqtdx3dU0WFtCgJXKCCeD3g7wkSGAv4JWIoqnEybfyczkAIRMFntsvYTV7zE0=","ak.pv":"111","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head><body class="news tmplNewsStory story-layout is-DACS-only has-transcript has-no-branding idnx-s1-5270829" data-pjax-modules="util/env images/lazy-load data-consent data-management-platform header-bidding metrics nielsen nielsenDCR copyright auto-refresh navigation/global-navigation fitvids googletag dfp globalfooter persistent-audio player/more-options player/audio-module-clickable what-input metrics/doubleclickFloodlight callout/on-page-callouts global-alerts right-rail-content-widgets we-are-hiring piano datadog ecommerce recommendations/end-of-story-recommendations-callout jw social/share slideshow images/enlargement contentfooter story/date-tooltip social/sharepop podcast-cards search/faceting-param local/newsletter/callout recaptcha-v3" id="news">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MVD397M" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="skip-links">
+<span>Accessibility links</span> <ul>
+<li><a class="skiplink" href="#mainContent">Skip to main content</a></li>
+<li><a class="skiplink" href="https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player">Keyboard shortcuts for audio player</a></li>
+</ul>
+</div>
+<div class="global-header-sticky-cta-wrap" id="global-header-sticky-cta-wrap">
+<div class="global-header-sticky-cta-mount" id="global-header-sticky-cta-mount">
+</div>
+</div>
+<div class="global-header-cta-wrap" id="global-header-cta-wrap">
+<div class="global-header-cta-mount" id="global-header-cta-mount">
+</div>
+</div>
+<header aria-label="NPR header" class="npr-header" id="globalheader">
+<nav class="navigation">
+<div class="navigation__top-level-wrap" data-metrics-category-ga4="recirculation">
+<ul class="navigation__top-level">
+<li class="navigation__toggle-wrap">
+<button aria-expanded="false" aria-haspopup="true" class="navigation__toggle navigation__toggle--open" data-metrics-ga4='{"action":"global_navigation_click","clickName":"open navigation menu","clickType":"global navigation"}' id="navigation__toggle--open">
+                    Open Navigation Menu
+                </button>
+</li>
+<li class="navigation__home">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr logo","clickType":"global navigation","clickUrl":"\/"}' href="/">
+<img alt="NPR logo" src="https://prod-eks-static-assets.npr.org/chrome_svg/npr-logo-2025.svg"/>
+</a>
+</li>
+<li id="navigation__station-mount"></li>
+<li class="navigation__newsletters">
+<div class="navigation__newsletters-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"newsletters","clickType":"global navigation","clickUrl":"/newsletters/"}' href="/newsletters/" target="_blank">Newsletters</a>
+</div>
+</li>
+<li class="navigation__account" id="user-account-dropdown-mount"></li>
+<li class="navigation__shop">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr shop","clickType":"global navigation","clickUrl":"https://shopnpr.org"}' href="https://shopnpr.org">NPR Shop</a>
+</li>
+<li id="navigation__station-donate-mount"></li>
+</ul>
+</div>
+<section class="menu menu--main" data-metrics-category-ga4="recirculation" id="main-menu">
+<div class="menu__inner">
+<header class="menu__header">
+<button aria-expanded="true" aria-haspopup="true" class="navigation__toggle navigation__toggle--close" data-metrics-ga4='{"action":"global_navigation_click","clickName":"close navigation menu","clickType":"global navigation"}' id="navigation__toggle--close">
+                    Close <span>Navigation Menu</span>
+</button>
+</header>
+<ul class="menu__list">
+<li class="menu__item menu__item--home">
+<div class="menu__item-inner"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr logo","clickType":"global navigation","clickUrl":"\/"}' href="/">Home</a></div>
+</li>
+<li class="menu__item menu__item--news menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"news","clickType":"global navigation","clickUrl":"/sections/news/"}' href="/sections/news/">News</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle news drawer","clickType":"global navigation"}'>Expand/collapse submenu for News</button>
+</div>
+<ul class="submenu submenu--news">
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"national","clickType":"global navigation","clickUrl":"/sections/national/"}' href="/sections/national/">National</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"world","clickType":"global navigation","clickUrl":"/sections/world/"}' href="/sections/world/">World</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"politics","clickType":"global navigation","clickUrl":"/sections/politics/"}' href="/sections/politics/">Politics</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"business","clickType":"global navigation","clickUrl":"/sections/business/"}' href="/sections/business/">Business</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"health","clickType":"global navigation","clickUrl":"/sections/health/"}' href="/sections/health/">Health</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"science","clickType":"global navigation","clickUrl":"/sections/science/"}' href="/sections/science/">Science</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"climate","clickType":"global navigation","clickUrl":"/sections/climate/"}' href="/sections/climate/">Climate</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"race","clickType":"global navigation","clickUrl":"/sections/codeswitch/"}' href="/sections/codeswitch/">Race</a></li>
+</ul>
+</li>
+<li class="menu__item menu__item--culture menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"culture","clickType":"global navigation","clickUrl":"/sections/culture/"}' href="/sections/culture/">Culture</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle culture drawer","clickType":"global navigation"}'>Expand/collapse submenu for Culture</button>
+</div>
+<ul class="submenu submenu--culture">
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"books","clickType":"global navigation","clickUrl":"/books/"}' href="/books/">Books</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"movies","clickType":"global navigation","clickUrl":"/sections/movies/"}' href="/sections/movies/">Movies</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"television","clickType":"global navigation","clickUrl":"/sections/television/"}' href="/sections/television/">Television</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"pop culture","clickType":"global navigation","clickUrl":"/sections/pop-culture/"}' href="/sections/pop-culture/">Pop Culture</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"food","clickType":"global navigation","clickUrl":"/sections/food/"}' href="/sections/food/">Food</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"art &amp; design","clickType":"global navigation","clickUrl":"/sections/art-design/"}' href="/sections/art-design/">Art &amp; Design</a> </li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"performing arts","clickType":"global navigation","clickUrl":"/sections/performing-arts/"}' href="/sections/performing-arts/">Performing Arts</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"life kit","clickType":"global navigation","clickUrl":"/lifekit/"}' href="/lifekit/">Life Kit</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"gaming","clickType":"global navigation","clickUrl":"/sections/gaming/"}' href="/sections/gaming/">Gaming</a></li>
+</ul>
+</li>
+<li class="menu__item menu__item--music menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"music","clickType":"global navigation","clickUrl":"/music/"}' href="/music/">Music</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle music drawer","clickType":"global navigation"}'>Expand/collapse submenu for Music</button>
+</div>
+<ul class="submenu submenu--music"><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"all songs considered","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/"}' href="https://www.npr.org/sections/allsongs/">
+        All Songs Considered
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"tiny desk","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/tiny-desk-concerts\/"}' href="https://www.npr.org/series/tiny-desk-concerts/">
+        Tiny Desk
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"new music friday","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/606254804\/new-music-friday"}' href="https://www.npr.org/sections/allsongs/606254804/new-music-friday">
+        New Music Friday
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"music features","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/music-features"}' href="https://www.npr.org/sections/music-features">
+        Music Features
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"live sessions","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/770565791\/npr-music-live-sessions"}' href="https://www.npr.org/series/770565791/npr-music-live-sessions">
+        Live Sessions
+    </a>
+</li></ul>
+</li>
+<li class="menu__item menu__item--shows-podcasts menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"podcasts &amp; shows","clickType":"global navigation","clickUrl":"/podcasts-and-shows/"}' href="/podcasts-and-shows/">Podcasts &amp; Shows</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle podcasts &amp; shows drawer","clickType":"global navigation"}'>Expand/collapse submenu for Podcasts &amp; Shows</button>
+</div>
+<div class="submenu submenu--shows-podcasts">
+<span class="submenu__category submenu__category--daily">Daily</span>
+<ul class="submenu__list submenu__list--daily">
+<li class="submenu__item submenu__item--timed submenu__item--weekday hidden">
+<a data-metrics-action="click morning edition" data-metrics-ga4='{"action":"global_navigation_click","clickName":"morning edition","clickType":"global navigation","clickUrl":"/programs/morning-edition/"}' href="/programs/morning-edition/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/morning-edition.jpg"/>
+                                    Morning Edition
+                                </a>
+</li>
+<li class="submenu__item submenu__item--timed submenu__item--saturday hidden">
+<a data-metrics-action="click weekend edition saturday" data-metrics-ga4='{"action":"global_navigation_click","clickName":"weekend edition saturday","clickType":"global navigation","clickUrl":"/programs/weekend-edition-saturday/"}' href="/programs/weekend-edition-saturday/">
+<img alt="" loading="lazy" src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesat_sq-cbde87a2fa31b01047441e6f34d2769b0287bcd4-s100-c85.png"/>
+                                    Weekend Edition Saturday
+                                </a>
+</li>
+<li class="submenu__item submenu__item--timed submenu__item--sunday hidden">
+<a data-metrics-action="click weekend edition sunday" data-metrics-ga4='{"action":"global_navigation_click","clickName":"weekend edition sunday","clickType":"global navigation","clickUrl":"/programs/weekend-edition-sunday/"}' href="/programs/weekend-edition-sunday/">
+<img alt="" loading="lazy" src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesun_sq-4a03b35e7e5adfa446aec374523a578d54dc9bf5-s100-c85.png"/>
+                                    Weekend Edition Sunday
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click all things considered" data-metrics-ga4='{"action":"global_navigation_click","clickName":"all things considered","clickType":"global navigation","clickUrl":"/programs/all-things-considered/"}' href="/programs/all-things-considered/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/all-things-considered.png"/>
+                                    All Things Considered
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click fresh air" data-metrics-ga4='{"action":"global_navigation_click","clickName":"fresh air","clickType":"global navigation","clickUrl":"/programs/fresh-air/"}' href="/programs/fresh-air/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/fresh-air.png"/>
+                                    Fresh Air
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click up first" data-metrics-ga4='{"action":"global_navigation_click","clickName":"up first","clickType":"global navigation","clickUrl":"/podcasts/510318/up-first/"}' href="/podcasts/510318/up-first/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/up-first.jpg?version=2"/>
+                                    Up First
+                                </a>
+</li>
+</ul>
+<span class="submenu__category submenu__category--featured">Featured</span>
+<ul class="submenu__list submenu__list--featured"><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"embedded","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510311\/embedded"}' href="https://www.npr.org/podcasts/510311/embedded">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/08/01/embedded_podcast-tile_sq-21d8f227c811e4f3a0e28b4aa774dd17e39287db-s100.jpeg" loading="lazy" src="https://media.npr.org/assets/img/2024/08/01/embedded_podcast-tile_sq-21d8f227c811e4f3a0e28b4aa774dd17e39287db-s100-c100.jpeg"/>
+        Embedded
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"the npr politics podcast","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510310\/npr-politics-podcast"}' href="https://www.npr.org/podcasts/510310/npr-politics-podcast">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004-s100.jpg" loading="lazy" src="https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004-s100-c100.jpg"/>
+        The NPR Politics Podcast
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"throughline","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510333\/throughline"}' href="https://www.npr.org/podcasts/510333/throughline">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-a59d7da2ea2bf97562aeec6440ddf837e8f7de65-s100.jpg" loading="lazy" src="https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-a59d7da2ea2bf97562aeec6440ddf837e8f7de65-s100-c100.jpg"/>
+        Throughline
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4="{&quot;category&quot;:&quot;recirculation&quot;,&quot;action&quot;:&quot;global_navigation_click&quot;,&quot;clickName&quot;:&quot;trump's terms &quot;,&quot;clickType&quot;:&quot;music ecosystem navigation&quot;,&quot;clickUrl&quot;:&quot;https:\/\/www.npr.org\/podcasts\/510374\/trumps-terms&quot;}" href="https://www.npr.org/podcasts/510374/trumps-terms">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/11/20/trumps-terms_tile-art_sq-a562bd2ad2a39113dc7da18658fc1e25d0664257-s100.jpg" loading="lazy" src="https://media.npr.org/assets/img/2024/11/20/trumps-terms_tile-art_sq-a562bd2ad2a39113dc7da18658fc1e25d0664257-s100-c100.jpg"/>
+        Trump's Terms 
+    </a>
+</li></ul>
+<ul class="submenu__list submenu__list--directories">
+<li class="submenu__item"><a data-metrics-action="click podcasts &amp; shows" data-metrics-ga4='{"action":"global_navigation_click","clickName":"podcasts &amp; shows","clickType":"global navigation","clickUrl":"/podcasts-and-shows/"}' href="/podcasts-and-shows/">More Podcasts &amp; Shows</a></li>
+</ul>
+</div>
+</li>
+<li class="menu__item menu__item--search">
+<div class="menu__item-inner">
+<a data-metrics-action="click search" data-metrics-ga4='{"action":"global_navigation_click","clickName":"search","clickType":"global navigation","clickUrl":"/search/"}' href="/search/" id="navigation_dropdown-search">Search</a>
+</div>
+</li>
+<li class="menu__item menu__item--newsletters">
+<div class="menu__item-inner">
+<a data-metrics-action="click newsletters" data-metrics-ga4='{"action":"global_navigation_click","clickName":"newsletters","clickType":"global navigation","clickUrl":"/newsletters/"}' href="/newsletters/" target="_blank">Newsletters</a>
+</div>
+</li>
+<li class="menu__item menu__item--shop">
+<div class="menu__item-inner">
+<a data-metrics-action="click npr shop" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr shop","clickType":"global navigation","clickUrl":"https://shopnpr.org"}' href="https://shopnpr.org">NPR Shop</a>
+</div>
+</li>
+<li class="menu__item menu__item--account" id="user-account-dropdown-mount-two"></li>
+</ul>
+</div>
+</section>
+<section class="menu menu--music" data-metrics-category-ga4="recirculation">
+<div class="menu__list-wrap">
+<ul class="menu__list menu__list--ecosystem menu__list--music">
+<li class="menu__item menu__item--music-home">
+<a data-metrics-action="click npr music logo" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr music logo","clickType":"global navigation","clickUrl":"/music/"}' href="/music/">
+<img alt="NPR Music" class="music-logo" src="https://prod-eks-static-assets.npr.org/chrome_svg/music-logo-dark.svg"/>
+<img alt="NPR Music" class="music-logo-alt" src="https://prod-eks-static-assets.npr.org/chrome_svg/music-logo-light.svg"/>
+</a>
+</li>
+<li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"all songs considered","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/"}' href="https://www.npr.org/sections/allsongs/">
+        All Songs Considered
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"tiny desk","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/tiny-desk-concerts\/"}' href="https://www.npr.org/series/tiny-desk-concerts/">
+        Tiny Desk
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"new music friday","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/606254804\/new-music-friday"}' href="https://www.npr.org/sections/allsongs/606254804/new-music-friday">
+        New Music Friday
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"music features","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/music-features"}' href="https://www.npr.org/sections/music-features">
+        Music Features
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"live sessions","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/770565791\/npr-music-live-sessions"}' href="https://www.npr.org/series/770565791/npr-music-live-sessions">
+        Live Sessions
+    </a>
+</li>
+</ul>
+</div>
+</section>
+<section class="menu menu--about" data-metrics-category-ga4="recirculation">
+<div class="menu__list-wrap">
+<ul class="menu__list menu__list--ecosystem menu__list--about">
+<li class="menu__item menu__item--about-home"><a data-metrics-action="click about npr" data-metrics-ga4='{"action":"global_navigation_click","clickName":"about npr","clickType":"about ecosystem navigation","clickUrl":"/about/"}' href="/about/">About NPR</a></li>
+<li class="menu__item menu__item--about-diversity"><a data-metrics-action="click diversity" data-metrics-ga4='{"action":"global_navigation_click","clickName":"diversity","clickType":"about ecosystem navigation","clickUrl":"/diversity/"}' href="/diversity/">Diversity</a></li>
+<li class="menu__item menu__item--about-support"><a data-metrics-action="click support" data-metrics-ga4='{"action":"global_navigation_click","clickName":"support","clickType":"about ecosystem navigation","clickUrl":"/support/"}' href="/support/">Support</a></li>
+<li class="menu__item menu__item--about-careers"><a data-metrics-action="click careers" data-metrics-ga4='{"action":"global_navigation_click","clickName":"careers","clickType":"about ecosystem navigation","clickUrl":"/careers/"}' href="/careers/">Careers</a></li>
+<li class="menu__item menu__item--about-press"><a data-metrics-action="click press" data-metrics-ga4='{"action":"global_navigation_click","clickName":"press","clickType":"about ecosystem navigation","clickUrl":"/series/750003/press-room/"}' href="/series/750003/press-room/">Press</a></li>
+<li class="menu__item menu__item--about-ethics"><a data-metrics-action="click ethics" data-metrics-ga4='{"action":"global_navigation_click","clickName":"ethics","clickType":"about ecosystem navigation","clickUrl":"/ethics/"}' href="/ethics/">Ethics</a></li>
+</ul>
+</div>
+</section>
+</nav>
+</header><main aria-label="main content"><div class="speakable">
+<b data-is-speakable="">Trump inherits a strong economy by the numbers. What's his plan to lower prices?</b> <b data-is-speakable="">President Trump is promising a new golden age for the U.S. economy. Americans are enjoying strong growth and low unemployment, although many are still unhappy about the high cost of living.</b>
+</div>
+<div id="wrapper">
+<header class="contentheader contentheader--one"></header> <section id="main-section"><article class="story"><a id="mainContent"></a><div class="slug-wrap">
+<h3 class="slug">
+<a href="https://www.npr.org/sections/economy/">Economy</a>
+</h3>
+</div>
+<div class="storytitle">
+<h1>Trump inherits a strong economy by the numbers. What's his plan to lower prices?</h1>
+<input id="titlenx-s1-5270829" type="hidden" value="Trump inherits a strong economy by the numbers. What's his plan to lower prices?"/>
+<input id="shortTitlenx-s1-5270829" type="hidden" value="Trump inherits a strong economy by the numbers. What's his plan to lower prices?"/>
+<input id="modelFullUrlnx-s1-5270829" type="hidden" value="https://www.npr.org/2025/01/25/nx-s1-5270829/trump-inherits-a-strong-economy-by-the-numbers-whats-his-plan-to-lower-prices"/>
+</div>
+<!-- END CLASS="STORYTITLE" -->
+<div class="story-meta has-byline" id="story-meta">
+<div class="story-meta__one">
+<div class="story-meta__one-inner">
+<div class="dateblock">
+<time datetime="2025-01-25T08:22:23-05:00">
+<span class="date">January 25, 2025</span><span class="time">8:22 AM ET</span>
+</time>
+</div> <div class="program-block">
+                        Heard on             <a href="https://www.npr.org/programs/weekend-edition-saturday/2025/01/25/weekend-edition-saturday-for-january-25-2025">Weekend Edition Saturday</a>
+</div>
+<!-- END CLASS="PROGRAM-BLOCK" -->
+</div>
+<!-- END CLASS="STORY-META__ONE-INNER" -->
+</div>
+<!-- END CLASS="STORY-META__ONE" -->
+<div class="story-meta__two">
+<div class="storybyline-wrap linkLocation" id="storybyline">
+<div class="bucketwrap byline">
+<div class="byline-container--block byline-container--block-nophoto">
+<p class="byline__name--block">By </p> <div aria-label="Byline" class="byline byline--block byline--has-link">
+<div class="byline__photo">
+<a href="https://www.npr.org/people/2788801/scott-horsley" rel="author">
+<picture><source class="img" data-format="webp" data-template="https://media.npr.org/assets/img/2012/01/03/scotthorsley_1_sq-28ef9a0c5aee84c1b8d8338569a794c2d08f87fa.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2012/01/03/scotthorsley_1_sq-28ef9a0c5aee84c1b8d8338569a794c2d08f87fa.jpg?s=100&amp;c=85&amp;f=webp" type="image/webp"/><source class="img" data-format="jpeg" data-template="https://media.npr.org/assets/img/2012/01/03/scotthorsley_1_sq-28ef9a0c5aee84c1b8d8338569a794c2d08f87fa.jpg?s={width}&amp;c={quality}&amp;f={format}" srcset="https://media.npr.org/assets/img/2012/01/03/scotthorsley_1_sq-28ef9a0c5aee84c1b8d8338569a794c2d08f87fa.jpg?s=100&amp;c=85&amp;f=jpeg" type="image/jpeg"/><img alt="Scott Horsley 2010" class="img" data-format="jpeg" data-template="https://media.npr.org/assets/img/2012/01/03/scotthorsley_1_sq-28ef9a0c5aee84c1b8d8338569a794c2d08f87fa.jpg?s={width}&amp;c={quality}&amp;f={format}" src="https://media.npr.org/assets/img/2012/01/03/scotthorsley_1_sq-28ef9a0c5aee84c1b8d8338569a794c2d08f87fa.jpg?s=100&amp;c=85&amp;f=jpeg"/></picture>
+</a>
+</div>
+<p class="byline__name byline__name--block">
+<a href="https://www.npr.org/people/2788801/scott-horsley" rel="author">
+      Scott Horsley
+    </a>
+</p>
+</div> <p class="byline__name--block byline__comma">, </p> <div aria-label="Byline" class="byline byline--block byline--has-link">
+<div class="byline__photo">
+<a href="https://www.npr.org/people/3874941/scott-simon" rel="author">
+<picture><source class="img" data-format="webp" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/540x540+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F90%2Fe3%2Fff57afab43a78d30d922ebc69c0c%2Fscott-simon.jpg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/540x540+0+0/resize/100/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F90%2Fe3%2Fff57afab43a78d30d922ebc69c0c%2Fscott-simon.jpg" type="image/webp"/><source class="img" data-format="jpeg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/540x540+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F90%2Fe3%2Fff57afab43a78d30d922ebc69c0c%2Fscott-simon.jpg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/540x540+0+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F90%2Fe3%2Fff57afab43a78d30d922ebc69c0c%2Fscott-simon.jpg" type="image/jpeg"/><img alt="Headshot of Scott Simon" class="img" data-format="jpeg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/540x540+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F90%2Fe3%2Fff57afab43a78d30d922ebc69c0c%2Fscott-simon.jpg" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/540x540+0+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F90%2Fe3%2Fff57afab43a78d30d922ebc69c0c%2Fscott-simon.jpg"/></picture>
+</a>
+</div>
+<p class="byline__name byline__name--block">
+<a href="https://www.npr.org/people/3874941/scott-simon" rel="author">
+      Scott Simon
+    </a>
+</p>
+</div>
+</div>
+</div>
+<!-- END CLASS="BUCKETWRAP BYLINE" -->
+</div>
+</div>
+<!-- END CLASS="STORY-META__TWO" -->
+</div>
+<!-- END ID="STORY-META" CLASS="STORY-META HAS-BYLINE" -->
+<div class="storylocation linkLocation" id="headlineaudio">
+<article aria-label="audio-module" class="bucketwrap resaudio" id="resnx-s1-5337216-1"><div class="audio-module">
+<h4 class="audio-module-title">Trump inherits a strong economy by the numbers. What's his plan to lower prices?</h4>
+<div class="audio-module-controls-wrap" data-audio='{"uid":"nx-s1-5270829:nx-s1-5337216-1","available":true,"duration":225,"title":"Trump inherits a strong economy by the numbers. What\u0027s his plan to lower prices?","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/wesat\/2025\/01\/20250125_wesat_trump_inherits_a_strong_economy_by_the_numbers._what_s_his_plan_to_lower_prices.mp3?size=3615809&amp;d=225946&amp;e=nx-s1-5270829&amp;sc=siteplayer","storyUrl":"https:\/\/www.npr.org\/2025\/01\/25\/nx-s1-5270829\/trump-inherits-a-strong-economy-by-the-numbers-whats-his-plan-to-lower-prices","slug":"Economy","program":"Weekend Edition Saturday","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other","skipSponsorship":false,"hasAdsWizz":false,"isStreamAudioType":false}' data-audio-metrics="[]">
+<div class="audio-module-controls">
+<a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2025/01/20250125_wesat_trump_inherits_a_strong_economy_by_the_numbers._what_s_his_plan_to_lower_prices.mp3?size=3615809&amp;d=225946&amp;e=nx-s1-5270829&amp;sc=siteplayer&amp;aw_0_1st.playerid=siteplayer">
+<b class="audio-module-listen-inner">
+<b class="audio-module-listen-icon icn-play"></b>
+<b class="audio-module-listen-text">
+<b class="audio-module-cta">
+                            
+                            Listen
+                        </b>
+<b class="audio-module-listen-duration">
+<span>· </span>
+<span>3:45</span>
+</b>
+</b>
+</b>
+</a>
+<time class="audio-module-duration" datetime="P3M,45S">
+<span class="audio-module-duration__initial-value">3:45</span>
+</time>
+</div>
+</div>
+<div class="audio-module-tools">
+<a class="audio-tool audio-tool-transcript" data-metrics-ga4='{"category":"audio","action":"audio_click_transcript","storyId":"nx-s1-5270829","mediaId":"nx-s1-5337216-1","title":"Trump inherits a strong economy by the numbers. What&amp;#39;s his plan to lower prices?","type":"ondemand"}' href="https://www.npr.org/transcripts/nx-s1-5270829">
+<b class="icn-transcript"></b>
+<b class="audio-tool-label">Transcript</b>
+</a>
+<button class="audio-module-tools-toggle" data-metrics-ga4='{"category":"audio","action":"audio_open_more_options","storyId":"nx-s1-5270829","mediaId":"nx-s1-5337216-1","title":"Trump inherits a strong economy by the numbers. What&amp;#39;s his plan to lower prices?","type":"ondemand"}'>
+<b class="icn-toggle"></b>
+<b class="label">Toggle more options</b>
+</button>
+<ul class="audio-module-more-tools">
+<li class="audio-tool audio-tool-download"><a data-metrics-ga4='{"category":"audio","action":"audio_download","storyId":"nx-s1-5270829","mediaId":"nx-s1-5337216-1","title":"Trump inherits a strong economy by the numbers. What&amp;#39;s his plan to lower prices?","type":"ondemand"}' href="https://ondemand.npr.org/anon.npr-mp3/npr/wesat/2025/01/20250125_wesat_trump_inherits_a_strong_economy_by_the_numbers._what_s_his_plan_to_lower_prices.mp3?size=3615809&amp;d=225946&amp;e=nx-s1-5270829&amp;sc=siteplayer&amp;aw_0_1st.playerid=siteplayer"><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+</li>
+<li class="audio-tool audio-tool-embed">
+<button data-embed-url="https://www.npr.org/player/embed/nx-s1-5270829/nx-s1-5337216-1" data-metrics-ga4='{"category":"audio","action":"audio_embed","storyId":"nx-s1-5270829","mediaId":"nx-s1-5337216-1","title":"Trump inherits a strong economy by the numbers. What&amp;#39;s his plan to lower prices?","type":"ondemand"}'><b class="button-inner"><b class="icn-embed"></b><b class="audio-tool-label">Embed</b></b></button>
+<div class="audio-embed-overlay">
+<button class="btn-close"></button>
+<label class="embed-label">
+<b class="audio-embed-overlay__icon"></b>
+<b class="label">Embed</b>
+<input class="embed-url embed-url-no-touch" readonly="" value='&lt;iframe src="https://www.npr.org/player/embed/nx-s1-5270829/nx-s1-5337216-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;&lt;/iframe&gt;'/>
+</label>
+<b class="embed-url embed-url-touch">
+<code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/nx-s1-5270829/nx-s1-5337216-1" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+</b>
+</div>
+</li>
+<li class="audio-tool audio-tool-transcript">
+<a data-metrics-ga4='{"category":"audio","action":"audio_click_transcript","storyId":"nx-s1-5270829","mediaId":"nx-s1-5337216-1","title":"Trump inherits a strong economy by the numbers. What&amp;#39;s his plan to lower prices?","type":"ondemand"}' href="https://www.npr.org/transcripts/nx-s1-5270829">
+<b class="icn-transcript"></b>
+<b class="audio-tool-label">Transcript</b>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</article>
+</div>
+<div class="storytext storylocation linkLocation" id="storytext">
+<p>President Trump is promising a new golden age for the U.S. economy. Americans are enjoying strong growth and low unemployment, although many are still unhappy about the high cost of living.</p> <aside aria-label="advertisement" class="ad-wrap backstage" id="ad-backstage-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-backstage has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_Business_Economy","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"nx-s1-5270829","program":"Weekend_Edition_Saturday"},"site":{"desktop":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"location":"backstage","deferred":false,"isBetweenContent":false,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":true}' id="ad-backstage-News_Business_Economy">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+</div>
+<div aria-label="Transcript" class="transcript storytext">
+<b class="icn-story-transcript-wrap">
+<b class="icn-story-transcript"></b>
+</b>
+<p><p>SCOTT SIMON, HOST: <p><p> President Donald Trump begins his second term in office, promising what he calls a new golden age for the United States. Speaking to the World Economic Forum, Trump suggested the nation's economy has gotten tarnished and needs some polishing.<p><p>(SOUNDBITE OF ARCHIVED RECORDING)<p><p>PRESIDENT DONALD TRUMP: My administration is acting with unprecedented speed to fix the disasters we've inherited from a totally inept group of people and to solve every single crisis facing our country. This begins with confronting the economic chaos caused by the failed policies of the last administration.<p><p>SIMON: NPR's chief economics correspondent, Scott Horsley joins us now. Scott, thanks so much for being with us.<p><p>SCOTT HORSLEY, BYLINE: Good morning. Good to be with you.<p><p>SIMON: How do experts characterize the health of the U.S. economy?<p><p>HORSLEY: In the words of The Economist magazine, the U .S. economy is the envy of the world. If you compare it to where we were eight years ago - the last time Trump took office - unemployment is lower now, GDP growth is stronger now, wages are climbing faster now. Mark Zandi, who's chief economist at Moody's Analytics, says it looks pretty good.<p><p>MARK ZANDI: The numbers speak for themselves. Growth is strong. Lots of jobs. Unemployment is low. If you take the economy on the whole, it really is about as good as it gets. So President Trump is inheriting a fantastic economy.<p><p>HORSLEY: The economy is certainly in better shape now than when Trump left the White House four years ago in the midst of the pandemic, which, of course, had sidelined millions of workers.<p><p>SIMON: And yet, Scott, as I don't have to tell you, polls, and for that matter, election results indicate that people are unhappy with the economy, right?<p><p>HORSLEY: Yeah. I mean, the cost of living is still high, and even though inflation's cooled a lot in the last couple of years, people are grumpy about the cumulative price hikes that followed the pandemic and then Russia's invasion of Ukraine. Now, similar price hikes were felt all over the world, not just here in the U.S., but Zandi acknowledges those price hikes have been hard on a lot of people's budgets, especially lower-income families.<p><p>ZANDI: Prices may not be rising all that much right now, but the rent I pay is 20, 25% more than it was three, four years ago. The cost of groceries is 20, 25% more than I was paying three, four years ago. Cost of energy is up considerably from where it was three, four years ago. These are things that people have got to buy, right?<p><p>HORSLEY: Compared to the last time Trump took office, for example, gasoline prices are up, about 85 cents a gallon, and mortgage rates are a lot higher now, which is making it tough for people to buy houses.<p><p>SIMON: What has President Trump proposed to try and roll back those costs?<p><p>HORSLEY: Well, he hasn't really offered a specific plan to cut prices other than saying, drill, baby, drill. He wants to boost domestic oil production and suggests that would cut costs for everything else. But here's the thing - U.S. oil production is already at a record high. And if prices did come down, energy companies might want to drill less, not more.<p><p>Trump also said this week he will, quote, "demand lower interest rates," but, you know, the president doesn't dictate borrowing costs. That's up to the bond market and the Federal Reserve. And the bond market has generally been pushing interest rates up since Trump was elected, and Fed policymakers have suggested they're going to take their time cutting interest rates.<p><p>SIMON: Why?<p><p>HORSLEY: Well, the Fed's going to be wary about cutting borrowing costs so long as inflation remains elevated, and there's a concern that some of the new president's policies could actually make inflation worse. You know, Trump has threatened to impose sweeping tariffs on imports and to deport millions of people living in the country illegally.<p><p>HORSLEY: If he actually follows through on those promises, it would likely raise prices. Now, Trump has also called for tax cuts, which could boost the economy, but tax cuts probably won't kick in for another year. And when they do, they will probably add to the federal deficit, which is bigger now than it was the last time Trump took office, although not as big as it was when he left the White House in the middle of the pandemic.<p><p>SIMON: NPR's Scott Horsley. Thanks so much.<p><p>HORSLEY: You're welcome.<p></p>
+<p class="disclaimer">Copyright © 2025 NPR.  All rights reserved.  Visit our website <a href="https://www.npr.org/about-npr/179876898/terms-of-use">terms of use</a> and <a href="https://www.npr.org/about-npr/179881519/rights-and-permissions-information">permissions</a> pages at <a href="https://www.npr.org">www.npr.org</a> for further information.</p>
+<p class="disclaimer">
+        Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record.
+    </p>
+</p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></div>
+<div aria-label="Share tools" class="share-tools share-tools--secondary">
+<ul>
+<li class="share-tools__service share-tools__service--facebook"><button class="fbStorynx-s1-5270829" data-metrics-ga4='{"category":"share","action":"share","clickName":"facebook"}' data-share-facebook='{"storyId": "nx-s1-5270829" }'><b class="share-tools__service-name">Facebook</b></button></li>
+<li class="share-tools__service share-tools__service--flipboard"><button class="storynx-s1-5270829" data-metrics-ga4='{"category":"share","action":"share","clickName":"flipboard"}' data-share-flipboard='{"storyId": "nx-s1-5270829" }'><b class="share-tools__service-name">Flipboard</b></button></li>
+<li class="share-tools__service share-tools__service--email"><button class="share-tools__email-link" data-metrics-ga4='{"category":"share","action":"share","clickName":"email"}' data-story-id="nx-s1-5270829"><b class="share-tools__service-name">Email</b></button></li>
+</ul>
+</div>
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--SECONDARY" ARIA-LABEL="SHARE TOOLS" -->
+<div data-newsletter='{"newsletterId":"money","title":"Planet Money","marketingHeader":"Sign Up For The Planet Money Newsletter","frequency":"every week","shortDescription":"Just the right amount of economics, sent weekly.","stickyDescription":"Sign up for the Planet Money newsletter. Just the right amount of economics, sent weekly.","contentImage":"https:\/\/media.npr.org\/assets\/img\/2019\/04\/16\/newsletter_planet_money_custom.png","staticMarkupDir":"\/buckets\/blogs\/money\/subnav.html","brandingDir":"\/branding\/sections\/money\/","brandingLink":"https:\/\/www.npr.org\/sections\/money\/","recaptchaSiteKey":"6LcdN9IZAAAAAOHT985BJjbzjkBjKSxdxK3GeKSt"}' id="newsletter-acquisition-callout-data">
+</div>
+<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;MONEY&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;PLANET MONEY&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;SIGN UP FOR THE PLANET MONEY NEWSLETTER&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;EVERY WEEK&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;JUST THE RIGHT AMOUNT OF ECONOMICS, SENT WEEKLY.&QUOT;,&QUOT;STICKYDESCRIPTION&QUOT;:&QUOT;SIGN UP FOR THE PLANET MONEY NEWSLETTER. JUST THE RIGHT AMOUNT OF ECONOMICS, SENT WEEKLY.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;HTTPS:\/\/MEDIA.NPR.ORG\/ASSETS\/IMG\/2019\/04\/16\/NEWSLETTER_PLANET_MONEY_CUSTOM.PNG&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT;\/BUCKETS\/BLOGS\/MONEY\/SUBNAV.HTML&QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT;\/BRANDING\/SECTIONS\/MONEY\/&QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/SECTIONS\/MONEY\/&QUOT;,&QUOT;RECAPTCHASITEKEY&QUOT;:&QUOT;6LCDN9IZAAAAAOHT985BJJBZJKBJKSXDXK3GEKST&QUOT;}" -->
+<div id="callout-end-of-story-mount">
+</div>
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT" -->
+<div class="callout-end-of-story-mount-piano-wrap" id="callout-end-of-story-mount-piano-wrap">
+<div class="callout-end-of-story-mount-piano" id="callout-end-of-story-mount-piano">
+</div>
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT-PIANO" CLASS="CALLOUT-END-OF-STORY-MOUNT-PIANO" -->
+</div>
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT-PIANO-WRAP" CLASS="CALLOUT-END-OF-STORY-MOUNT-PIANO-WRAP" -->
+<aside aria-label="recommended stories" class="recommended-stories recommended-stories--piano" id="end-of-story-recommendations-mount-piano"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT-PIANO" CLASS="RECOMMENDED-STORIES RECOMMENDED-STORIES--PIANO" ARIA-LABEL="RECOMMENDED STORIES" -->
+<aside aria-label="recommended stories" class="recommended-stories" id="end-of-story-recommendations-mount"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT" CLASS="RECOMMENDED-STORIES" ARIA-LABEL="RECOMMENDED STORIES" -->
+</article><footer aria-label="NPR footer" class="npr-footer" id="npr-footer" role="contentinfo"><div class="npr-footer__content">
+<div class="npr-footer__module-group">
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Read &amp; Listen</h6>
+<ul>
+<li class="npr-footer__item"><a href="/">Home</a></li>
+<li class="npr-footer__item"><a href="/sections/news/">News</a></li>
+<li class="npr-footer__item"><a href="/sections/culture/">Culture</a></li>
+<li class="npr-footer__item"><a href="/music/">Music</a></li>
+<li class="npr-footer__item"><a href="/podcasts-and-shows">Podcasts &amp; Shows</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Connect</h6>
+<ul>
+<li class="npr-footer__item"><a href="/newsletters/" target="_blank">Newsletters</a></li>
+<li class="npr-footer__item"><a href="https://www.facebook.com/NPR/">Facebook</a></li>
+<li class="npr-footer__item"><a href="https://www.instagram.com/npr/">Instagram</a></li>
+<li class="npr-footer__item"><a href="/series/750003/press-room/">Press</a></li>
+<li class="npr-footer__item"><a href="/sections/publiceditor/">Public Editor</a></li>
+<li class="npr-footer__item"><a href="/corrections/">Corrections</a></li>
+<li class="npr-footer__item"><a href="/transcripts/">Transcripts</a></li>
+<li class="npr-footer__item"><a href="https://help.npr.org/contact/s/">Contact &amp; Help</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">About NPR</h6>
+<ul>
+<li class="npr-footer__item"><a href="/about/">Overview</a></li>
+<li class="npr-footer__item"><a href="/diversity/">Diversity</a></li>
+<li class="npr-footer__item"><a href="/network/" target="_blank">NPR Network</a></li>
+<li class="npr-footer__item"><a href="/about-npr/1136563345/accessibility">Accessibility</a></li>
+<li class="npr-footer__item"><a href="/ethics/">Ethics</a></li>
+<li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances">Finances</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Get Involved</h6>
+<ul>
+<li class="npr-footer__item"><a href="/support/">Support Public Radio</a></li>
+<li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship">Sponsor NPR</a></li>
+<li class="npr-footer__item"><a href="/careers/">NPR Careers</a></li>
+<li class="npr-footer__item"><a href="https://shopnpr.org/">NPR Shop</a></li>
+<li class="npr-footer__item"><a href="https://www.nprpresents.org">NPR Events</a></li>
+<li class="npr-footer__item"><a href="/sections/npr-extra/">NPR Extra</a></li>
+</ul>
+</div>
+</div>
+<div class="npr-footer__module npr-footer__module--secondary">
+<ul>
+<li class="npr-footer__item"><a href="/about-npr/179876898/terms-of-use">Terms of Use</a></li>
+<li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy">Privacy</a></li>
+<li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy#yourchoices">Your Privacy Choices</a></li>
+<li class="npr-footer__item"><a href="https://text.npr.org/">Text Only</a></li>
+<li class="npr-footer__item"><span class="copy-year"></span></li>
+</ul>
+</div>
+</div>
+</footer><div class="global-stickybar-mount" id="global-stickybar-mount">
+</div>
+<div class="global-stickybar" id="global-stickybar-mount-piano-wrap">
+<div class="global-stickybar-mount-piano" id="global-stickybar-mount-piano">
+</div>
+</div>
+</section> <div id="main-sidebar">
+<div id="right-rail-content-widgets-mount">
+</div>
+<!-- END ID="RIGHT-RAIL-CONTENT-WIDGETS-MOUNT" -->
+<aside aria-label="advertisement" class="ad-wrap standard" id="ad-standard-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config ad-standard has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_Business_Economy","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"nx-s1-5270829","program":"Weekend_Edition_Saturday"},"site":{"desktop":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"location":"standard","deferred":false,"isBetweenContent":false,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-standard-News_Business_Economy">
+<div style="min-height:90px"></div>
+</div>
+<div class="ad-footer"><p class="left">Sponsor Message</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p></div>
+</aside>
+</div>
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+<!-- END ID="WRAPPER" -->
+<section id="global-modal-mount"></section>
+<!-- END ID="GLOBAL-MODAL-MOUNT" -->
+<script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { (window.webpackJsonp=window.webpackJsonp||[]).push([[22],{1159:function(e,n,c){e.exports=c(321)},321:function(e,n,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,Promise.all([c.e(1),c.e(2),c.e(3),c.e(4),c.e(81)]).then(function(e){c(3),c(1132),c(113),c(91),c(60),c(494),c(234),c(114),c(116),c(1133),c(164),c(1134),c(316),c(1135),c(48),c(1136)}.bind(null,c)).catch(c.oe)}},[[1159,0]]]); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+</main></body></html>

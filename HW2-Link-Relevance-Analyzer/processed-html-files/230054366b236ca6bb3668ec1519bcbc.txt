@@ -1,0 +1,4 @@
+Transparency and Control Portal
+If your email or phone number has been provided to companies that participate in the UID2 ecosystem, that email address or phone number may have been converted into a unique identifier known as UID2 that allows companies to show ads that are targeted to your interests and perform related activities. This site enables you to request to opt out of targeted advertising based on UID2. The UID2 administrator then makes this opt-out choice available to all companies that participate in UID2 so they can cease targeted advertising based on your UID2 identifier. To opt out a UID2 generated from your email address or phone number, enter it below. Be sure to enter an email address or phone number that belongs to you or that you are otherwise authorized to provide. UID2s correspond exclusively to one email or phone number, so please complete and submit this form for each email address or phone number you wish to opt out.
+Email Address
+

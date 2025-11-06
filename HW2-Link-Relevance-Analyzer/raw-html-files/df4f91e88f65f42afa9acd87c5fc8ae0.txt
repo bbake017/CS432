@@ -1,0 +1,874 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en"><head><!-- OneTrust Cookies Consent Notice start for npr.org -->
+<script src="https://cdn.cookielaw.org/consent/82089dfe-410c-4e1b-a7f9-698174b62a86/OtAutoBlock.js" type="text/javascript"></script>
+<script charset="UTF-8" data-domain-script="82089dfe-410c-4e1b-a7f9-698174b62a86" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript"></script>
+<script type="text/javascript">
+function OptanonWrapper() {
+    NPR_OptanonWrapper = true;
+    document.dispatchEvent(new CustomEvent('npr:DataConsentAvailable'));
+    
+    OneTrust.OnConsentChanged(function() {
+        document.dispatchEvent(new CustomEvent('npr:DataConsentChanged'));
+    });
+ }
+</script>
+<!-- OneTrust Cookies Consent Notice end for npr.org -->
+<script ccpa-opt-out-geo="us" ccpa-opt-out-ids="C0004" ccpa-opt-out-lspa="false" charset="UTF-8" src="https://cdn.cookielaw.org/opt-out/otCCPAiab.js" type="text/javascript"></script><script class="optanon-category-C0004" type="text/plain">
+    document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+    var setNptTechAdblockerCookie = function(adblocker) {
+        var d = new Date();
+        d.setTime(d.getTime() + 60 * 5 * 1000);
+        document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+    };
+    (() => {
+        var script = document.createElement("script");
+        script.setAttribute("async", true);
+        script.setAttribute("src", "//www.npttech.com/advertising.js");
+        script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+        document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+</script><script>
+(function (e, o, n, i) {
+    if (!e) {
+        e = e || {}, window.permutive = e, e.q = [];
+        var t = function () {
+            return ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, function (e) {
+                return (e ^ (window.crypto || window.msCrypto).getRandomValues(new Uint8Array(1))[0] & 15 >> e / 4).toString(16)
+            })
+        };
+        e.config = i || {}, e.config.apiKey = o, e.config.workspaceId = n, e.config.environment = e.config.environment || "production", (window.crypto || window.msCrypto) && (e.config.viewId = t());
+        for (var g = ["addon", "identify", "track", "trigger", "query", "segment", "segments", "ready", "on", "once", "user", "consent"], r = 0; r < g.length; r++) {
+            var w = g[r];
+            e[w] = function (o) {
+                return function () {
+                    var n = Array.prototype.slice.call(arguments, 0);
+                    e.q.push({functionName: o, arguments: n})
+                };
+            }(w);
+        }
+    }
+})(window.permutive, "12730e07-f09d-4a69-93da-99b43983b663", "e1cef1f0-495f-4973-ba1c-880786e73a66", {"consentRequired": true});
+</script>
+<!--
+
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+nnn         nnnnnn ppp          pppppp rrr           rrrr
+nnn   nnnn    nnnn ppp   pppppp   pppp rrr   rrrrrr   rrr
+nnn   nnnnnn   nnn ppp   ppppppp   ppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppp    pppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp           ppppp rrr   rrrrrrrrrrrr
+nnn   nnnnnn   nnn ppp   ppppppppppppp rrr   rrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppp   ppppppppppppp rrrrrrrrrrrrrrrrrr
+nnnnnnnnnnnnnnnnnn ppppppppppppppppppp rrrrrrrrrrrrrrrrrr
+
+We are hiring!
+
+https://boards.greenhouse.io/nationalpublicradioinc
+
+-->
+<script>dataLayer = [];</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.setAttributeNode(d.createAttribute('data-ot-ignore'));j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer', 'GTM-MVD397M');</script>
+<!-- End Google Tag Manager -->
+<script>
+   try {var _sf_startpt=(new Date()).getTime();} catch(e){}
+</script>
+<meta itemref="speakable" itemscope="" itemtype="https://schema.org/SpeakableSpecification"/><title>Companies don't want to fight with Trump. That may be reshaping the economy : NPR</title><meta content="[data-is-speakable]" id="speakable" itemprop="cssSelector"/><meta content="1VqzbDm4ukeFVHOoq5LjIKA2fVKZD-EYv8cXZhKXSfU" id="google-site-verification" name="google-site-verification"/><meta charset="utf-8"/><meta content="noarchive,index,follow,max-image-preview:large" name="robots"/><meta content="app-id=324906251, app-argument=https://www.npr.org/2025/08/14/nx-s1-5501591/trump-corporate-america-capitalism" name="apple-itunes-app"/><meta content="General" name="Rating"/><meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/><meta name="npr-pjax"/><meta content="2025-08-14" name="date"/><link href="https://www.npr.org/2025/08/14/nx-s1-5501591/trump-corporate-america-capitalism" rel="canonical"/><meta content="Critics warn that Trump's demands for business leaders to step down, and for the government to take a cut of sales, threaten American-style capitalism." name="description"/><link href="https://feeds.npr.org/1006/rss.xml" rel="alternate" title="Business" type="application/rss+xml"/><meta content="article" name="cXenseParse:pageclass"/><meta content="2025-08-14T05:00:00-04:00" name="cXenseParse:publishtime"/><meta content="Business" name="cXenseParse:zbq-eyebrowText"/><meta content="https://www.npr.org/sections/business/" name="cXenseParse:zbq-eyebrowUrl"/><meta content="News/Business" name="cXenseParse:taxonomy"/><meta content="Maria Aspan" name="cXenseParse:author"/><link href="https://media.npr.org/chrome/favicon/favicon-180x180.png" rel="apple-touch-icon" sizes="180x180"/><link href="https://media.npr.org/chrome/favicon/favicon.ico" rel="shortcut icon"/><link href="https://media.npr.org/chrome/favicon/favicon-96x96.png" rel="icon" sizes="96x96"/><link href="https://media.npr.org/chrome/favicon/favicon-48x48.png" rel="icon" sizes="48x48"/><link href="https://media.npr.org/chrome/favicon/favicon-32x32.png" rel="icon" sizes="32x32"/><link href="https://media.npr.org/chrome/favicon/favicon-16x16.png" rel="icon" sizes="16x16"/><meta content="Trump is tightening the screws on corporate America — and CEOs are staying mum" property="og:title"/><meta content="https://www.npr.org/2025/08/14/nx-s1-5501591/trump-corporate-america-capitalism" property="og:url"/><meta content="article" property="og:type"/><meta content="Critics warn that Trump's demands for business leaders to step down, and for the government to take a cut of sales, threaten American-style capitalism." property="og:description"/><meta content="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x3979+0+476/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg" property="og:image"/><meta content="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x4278+0+396/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg" property="og:image"/><meta content="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3151+0+292/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg" property="og:image"/><meta content="NPR" property="og:site_name"/><meta content="138837436154588" property="fb:app_id"/><meta content="10643211755" property="fb:pages"/><meta content="free" property="article:content_tier"/><meta content="false" property="article:opinion"/><meta content="summary_large_image" name="twitter:card"/><meta content="Trump is tightening the screws on corporate America — and CEOs are staying mum" name="twitter:title"/><meta content="@NPR" name="twitter:site"/><meta content="npr.org" name="twitter:domain"/><meta content="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x3979+0+476/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg" name="twitter:image:src"/><script id="npr-vars">
+   window.NPR = window.NPR || {};
+NPR.ServerConstants = {"cbHost":"npr.org","webHost":"https:\/\/www.npr.org","geolocationHost":"https:\/\/www.npr.org","legacyWebHost":"https:\/\/legacy.npr.org","stripeServiceHost":"https:\/\/stripe.npr.org","recaptchaV3SiteKey":"6LcdN9IZAAAAAOHT985BJjbzjkBjKSxdxK3GeKSt","placesApiKey":"AIzaSyB_wzlXPVwS4kHRAZsM6scMzUAIsJ6aMZ4","embedHost":"https:\/\/www.npr.org","webHostSecure":"https:\/\/secure.npr.org","identityHost":"https:\/\/identity.api.npr.org","apiHost":"https:\/\/api.npr.org","stationApiHost":"https:\/\/station.api.npr.org","environment":"prod","serverMediaCache":"https:\/\/media.npr.org","googleAnalyticsAccount":"UA-5828686-4","gtmKey":"GTM-MVD397M","nielsenSFCode":"dcr","nielsenAPN":"NPR-dcr","shouldShowHPLocalContent":true,"cookieDomain":".npr.org","organizationV4Host":"https:\/\/organization.api.npr.org","staticAssetsHost":"https:\/\/prod-eks-static-assets.npr.org","stripeAPIVersion":"2025-02-24.acacia"};
+NPR.serverVars = {"storyId":"nx-s1-5501591","storyCategory":"Business","sponsorship":{"baseAdConfig":{"network":"\/6735\/","zone":"News_Business","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"nx-s1-5501591","agg":["1088064794"]}},"end-of-story":{"site":{"desktop":"NPREndStory","mobile":"NPRMobileEndStory"},"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false,"deferred":true}},"isHiring":true,"facebookAppId":"138837436154588","webpackPublicPath":"https:\/\/prod-eks-bundles.npr.org\/dist\/bundles\/","persistenceVersion":"206dc7b47576a78214a305edec14c9b0","isBuildOut":true,"pageLayoutName":"NewsStoryLayout","bingeModeId":"","isPreviewMode":false,"topicIds":["P1006","1001","1002","1004","1014","1017","1019","g-s1-141"],"primaryTopic":"Business","topics":["Business","Politics","Apple News","News","Economy","Technology","World","Home Page Top Stories"],"theme":"1006","aggIds":["1001","1002","1004","1006","1014","1017","1019","131976137","132840696","147165360","154529295","173220814","377614666","511343536","1088064794","1269066554","g-s1-141"],"tagIds":["CEOs","Corporate America","Goldman Sachs","Intel","Nvidia","President Trump","Tariffs"],"byline":["Maria Aspan"],"contentPartnerOrgFullName":"1 | NPR","pubDate":"2025081405","fullPubDate":"Thu, 14 Aug 2025 05:00:00 -0400","pageTypeId":"1","title":"Trump is tightening the screws on corporate America \u2014 and CEOs are staying mum","publisherOrgId":"1"};
+</script>
+<script src="https://cdn.optimizely.com/js/11107397707.js" type="text/javascript">
+</script>
+<script src="https://prod-eks-static-assets.npr.org/static/javascript/lib/modernizr/modernizr.custom.js" type="text/javascript">
+</script>
+<script src="https://prod-eks-static-assets.npr.org/static/javascript/lib/svg-loader.min.js" type="text/javascript">
+</script>
+<script async="" src="https://js.stripe.com/v3/" type="text/javascript">
+</script>
+<script>
+   !function(e){function r(r){for(var n,a,o=r[0],d=r[1],u=r[2],i=0,l=[];i<o.length;i++)a=o[i],Object.prototype.hasOwnProperty.call(f,a)&&f[a]&&l.push(f[a][0]),f[a]=0;for(n in d)Object.prototype.hasOwnProperty.call(d,n)&&(e[n]=d[n]);for(b&&b(r);l.length;)l.shift()();return c.push.apply(c,u||[]),t()}function t(){for(var e,r=0;r<c.length;r++){for(var t=c[r],n=!0,o=1;o<t.length;o++){var d=t[o];0!==f[d]&&(n=!1)}n&&(c.splice(r--,1),e=a(a.s=t[0]))}return e}var n={},f={0:0},c=[];function a(r){if(n[r])return n[r].exports;var t=n[r]={i:r,l:!1,exports:{}};return e[r].call(t.exports,t,t.exports,a),t.l=!0,t.exports}a.e=function(e){var r=[],t=f[e];if(0!==t)if(t)r.push(t[2]);else{var n=new Promise((function(r,n){t=f[e]=[r,n]}));r.push(t[2]=n);var c,o=document.createElement("script");o.charset="utf-8",o.timeout=120,a.nc&&o.setAttribute("nonce",a.nc),o.src=function(e){return a.p+""+e+"."+{1:"74e5455220e76322b034",2:"52c45d4e347cf8e5dcb2",3:"ddf46da314b9bf76329c",4:"9d7710d53f5e7e55c583",5:"770897aa30c19cedc146",6:"aef2673d74ec371c64c2",7:"f5a8c3b210f0f07e1046",8:"3e76814c3524be0bb828",9:"a17197143a04c64ee87e",10:"2c217d97d258fcffa420",11:"9a1e856ad54b333aad1b",75:"d501cbe3cf5eedd1f5d5",76:"dc969865439098d9fed4",77:"77d1e85151151476697f",78:"31a804e4e8c4f052cb14",79:"be836fb908109387e62a",80:"ceea6b70915441ff0630",81:"ecf0936fa246e259efa8",82:"4cff7b4bc7f13b0c4831",83:"b5a1c2399bef9232ff62",84:"9e35b7681eccbf5c3ec6",85:"ae34de3d376f078bf4a4",86:"0ffeb4eeb10f6fec03f0",87:"09b26050dd3b61d31d17",88:"e0ea33db1c92600d0809",89:"4006c64e2319594ef3cc",90:"16ec6d0ac2d1ef8b52ce",91:"b9d0a003aba29ef38f9d",92:"d5ad0b6eec3a295de074",93:"ead04419969e4f277494",94:"e141f117eacadeae10fc",95:"7ffd11553f8bd62048e6",96:"f206052038a221873b88",97:"836b2acd00c986122ff4",98:"be309d534e5ec0f83c3e",99:"5bd7ae837f3dd9ac4006",100:"abbc394d086f423fd989",101:"e94f5dfc20c8d4f99a55"}[e]+".chunk.js"}(e);var d=new Error;c=function(r){o.onerror=o.onload=null,clearTimeout(u);var t=f[e];if(0!==t){if(t){var n=r&&("load"===r.type?"missing":r.type),c=r&&r.target&&r.target.src;d.message="Loading chunk "+e+" failed.\n("+n+": "+c+")",d.name="ChunkLoadError",d.type=n,d.request=c,t[1](d)}f[e]=void 0}};var u=setTimeout((function(){c({type:"timeout",target:o})}),12e4);o.onerror=o.onload=c,document.head.appendChild(o)}return Promise.all(r)},a.m=e,a.c=n,a.d=function(e,r,t){a.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},a.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},a.t=function(e,r){if(1&r&&(e=a(e)),8&r)return e;if(4&r&&"object"==typeof e&&e&&e.__esModule)return e;var t=Object.create(null);if(a.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:e}),2&r&&"string"!=typeof e)for(var n in e)a.d(t,n,function(r){return e[r]}.bind(null,n));return t},a.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return a.d(r,"a",r),r},a.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},a.p="/dist/bundles/",a.oe=function(e){throw console.error(e),e};var o=window.webpackJsonp=window.webpackJsonp||[],d=o.push.bind(o);o.push=r,o=o.slice();for(var u=0;u<o.length;u++)r(o[u]);var b=d;t()}([]);
+</script>
+<script src="https://prod-eks-bundles.npr.org/dist/bundles/33.aed3b3f7e6f244a3eeb2.chunk.js" type="text/javascript">
+</script>
+<link data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/persistent-css-92c61b5f7e3f4388b1d2.css" media="screen, print" rel="stylesheet"/><link data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/persistent_medium-css-92c61b5f7e3f4388b1d2.css" media="screen and (min-width: 768px)" rel="stylesheet"/><link data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/persistent_large-css-92c61b5f7e3f4388b1d2.css" media="screen and (min-width: 1025px)" rel="stylesheet"/><link as="style" data-persist="true" href="https://prod-eks-bundles.npr.org/dist/bundles/fonts-css-92c61b5f7e3f4388b1d2.css" media="screen, print" onload="this.onload=null;this.rel='stylesheet'" rel="preload"/><link href="https://prod-eks-bundles.npr.org/dist/bundles/newsStory-css-92c61b5f7e3f4388b1d2.css" media="screen, print" rel="stylesheet"/><script type="application/ld+json">
+   {"@type":"NewsArticle","publisher":{"@type":"Organization","name":"NPR","logo":{"@type":"ImageObject","url":"https:\/\/media.npr.org\/chrome\/npr-logo-2025.jpg"}},"headline":"Trump is tightening the screws on corporate America \u2014 and CEOs are staying mum","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.npr.org\/2025\/08\/14\/nx-s1-5501591\/trump-corporate-america-capitalism"},"datePublished":"2025-08-14T05:00:00-04:00","dateModified":"2025-08-14T05:00:00-04:00","author":{"@type":"Person","name":["Maria Aspan"]},"description":"Critics warn that Trump's demands for business leaders to step down, and for the government to take a cut of sales, threaten American-style capitalism.","image":[{"@type":"ImageObject","url":"https:\/\/npr.brightspotcdn.com\/dims3\/default\/strip\/false\/crop\/7073x4931+0+0\/resize\/7073x4931!\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg"},{"@type":"ImageObject","url":"https:\/\/npr.brightspotcdn.com\/dims3\/default\/strip\/false\/crop\/7606x5071+0+0\/resize\/7606x5071!\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg"},{"@type":"ImageObject","url":"https:\/\/npr.brightspotcdn.com\/dims3\/default\/strip\/false\/crop\/5601x3734+0+0\/resize\/5601x3734!\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg"}],"@context":"http:\/\/schema.org"}
+</script>
+<script type="text/javascript">
+   document.domain="www.npr.org";
+</script>
+<script data-piano-aid="9ENxKQ58pu" id="piano-aid" type="text/javascript">
+    (function(src) {
+        var a = document.createElement("script");
+        a.type = "text/javascript";
+        a.async = true;
+        a.src = src;
+        var b = document.getElementsByTagName("script")[0];
+        b.parentNode.insertBefore(a, b)
+    })("//cdn.piano.io/api/tinypass.min.js");
+
+    window.pdl = window.pdl || {};
+    window.pdl.requireConsent = true;
+
+    tp = window.tp || [];
+
+    tp.push(["init", function() {
+        tp.enableGACrossDomainLinking();
+    }]);
+</script>
+<script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="MBVDT-3L9KY-36ZMJ-SPSAR-JR833",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"MBVDT-3L9KY-36ZMJ-SPSAR-JR833";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="jdbnlfix3f2nc2gzpthq-f-ad5e3b256-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"55818","ak.ai":parseInt("290690",10),"ak.ol":"0","ak.cr":30,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"5306ae79","ak.r":33470,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"72.194.213.0","ak.cport":65238,"ak.gh":"23.217.116.143","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1759083727","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==dHbz3nRtOYtVPwRaMfaoyKJHSObDYH2W75hrzYayDnVekIm9L2THb76+Vz6M9alOSpylAZ5DLIlGzSWdhOtWAwtXnCBan3YuJgM+dWMxhIfn+6aBh5GepZzbc7g/QqgsiXZUUUeoSl3L5a2SB/6TtyjyQbrrSnAUuLxkzXKQYqKFLAei37NVdUar5FHXZt2gFjGxXDelVSD07T+75M86NHUV0gRc1le0ffVFOXG2YUDpxis/5+gV+o5qJie0bt/J1TIgYltoAkn0GkCRwAbFD6o8POcYMczcv5bKIvMwnyUL7f4zfd1hrIMbiloMBmxioH4JGv1XUtRi7SZtxhUaAho8heQILC/ihA93o1BKix6aAaLVyvTwvP0Y9lVmAiIhMRgezXTR14qmo7ikzqCgwVLfAjNCCx+WWef7oBO/rFU=","ak.pv":"111","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head><body class="news tmplNewsStory story-layout is-buildout no-transcript has-no-branding idnx-s1-5501591" data-pjax-modules="util/env images/lazy-load data-consent data-management-platform header-bidding metrics nielsen nielsenDCR copyright auto-refresh navigation/global-navigation fitvids googletag dfp globalfooter persistent-audio player/more-options player/audio-module-clickable what-input metrics/doubleclickFloodlight callout/on-page-callouts global-alerts right-rail-content-widgets we-are-hiring piano datadog ecommerce recommendations/end-of-story-recommendations-callout jw social/share slideshow images/enlargement contentfooter story/date-tooltip social/sharepop podcast-cards search/faceting-param local/newsletter/callout recaptcha-v3" id="news">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MVD397M" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="skip-links">
+<span>Accessibility links</span> <ul>
+<li><a class="skiplink" href="#mainContent">Skip to main content</a></li>
+<li><a class="skiplink" href="https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player">Keyboard shortcuts for audio player</a></li>
+</ul>
+</div>
+<div class="global-header-sticky-cta-wrap" id="global-header-sticky-cta-wrap">
+<div class="global-header-sticky-cta-mount" id="global-header-sticky-cta-mount">
+</div>
+</div>
+<div class="global-header-cta-wrap" id="global-header-cta-wrap">
+<div class="global-header-cta-mount" id="global-header-cta-mount">
+</div>
+</div>
+<header aria-label="NPR header" class="npr-header" id="globalheader">
+<nav class="navigation">
+<div class="navigation__top-level-wrap" data-metrics-category-ga4="recirculation">
+<ul class="navigation__top-level">
+<li class="navigation__toggle-wrap">
+<button aria-expanded="false" aria-haspopup="true" class="navigation__toggle navigation__toggle--open" data-metrics-ga4='{"action":"global_navigation_click","clickName":"open navigation menu","clickType":"global navigation"}' id="navigation__toggle--open">
+                    Open Navigation Menu
+                </button>
+</li>
+<li class="navigation__home">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr logo","clickType":"global navigation","clickUrl":"\/"}' href="/">
+<img alt="NPR logo" src="https://prod-eks-static-assets.npr.org/chrome_svg/npr-logo-2025.svg"/>
+</a>
+</li>
+<li id="navigation__station-mount"></li>
+<li class="navigation__newsletters">
+<div class="navigation__newsletters-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"newsletters","clickType":"global navigation","clickUrl":"/newsletters/"}' href="/newsletters/" target="_blank">Newsletters</a>
+</div>
+</li>
+<li class="navigation__account" id="user-account-dropdown-mount"></li>
+<li class="navigation__shop">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr shop","clickType":"global navigation","clickUrl":"https://shopnpr.org"}' href="https://shopnpr.org">NPR Shop</a>
+</li>
+<li id="navigation__station-donate-mount"></li>
+</ul>
+</div>
+<section class="menu menu--main" data-metrics-category-ga4="recirculation" id="main-menu">
+<div class="menu__inner">
+<header class="menu__header">
+<button aria-expanded="true" aria-haspopup="true" class="navigation__toggle navigation__toggle--close" data-metrics-ga4='{"action":"global_navigation_click","clickName":"close navigation menu","clickType":"global navigation"}' id="navigation__toggle--close">
+                    Close <span>Navigation Menu</span>
+</button>
+</header>
+<ul class="menu__list">
+<li class="menu__item menu__item--home">
+<div class="menu__item-inner"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr logo","clickType":"global navigation","clickUrl":"\/"}' href="/">Home</a></div>
+</li>
+<li class="menu__item menu__item--news menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"news","clickType":"global navigation","clickUrl":"/sections/news/"}' href="/sections/news/">News</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle news drawer","clickType":"global navigation"}'>Expand/collapse submenu for News</button>
+</div>
+<ul class="submenu submenu--news">
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"national","clickType":"global navigation","clickUrl":"/sections/national/"}' href="/sections/national/">National</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"world","clickType":"global navigation","clickUrl":"/sections/world/"}' href="/sections/world/">World</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"politics","clickType":"global navigation","clickUrl":"/sections/politics/"}' href="/sections/politics/">Politics</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"business","clickType":"global navigation","clickUrl":"/sections/business/"}' href="/sections/business/">Business</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"health","clickType":"global navigation","clickUrl":"/sections/health/"}' href="/sections/health/">Health</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"science","clickType":"global navigation","clickUrl":"/sections/science/"}' href="/sections/science/">Science</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"climate","clickType":"global navigation","clickUrl":"/sections/climate/"}' href="/sections/climate/">Climate</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"race","clickType":"global navigation","clickUrl":"/sections/codeswitch/"}' href="/sections/codeswitch/">Race</a></li>
+</ul>
+</li>
+<li class="menu__item menu__item--culture menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"culture","clickType":"global navigation","clickUrl":"/sections/culture/"}' href="/sections/culture/">Culture</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle culture drawer","clickType":"global navigation"}'>Expand/collapse submenu for Culture</button>
+</div>
+<ul class="submenu submenu--culture">
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"books","clickType":"global navigation","clickUrl":"/books/"}' href="/books/">Books</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"movies","clickType":"global navigation","clickUrl":"/sections/movies/"}' href="/sections/movies/">Movies</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"television","clickType":"global navigation","clickUrl":"/sections/television/"}' href="/sections/television/">Television</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"pop culture","clickType":"global navigation","clickUrl":"/sections/pop-culture/"}' href="/sections/pop-culture/">Pop Culture</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"food","clickType":"global navigation","clickUrl":"/sections/food/"}' href="/sections/food/">Food</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"art &amp; design","clickType":"global navigation","clickUrl":"/sections/art-design/"}' href="/sections/art-design/">Art &amp; Design</a> </li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"performing arts","clickType":"global navigation","clickUrl":"/sections/performing-arts/"}' href="/sections/performing-arts/">Performing Arts</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"life kit","clickType":"global navigation","clickUrl":"/lifekit/"}' href="/lifekit/">Life Kit</a></li>
+<li class="submenu__item"><a data-metrics-ga4='{"action":"global_navigation_click","clickName":"gaming","clickType":"global navigation","clickUrl":"/sections/gaming/"}' href="/sections/gaming/">Gaming</a></li>
+</ul>
+</li>
+<li class="menu__item menu__item--music menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"music","clickType":"global navigation","clickUrl":"/music/"}' href="/music/">Music</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle music drawer","clickType":"global navigation"}'>Expand/collapse submenu for Music</button>
+</div>
+<ul class="submenu submenu--music"><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"all songs considered","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/"}' href="https://www.npr.org/sections/allsongs/">
+        All Songs Considered
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"tiny desk","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/tiny-desk-concerts\/"}' href="https://www.npr.org/series/tiny-desk-concerts/">
+        Tiny Desk
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"new music friday","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/606254804\/new-music-friday"}' href="https://www.npr.org/sections/allsongs/606254804/new-music-friday">
+        New Music Friday
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"music features","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/music-features"}' href="https://www.npr.org/sections/music-features">
+        Music Features
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"live sessions","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/770565791\/npr-music-live-sessions"}' href="https://www.npr.org/series/770565791/npr-music-live-sessions">
+        Live Sessions
+    </a>
+</li></ul>
+</li>
+<li class="menu__item menu__item--shows-podcasts menu__item--has-submenu">
+<div class="menu__item-inner">
+<a data-metrics-ga4='{"action":"global_navigation_click","clickName":"podcasts &amp; shows","clickType":"global navigation","clickUrl":"/podcasts-and-shows/"}' href="/podcasts-and-shows/">Podcasts &amp; Shows</a>
+<button class="menu__toggle-submenu" data-metrics-ga4='{"action":"global_navigation_click","clickName":"toggle podcasts &amp; shows drawer","clickType":"global navigation"}'>Expand/collapse submenu for Podcasts &amp; Shows</button>
+</div>
+<div class="submenu submenu--shows-podcasts">
+<span class="submenu__category submenu__category--daily">Daily</span>
+<ul class="submenu__list submenu__list--daily">
+<li class="submenu__item submenu__item--timed submenu__item--weekday hidden">
+<a data-metrics-action="click morning edition" data-metrics-ga4='{"action":"global_navigation_click","clickName":"morning edition","clickType":"global navigation","clickUrl":"/programs/morning-edition/"}' href="/programs/morning-edition/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/morning-edition.jpg"/>
+                                    Morning Edition
+                                </a>
+</li>
+<li class="submenu__item submenu__item--timed submenu__item--saturday hidden">
+<a data-metrics-action="click weekend edition saturday" data-metrics-ga4='{"action":"global_navigation_click","clickName":"weekend edition saturday","clickType":"global navigation","clickUrl":"/programs/weekend-edition-saturday/"}' href="/programs/weekend-edition-saturday/">
+<img alt="" loading="lazy" src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesat_sq-cbde87a2fa31b01047441e6f34d2769b0287bcd4-s100-c85.png"/>
+                                    Weekend Edition Saturday
+                                </a>
+</li>
+<li class="submenu__item submenu__item--timed submenu__item--sunday hidden">
+<a data-metrics-action="click weekend edition sunday" data-metrics-ga4='{"action":"global_navigation_click","clickName":"weekend edition sunday","clickType":"global navigation","clickUrl":"/programs/weekend-edition-sunday/"}' href="/programs/weekend-edition-sunday/">
+<img alt="" loading="lazy" src="https://media.npr.org/assets/img/2019/02/26/we_otherentitiestemplatesun_sq-4a03b35e7e5adfa446aec374523a578d54dc9bf5-s100-c85.png"/>
+                                    Weekend Edition Sunday
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click all things considered" data-metrics-ga4='{"action":"global_navigation_click","clickName":"all things considered","clickType":"global navigation","clickUrl":"/programs/all-things-considered/"}' href="/programs/all-things-considered/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/all-things-considered.png"/>
+                                    All Things Considered
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click fresh air" data-metrics-ga4='{"action":"global_navigation_click","clickName":"fresh air","clickType":"global navigation","clickUrl":"/programs/fresh-air/"}' href="/programs/fresh-air/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/fresh-air.png"/>
+                                    Fresh Air
+                                </a>
+</li>
+<li class="submenu__item">
+<a data-metrics-action="click up first" data-metrics-ga4='{"action":"global_navigation_click","clickName":"up first","clickType":"global navigation","clickUrl":"/podcasts/510318/up-first/"}' href="/podcasts/510318/up-first/">
+<img alt="" loading="lazy" src="https://media.npr.org/chrome/programs/logos/up-first.jpg?version=2"/>
+                                    Up First
+                                </a>
+</li>
+</ul>
+<span class="submenu__category submenu__category--featured">Featured</span>
+<ul class="submenu__list submenu__list--featured"><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"embedded","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510311\/embedded"}' href="https://www.npr.org/podcasts/510311/embedded">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/08/01/embedded_podcast-tile_sq-21d8f227c811e4f3a0e28b4aa774dd17e39287db-s100.jpeg" loading="lazy" src="https://media.npr.org/assets/img/2024/08/01/embedded_podcast-tile_sq-21d8f227c811e4f3a0e28b4aa774dd17e39287db-s100-c100.jpeg"/>
+        Embedded
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"the npr politics podcast","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510310\/npr-politics-podcast"}' href="https://www.npr.org/podcasts/510310/npr-politics-podcast">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004-s100.jpg" loading="lazy" src="https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004-s100-c100.jpg"/>
+        The NPR Politics Podcast
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"throughline","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/podcasts\/510333\/throughline"}' href="https://www.npr.org/podcasts/510333/throughline">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-a59d7da2ea2bf97562aeec6440ddf837e8f7de65-s100.jpg" loading="lazy" src="https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-a59d7da2ea2bf97562aeec6440ddf837e8f7de65-s100-c100.jpg"/>
+        Throughline
+    </a>
+</li><li class="submenu__item">
+<a data-metrics-ga4="{&quot;category&quot;:&quot;recirculation&quot;,&quot;action&quot;:&quot;global_navigation_click&quot;,&quot;clickName&quot;:&quot;trump's terms &quot;,&quot;clickType&quot;:&quot;music ecosystem navigation&quot;,&quot;clickUrl&quot;:&quot;https:\/\/www.npr.org\/podcasts\/510374\/trumps-terms&quot;}" href="https://www.npr.org/podcasts/510374/trumps-terms">
+<img alt="" class="lazy" data-original="https://media.npr.org/assets/img/2024/11/20/trumps-terms_tile-art_sq-a562bd2ad2a39113dc7da18658fc1e25d0664257-s100.jpg" loading="lazy" src="https://media.npr.org/assets/img/2024/11/20/trumps-terms_tile-art_sq-a562bd2ad2a39113dc7da18658fc1e25d0664257-s100-c100.jpg"/>
+        Trump's Terms 
+    </a>
+</li></ul>
+<ul class="submenu__list submenu__list--directories">
+<li class="submenu__item"><a data-metrics-action="click podcasts &amp; shows" data-metrics-ga4='{"action":"global_navigation_click","clickName":"podcasts &amp; shows","clickType":"global navigation","clickUrl":"/podcasts-and-shows/"}' href="/podcasts-and-shows/">More Podcasts &amp; Shows</a></li>
+</ul>
+</div>
+</li>
+<li class="menu__item menu__item--search">
+<div class="menu__item-inner">
+<a data-metrics-action="click search" data-metrics-ga4='{"action":"global_navigation_click","clickName":"search","clickType":"global navigation","clickUrl":"/search/"}' href="/search/" id="navigation_dropdown-search">Search</a>
+</div>
+</li>
+<li class="menu__item menu__item--newsletters">
+<div class="menu__item-inner">
+<a data-metrics-action="click newsletters" data-metrics-ga4='{"action":"global_navigation_click","clickName":"newsletters","clickType":"global navigation","clickUrl":"/newsletters/"}' href="/newsletters/" target="_blank">Newsletters</a>
+</div>
+</li>
+<li class="menu__item menu__item--shop">
+<div class="menu__item-inner">
+<a data-metrics-action="click npr shop" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr shop","clickType":"global navigation","clickUrl":"https://shopnpr.org"}' href="https://shopnpr.org">NPR Shop</a>
+</div>
+</li>
+<li class="menu__item menu__item--account" id="user-account-dropdown-mount-two"></li>
+</ul>
+</div>
+</section>
+<section class="menu menu--music" data-metrics-category-ga4="recirculation">
+<div class="menu__list-wrap">
+<ul class="menu__list menu__list--ecosystem menu__list--music">
+<li class="menu__item menu__item--music-home">
+<a data-metrics-action="click npr music logo" data-metrics-ga4='{"action":"global_navigation_click","clickName":"npr music logo","clickType":"global navigation","clickUrl":"/music/"}' href="/music/">
+<img alt="NPR Music" class="music-logo" src="https://prod-eks-static-assets.npr.org/chrome_svg/music-logo-dark.svg"/>
+<img alt="NPR Music" class="music-logo-alt" src="https://prod-eks-static-assets.npr.org/chrome_svg/music-logo-light.svg"/>
+</a>
+</li>
+<li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"all songs considered","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/"}' href="https://www.npr.org/sections/allsongs/">
+        All Songs Considered
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"tiny desk","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/tiny-desk-concerts\/"}' href="https://www.npr.org/series/tiny-desk-concerts/">
+        Tiny Desk
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"new music friday","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/allsongs\/606254804\/new-music-friday"}' href="https://www.npr.org/sections/allsongs/606254804/new-music-friday">
+        New Music Friday
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"music features","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/sections\/music-features"}' href="https://www.npr.org/sections/music-features">
+        Music Features
+    </a>
+</li><li class="menu__item">
+<a data-metrics-ga4='{"category":"recirculation","action":"global_navigation_click","clickName":"live sessions","clickType":"music ecosystem navigation","clickUrl":"https:\/\/www.npr.org\/series\/770565791\/npr-music-live-sessions"}' href="https://www.npr.org/series/770565791/npr-music-live-sessions">
+        Live Sessions
+    </a>
+</li>
+</ul>
+</div>
+</section>
+<section class="menu menu--about" data-metrics-category-ga4="recirculation">
+<div class="menu__list-wrap">
+<ul class="menu__list menu__list--ecosystem menu__list--about">
+<li class="menu__item menu__item--about-home"><a data-metrics-action="click about npr" data-metrics-ga4='{"action":"global_navigation_click","clickName":"about npr","clickType":"about ecosystem navigation","clickUrl":"/about/"}' href="/about/">About NPR</a></li>
+<li class="menu__item menu__item--about-diversity"><a data-metrics-action="click diversity" data-metrics-ga4='{"action":"global_navigation_click","clickName":"diversity","clickType":"about ecosystem navigation","clickUrl":"/diversity/"}' href="/diversity/">Diversity</a></li>
+<li class="menu__item menu__item--about-support"><a data-metrics-action="click support" data-metrics-ga4='{"action":"global_navigation_click","clickName":"support","clickType":"about ecosystem navigation","clickUrl":"/support/"}' href="/support/">Support</a></li>
+<li class="menu__item menu__item--about-careers"><a data-metrics-action="click careers" data-metrics-ga4='{"action":"global_navigation_click","clickName":"careers","clickType":"about ecosystem navigation","clickUrl":"/careers/"}' href="/careers/">Careers</a></li>
+<li class="menu__item menu__item--about-press"><a data-metrics-action="click press" data-metrics-ga4='{"action":"global_navigation_click","clickName":"press","clickType":"about ecosystem navigation","clickUrl":"/series/750003/press-room/"}' href="/series/750003/press-room/">Press</a></li>
+<li class="menu__item menu__item--about-ethics"><a data-metrics-action="click ethics" data-metrics-ga4='{"action":"global_navigation_click","clickName":"ethics","clickType":"about ecosystem navigation","clickUrl":"/ethics/"}' href="/ethics/">Ethics</a></li>
+</ul>
+</div>
+</section>
+</nav>
+</header><main aria-label="main content"><div class="speakable">
+<b data-is-speakable="">Companies don't want to fight with Trump. That may be reshaping the economy</b> <b data-is-speakable="">Critics warn that Trump's demands for business leaders to step down, and for the government to take a cut of sales, threaten American-style capitalism.</b>
+</div>
+<div id="wrapper">
+<header class="contentheader contentheader--one"></header> <section id="main-section"><article class="story"><a id="mainContent"></a><div class="slug-wrap">
+<h3 class="slug">
+<a href="https://www.npr.org/sections/business/">Business</a>
+</h3>
+</div>
+<div class="storytitle">
+<h1>Trump is tightening the screws on corporate America — and CEOs are staying mum</h1>
+<input id="titlenx-s1-5501591" type="hidden" value="Trump is tightening the screws on corporate America — and CEOs are staying mum"/>
+<input id="shortTitlenx-s1-5501591" type="hidden" value="Trump is tightening the screws on corporate America — and CEOs are staying mum"/>
+<input id="modelFullUrlnx-s1-5501591" type="hidden" value="https://www.npr.org/2025/08/14/nx-s1-5501591/trump-corporate-america-capitalism"/>
+</div>
+<!-- END CLASS="STORYTITLE" -->
+<div class="story-meta has-byline" id="story-meta">
+<div class="story-meta__one">
+<div class="story-meta__one-inner">
+<div class="dateblock">
+<time datetime="2025-08-14T05:00:00-04:00">
+<span class="date">August 14, 2025</span><span class="time">5:00 AM ET</span>
+</time>
+</div>
+</div>
+<!-- END CLASS="STORY-META__ONE-INNER" -->
+</div>
+<!-- END CLASS="STORY-META__ONE" -->
+<div class="story-meta__two">
+<div class="storybyline-wrap linkLocation" id="storybyline">
+<div class="bucketwrap byline">
+<div class="byline-container--block">
+<p class="byline__name--block">By </p> <div aria-label="Byline" class="byline byline--block byline--has-link">
+<p class="byline__name byline__name--block">
+<a href="https://www.npr.org/people/1269066554/maria-aspan" rel="author">
+      Maria Aspan
+    </a>
+</p>
+</div>
+</div>
+</div>
+<!-- END CLASS="BUCKETWRAP BYLINE" -->
+</div>
+</div>
+<!-- END CLASS="STORY-META__TWO" -->
+</div>
+<!-- END ID="STORY-META" CLASS="STORY-META HAS-BYLINE" -->
+<div class="storylocation linkLocation" id="headlineaudio">
+<article aria-label="audio-module" class="bucketwrap resaudio" id="resnx-s1-9412648"><div class="audio-module">
+<h4 class="audio-module-title">Trump turns up the heat on CEOs and private companies</h4>
+<div class="audio-module-controls-wrap" data-audio='{"uid":"nx-s1-5501591:nx-s1-9412648","available":true,"duration":227,"title":"Trump turns up the heat on CEOs and private companies","audioUrl":"https:\/\/ondemand.npr.org\/anon.npr-mp3\/npr\/atc\/2025\/08\/20250814_atc_trump_turns_up_the_heat_on_ceos_private_companies.mp3?d=227&amp;size=3637125&amp;sc=siteplayer","storyUrl":"https:\/\/www.npr.org\/2025\/08\/14\/nx-s1-5501591\/trump-corporate-america-capitalism","slug":"business","program":"","affiliation":"","song":"","artist":"","album":"","track":0,"type":"segment","subtype":"other","skipSponsorship":false,"hasAdsWizz":false,"isStreamAudioType":false}' data-audio-metrics="[]">
+<div class="audio-module-controls">
+<a class="audio-module-listen" href="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/08/20250814_atc_trump_turns_up_the_heat_on_ceos_private_companies.mp3?d=227&amp;size=3637125&amp;sc=siteplayer&amp;aw_0_1st.playerid=siteplayer">
+<b class="audio-module-listen-inner">
+<b class="audio-module-listen-icon icn-play"></b>
+<b class="audio-module-listen-text">
+<b class="audio-module-cta">
+                            
+                            Listen
+                        </b>
+<b class="audio-module-listen-duration">
+<span>· </span>
+<span>3:47</span>
+</b>
+</b>
+</b>
+</a>
+<time class="audio-module-duration" datetime="P3M,47S">
+<span class="audio-module-duration__initial-value">3:47</span>
+</time>
+</div>
+</div>
+<div class="audio-module-tools">
+<a class="audio-tool audio-tool-transcript" data-metrics-ga4='{"category":"audio","action":"audio_click_transcript","storyId":"nx-s1-5501591","mediaId":"nx-s1-9412648","title":"Trump is tightening the screws on corporate America \u2014 and CEOs are staying mum","type":"ondemand"}' href="https://www.npr.org/transcripts/nx-s1-5501591">
+<b class="icn-transcript"></b>
+<b class="audio-tool-label">Transcript</b>
+</a>
+<button class="audio-module-tools-toggle" data-metrics-ga4='{"category":"audio","action":"audio_open_more_options","storyId":"nx-s1-5501591","mediaId":"nx-s1-9412648","title":"Trump is tightening the screws on corporate America \u2014 and CEOs are staying mum","type":"ondemand"}'>
+<b class="icn-toggle"></b>
+<b class="label">Toggle more options</b>
+</button>
+<ul class="audio-module-more-tools">
+<li class="audio-tool audio-tool-download"><a data-metrics-ga4='{"category":"audio","action":"audio_download","storyId":"nx-s1-5501591","mediaId":"nx-s1-9412648","title":"Trump is tightening the screws on corporate America \u2014 and CEOs are staying mum","type":"ondemand"}' href="https://ondemand.npr.org/anon.npr-mp3/npr/atc/2025/08/20250814_atc_trump_turns_up_the_heat_on_ceos_private_companies.mp3?d=227&amp;size=3637125&amp;sc=siteplayer&amp;aw_0_1st.playerid=siteplayer"><b class="icn-download"></b><b class="audio-tool-label">Download</b></a>
+</li>
+<li class="audio-tool audio-tool-embed">
+<button data-embed-url="https://www.npr.org/player/embed/nx-s1-5501591/nx-s1-9412648" data-metrics-ga4='{"category":"audio","action":"audio_embed","storyId":"nx-s1-5501591","mediaId":"nx-s1-9412648","title":"Trump is tightening the screws on corporate America \u2014 and CEOs are staying mum","type":"ondemand"}'><b class="button-inner"><b class="icn-embed"></b><b class="audio-tool-label">Embed</b></b></button>
+<div class="audio-embed-overlay">
+<button class="btn-close"></button>
+<label class="embed-label">
+<b class="audio-embed-overlay__icon"></b>
+<b class="label">Embed</b>
+<input class="embed-url embed-url-no-touch" readonly="" value='&lt;iframe src="https://www.npr.org/player/embed/nx-s1-5501591/nx-s1-9412648" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;&lt;/iframe&gt;'/>
+</label>
+<b class="embed-url embed-url-touch">
+<code><b class="punctuation">&lt;</b>iframe src="https://www.npr.org/player/embed/nx-s1-5501591/nx-s1-9412648" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"&gt;</code>
+</b>
+</div>
+</li>
+<li class="audio-tool audio-tool-transcript">
+<a data-metrics-ga4='{"category":"audio","action":"audio_click_transcript","storyId":"nx-s1-5501591","mediaId":"nx-s1-9412648","title":"Trump is tightening the screws on corporate America \u2014 and CEOs are staying mum","type":"ondemand"}' href="https://www.npr.org/transcripts/nx-s1-5501591">
+<b class="icn-transcript"></b>
+<b class="audio-tool-label">Transcript</b>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</article>
+</div>
+<div class="storytext storylocation linkLocation" id="storytext">
+<div class="bucketwrap image large" id="resg-s1-82456">
+<div class="imagewrap has-source-dimensions" data-crop-type="" style="
+        --source-width: 7073;
+        --source-height: 4931;
+    ">
+<picture>
+<source class="img" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg" sizes="(min-width: 1025px) 650px, calc(100vw - 30px)" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg 400w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/600/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg 600w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/800/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg 800w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/900/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg 900w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg 1200w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/1600/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg 1600w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/1800/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg 1800w" type="image/webp"/>
+<source class="img" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg" sizes="(min-width: 1025px) 650px, calc(100vw - 30px)" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg 400w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/600/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg 600w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg 800w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/900/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg 900w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/1200/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg 1200w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/1600/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg 1600w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/1800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg 1800w" type="image/jpeg"/>
+<img alt='President Trump speaks from behind a lectern with the presidential seal on the front of it. Behind him are two American flags and a backdrop that says: "The Kennedy Center."' class="img" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg" fetchpriority="high" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7073x4931+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F78%2F50c74f7f4457ab767e6e6c5a287f%2Fgettyimages-2229158598.jpg"/>
+</picture>
+</div>
+<div class="credit-caption">
+<div class="caption-wrap">
+<div aria-label="Image caption" class="caption">
+<p>
+                President Trump is exerting an unprecedented amount of control over the shape and future of U.S. business.
+                <b aria-label="Image credit" class="credit">
+                    
+                    Mandel Ngan/AFP via Getty Images
+                    
+                </b>
+<b class="hide-caption"><b>hide caption</b></b>
+</p>
+</div>
+<b class="toggle-caption"><b>toggle caption</b></b>
+</div>
+<span aria-label="Image credit" class="credit">
+        
+        Mandel Ngan/AFP via Getty Images
+        
+    </span>
+</div>
+</div>
+<p><a href="https://www.npr.org/2025/07/26/nx-s1-5480695/corporate-america-weird-tariff-summer-earnings-investors" target="_blank">Corporate America</a> doesn't want to fight with President Trump <a href="https://www.npr.org/2025/03/14/nx-s1-5327534/trump-ceos-tariffs-economy-recession" target="_blank">in public</a>. But as a result, it's ceding him an unprecedented amount of control over the shape — and future — of U.S. business.</p> <p>In the past week, the president has turned up the heat on big companies and their CEOs to an extent that is unprecedented even by Trump's norms-shattering standards. He has <a href="https://www.wsj.com/articles/president-trumps-tweets-have-companies-playing-defense-1486981801" target="_blank">publicly attacked companies</a> and <a href="https://www.nbcnews.com/politics/donald-trump/trump-dissolves-business-advisory-councils-after-ceos-depart-n793216" target="_blank">their executives</a> throughout his political career — but now he's demanding firings of executives who aren't even household names, such as a <a href="https://www.wsj.com/economy/trump-calls-on-goldman-to-replace-economist-over-tariff-stance-e9569e63?mod=livecoverage_web" target="_blank">corporate economist at Goldman Sachs</a>.</p> <aside aria-label="advertisement" class="ad-wrap backstage" id="ad-backstage-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-backstage has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_Business","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"nx-s1-5501591","agg":["1088064794"]},"site":{"desktop":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"location":"backstage","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":true}' id="ad-backstage-News_Business">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<div class="bucketwrap internallink insettwocolumn inset2col" id="resnx-s1-5501591-100">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2025\/08\/11\/nx-s1-5498689\/trump-nvidia-h20-chip-sales-china"}' href="https://www.npr.org/2025/08/11/nx-s1-5498689/trump-nvidia-h20-chip-sales-china" id="featuredStackSquareImagenx-s1-5498689"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3325x3325+831+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F78%2Fb42b381c487898124a01e76b1d85%2Fap25162372607831.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3325x3325+831+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F78%2Fb42b381c487898124a01e76b1d85%2Fap25162372607831.jpg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3325x3325+831+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F78%2Fb42b381c487898124a01e76b1d85%2Fap25162372607831.jpg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3325x3325+831+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F78%2Fb42b381c487898124a01e76b1d85%2Fap25162372607831.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3325x3325+831+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F78%2Fb42b381c487898124a01e76b1d85%2Fap25162372607831.jpg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3325x3325+831+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F78%2Fb42b381c487898124a01e76b1d85%2Fap25162372607831.jpg" type="image/jpeg"/><img alt="Nvidia CEO Jensen Huang delivers his keynote address on June 11, 2025, at the VivaTech fair in Paris. He's wearing a black T-shirt, dark pants and glasses while standing to give his address." class="img lazyOnLoad" data-format="jpeg" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3325x3325+831+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F78%2Fb42b381c487898124a01e76b1d85%2Fap25162372607831.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3325x3325+831+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F78%2Fb42b381c487898124a01e76b1d85%2Fap25162372607831.jpg" loading="lazy" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3325x3325+831+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F78%2Fb42b381c487898124a01e76b1d85%2Fap25162372607831.jpg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/series/g-s1-61692/u-s-vs-china-inside-a-great-power-rivalry">U.S. vs. China: Inside a great power rivalry </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2025\/08\/11\/nx-s1-5498689\/trump-nvidia-h20-chip-sales-china"}' href="https://www.npr.org/2025/08/11/nx-s1-5498689/trump-nvidia-h20-chip-sales-china">Trump says Nvidia will hand the U.S. 15% of its H20 chip sales to China</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RESNX-S1-5501591-100" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>On Monday, <a href="https://www.npr.org/2025/08/11/nx-s1-5498689/trump-nvidia-h20-chip-sales-china" target="_blank">Trump announced</a> an extraordinary deal for the U.S. government to take a 15% share of Nvidia's H20 chip sales in China as a condition for easing restrictions to allow the chip to be sold there. Then his Treasury secretary, Scott Bessent, <a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-13-2025/card/u-s-could-do-more-nvidia-style-deals-taking-a-cut-of-revenue-bessent-says-1Iyyj18eOYjihVS5usgs" target="_blank">on Wednesday said</a> the administration may ask other companies for similar payments in the future.</p> <p>"Trump has always used the bully pulpit of the presidency to try and direct business activity towards his desired ends — but in the second term, we've seen this taken to a whole new level," said Ryan Bourne, an economist at the Cato Institute, a libertarian think tank.</p> <p>The Nvidia revenue-sharing arrangement, in particular, sounded alarms among the U.S. business community — which tends to skew fiscally conservative and anti-regulation, and which in general <a href="https://www.npr.org/2025/03/07/nx-s1-5317721/why-ceos-are-surprisingly-optimistic-about-the-u-s-economy" target="_blank">welcomed Trump's reelection</a> last year. By demanding a cut of a private company's sales, in exchange for the right to do business, Trump is defying the traditionally Republican gospel of free-market capitalism.</p> <p>On Monday, a columnist for <a href="https://www.wsj.com/economy/the-u-s-marches-toward-state-capitalism-with-american-characteristics-f75cafa8?gaa_at=eafs&amp;gaa_n=ASWzDAgr4RUE6bshxOmJU0WFXJc5W8YVhfsY9agvIFM-XIP5iwjiTOsY1GiuYhQ9HVs%3D&amp;gaa_ts=689c8d76&amp;gaa_sig=9FIGRGKRnUBKlLQDQQ-cYO1_D8pQ05sEekaIn9TTcDWvXBks3VrRoSS95fGdob1akfl2aloJqyogQ1GGCqp3Jg%3D%3D" target="_blank"><em>The Wall Street Journal</em></a> warned that Trump is "imitating [the] Chinese Communist Party" and transforming the U.S. economy into something resembling China's government-controlled "state capitalism."</p> <p>It's a mounting worry shared by other business experts.<strong> </strong>"It is a huge concern," said Jeffrey Sonnenfeld, a Yale University management professor who <a href="https://www.npr.org/2025/03/13/nx-s1-5325987/how-business-executives-are-feeling-about-economic-uncertainties-and-whiplash" target="_blank">regularly speaks with CEOs</a>.</p> <aside aria-label="advertisement" class="ad-wrap secondary" id="ad-secondary-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-secondary has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_Business","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"nx-s1-5501591","agg":["1088064794"]},"site":{"desktop":"NPRSecondary","mobile":"NPRMobileSecondary"},"location":"secondary","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-secondary-News_Business">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<p>"This <a href="https://fortune.com/2025/08/12/maga-marxist-maoist-trump-assault-free-market-capitalism-socialism/" target="_blank">'Marxist MAGA'</a> movement keeps expanding more and more, taking control without the resistance of private-sector decision-making," he added. "So that means we have winners and losers based on cronyism."</p> <p>In an emailed response to NPR, White House spokesperson Kush Desai did not address the concerns about cronyism or "state capitalism."</p> <p>"President Trump's hands-on leadership is paving the way towards a new Golden Age for America," Desai wrote.</p> <h3 class="edTag">Trump amps up his attacks on CEOs and other executives</h3> <p>Trump has long used social media and his other public statements to cajole, criticize and praise companies and individual CEOs. They, in turn, have actively sought his approval — especially since he won reelection in November.</p> <div class="bucketwrap image large" id="resg-s1-82520">
+<div class="imagewrap has-source-dimensions" data-crop-type="" style="
+        --source-width: 7606;
+        --source-height: 5071;
+    ">
+<picture>
+<source class="img" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg" sizes="(min-width: 1025px) 650px, calc(100vw - 30px)" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg 400w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/600/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg 600w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/800/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg 800w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/900/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg 900w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg 1200w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/1600/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg 1600w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/1800/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg 1800w" type="image/webp"/>
+<source class="img" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg" sizes="(min-width: 1025px) 650px, calc(100vw - 30px)" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg 400w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/600/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg 600w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg 800w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/900/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg 900w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/1200/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg 1200w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/1600/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg 1600w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/1800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg 1800w" type="image/jpeg"/>
+<img alt="Nvidia CEO Jensen Huang speaks from behind a lectern at a White House event in April 2025. President Trump is behind him, toward the left side of the frame." class="img" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg" loading="lazy" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7606x5071+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F52%2Fc9ff8ed246748886308fd0f7dfcd%2Fgettyimages-2212801537.jpg"/>
+</picture>
+</div>
+<div class="credit-caption">
+<div class="caption-wrap">
+<div aria-label="Image caption" class="caption">
+<p>
+                President Trump listens as Nvidia CEO Jensen Huang speaks at a White House event in April. This week, Trump said that Nvidia would give the U.S. government a cut of its sales in China as a condition for being allowed to sell its H20 chips there.
+                <b aria-label="Image credit" class="credit">
+                    
+                    Andrew Harnik/Getty Images
+                    
+                </b>
+<b class="hide-caption"><b>hide caption</b></b>
+</p>
+</div>
+<b class="toggle-caption"><b>toggle caption</b></b>
+</div>
+<span aria-label="Image credit" class="credit">
+        
+        Andrew Harnik/Getty Images
+        
+    </span>
+</div>
+</div>
+<p>During his first term, many in corporate America <a href="https://www.npr.org/2017/01/29/512307479/tech-executives-fiercely-criticize-trump-immigration-order" target="_blank">openly criticized Trump</a> over policies including his ban on immigrants from some Muslim-majority countries, or they <a href="https://www.npr.org/2017/08/15/543722385/ceos-dilemma-supporting-trump-s-agenda-opposing-his-behavior" target="_blank">sought to distance themselves</a> from his most controversial statements, like his response after violence erupted at a white supremacist rally in Charlottesville, Virginia. But now most businesses are <a href="https://www.npr.org/2025/02/03/nx-s1-5281168/corporate-america-dei-trump-diversity-business-stakeholder-capitalism" target="_blank">trying to avoid</a> getting drawn into anything seen as "political" — aside from actively courting the president's approval.</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="resnx-s1-5501591-101">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2024\/12\/13\/nx-s1-5227874\/trump-bezos-zuckerberg-amazon-facebook-open-ai-meta-inauguration-fund"}' href="https://www.npr.org/2024/12/13/nx-s1-5227874/trump-bezos-zuckerberg-amazon-facebook-open-ai-meta-inauguration-fund" id="featuredStackSquareImagenx-s1-5227874"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1365x1365+342+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2F2b%2Fe765f2fa492aa8f7e221a187e0ee%2Funtitled-design-12.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1365x1365+342+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2F2b%2Fe765f2fa492aa8f7e221a187e0ee%2Funtitled-design-12.jpg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1365x1365+342+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2F2b%2Fe765f2fa492aa8f7e221a187e0ee%2Funtitled-design-12.jpg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1365x1365+342+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2F2b%2Fe765f2fa492aa8f7e221a187e0ee%2Funtitled-design-12.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1365x1365+342+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2F2b%2Fe765f2fa492aa8f7e221a187e0ee%2Funtitled-design-12.jpg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1365x1365+342+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2F2b%2Fe765f2fa492aa8f7e221a187e0ee%2Funtitled-design-12.jpg" type="image/jpeg"/><img alt="From left to right, OpenAI CEO Sam Altman on Dec. 4 at The New York Times Dealbook Summit; Meta CEO Mark Zuckerberg on Feb. 27 in Tokyo; and Amazon CEO Jeff Bezos on Dec. 4 at The New York Times Dealbook Summit." class="img lazyOnLoad" data-format="jpeg" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1365x1365+342+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2F2b%2Fe765f2fa492aa8f7e221a187e0ee%2Funtitled-design-12.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1365x1365+342+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2F2b%2Fe765f2fa492aa8f7e221a187e0ee%2Funtitled-design-12.jpg" loading="lazy" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1365x1365+342+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2F2b%2Fe765f2fa492aa8f7e221a187e0ee%2Funtitled-design-12.jpg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/business/">Business </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2024\/12\/13\/nx-s1-5227874\/trump-bezos-zuckerberg-amazon-facebook-open-ai-meta-inauguration-fund"}' href="https://www.npr.org/2024/12/13/nx-s1-5227874/trump-bezos-zuckerberg-amazon-facebook-open-ai-meta-inauguration-fund">Tech moguls Altman, Bezos and Zuckerberg donate to Trump's inauguration fund</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RESNX-S1-5501591-101" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<div class="bucketwrap internallink insettwocolumn inset2col" id="resnx-s1-5501591-102">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2025\/06\/05\/nx-s1-5424686\/donald-trump-elon-musk-bromance-breakup"}' href="https://www.npr.org/2025/06/05/nx-s1-5424686/donald-trump-elon-musk-bromance-breakup" id="featuredStackSquareImagenx-s1-5424686"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5162x5162+2581+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2F50%2F1b70f6c2467e990e1f5c469b41a5%2Fgettyimages-2185933741.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5162x5162+2581+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2F50%2F1b70f6c2467e990e1f5c469b41a5%2Fgettyimages-2185933741.jpg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5162x5162+2581+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2F50%2F1b70f6c2467e990e1f5c469b41a5%2Fgettyimages-2185933741.jpg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5162x5162+2581+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2F50%2F1b70f6c2467e990e1f5c469b41a5%2Fgettyimages-2185933741.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5162x5162+2581+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2F50%2F1b70f6c2467e990e1f5c469b41a5%2Fgettyimages-2185933741.jpg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5162x5162+2581+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2F50%2F1b70f6c2467e990e1f5c469b41a5%2Fgettyimages-2185933741.jpg" type="image/jpeg"/><img alt="Donald Trump and Elon Musk watch the launch of the SpaceX Starship rocket on Nov. 19, 2024 in Brownsville, Texas, shortly after Trump's election victory. " class="img lazyOnLoad" data-format="jpeg" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5162x5162+2581+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2F50%2F1b70f6c2467e990e1f5c469b41a5%2Fgettyimages-2185933741.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5162x5162+2581+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2F50%2F1b70f6c2467e990e1f5c469b41a5%2Fgettyimages-2185933741.jpg" loading="lazy" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5162x5162+2581+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2F50%2F1b70f6c2467e990e1f5c469b41a5%2Fgettyimages-2185933741.jpg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/politics/">Politics </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2025\/06\/05\/nx-s1-5424686\/donald-trump-elon-musk-bromance-breakup"}' href="https://www.npr.org/2025/06/05/nx-s1-5424686/donald-trump-elon-musk-bromance-breakup">From bromance to breakup: How Elon Musk and Donald Trump blew up</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RESNX-S1-5501591-102" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>In January, Apple's Tim Cook, Facebook's Mark Zuckerberg and Amazon's Jeff Bezos were just <a href="https://www.npr.org/2025/01/22/1226038392/is-there-an-american-oligarchy" target="_blank">some of the business leaders</a> attending Trump's second inauguration. And until the two men <a href="https://www.npr.org/2025/06/05/nx-s1-5424686/donald-trump-elon-musk-bromance-breakup" target="_blank">fell out this spring</a>, Trump granted Tesla CEO Elon Musk an <a href="https://www.npr.org/2025/05/30/nx-s1-5415641/musk-leaves-doge-what-comes-next" target="_blank">extraordinary amount of power</a> to dismantle the federal workforce.</p> <p>Corporate America's uneasy silence has continued despite Trump's aggressive efforts to reshape the U.S. economy through his wide-ranging import taxes, and to bring the Federal Reserve more closely under his control.</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="resnx-s1-5501591-103">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2025\/03\/14\/nx-s1-5327534\/trump-ceos-tariffs-economy-recession"}' href="https://www.npr.org/2025/03/14/nx-s1-5327534/trump-ceos-tariffs-economy-recession" id="featuredStackSquareImagenx-s1-5327534"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x4000+1000+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2Fa0%2Fd6bc46ea4dde8ba3cd2d27f6ec98%2Fgettyimages-2204006564.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x4000+1000+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2Fa0%2Fd6bc46ea4dde8ba3cd2d27f6ec98%2Fgettyimages-2204006564.jpg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x4000+1000+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2Fa0%2Fd6bc46ea4dde8ba3cd2d27f6ec98%2Fgettyimages-2204006564.jpg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x4000+1000+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2Fa0%2Fd6bc46ea4dde8ba3cd2d27f6ec98%2Fgettyimages-2204006564.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x4000+1000+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2Fa0%2Fd6bc46ea4dde8ba3cd2d27f6ec98%2Fgettyimages-2204006564.jpg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x4000+1000+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2Fa0%2Fd6bc46ea4dde8ba3cd2d27f6ec98%2Fgettyimages-2204006564.jpg" type="image/jpeg"/><img alt="WASHINGTON, DC - MARCH 11: U.S. President Donald Trump arrives alongside CEO of Cisco Systems Chuck Robbins (R) at the Business Roundtable's quarterly meeting at the Business Roundtable headquarters on March 11, 2025 in Washington, DC. Trump addressed the group of CEO's as his recent tariff implementations have sparked uncertainty that have helped fuel a market sell-off. (Photo by Andrew Harnik/Getty Images)" class="img lazyOnLoad" data-format="jpeg" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x4000+1000+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2Fa0%2Fd6bc46ea4dde8ba3cd2d27f6ec98%2Fgettyimages-2204006564.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x4000+1000+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2Fa0%2Fd6bc46ea4dde8ba3cd2d27f6ec98%2Fgettyimages-2204006564.jpg" loading="lazy" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x4000+1000+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2Fa0%2Fd6bc46ea4dde8ba3cd2d27f6ec98%2Fgettyimages-2204006564.jpg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/analysis/"> </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2025\/03\/14\/nx-s1-5327534\/trump-ceos-tariffs-economy-recession"}' href="https://www.npr.org/2025/03/14/nx-s1-5327534/trump-ceos-tariffs-economy-recession">Why CEOs are calm about tariffs in public — but 'very discouraged' in private</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RESNX-S1-5501591-103" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>Many of these policies <a href="https://www.npr.org/2025/03/14/nx-s1-5327534/trump-ceos-tariffs-economy-recession" target="_blank">have worried</a> Wall Street investors, big-company CEOs and the small-business owners who are on the front lines of the tariffs fallout. But even as they try to lobby Trump behind closed doors, many business leaders are <a href="https://www.npr.org/2025/06/10/nx-s1-5428560/wall-street-ceos-five-stages-of-tariff-grief" target="_blank">refraining from criticizing</a> him or his policies in public.</p> <p>"Because of the power of this vindictiveness, CEOs are reluctant to poke the bear," Sonnenfeld said.</p> <p>Trump <a href="https://www.msn.com/en-us/news/politics/trump-warned-u-s-automakers-not-to-raise-prices-in-response-to-tariffs/ar-AA1BOeKQ" target="_blank">has warned</a> major automakers not to raise prices and has publicly demanded that Walmart <a href="https://www.npr.org/2025/05/21/nx-s1-5405407/trump-tariff-target-home-depot-walmart" target="_blank">"eat" the cost of his tariffs</a>. He also <a href="https://www.npr.org/2025/07/22/nx-s1-5476161/coca-cola-cane-sugar-coke-trump-recipe" target="_blank">took credit for</a> Coca-Cola's recent announcement that it would roll out sodas made with cane sugar instead of corn syrup.</p> <aside aria-label="advertisement" class="ad-wrap third" id="ad-third-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-third has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_Business","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"nx-s1-5501591","agg":["1088064794"]},"site":{"desktop":"NPRThird","mobile":"NPRMobileThird"},"location":"third","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-third-News_Business">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<p>But last week, he went a step further by <a href="https://www.bbc.com/news/articles/c70x6602pdyo" target="_blank">demanding the resignation</a> of Intel CEO Lip-Bu Tan. In a <a href="https://truthsocial.com/@realDonaldTrump/posts/114987288040725570" target="_blank">social media post</a> that sent the company's shares plunging, Trump alleged that Tan was "highly CONFLICTED" and had problematic ties to China.</p> <p>From an economic perspective, Trump's demand for Tan's resignation was one of the "most aggressive public statements the president has made," said Meena Bose, a presidential policy expert and director of a Hofstra University center that studies the American presidency.</p> <p>"So much of President Trump's second term is really charting an independent path, with very little attention to precedent — or in some ways, almost a rejection of precedent," she added.</p> <p>Tan was able to change Trump's tune by appealing to him in person. After the Intel CEO visited the White House on Monday, Trump <a href="https://trumpstruth.org/statuses/32480" target="_blank">declared </a>that Tan's "success and rise is an amazing story."</p> <p>Intel's shares jumped. The company <a href="https://newsroom.intel.com/corporate/intels-statement-following-the-meeting-with-president-trump" target="_blank">said in a news release</a> that Tan used the meeting to discuss "Intel's commitment to strengthening U.S. technology and manufacturing leadership. We appreciate the President's strong leadership to advance these critical priorities." A spokesperson declined to comment further.</p> <p>But soon Trump had picked another corporate target. On Tuesday, he <a href="https://trumpstruth.org/statuses/32493" target="_blank">criticized</a> Goldman Sachs CEO David Solomon and told him to "get himself a new Economist." Goldman Sachs Chief Economist <a href="https://www.npr.org/2025/06/10/nx-s1-5428560/wall-street-ceos-five-stages-of-tariff-grief" target="_blank">Jan Hatzius</a> has repeatedly warned that Trump's wide-ranging tariffs will ultimately increase the prices that U.S. consumers pay and could damage the wider economy.</p> <p>A Goldman Sachs spokesperson declined to comment. And its investors were less spooked than Intel's; the bank's shares have risen since Trump's post.</p> <h3 class="edTag">Calling for CEOs to take "collective action" </h3> <p>Corporate America is hardly alone in feeling increased heat from the White House. Since taking office in January, Trump has won all kinds of concessions from <a href="https://www.npr.org/2025/04/13/g-s1-59497/trump-law-firms-pro-bono" target="_blank">law firms</a>, <a href="https://www.npr.org/2025/07/21/nx-s1-5462675/harvard-trump-court-hearing-boston" target="_blank">universities</a> and <a href="https://www.npr.org/2025/07/24/nx-s1-5477530/paramount-cbs-skydance-sale-fcc-approves" target="_blank">media companies</a> seeking U.S. approval for mergers or other business dealings.</p> <div class="bucketwrap image large" id="resg-s1-82538">
+<div class="imagewrap has-source-dimensions" data-crop-type="" style="
+        --source-width: 5601;
+        --source-height: 3734;
+    ">
+<picture>
+<source class="img" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg" sizes="(min-width: 1025px) 650px, calc(100vw - 30px)" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg 400w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/600/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg 600w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/800/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg 800w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/900/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg 900w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg 1200w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/1600/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg 1600w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/1800/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg 1800w" type="image/webp"/>
+<source class="img" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg" sizes="(min-width: 1025px) 650px, calc(100vw - 30px)" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg 400w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/600/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg 600w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg 800w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/900/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg 900w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/1200/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg 1200w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/1600/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg 1600w,
+https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/1800/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg 1800w" type="image/jpeg"/>
+<img alt="Meta founder Mark Zuckerberg, Amazon founder Jeff Bezos, Google CEO Sundar Pichai and Tesla CEO Elon Musk stand in a row at President Trump's second inauguration, in January 2025." class="img" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg" loading="lazy" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5601x3734+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2Fa5%2Fb685d08d4735822408168a73e202%2Fgettyimages-2194429222.jpg"/>
+</picture>
+</div>
+<div class="credit-caption">
+<div class="caption-wrap">
+<div aria-label="Image caption" class="caption">
+<p>
+                Meta founder Mark Zuckerberg, Amazon founder Jeff Bezos, Google CEO Sundar Pichai and Tesla CEO Elon Musk were among the guests at President Trump's second inauguration, in January. During Trump's first term, some of these same executives more openly criticized the president over some of his policies, including over immigration.
+                <b aria-label="Image credit" class="credit">
+                    
+                    Chip Somodevilla/POOL/AFP via Getty Images
+                    
+                </b>
+<b class="hide-caption"><b>hide caption</b></b>
+</p>
+</div>
+<b class="toggle-caption"><b>toggle caption</b></b>
+</div>
+<span aria-label="Image credit" class="credit">
+        
+        Chip Somodevilla/POOL/AFP via Getty Images
+        
+    </span>
+</div>
+</div>
+<p>Meanwhile, the president is also seeking to undermine the independence of other powerful U.S. entities, including the <a href="https://www.npr.org/2025/07/30/nx-s1-5482794/trump-powell-federal-reserve-fed-interest-rates-independence" target="_blank">Federal Reserve</a>. His <a href="https://www.npr.org/2025/07/24/1256157825/trumps-attacks-on-federal-reserves-powell-could-bring-economic-pain" target="_blank">ongoing campaign</a> against Federal Reserve Chair Jerome Powell over lowering interest rates preceded <a href="https://www.npr.org/2025/08/11/nx-s1-5499537/trump-bls-ej-antoni" target="_blank">his decision</a> this month to fire the head of the government's top statistics agency after it put out a disappointing jobs report. The Bureau of Labor Statistics is responsible for producing the monthly jobs report and for tracking inflation.</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="resnx-s1-5501591-104">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2025\/08\/11\/nx-s1-5499537\/trump-bls-ej-antoni"}' href="https://www.npr.org/2025/08/11/nx-s1-5499537/trump-bls-ej-antoni" id="featuredStackSquareImagenx-s1-5499537"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5504x5504+1376+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fc7%2Fb2dafba4478ea100d90ee71e558b%2Fgettyimages-2227803856.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5504x5504+1376+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fc7%2Fb2dafba4478ea100d90ee71e558b%2Fgettyimages-2227803856.jpg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5504x5504+1376+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fc7%2Fb2dafba4478ea100d90ee71e558b%2Fgettyimages-2227803856.jpg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5504x5504+1376+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fc7%2Fb2dafba4478ea100d90ee71e558b%2Fgettyimages-2227803856.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5504x5504+1376+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fc7%2Fb2dafba4478ea100d90ee71e558b%2Fgettyimages-2227803856.jpg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5504x5504+1376+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fc7%2Fb2dafba4478ea100d90ee71e558b%2Fgettyimages-2227803856.jpg" type="image/jpeg"/><img alt='This photo shows a sign saying "Frances Perkins Building" and "United States Department of Labor." The seal of the Labor Department also appears on the sign. The Capitol dome rises in the background.' class="img lazyOnLoad" data-format="jpeg" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5504x5504+1376+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fc7%2Fb2dafba4478ea100d90ee71e558b%2Fgettyimages-2227803856.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5504x5504+1376+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fc7%2Fb2dafba4478ea100d90ee71e558b%2Fgettyimages-2227803856.jpg" loading="lazy" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5504x5504+1376+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fc7%2Fb2dafba4478ea100d90ee71e558b%2Fgettyimages-2227803856.jpg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/politics/">Politics </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2025\/08\/11\/nx-s1-5499537\/trump-bls-ej-antoni"}' href="https://www.npr.org/2025/08/11/nx-s1-5499537/trump-bls-ej-antoni">Trump taps conservative economist to lead statistics agency</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RESNX-S1-5501591-104" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<div class="bucketwrap internallink insettwocolumn inset2col" id="resnx-s1-5501591-105">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2025\/07\/24\/1256157825\/trumps-attacks-on-federal-reserves-powell-could-bring-economic-pain"}' href="https://www.npr.org/2025/07/24/1256157825/trumps-attacks-on-federal-reserves-powell-could-bring-economic-pain" id="featuredStackSquareImage1256157825"><picture></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/podcasts/510310/npr-politics-podcast">The NPR Politics Podcast </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2025\/07\/24\/1256157825\/trumps-attacks-on-federal-reserves-powell-could-bring-economic-pain"}' href="https://www.npr.org/2025/07/24/1256157825/trumps-attacks-on-federal-reserves-powell-could-bring-economic-pain">Trump's attacks on Federal Reserve's Powell could bring economic pain</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RESNX-S1-5501591-105" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>That firing set off <a href="https://www.npr.org/2025/08/04/nx-s1-5492349/whats-next-after-the-bls-chiefs-firing-a-former-staffer-weighs-in" target="_blank">bipartisan alarm bells</a> about how Trump's politically motivated actions are destabilizing the broader financial and economic system.</p> <p>"Having objective, nonpartisan data, just boring data that is put together with high quality and integrity — that is needed for our economic and political debates. And to threaten that just makes us poor as a country," Michael Horrigan, who formerly oversaw the bureau's employment measurement programs and is now president of the nonprofit W.E. Upjohn Institute for Employment Research, <a href="https://www.npr.org/2025/08/04/nx-s1-5492349/whats-next-after-the-bls-chiefs-firing-a-former-staffer-weighs-in" target="_blank">told NPR</a> this month.</p> <aside aria-label="advertisement" class="ad-wrap overflow-3" id="ad-overflow-3-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config-wrap">
+<div class="ad-config ad-overflow-3 has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_Business","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"nx-s1-5501591","agg":["1088064794"]},"site":{"desktop":"NPROverflow","mobile":"NPRMobileOverflow"},"location":"overflow-3","deferred":false,"isBetweenContent":true,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-overflow-3-News_Business">
+<div style="min-height:90px"></div>
+</div>
+</div>
+<div class="ad-footer"></div>
+</aside>
+<p>And yet, investors are shrugging it all off. U.S. markets are on a record-breaking tear, despite their <a href="https://www.npr.org/2025/04/04/nx-s1-5352362/markets-selloff-dow-trump-tariffs" target="_blank">April freak-out</a> over the potential consequences of Trump's tariffs. The president softened and delayed some of those import taxes after the market reaction, especially among <a href="https://www.npr.org/2024/11/14/nx-s1-5186956/trump-election-bond-stocks-investors" target="_blank">investors in the U.S. government bonds</a> that undergird the global financial system. But as of last week, Trump's tariffs of 15% on most imports are now <a href="https://www.npr.org/2025/08/07/nx-s1-5495218/trump-tariffs-trade-economy" target="_blank">broadly in effect</a>.</p> <div class="bucketwrap internallink insettwocolumn inset2col" id="resnx-s1-5501591-106">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2024\/11\/14\/nx-s1-5186956\/trump-election-bond-stocks-investors"}' href="https://www.npr.org/2024/11/14/nx-s1-5186956/trump-election-bond-stocks-investors" id="featuredStackSquareImagenx-s1-5186956"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3018x3018+755+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2F80%2F40c10e3844d48776b7386a57ace9%2Fgettyimages-2183216502-1.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3018x3018+755+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2F80%2F40c10e3844d48776b7386a57ace9%2Fgettyimages-2183216502-1.jpg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3018x3018+755+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2F80%2F40c10e3844d48776b7386a57ace9%2Fgettyimages-2183216502-1.jpg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3018x3018+755+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2F80%2F40c10e3844d48776b7386a57ace9%2Fgettyimages-2183216502-1.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3018x3018+755+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2F80%2F40c10e3844d48776b7386a57ace9%2Fgettyimages-2183216502-1.jpg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3018x3018+755+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2F80%2F40c10e3844d48776b7386a57ace9%2Fgettyimages-2183216502-1.jpg" type="image/jpeg"/><img alt="Donald Trump arrives to speak during an election night event in West Palm Beach, Fla., on Nov. 6, 2024. Bond investors have reacted with concern to Trump's economic policies as he gears up to start a new term at the White House." class="img lazyOnLoad" data-format="jpeg" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3018x3018+755+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2F80%2F40c10e3844d48776b7386a57ace9%2Fgettyimages-2183216502-1.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3018x3018+755+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2F80%2F40c10e3844d48776b7386a57ace9%2Fgettyimages-2183216502-1.jpg" loading="lazy" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3018x3018+755+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2F80%2F40c10e3844d48776b7386a57ace9%2Fgettyimages-2183216502-1.jpg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/economy/">Economy </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2024\/11\/14\/nx-s1-5186956\/trump-election-bond-stocks-investors"}' href="https://www.npr.org/2024/11/14/nx-s1-5186956/trump-election-bond-stocks-investors">Trump's economic agenda faces a big potential foe: The bond vigilantes</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RESNX-S1-5501591-106" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<div class="bucketwrap internallink insettwocolumn inset2col" id="resnx-s1-5501591-107">
+<div class="bucket img">
+<a class="imagewrap" data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2025\/08\/09\/nx-s1-5496262\/trump-tariffs-economy-inflation"}' href="https://www.npr.org/2025/08/09/nx-s1-5496262/trump-tariffs-economy-inflation" id="featuredStackSquareImagenx-s1-5496262"><picture><source class="img lazyOnLoad" data-format="webp" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2859x2859+693+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fc3%2F6d0f9ee34953980fecbc824bb07e%2Fgettyimages-2208188174.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2859x2859+693+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fc3%2F6d0f9ee34953980fecbc824bb07e%2Fgettyimages-2208188174.jpg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2859x2859+693+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fc3%2F6d0f9ee34953980fecbc824bb07e%2Fgettyimages-2208188174.jpg" type="image/webp"/><source class="img lazyOnLoad" data-format="jpeg" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2859x2859+693+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fc3%2F6d0f9ee34953980fecbc824bb07e%2Fgettyimages-2208188174.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2859x2859+693+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fc3%2F6d0f9ee34953980fecbc824bb07e%2Fgettyimages-2208188174.jpg" srcset="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2859x2859+693+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fc3%2F6d0f9ee34953980fecbc824bb07e%2Fgettyimages-2208188174.jpg" type="image/jpeg"/><img alt="On April 2, President Trump signed executive order imposing wide-ranging tariffs. After delays and adjustments, they are now starting to take shape." class="img lazyOnLoad" data-format="jpeg" data-original="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2859x2859+693+0/resize/100/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fc3%2F6d0f9ee34953980fecbc824bb07e%2Fgettyimages-2208188174.jpg" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2859x2859+693+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fc3%2F6d0f9ee34953980fecbc824bb07e%2Fgettyimages-2208188174.jpg" loading="lazy" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2859x2859+693+0/resize/100/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fc3%2F6d0f9ee34953980fecbc824bb07e%2Fgettyimages-2208188174.jpg"/></picture></a> <div class="bucketblock">
+<h3 class="slug"><a href="https://www.npr.org/sections/economy/">Economy </a></h3>
+<h3><a data-metrics-ga4='{"category":"recirculation","action":"story_recirculation_click","clickType":"inset box","clickUrl":"https:\/\/www.npr.org\/2025\/08\/09\/nx-s1-5496262\/trump-tariffs-economy-inflation"}' href="https://www.npr.org/2025/08/09/nx-s1-5496262/trump-tariffs-economy-inflation">We get asked about tariffs all the time. Here's what we say</a></h3>
+</div>
+<!-- END CLASS="BUCKETBLOCK" -->
+</div>
+<!-- END CLASS="BUCKET IMG" -->
+</div>
+<!-- END ID="RESNX-S1-5501591-107" CLASS="BUCKETWRAP INTERNALLINK INSETTWOCOLUMN INSET2COL " -->
+<p>Sonnenfeld predicts that it'll take another markets sell-off — and <a href="https://www.npr.org/2025/08/09/nx-s1-5496262/trump-tariffs-economy-inflation" target="_blank">much more dramatic signs</a> that tariffs are damaging the U.S. economy — before CEOs feel empowered to oppose Trump more publicly. He expects inflation to worsen significantly by the end of the year, at which point, he said, business leaders will have more "air cover" to criticize the president.</p> <p>Business leaders don't want their criticism to "look like it's just coming from an ideological perspective," Sonnenfeld said. "They need to show a dollars-and-cents justification."</p> <p>In the meantime, he has a recommendation for how the titans of American capitalism can stand up for their independence — even if it's also a tactic beloved by labor unions and other traditional critics of corporate executives and free-market capitalism.</p> <p>"They can't do it on their own," Sonnenfeld said. "The only way you take down a bully is through collective action."</p>
+</div>
+<div class="tags">
+<ul>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/511343536/president-trump">President Trump</a></li>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/154529295/tariffs">Tariffs</a></li>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/132840696/corporate-america">Corporate America</a></li>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/173220814/ceos">CEOs</a></li>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/147165360/nvidia">Nvidia</a></li>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/131976137/goldman-sachs">Goldman Sachs</a></li>
+<li><a class="tag tag--story" href="https://www.npr.org/tags/377614666/intel">Intel</a></li>
+</ul>
+</div>
+<!-- END CLASS="TAGS" -->
+<div aria-label="Share tools" class="share-tools share-tools--secondary">
+<ul>
+<li class="share-tools__service share-tools__service--facebook"><button class="fbStorynx-s1-5501591" data-metrics-ga4='{"category":"share","action":"share","clickName":"facebook"}' data-share-facebook='{"storyId": "nx-s1-5501591" }'><b class="share-tools__service-name">Facebook</b></button></li>
+<li class="share-tools__service share-tools__service--flipboard"><button class="storynx-s1-5501591" data-metrics-ga4='{"category":"share","action":"share","clickName":"flipboard"}' data-share-flipboard='{"storyId": "nx-s1-5501591" }'><b class="share-tools__service-name">Flipboard</b></button></li>
+<li class="share-tools__service share-tools__service--email"><button class="share-tools__email-link" data-metrics-ga4='{"category":"share","action":"share","clickName":"email"}' data-story-id="nx-s1-5501591"><b class="share-tools__service-name">Email</b></button></li>
+</ul>
+</div>
+<!-- END CLASS="SHARE-TOOLS SHARE-TOOLS--SECONDARY" ARIA-LABEL="SHARE TOOLS" -->
+<div data-newsletter='{"newsletterId":"money","title":"Planet Money","marketingHeader":"Sign Up For The Planet Money Newsletter","frequency":"every week","shortDescription":"Just the right amount of economics, sent weekly.","stickyDescription":"Sign up for the Planet Money newsletter. Just the right amount of economics, sent weekly.","contentImage":"https:\/\/media.npr.org\/assets\/img\/2019\/04\/16\/newsletter_planet_money_custom.png","staticMarkupDir":"\/buckets\/blogs\/money\/subnav.html","brandingDir":"\/branding\/sections\/money\/","brandingLink":"https:\/\/www.npr.org\/sections\/money\/","recaptchaSiteKey":"6LcdN9IZAAAAAOHT985BJjbzjkBjKSxdxK3GeKSt"}' id="newsletter-acquisition-callout-data">
+</div>
+<!-- END ID="NEWSLETTER-ACQUISITION-CALLOUT-DATA" DATA-NEWSLETTER="{&QUOT;NEWSLETTERID&QUOT;:&QUOT;MONEY&QUOT;,&QUOT;TITLE&QUOT;:&QUOT;PLANET MONEY&QUOT;,&QUOT;MARKETINGHEADER&QUOT;:&QUOT;SIGN UP FOR THE PLANET MONEY NEWSLETTER&QUOT;,&QUOT;FREQUENCY&QUOT;:&QUOT;EVERY WEEK&QUOT;,&QUOT;SHORTDESCRIPTION&QUOT;:&QUOT;JUST THE RIGHT AMOUNT OF ECONOMICS, SENT WEEKLY.&QUOT;,&QUOT;STICKYDESCRIPTION&QUOT;:&QUOT;SIGN UP FOR THE PLANET MONEY NEWSLETTER. JUST THE RIGHT AMOUNT OF ECONOMICS, SENT WEEKLY.&QUOT;,&QUOT;CONTENTIMAGE&QUOT;:&QUOT;HTTPS:\/\/MEDIA.NPR.ORG\/ASSETS\/IMG\/2019\/04\/16\/NEWSLETTER_PLANET_MONEY_CUSTOM.PNG&QUOT;,&QUOT;STATICMARKUPDIR&QUOT;:&QUOT;\/BUCKETS\/BLOGS\/MONEY\/SUBNAV.HTML&QUOT;,&QUOT;BRANDINGDIR&QUOT;:&QUOT;\/BRANDING\/SECTIONS\/MONEY\/&QUOT;,&QUOT;BRANDINGLINK&QUOT;:&QUOT;HTTPS:\/\/WWW.NPR.ORG\/SECTIONS\/MONEY\/&QUOT;,&QUOT;RECAPTCHASITEKEY&QUOT;:&QUOT;6LCDN9IZAAAAAOHT985BJJBZJKBJKSXDXK3GEKST&QUOT;}" -->
+<div id="callout-end-of-story-mount">
+</div>
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT" -->
+<div class="callout-end-of-story-mount-piano-wrap" id="callout-end-of-story-mount-piano-wrap">
+<div class="callout-end-of-story-mount-piano" id="callout-end-of-story-mount-piano">
+</div>
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT-PIANO" CLASS="CALLOUT-END-OF-STORY-MOUNT-PIANO" -->
+</div>
+<!-- END ID="CALLOUT-END-OF-STORY-MOUNT-PIANO-WRAP" CLASS="CALLOUT-END-OF-STORY-MOUNT-PIANO-WRAP" -->
+<aside aria-label="recommended stories" class="recommended-stories recommended-stories--piano" id="end-of-story-recommendations-mount-piano"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT-PIANO" CLASS="RECOMMENDED-STORIES RECOMMENDED-STORIES--PIANO" ARIA-LABEL="RECOMMENDED STORIES" -->
+<aside aria-label="recommended stories" class="recommended-stories" id="end-of-story-recommendations-mount"></aside>
+<!-- END ID="END-OF-STORY-RECOMMENDATIONS-MOUNT" CLASS="RECOMMENDED-STORIES" ARIA-LABEL="RECOMMENDED STORIES" -->
+</article><footer aria-label="NPR footer" class="npr-footer" id="npr-footer" role="contentinfo"><div class="npr-footer__content">
+<div class="npr-footer__module-group">
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Read &amp; Listen</h6>
+<ul>
+<li class="npr-footer__item"><a href="/">Home</a></li>
+<li class="npr-footer__item"><a href="/sections/news/">News</a></li>
+<li class="npr-footer__item"><a href="/sections/culture/">Culture</a></li>
+<li class="npr-footer__item"><a href="/music/">Music</a></li>
+<li class="npr-footer__item"><a href="/podcasts-and-shows">Podcasts &amp; Shows</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Connect</h6>
+<ul>
+<li class="npr-footer__item"><a href="/newsletters/" target="_blank">Newsletters</a></li>
+<li class="npr-footer__item"><a href="https://www.facebook.com/NPR/">Facebook</a></li>
+<li class="npr-footer__item"><a href="https://www.instagram.com/npr/">Instagram</a></li>
+<li class="npr-footer__item"><a href="/series/750003/press-room/">Press</a></li>
+<li class="npr-footer__item"><a href="/sections/publiceditor/">Public Editor</a></li>
+<li class="npr-footer__item"><a href="/corrections/">Corrections</a></li>
+<li class="npr-footer__item"><a href="/transcripts/">Transcripts</a></li>
+<li class="npr-footer__item"><a href="https://help.npr.org/contact/s/">Contact &amp; Help</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">About NPR</h6>
+<ul>
+<li class="npr-footer__item"><a href="/about/">Overview</a></li>
+<li class="npr-footer__item"><a href="/diversity/">Diversity</a></li>
+<li class="npr-footer__item"><a href="/network/" target="_blank">NPR Network</a></li>
+<li class="npr-footer__item"><a href="/about-npr/1136563345/accessibility">Accessibility</a></li>
+<li class="npr-footer__item"><a href="/ethics/">Ethics</a></li>
+<li class="npr-footer__item"><a href="/about-npr/178660742/public-radio-finances">Finances</a></li>
+</ul>
+</div>
+<div class="npr-footer__module">
+<h6 class="npr-footer__header">Get Involved</h6>
+<ul>
+<li class="npr-footer__item"><a href="/support/">Support Public Radio</a></li>
+<li class="npr-footer__item"><a href="/about-npr/186948703/corporate-sponsorship">Sponsor NPR</a></li>
+<li class="npr-footer__item"><a href="/careers/">NPR Careers</a></li>
+<li class="npr-footer__item"><a href="https://shopnpr.org/">NPR Shop</a></li>
+<li class="npr-footer__item"><a href="https://www.nprpresents.org">NPR Events</a></li>
+<li class="npr-footer__item"><a href="/sections/npr-extra/">NPR Extra</a></li>
+</ul>
+</div>
+</div>
+<div class="npr-footer__module npr-footer__module--secondary">
+<ul>
+<li class="npr-footer__item"><a href="/about-npr/179876898/terms-of-use">Terms of Use</a></li>
+<li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy">Privacy</a></li>
+<li class="npr-footer__item"><a href="/about-npr/179878450/privacy-policy#yourchoices">Your Privacy Choices</a></li>
+<li class="npr-footer__item"><a href="https://text.npr.org/">Text Only</a></li>
+<li class="npr-footer__item"><span class="copy-year"></span></li>
+</ul>
+</div>
+</div>
+</footer><div class="global-stickybar-mount" id="global-stickybar-mount">
+</div>
+<div class="global-stickybar" id="global-stickybar-mount-piano-wrap">
+<div class="global-stickybar-mount-piano" id="global-stickybar-mount-piano">
+</div>
+</div>
+</section> <div id="main-sidebar">
+<div id="right-rail-content-widgets-mount">
+</div>
+<!-- END ID="RIGHT-RAIL-CONTENT-WIDGETS-MOUNT" -->
+<aside aria-label="advertisement" class="ad-wrap standard" id="ad-standard-wrap">
+<div class="ad-header"><span>Sponsor Message</span></div>
+<div class="ad-config ad-standard has-refresh-enabled" data-ad-config='{"network":"\/6735\/","zone":"News_Business","targets":{"testserver":"false","isPodcastEpisode":"false","storyId":"nx-s1-5501591","agg":["1088064794"]},"site":{"desktop":"n6735.NPR","mobile":"n6735.NPRMOBILE"},"location":"standard","deferred":false,"isBetweenContent":false,"hasRefreshEnabled":true,"isOutstreamVideoEnabled":false}' id="ad-standard-News_Business">
+<div style="min-height:90px"></div>
+</div>
+<div class="ad-footer"><p class="left">Sponsor Message</p><p class="right"><a href="/about-npr/186948703/corporate-sponsorship">Become an NPR sponsor</a></p></div>
+</aside>
+</div>
+<!-- END ID="MAIN-SIDEBAR" -->
+</div>
+<!-- END ID="WRAPPER" -->
+<section id="global-modal-mount"></section>
+<!-- END ID="GLOBAL-MODAL-MOUNT" -->
+<script type="text/javascript">
+   (function () {
+    var loadPageJs = function () { (window.webpackJsonp=window.webpackJsonp||[]).push([[22],{1159:function(e,n,c){e.exports=c(321)},321:function(e,n,c){"use strict";c.p=NPR.serverVars.webpackPublicPath,Promise.all([c.e(1),c.e(2),c.e(3),c.e(4),c.e(81)]).then(function(e){c(3),c(1132),c(113),c(91),c(60),c(494),c(234),c(114),c(116),c(1133),c(164),c(1134),c(316),c(1135),c(48),c(1136)}.bind(null,c)).catch(c.oe)}},[[1159,0]]]); };
+    if (document.readyState === 'complete') {
+        loadPageJs();
+    } else {
+        window.addEventListener('load', function load() {
+            window.removeEventListener('load', load, false);
+            loadPageJs();
+        });
+    }
+})();
+</script>
+</main></body></html><!-- CACHED 1759083494 -->

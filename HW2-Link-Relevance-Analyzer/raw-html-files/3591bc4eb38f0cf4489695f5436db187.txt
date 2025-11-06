@@ -1,0 +1,1299 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<!-- filename: direct-head -->
+<html>
+<head>
+<title>BNR Aut - Vizualizare completÄ a Ã®nregistrÄrii</title>
+<!-- filename: meta-tags -->
+<meta content="no-cache" http-equiv="Cache-Control"/>
+<meta content="no-cache" http-equiv="Pragma"/>
+<meta content="Sun, 06 Nov 1994 08:49:37 GMT" http-equiv="Expires"/>
+<meta content="1200; URL=http://aleph.bibnat.ro:80/F" http-equiv="REFRESH"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link css"="" href="https://aleph.bibnat.ro:443/exlibris.css" rel="stylesheet" type"text=""/>
+<link css"="" href="https://aleph.bibnat.ro:443/adiacent.css" rel="stylesheet" type"text=""/>
+<script language="Javascript"> 
+<!-- 
+  function open_window (loc) 
+  { 
+    self.name="main"; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+   var w = window.open ("","win1","height=500,width=500,scrollbars,resizable"); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc,"win1","height=500,width=500,scrollbars,resizable"); 
+    } 
+    w.focus(); 
+  } 
+ 
+ 
+  function open_window2 (loc) 
+  { 
+    self.name="main"; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+ 
+    var w = window.open ("", 
+                         "win1", 
+                         "height=100,width=500,scrollbars,resizable" 
+                         ); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc, 
+                         "win1", 
+                         "height=100,width=500,scrollbars,resizable" 
+                         ); 
+    } 
+     w.focus(); 
+  } 
+ 
+ 
+  function open_window3 (loc) 
+  { 
+    self.name="main"; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+ 
+    var w = window.open ("", 
+                         "win1", 
+                         "height=400,width=450,scrollbars,resizable,top=200" 
+                         ); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc, 
+                         "win1", 
+                         "height=400,width=450,scrollbars,resizable,top=200" 
+                         ); 
+    } 
+     w.focus(); 
+  } 
+ 
+ 
+  function open_window4 (loc) 
+  { 
+    self.name="main"; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+ 
+    var w = window.open ("", 
+                         "win1", 
+                         "height=150,width=450,scrollbars,resizable,top=200" 
+                         ); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc, 
+                         "win1", 
+                         "height=150,width=450,scrollbars,resizable,top=200" 
+                         ); 
+    } 
+     w.focus(); 
+  } 
+ 
+ 
+  function open_window_ext (loc) 
+  { 
+    self.name="main"; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+    var w = window.open ("","win2","height=500,width=500,scrollbars,resizable,toolbar,status,menubar"); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc,"win2","height=500,width=500,scrollbars,resizable,toolbar,status,menubar"); 
+    } 
+    w.focus(); 
+  } 
+ 
+  function set_iframe_location(url,id){ 
+    eval('document.all.' + id).src = url; 
+  } 
+ 
+  function open_window_confirm (loc,frame) 
+  { 
+    self.name=frame; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+   var w = window.open ("","win1","height=220,width=450,scrollbars,resizable"); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc,"win1","height=220,width=450,scrollbars,resizable"); 
+    } 
+    w.focus(); 
+  } 
+ 
+  function delete_win1 () 
+  { 
+    var w = window.open ("","win1","height=220,width=450,scrollbars,resizable"); 
+    w.close(); 
+  } 
+ 
+  function open_window_ill (loc) 
+  { 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+  var w = window.open ("","win1","height=500,width=500,scrollbars,resizable"); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc,"win1","height=500,width=500,scrollbars,resizable"); 
+    } 
+    w.focus(); 
+  } 
+ 
+// --> 
+</script>
+</head>
+<body topmargin="0">
+<!-- filename: head-1-nobor -->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<head>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<script src="path-to-javascript-file"></script>
+<link href="exlibris.css" rel="stylesheet" type="text/css"/>
+<style> 
+.container{ 
+    position: relative; 
+    display: flex; 
+    align-items: left; 
+    justify-content: center; 
+    flex-wrap: wrap; 
+} 
+.itemleft { 
+      flex: 1 1 15.625em; /* responsive magic */ 
+      text-align: left; 
+      font-weight: bold; 
+    } 
+.itemleftright { 
+      flex: 1 1 15.62em; /* responsive magic */ 
+      text-align: right; 
+      font-weight: bold; 
+    } 
+  @media (max-width: 37.5em) { 
+      .item { 
+        flex-basis: 100%; 
+      } 
+    } 
+ 
+</style>
+</head>
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Catalog General BNaR</title>
+<!-- Font Awesome pentru iconuri -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+<style> 
+        /* Reseturi Äâ¢i stiluri de bazÃ */ 
+        * { 
+          margin: 0; 
+          padding: 0; 
+          box-sizing: border-box; 
+        } 
+ 
+        body { 
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+          background-color: #f5f5f5; /* Fundal pentru demonstraÄâºie */ 
+          /* AsigurÃ-te cÃ body nu este afectat de sidebar */ 
+          overflow-x: hidden; 
+        } 
+ 
+        /* Stiluri pentru wrapper-ul principal */ 
+        ._wrapper_1g0s9_666 { 
+          background-color: #fff; 
+          border-bottom: 1px solid #ddd; 
+          position: sticky; /* Meniul rÃmÄËne fixat ÄÂ®n partea de sus */ 
+          top: 0; 
+          z-index: 1001; /* Mai mare decÄËt sidebar-ul */ 
+          padding: 0.5rem 0; 
+        } 
+ 
+        ._container_1g0s9_653.container { 
+          display: flex; 
+          justify-content: space-between; /* AliniazÃ logo-ul la stÄËnga, navigaÄâºia la centru Äâ¢i contul la dreapta */ 
+          align-items: center; 
+          max-width: 1200px; 
+          margin: auto; 
+          padding: 0 1rem; 
+        } 
+ 
+        /* Stiluri pentru logo */ 
+        ._logoLink_1g0s9_706 { 
+          text-decoration: none; 
+          color: inherit; 
+          display: flex; 
+          align-items: center; 
+        } 
+ 
+        ._image_1su8o_1.logo { 
+          height: 40px; /* AjusteazÃ dimensiunea logo-ului */ 
+          width: auto; 
+          margin-right: 0.5rem; 
+        } 
+ 
+        /* Stiluri pentru navigaÄâºie */ 
+        ._navigation_fm1r8_664 { 
+            position: relative; /* Pentru a poziÄâºiona corect meniul mobil */ 
+        } 
+ 
+        ._navigation_fm1r8_664 ul { 
+          display: flex; 
+          list-style: none; 
+          gap: 0.5rem; /* SpaÄâºiu ÄÂ®ntre elementele de navigare */ 
+        } 
+ 
+        ._link_fm1r8_653 { 
+          text-decoration: none; 
+          color: #333; 
+          padding: 0.5rem 0.75rem; 
+          border-radius: 4px; 
+          display: flex; 
+          align-items: center; 
+          transition: background-color 0.2s ease; 
+        } 
+ 
+        ._link_fm1r8_653:hover { 
+          background-color: #f0f0f0; 
+          color: #000; 
+        } 
+ 
+        ._isActive_fm1r8_768 { 
+          font-weight: bold; 
+          background-color: #e6f0ff; /* Stil pentru linkul activ */ 
+          color: #074953; 
+        } 
+ 
+        ._icon_1oyga_653 { 
+          margin-right: 0.5rem; 
+          width: 16px; /* Dimensiunea iconurilor */ 
+          height: 16px; 
+          fill: currentColor; /* Pentru SVG */ 
+        } 
+ 
+        ._arrow_fm1r8_814 { 
+          margin-left: auto; /* MutÃ sÃgeata la dreapta */ 
+
+          transition: transform 0.2s ease; 
+        } 
+ 
+        /* Stiluri pentru butoanele dropdown */ 
+        .eb-button--flat-icon { 
+          background: none; 
+          border: none; 
+          cursor: pointer; 
+          font-family: inherit; 
+          font-size: inherit; 
+          color: inherit; 
+          padding: 0; 
+          margin: 0; 
+        } 
+ 
+        ._label_fm1r8_838 { 
+          display: flex; 
+          align-items: center; 
+          gap: 0.5rem; 
+        } 
+ 
+        /* Stiluri pentru popovers */ 
+        .popoverWrapper { 
+          position: absolute; /* PoziÄâºionare desktop */ 
+          background-color: white; 
+          border: 1px solid #ccc; 
+          border-radius: 4px; 
+          box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+          z-index: 1001; 
+          min-width: 200px; 
+          display: none; /* Ascuns implicit */ 
+        } 
+ 
+        .eb-popover__panel--bottom-start { 
+          top: 100%; /* PoziÄâºioneazÃ sub buton */ 
+          left: 0; 
+          margin-top: 0.25rem; 
+        } 
+ 
+        .eb-popover__panel--bottom-end { 
+          top: 100%; 
+          right: 0; /* PoziÄâºioneazÃ sub buton, aliniat la dreapta */ 
+          margin-top: 0.25rem; 
+        } 
+ 
+        .eb-popover.is-open .popoverWrapper { 
+          display: block; /* AfiÄâ¢eazÃ cÄËnd este deschis */ 
+        } 
+ 
+        .popover-list { 
+            list-style: none; 
+            padding: 0.5rem 0; 
+        } 
+ 
+        .popover-list li { 
+            list-style: none; 
+        } 
+ 
+        .popover-list a { 
+            display: block; 
+            padding: 0.5rem 1rem; 
+            text-decoration: none; 
+            color: #333; 
+            transition: background-color 0.2s ease; 
+        } 
+ 
+        .popover-list a:hover { 
+            background-color: #f0f0f0; 
+            color: #000; 
+        } 
+ 
+        /* Stiluri pentru meniul de cont */ 
+        ._accountMenu_1g0s9_745 { 
+          margin-left: 1rem; /* SpaÄâºiu faÄâºÃ de navigaÄâºie */ 
+        } 
+ 
+        .accountIcon__wrapper { 
+          padding: 0.5rem; 
+          border-radius: 50%; /* Face fundalul butonului rotund */ 
+          transition: background-color 0.2s ease; 
+        } 
+ 
+        .accountIcon__wrapper:hover { 
+          background-color: #f0f0f0; 
+        } 
+ 
+        .accountIcon__icon { 
+          width: 20px; 
+          height: 20px; 
+        } 
+ 
+        /* --- Stiluri pentru Mobil (Hamburger Menu) --- */ 
+        /* Butonul hamburger este ascuns pe ecranele mai mari */ 
+        .hamburger-menu-button { 
+            display: none; /* Ascuns pe desktop */ 
+        } 
+ 
+        /* Stiluri pentru div-ul care conÄâºine logo-ul Äâ¢i hamburger-ul */ 
+        ._catalogLinks_1g0s9_682 { 
+            display: flex; /* AsigurÃ alinierea pe desktop */ 
+            align-items: center; 
+        } 
+ 
+        /* --- Stiluri pentru Sidebar-ul Mobil --- */ 
+        #mobile-sidebar { 
+            position: fixed; 
+            top: 0; 
+            left: -100%; /* Ascuns la stÄËnga */ 
+            width: 80%; /* LÃÄâºimea sidebar-ului */ 
+            max-width: 300px; /* LÃÄâºime maximÃ */ 
+            height: 100vh; /* ÄÅ½nÃlÄâºime completÃ */ 
+            background-color: white; 
+            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.2); 
+            z-index: 1000; /* Sub header */ 
+            display: flex; 
+            flex-direction: column; 
+            transition: left 0.3s ease; /* AnimaÄâºie la deschidere/ÄÂ®nchidere */ 
+            padding-top: 60px; /* SpaÄâºiu pentru header */ 
+            overflow-y: auto; /* Permite scroll dacÃ e prea lung */ 
+        } 
+ 
+        #mobile-sidebar.is-open { 
+            left: 0; /* AfiÄâ¢eazÃ sidebar-ul */ 
+        } 
+ 
+        /* Overlay pentru fundal cÄËnd sidebar-ul este deschis */ 
+        #mobile-sidebar-overlay { 
+            display: none; /* Ascuns implicit */ 
+            position: fixed; 
+            top: 0; 
+            left: 0; 
+            width: 100%; 
+            height: 100%; 
+            background-color: rgba(0, 0, 0, 0.5); /* Fundal semi-transparent */ 
+            z-index: 999; /* Sub sidebar */ 
+        } 
+ 
+        #mobile-sidebar-overlay.is-open { 
+            display: block; /* AfiÄâ¢eazÃ overlay-ul */ 
+        } 
+ 
+        /* Stiluri pentru conÄâºinutul sidebar-ului mobil */ 
+        #mobile-sidebar ul { 
+            list-style: none; 
+            padding: 0; 
+            margin: 0; 
+            width: 100%; 
+        } 
+ 
+        #mobile-sidebar > ul > li { 
+            border-bottom: 1px solid #eee; /* Separare ÄÂ®ntre linkuri */ 
+        } 
+ 
+        #mobile-sidebar .desktop-nav-item { 
+            display: list-item; /* Face vizibile elementele de navigare ÄÂ®n meniul mobil */ 
+            position: static; /* Important pentru poziÄâºionarea absolutÃ a submeniurilor */ 
+            width: 100%; /* OcupÃ toatÃ lÃÄâºimea */ 
+            box-shadow: none; 
+            border-radius: 0; 
+            border: none; 
+
+            margin: 0; 
+            padding: 0; 
+        } 
+ 
+        #mobile-sidebar .desktop-nav-item a, 
+        #mobile-sidebar .desktop-nav-item button { 
+            width: 100%; /* Linkurile Äâ¢i butoanele ocupÃ toatÃ lÃÄâºimea */ 
+            justify-content: flex-start; /* AliniazÃ conÄâºinutul la stÄËnga */ 
+            padding: 0.75rem 1rem; /* Padding mai generos pentru touch */ 
+            border-radius: 0; /* Nu vrem colÄâºuri rotunjite ÄÂ®n interiorul meniului */ 
+            background-color: transparent; /* Fundal transparent */ 
+        } 
+ 
+        /* Stiluri pentru submeniul ÄÂ®n sidebar-ul mobil */ 
+        #mobile-sidebar .eb-popover__panel { 
+            position: static; /* ÄÅ½n fluxul normal */ 
+            display: none; /* Ascuns implicit */ 
+            width: 100%; /* OcupÃ toatÃ lÃÄâºimea */ 
+            min-width: auto; /* Nu mai e nevoie de min-width */ 
+            box-shadow: none; /* Scoatem shadow-ul */ 
+            border: 1px solid #eee; /* AdaugÃ un border subtil ÄÂ®ntre submeniu Äâ¢i restul */ 
+            border-radius: 0; /* FÃrÃ colÄâºuri rotunjite */ 
+            background-color: #f9f9f9; /* Fundal uÄâ¢or diferit pentru submeniu */ 
+            z-index: auto; /* Scoatem z-index-ul */ 
+            /* AdaugÃ un mic padding interior */ 
+            padding: 0.25rem 0; 
+            margin-left: 1rem; /* Indentare submeniu */ 
+        } 
+ 
+        /* AfiÄâ¢eazÃ panoul dacÃ pÃrintele .eb-popover are clasa .is-open */ 
+        #mobile-sidebar .eb-popover.is-open .eb-popover__panel { 
+            display: block; /* AfiÄâ¢eazÃ ÄÂ®n flux sub butonul pÃrinte */ 
+        } 
+ 
+        #mobile-sidebar .eb-popover__panel .popover-list { 
+            padding: 0.25rem 0; /* Redu padding-ul listei interne */ 
+        } 
+ 
+        #mobile-sidebar .eb-popover__panel .popover-list a { 
+            padding-left: 1rem; /* Indentare linkuri */ 
+            font-size: 0.95em; /* Poate vrei un font mai mic */ 
+            display: block; 
+            text-decoration: none; 
+            color: #333; 
+            background-color: #f9f9f9; /* AsigurÃ fundalul submeniului */ 
+        } 
+ 
+        #mobile-sidebar .eb-popover__panel .popover-list a:hover { 
+            background-color: #f0f0f0; /* Hover pentru linkurile din submeniu */ 
+        } 
+ 
+        @media (max-width: 768px) { /* AjusteazÃ breakpoint-ul dupÃ nevoie */ 
+          ._container_1g0s9_653.container { 
+            /* Poate doreÄâ¢ti sÃ reduci padding-ul pe mobil */ 
+            padding: 0 0.5rem; 
+          } 
+ 
+          /* InversÃm ordinea logo-ului Äâ¢i hamburger-ului ÄÂ®n div-ul pÃrinte */ 
+          ._catalogLinks_1g0s9_682 { 
+            display: flex; 
+            flex-direction: row-reverse; 
+            align-items: center; 
+          } 
+ 
+          /* ModificÃm ordinea elementelor ÄÂ®n containerul principal pe mobil */ 
+          ._catalogLinks_1g0s9_682 { 
+            order: -1; /* Pune ÄÂ®ntreg div-ul cu logo Äâ¢i hamburger la ÄÂ®nceput (stÄËnga) */ 
+          } 
+ 
+          ._navigation_fm1r8_664 { 
+            order: 0; /* Meniul de navigaÄâºie (acum gol pe mobil) rÃmÄËne ÄÂ®n mijloc */ 
+            flex-grow: 1; /* Permite-i sÃ ocupe spaÄâºiul liber */ 
+            justify-content: flex-start; /* AliniazÃ conÄâºinutul sÃu (hamburger) la stÄËnga */ 
+          } 
+ 
+          ._accountMenu_1g0s9_745 { 
+            order: 1; /* Meniul de cont rÃmÄËne la dreapta */ 
+          } 
+ 
+          /* Ascunde elementele de navigare desktop */ 
+          .desktop-nav-item { 
+            display: none; 
+          } 
+ 
+          /* AratÃ butonul hamburger */ 
+          .hamburger-menu-button { 
+            display: flex; 
+            flex-direction: column; /* AÄâ¢azÃ iconiÄâºa Äâ¢i textul pe verticalÃ */ 
+            align-items: flex-start; /* Aliniere la stÄËnga */ 
+            justify-content: center; 
+            padding: 0.5rem; /* Poate vrei padding diferit */ 
+            margin-right: 1rem; /* SpaÄâºiu ÄÂ®ntre hamburger Äâ¢i logo */ 
+          } 
+ 
+        } 
+ 
+ .open-menu-btn { 
+      padding: 5px 5px; 
+      font-size: 12px; 
+      background-color: #074953; 
+      color: white; 
+      border: none; 
+      border-radius: 5px; 
+      cursor: pointer; 
+    } 
+ 
+    .modalX { 
+      display: none; 
+      position: fixed; 
+      z-index: 1000; 
+      left: 0; 
+      top: 0; 
+      width: 100%; 
+      height: 100%; 
+      background-color: rgba(0, 0, 0, 0.5); 
+    } 
+ 
+    .popoverWrapperX { 
+      background: #fff; 
+      border-radius: 8px; 
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15); 
+      padding: 20px; 
+      width: 280px; 
+      margin: 100px auto; 
+      position: relative; 
+    } 
+ 
+    .accountMenu__headerX { 
+      font-size: 18px; 
+      margin-bottom: 15px; 
+      color: #074953; 
+      text-align: center; 
+    } 
+ 
+    .accountMenu__linksX { 
+      list-style: none; 
+      padding: 0; 
+      margin: 0; 
+    } 
+
+ 
+    .accountMenu__linksX li { 
+      margin-bottom: 10px; 
+    } 
+ 
+    .accountMenu__linksX a { 
+      display: flex; 
+      align-items: center; 
+      padding: 10px; 
+      text-decoration: none; 
+      color: #333; 
+      border-radius: 5px; 
+      transition: background 0.2s; 
+    } 
+ 
+    .accountMenu__linksX a:hover { 
+      background-color: #f0f0f0; 
+    } 
+ 
+    .accountMenu__linksX svg { 
+      width: 18px; 
+      height: 18px; 
+      margin-right: 10px; 
+      color: #074953; 
+    } 
+ 
+    .closeX { 
+      position: absolute; 
+      top: 10px; 
+      right: 15px; 
+      font-size: 20px; 
+      cursor: pointer; 
+    } 
+/* Stiluri de bazÃ pentru linkurile din meniu */ 
+.popover-listX a { 
+    display: flex; /* Folosim flexbox pentru a alinia iconiÄâºa Äâ¢i textul */ 
+    align-items: center; /* Aliniere verticalÃ la centru */ 
+    text-decoration: none; /* EliminÃ sublinierea implicitÃ */ 
+    color: #074953; /* Culoarea textului */ 
+    padding: 0.5rem 1rem; /* SpaÄâºiu ÄÂ®n jurul linkului */ 
+    transition: background-color 0.2s ease; /* TranziÄâºie pentru hover */ 
+} 
+.popover-listX a:hover { 
+    background-color: #f0f0f0; /* Fundal la hover */ 
+    color: #000; /* Culoare text la hover */ 
+} 
+/* Stiluri pentru iconiÄâºele din meniu */ 
+.menu-iconX { /* Ne bazÃm pe clasa adÃugatÃ ÄÂ®n HTML */ 
+    width: 1em;  /* Dimensiunea iconiÄâºei egalÃ cu ÄÂ®nÃlÄâºimea fontului pÃrinte (a linkului <a>) */ 
+    height: 1em; /* PÃstreazÃ proporÄâºia pÃtratÃ */ 
+    margin-right: 0.5em; /* SpaÄâºiu ÄÂ®ntre iconiÄâºÃ Äâ¢i text */ 
+    /* OpÄâºional: dacÃ vrei ca iconiÄâºa sÃ aibÃ o culoare diferitÃ de text */ 
+    color: #074953; 
+    /* fill: currentColor; AsigurÃ-te cÃ culoarea fill a SVG-ului urmeazÃ culoarea textului */ 
+} 
+    </style>
+</head>
+<body>
+<div class="_wrapper_1g0s9_666" data-auto="navigation-wrapper">
+<div class="_container_1g0s9_653 container">
+<div class="_catalogLinks_1g0s9_682">
+<!-- Butonul Hamburger pentru mobil -->
+<button aria-controls="mobile-sidebar" aria-expanded="false" aria-label="Toggle main menu" class="eb-button eb-button--flat-icon _link_fm1r8_653 hamburger-menu-button" id="hamburger-button">
+<i class="fas fa-bars _icon_1oyga_653"></i>
+<span>Menu</span>
+</button>
+<!-- Logo Link -->
+<a class="_logoLink_1g0s9_706" data-auto="logo" href="https://bibnat.ro/">
+<img alt="BNaR" class="_image_1su8o_1 logo" height="40" src="http://aleph.bibnat.ro:80/exlibris/aleph/u23_1/alephe/www_f_rum/icon/sigla.png" width="40"/>
+<!-- ÄÅ½nlocuieÄâ¢te src cu calea realÃ cÃtre logo-ul tÃu -->
+</a>
+</div>
+<nav aria-label="Main" class="_navigation_fm1r8_664">
+<ul class="_navigationLinks_fm1r8_718">
+<!-- Elementele de navigare normale -->
+<li class="desktop-nav-item">
+<div class="eb-popover">
+<button aria-controls="dashboard-links-panel" aria-expanded="false" aria-haspopup="true" aria-label="Expand dashboard links" class="eb-button eb-button--flat-icon _navigationLinkDropdown_fm1r8_776 _link_fm1r8_653 popoverButton eb-popover__button" data-auto="button" id="dashboard-links-button" type="button">
+<div class="_label_fm1r8_838">
+<i class="fas fa-table-columns _icon_1oyga_653"></i>
+<span><a href="https://aleph.bibnat.ro/F/?func=find-b-0">Catalog general</a></span>
+</div>
+</button>
+<!-- Panou Popover pentru Dashboard -->
+<div aria-describedby="dashboard-links-button" class="popoverWrapper eb-popover__panel eb-popover__panel--bottom-start" id="dashboard-links-panel">
+<ul class="popover-list">
+<li><a href="https://aleph.bibnat.ro/F/?func=find-b-0">Catalog</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="desktop-nav-item">
+<div class="eb-popover">
+<button aria-controls="browse-links-panel-3" aria-expanded="false" aria-haspopup="true" aria-label="Expand browse links" class="eb-button eb-button--flat-icon _navigationLinkDropdown_fm1r8_776 _link_fm1r8_653 popoverButton eb-popover__button" data-auto="button" id="browse-links-button-3" type="button">
+<div class="_label_fm1r8_838">
+<i class="fas fa-binoculars _icon_1oyga_653"></i>
+<span>Optiuni de cautare</span>
+</div>
+</button>
+<!-- Panou Popover pentru Browse -->
+<div aria-describedby="browse-links-button-3" class="popoverWrapper eb-popover__panel eb-popover__panel--bottom-start" id="browse-links-panel-3">
+<ul class="popover-list">
+<li><a href="https://aleph.bibnat.ro/F/?func=scan-list">Rasfoire index</a></li>
+<li><a href="https://aleph.bibnat.ro/F/?func=find-a-0">Cautare multicamp</a></li>
+<li><a href="https://aleph.bibnat.ro/F/?func=find-d-0">Cautare avansata</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="desktop-nav-item">
+<div class="eb-popover">
+<button aria-controls="dashboard-links-panel-2" aria-expanded="false" aria-haspopup="true" aria-label="Expand dashboard links" class="eb-button eb-button--flat-icon _navigationLinkDropdown_fm1r8_776 _link_fm1r8_653 popoverButton eb-popover__button" data-auto="button" id="dashboard-links-button-2" type="button">
+<div class="_label_fm1r8_838">
+<i class="fas fa-table-columns _icon_1oyga_653"></i>
+<span>Spatiul meu</span>
+</div>
+</button>
+<!-- Panou Popover pentru Dashboard -->
+<div aria-describedby="dashboard-links-button-2" class="popoverWrapper eb-popover__panel eb-popover__panel--bottom-start" id="dashboard-links-panel-2">
+<ul class="popover-list">
+<li><a href="https://aleph.bibnat.ro/F/?func=history">Cautari anterioare</a></li>
+<li><a href="https://aleph.bibnat.ro/F/?func=short">Lista rezultatelor</a></li>
+<li><a href="https://aleph.bibnat.ro/F/?func=myshelf-short">eRaft</a></li>
+<li><a href="https://aleph.bibnat.ro/F/?func=short-rank">Relevanta</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="desktop-nav-item">
+<div class="eb-popover">
+<button aria-controls="libraryResources-links-panel-4" aria-expanded="false" aria-haspopup="true" aria-label="Expand library resources" class="eb-button eb-button--flat-icon _navigationLinkDropdown_fm1r8_776 _link_fm1r8_653 popoverButton eb-popover__button" data-auto="button" id="libraryResources-links-button-4" type="button">
+<div class="_label_fm1r8_838">
+<i class="fas fa-landmark _icon_1oyga_653"></i>
+<span>Resursele bibliotecii</span>
+</div>
+</button>
+<!-- Panou Popover pentru Library Resources -->
+<div aria-describedby="libraryResources-links-button-4" class="popoverWrapper eb-popover__panel eb-popover__panel--bottom-start" id="libraryResources-links-panel-4">
+<ul class="popover-list">
+<li><a href="https://digitool.bibnat.ro">Biblioteca Digitala</a></li>
+<li><a href="https://www.manuscriptorium.com/">Manuscriptorium</a></li>
+<li><a href="https://www.europeana.eu/">Europeana</a></li>
+<li><a href="https://bibnat.ro">Biblioteca Nationala a Romaniei</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</nav>
+<div class="_accountMenu_1g0s9_745" data-auto="account-menu">
+<div class="eb-popover accountMenu__wrapper">
+<div style="text-align: center;">
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15350?func=option-update-lng&amp;file_name=find-b&amp;F2=pc-latin&amp;P_CON_LNG=ENG">
+<img alt="//Change Language\\" border="0" height="12" hspace="2" src="http://aleph.bibnat.ro:80/exlibris/aleph/u23_1/alephe/www_f_rum/icon/RUM.jpg" title="//Change Language\\" width="18"/></a>
+</div>
+<button aria-controls="dashboard-links-panel-2" aria-expanded="false" aria-haspopup="true" aria-label="Expand dashboard links" class="eb-button eb-button--flat-icon _navigationLinkDropdown_fm1r8_776 _link_fm1r8_653 popoverButton eb-popover__button" data-auto="button" id="dashboard-links-button-2" type="button">
+<div class="accountIcon__wrapper">
+<i class="fas fa-user _icon_1oyga_653 accountIcon__icon"></i> 
+                                                        Utilizator neconectat 
+                                                        </div>
+</button>
+<!-- Panou Popover pentru Cont-->
+<div aria-describedby="account-menu-button" class="popoverWrapper eb-popover__panel accountMenu__wrapper__panel eb-popover__panel--bottom-end accountMenu__wrapper__panel--bottom-end" id="account-menu-panel">
+<ul class="popover-listX">
+<li>
+<a href="https://aleph.bibnat.ro/F/?func=file&amp;file_name=login-session">
+<!-- Icon: Sign in -->
+<svg aria-hidden="true" class="svg-inline--fa fa-arrow-right-from-bracket menu-iconX" data-icon="arrow-right-from-bracket" data-prefix="fas" focusable="false" role="img" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<path d="M502.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-128-128c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224 192 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l210.7 0-73.4 73.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l128-128zM160 96c17.7 0 32-14.3 32-32s-14.3-32-32-32L96 32C43 32 0 75 0 128L0 384c0 53 43 96 96 96l64 0c17.7 0 32-14.3 32-32s-14.3-32-32-32l-64 0c-17.7 0-32-14.3-32-32l0-256c0-17.7 14.3-32 32-32l64 0z" fill="currentColor"></path>
+</svg> 
+
+                                                        Log In 
+                                                        </a>
+</li>
+<li>
+<a href="https://aleph.bibnat.ro/F/?func=bor-new-0&amp;heading_number=9864">
+<!-- Icon: Create account -->
+<svg aria-hidden="true" class="svg-inline--fa fa-user-plus menu-iconX" data-icon="user-plus" data-prefix="fas" focusable="false" role="img" viewbox="0 0 640 512" xmlns="http://www.w3.org/2000/svg">
+<path d="M96 128a128 128 0 1 1 256 0A128 128 0 1 1 96 128zM0 482.3C0 383.8 79.8 304 178.3 304h91.4C368.2 304 448 383.8 448 482.3c0 16.4-13.3 29.7-29.7 29.7H29.7C13.3 512 0 498.7 0 482.3zM504 312V248H440c-13.3 0-24-10.7-24-24s10.7-24 24-24h64V136c0-13.3 10.7-24 24-24s24 10.7 24 24v64h64c13.3 0 24 10.7 24 24s-10.7 24-24 24H552v64c0 13.3-10.7 24-24 24s-24-10.7-24-24z" fill="currentColor"></path>
+</svg> 
+                                                        Inregistrare 
+                                                        </a>
+</li>
+<li>
+<a href="https://aleph.bibnat.ro/F/?func=option-show&amp;func_param=DISPLAY-OPTION" target="_blank">
+<!-- Icon: Preferences -->
+<svg aria-hidden="true" class="svg-inline--fa fa-user-pen menu-iconX" data-icon="user-pen" data-prefix="fas" focusable="false" role="img" viewbox="0 0 640 512" xmlns="http://www.w3.org/2000/svg">
+<path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H322.8c-3.1-8.8-3.7-18.4-1.4-27.8l15-60.1c2.8-11.3 8.6-21.5 16.8-29.7l40.3-40.3c-32.1-31-75.7-50.1-123.9-50.1H178.3zm435.5-68.3c-15.6-15.6-40.9-15.6-56.6 0l-29.4 29.4 71 71 29.4-29.4c15.6-15.6 15.6-40.9 0-56.6l-14.4-14.4zM375.9 417c-4.1 4.1-7 9.2-8.4 14.9l-15 60.1c-1.4 5.5 .2 11.2 4.2 15.2s9.7 5.6 15.2 4.2l60.1-15c5.6-1.4 10.8-4.3 14.9-8.4L576.1 358.7l-71-71L375.9 417z" fill="currentColor"></path>
+</svg> 
+                                                        Preferinte 
+                                                        </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Sidebar-ul Mobil -->
+<div id="mobile-sidebar">
+<ul id="mobile-sidebar-nav-links">
+<!-- ConÄâºinutul va fi adÃugat aici de JS -->
+</ul>
+</div>
+<!-- Overlay pentru fundal -->
+<div id="mobile-sidebar-overlay"></div>
+<script> 
+    document.addEventListener('DOMContentLoaded', function () { 
+        const popovers = document.querySelectorAll('.eb-popover'); 
+        const hamburgerButton = document.getElementById('hamburger-button'); 
+        const mobileSidebar = document.getElementById('mobile-sidebar'); 
+        const mobileSidebarOverlay = document.getElementById('mobile-sidebar-overlay'); 
+        const mobileSidebarNavLinks = document.getElementById('mobile-sidebar-nav-links'); 
+ 
+        // ClonÃm conÄâºinutul .desktop-nav-item pentru sidebar-ul mobil 
+        const desktopNavItems = document.querySelectorAll('.desktop-nav-item'); 
+        mobileSidebarNavLinks.innerHTML = ''; // CurÃÄâºÃm ÄÂ®nainte 
+        desktopNavItems.forEach(item => { 
+            const clonedItem = item.cloneNode(true); 
+            mobileSidebarNavLinks.appendChild(clonedItem); 
+        }); 
+ 
+        // FuncÄâºie pentru ÄÂ®nchiderea tuturor submeniurilor ÄÂ®n sidebar 
+        function closeAllMobileSubmenus() { 
+            const allMobilePopovers = mobileSidebar.querySelectorAll('.eb-popover'); 
+            allMobilePopovers.forEach(p => { 
+                const mobButton = p.querySelector('.popoverButton'); 
+                if (mobButton) { 
+                    mobButton.setAttribute('aria-expanded', 'false'); 
+                    p.classList.remove('is-open'); 
+                } 
+            }); 
+        } 
+ 
+        // FuncÄâºie pentru ÄÂ®nchiderea sidebar-ului mobil 
+        function closeMobileSidebar() { 
+            hamburgerButton.setAttribute('aria-expanded', 'false'); 
+            mobileSidebar.classList.remove('is-open'); 
+            mobileSidebarOverlay.classList.remove('is-open'); 
+            closeAllMobileSubmenus(); // ÄÅ½nchide submeniurile la ÄÂ®nchiderea sidebar-ului 
+            hamburgerButton.focus(); // MutÃ focusul ÄÂ®napoi pe hamburger pentru accesibilitate 
+
+        } 
+ 
+        // --- FuncÄâºionalitate Hamburger (Deschide Sidebar) --- 
+        if (hamburgerButton) { 
+            hamburgerButton.addEventListener('click', function (e) { 
+                const isExpanded = hamburgerButton.getAttribute('aria-expanded') === 'true'; 
+ 
+                if (isExpanded) { 
+                    closeMobileSidebar(); 
+                } else { 
+                    hamburgerButton.setAttribute('aria-expanded', 'true'); 
+                    mobileSidebar.classList.add('is-open'); 
+                    mobileSidebarOverlay.classList.add('is-open'); 
+ 
+                    // Focus pe primul link din sidebar pentru accesibilitate (opÄâºional) 
+                    const firstLink = mobileSidebarNavLinks.querySelector('a, button'); 
+                    if (firstLink) { 
+                         setTimeout(() => { firstLink.focus(); }, 0); // setTimeout necesar pentru afiÄâ¢are 
+                    } 
+                } 
+            }); 
+ 
+            // ÄÅ½nchide sidebar-ul la click pe overlay 
+            mobileSidebarOverlay.addEventListener('click', closeMobileSidebar); 
+ 
+            // ÄÅ½nchide sidebar-ul la apÃsarea Escape 
+            document.addEventListener('keydown', function (e) { 
+                if (e.key === 'Escape' && mobileSidebar.classList.contains('is-open')) { 
+                    closeMobileSidebar(); 
+                } 
+            }); 
+        } 
+ 
+        // --- FuncÄâºionalitate Submeniuri ÄÂ®n Sidebar-ul Mobil --- 
+        // GÃseÄâ¢te toate butoanele din sidebar-ul mobil 
+        const mobilePopoverButtons = mobileSidebar.querySelectorAll('.popoverButton'); 
+        mobilePopoverButtons.forEach(button => { 
+            button.addEventListener('click', function (e) { 
+                e.preventDefault(); // Previne comportamentul implicit al linkului din span (dacÃ existÃ) 
+                const isExpanded = this.getAttribute('aria-expanded') === 'true'; 
+                const parentPopover = this.closest('.eb-popover'); 
+ 
+                // ÄÅ½nchide toate celelalte submeniuri din sidebar 
+                closeAllMobileSubmenus(); 
+ 
+                // ComutÃ starea acestui submeniu 
+                if (isExpanded) { 
+                    this.setAttribute('aria-expanded', 'false'); 
+                    parentPopover.classList.remove('is-open'); 
+                } else { 
+                    this.setAttribute('aria-expanded', 'true'); 
+                    parentPopover.classList.add('is-open'); 
+                    // Focus pe primul link din submeniu pentru accesibilitate (opÄâºional) 
+                    const firstLink = parentPopover.querySelector('.popoverWrapper a'); 
+                    if (firstLink) { 
+                         setTimeout(() => { firstLink.focus(); }, 0); 
+                    } 
+                } 
+            }); 
+        }); 
+ 
+        // --- FuncÄâºionalitate Popovers (doar pentru desktop sau dacÃ nu e ÄÂ®n mobil) --- 
+        // Nu mai este nevoie de logica complexÃ pentru mobil aici, deoarece submeniurile din mobil sunt gestionate separat. 
+        popovers.forEach(popover => { 
+            const button = popover.querySelector('.popoverButton'); 
+            if (!button) return; // EvitÃ erorile dacÃ nu existÃ buton 
+            const panel = popover.querySelector('.popoverWrapper'); 
+            if (!panel) return; 
+ 
+            // FuncÄâºia care gestioneazÃ click-ul pe butonul popover (Desktop) 
+            const handlePopoverClick = function (e) { 
+                // VerificÃ dacÃ suntem pe mobil (poate nu e nevoie, dar pentru siguranÄâºÃ) 
+                if (window.matchMedia('(max-width: 768px)').matches && mobileSidebar.classList.contains('is-open')) { 
+                    // Nu facem nimic aici pentru mobil, e gestionat separat 
+                    return; 
+                } 
+ 
+                const isExpanded = button.getAttribute('aria-expanded') === 'true'; 
+ 
+                // ÄÅ½nchide toate celelalte popovers 
+                popovers.forEach(p => { 
+                    const b = p.querySelector('.popoverButton'); 
+                    const pan = p.querySelector('.popoverWrapper'); 
+                    if (b && b !== button) { 
+                        b.setAttribute('aria-expanded', 'false'); 
+                        p.classList.remove('is-open'); 
+                    } 
+                }); 
+ 
+                // ComutÃ starea acestuia 
+                if (isExpanded) { 
+                    button.setAttribute('aria-expanded', 'false'); 
+                    popover.classList.remove('is-open'); 
+                } else { 
+                    button.setAttribute('aria-expanded', 'true'); 
+                    popover.classList.add('is-open'); 
+                    // Focus pe primul link din panou pentru accesibilitate (opÄâºional) 
+                    const firstLink = panel.querySelector('a'); 
+                    if (firstLink) { 
+                         // setTimeout necesar pentru ca display: block sÃ fie aplicat ÄÂ®n DOM 
+
+                         setTimeout(() => { firstLink.focus(); }, 0); 
+                    } 
+                } 
+            }; 
+ 
+            button.addEventListener('click', handlePopoverClick); 
+ 
+            // ÄÅ½nchide popover la click ÄÂ®n afara lui (Desktop) 
+            document.addEventListener('click', function (e) { 
+                if (window.matchMedia('(max-width: 768px)').matches && mobileSidebar.classList.contains('is-open')) { 
+                    // Nu facem nimic aici pentru mobil 
+                    return; 
+                } 
+                if (!popover.contains(e.target)) { 
+                    button.setAttribute('aria-expanded', 'false'); 
+                    popover.classList.remove('is-open'); 
+                } 
+            }); 
+ 
+            // ÄÅ½nchide popover la apÃsarea Escape (Desktop) 
+            panel.addEventListener('keydown', function (e) { 
+                if (window.matchMedia('(max-width: 768px)').matches && mobileSidebar.classList.contains('is-open')) { 
+                    // Nu facem nimic aici pentru mobil 
+                    return; 
+                } 
+                if (e.key === 'Escape') { 
+                    button.setAttribute('aria-expanded', 'false'); 
+                    popover.classList.remove('is-open'); 
+                    button.focus(); // MutÃ focusul ÄÂ®napoi pe buton 
+                } 
+            }); 
+        }); 
+ 
+        // OpÄâºional: ÄÅ½nchide sidebar-ul mobil la resize dacÃ se trece la desktop 
+        window.addEventListener('resize', function() { 
+             if (window.matchMedia('(min-width: 769px)').matches) { 
+                 closeMobileSidebar(); 
+             } 
+        }); 
+    }); 
+</script>
+</body>
+</html>
+<div class="topbar" style="text-align: center;"> 
+             BNR Aut 
+</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="bar" nowrap="" width="20%"> 
+      
+  </td>
+<td align="center" class="bar" nowrap="">
+<a class="blue" href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15351?func=booking_req_form_bib&amp;bib_library=NLR10&amp;bib_doc_number=000226533&amp;start_date=" title="Booking"> 
+               Rezervare scurtÄ</a>
+</td>
+<td align="center" class="bar" nowrap=""> 
+                |  
+  </td>
+<td align="center" class="bar" nowrap="">
+<a class="blue" href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15352?func=myshelf-add-ful-1&amp;doc_library=NLR10&amp;doc_number=000226533&amp;source_func=DIRECT" title="Add to My e-Shelf"> 
+               AdaugÄ Ã®n raftul personal (e-Shelf)</a>
+</td>
+<td align="center" class="bar" nowrap="">
+<a class="blue" href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15353?func=short-locate-list&amp;doc_number=000226533" title="Locate in other databases"> 
+               Localizare</a>
+</td>
+<td align="center" class="bar" nowrap=""> 
+                |  
+  </td>
+<td align="center" class="bar" nowrap="">
+<a class="blue" href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15354?func=ill-request-doc&amp;doc_number=000226533" title="Create ILL request"> 
+               Cerere ÃIB</a>
+</td>
+
+<td align="center" class="bar" nowrap=""> 
+                |  
+  </td>
+<td align="center" class="bar" nowrap="">
+<a class="blue" href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15355?func=full-mail-0-d&amp;doc_library=NLR10&amp;doc_number=000226533" title="Salvare/eMail"> 
+               Salvare/Mail</a>
+</td>
+<td align="center" class="bar" nowrap=""> 
+                |  
+  </td>
+<td align="center" class="bar" nowrap="">
+<a class="blue" href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15356?func=save-server-d-0&amp;doc_library=NLR10&amp;doc_number=000226533&amp;format=999" title="Salvre pe server"> 
+    Salvare pe server</a>
+</td>
+<td align="center" class="bar" nowrap=""> 
+                |  
+  </td>
+<td align="center" class="bar" nowrap="" valign="bottom">
+<div id="sfx_button"></div>
+</td>
+<td align="center" class="bar" nowrap="" width="20%"> 
+     |  
+  </td>
+<td align="center" class="bar" nowrap="">
+<a class="blue" href='javascript:open_window("https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15357?func=service-ill&amp;doc_number=");' title="ILL Request"> 
+       Cerere ILL</a>
+</td>
+</tr>
+</table>
+<p class="title" nowrap=""> 
+  Vizualizare completÄ a Ã®nregistrÄrii 
+</p>
+<table>
+<tr>
+<td class="text3"> 
+    Alege formatul: 
+  </td>
+<td class="text1">
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15358?func=direct&amp;doc_number=000226533¤t_base=&amp;format=999"> 
+      Standard</a>
+</td>
+<td class="text1">
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15359?func=direct&amp;doc_number=000226533¤t_base=&amp;format=037"> 
+      FiÅÄ de catalog</a>
+</td>
+<td class="text1">
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15360?func=direct&amp;doc_number=000226533¤t_base=&amp;format=040"> 
+      Citare</a>
+</td>
+<td class="text1">
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15361?func=direct&amp;doc_number=000226533¤t_base=&amp;format=002"> 
+      Nume de etichete</a>
+</td>
+<td class="text1">
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15362?func=direct&amp;doc_number=000226533¤t_base=&amp;format=001"> 
+      Etichete MARC</a>
+</td>
+</tr>
+</table>
+<table border="0" cellspacing="2" width="100%">
+<!-- filename: full-999-body -->
+<tr>
+<td id="bold" nowrap="" style="font-size:80%; 
+                 font-family:'Bitstream Cyberbit','Arial Unicode MS',Arial, Helvetica, serif; 
+                font-weight: bold; 
+                color:#212063; 
+                background-color: #f7ede1; 
+                padding-left: 30px;" valign="top" width="15%"> 
+    Nr.sistem   
+  </td>
+<td align="left" style="font-size:80%; 
+                 font-family:'Bitstream Cyberbit','Arial Unicode MS',Arial, Helvetica, serif; 
+                font-weight:normal; 
+                color:#212063; 
+                background-color: #f7ede1; 
+                padding-left: 2px;"> 
+    000226533 
+  </td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td id="bold" nowrap="" style="font-size:80%; 
+                 font-family:'Bitstream Cyberbit','Arial Unicode MS',Arial, Helvetica, serif; 
+                font-weight: bold; 
+                color:#212063; 
+                background-color: #f7ede1; 
+                padding-left: 30px;" valign="top" width="15%"> 
+    Vedeta   
+  </td>
+<td align="left" style="font-size:80%; 
+                 font-family:'Bitstream Cyberbit','Arial Unicode MS',Arial, Helvetica, serif; 
+                font-weight:normal; 
+                color:#212063; 
+                background-color: #f7ede1; 
+                padding-left: 2px;">
+<img alt="" border="0" src="http://aleph.bibnat.ro:80/exlibris/aleph/u23_1/alephe/www_f_rum/icon/f-separator.gif"/><a href='javascript:open_window("https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15363?func=service&amp;doc_number=000226533&amp;line_number=0009&amp;service_type=TAG");'>Trump, Donald John 1946-....</a>
+</td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td id="bold" nowrap="" style="font-size:80%; 
+                 font-family:'Bitstream Cyberbit','Arial Unicode MS',Arial, Helvetica, serif; 
+                font-weight: bold; 
+                color:#212063; 
+                background-color: #f7ede1; 
+                padding-left: 30px;" valign="top" width="15%"> 
+    Nota biogr./act.   
+  </td>
+<td align="left" style="font-size:80%; 
+                 font-family:'Bitstream Cyberbit','Arial Unicode MS',Arial, Helvetica, serif; 
+                font-weight:normal; 
+                color:#212063; 
+                background-color: #f7ede1; 
+                padding-left: 2px;"> 
+    om de afaceri, politician, preÅedinte american 
+  </td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td id="bold" nowrap="" style="font-size:80%; 
+                 font-family:'Bitstream Cyberbit','Arial Unicode MS',Arial, Helvetica, serif; 
+                font-weight: bold; 
+                color:#212063; 
+                background-color: #f7ede1; 
+                padding-left: 30px;" valign="top" width="15%"> 
+       
+  </td>
+<td align="left" style="font-size:80%; 
+                 font-family:'Bitstream Cyberbit','Arial Unicode MS',Arial, Helvetica, serif; 
+                font-weight:normal; 
+                color:#212063; 
+                background-color: #f7ede1; 
+                padding-left: 2px;"> 
+    nÄscut Ã®n 14 iunie 1946, Ã®n New York 
+  </td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td id="bold" nowrap="" style="font-size:80%; 
+                 font-family:'Bitstream Cyberbit','Arial Unicode MS',Arial, Helvetica, serif; 
+                font-weight: bold; 
+                color:#212063; 
+                background-color: #f7ede1; 
+                padding-left: 30px;" valign="top" width="15%"> 
+       
+  </td>
+<td align="left" style="font-size:80%; 
+                 font-family:'Bitstream Cyberbit','Arial Unicode MS',Arial, Helvetica, serif; 
+                font-weight:normal; 
+                color:#212063; 
+                background-color: #f7ede1; 
+                padding-left: 2px;"> 
+    cel de-al 45-lea preÅedinte al SUA, Ã®ntre 2017-2021; Ã®nainte de a intra Ã®n politicÄ, a fost om de afaceri Åi de televiziune 
+  </td>
+</tr>
+<!-- filename: direct-tail  -->
+</table>
+<br/>
+<table>
+<tr>
+<td class="text3"> 
+    AlegeÅ£i formatul: 
+  </td>
+<td class="text1">
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15364?func=direct&amp;doc_number=000226533¤t_base=&amp;format=999"> 
+      Standard</a>
+</td>
+<td class="text1">
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15365?func=direct&amp;doc_number=000226533¤t_base=&amp;format=037"> 
+      FiÅÄ de catalog</a>
+</td>
+<td class="text1">
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15366?func=direct&amp;doc_number=000226533¤t_base=&amp;format=040"> 
+      Citare</a>
+</td>
+<td class="text1">
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15367?func=direct&amp;doc_number=000226533¤t_base=&amp;format=002"> 
+      Nume de etichete</a>
+</td>
+<td class="text1">
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15368?func=direct&amp;doc_number=000226533¤t_base=&amp;format=001"> 
+      Etichete MARC </a>
+</td>
+</tr>
+</table>
+<p>
+<!-- tail-bar-include -->
+<hr/>
+<div align="center" class="text1">
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15369?func=file&amp;file_name=logout">Sesiune Ã®ncheiatÄ</a> - 
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15370?func=option-show&amp;func_param=DISPLAY-OPTION">PreferinÅ£e</a> - 
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15371?func=file&amp;file_name=feedback">Feedback</a> - 
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15372?func=file&amp;file_name=help-1" target="new">Help</a> - 
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15373?func=ill-request-1&amp;request_type=ill-book-request">ÃIB</a> - 
+<a href="http://www.exlibris-usa.com" target="new">Ex Libris</a> - 
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15374?func=scan-list">RÄsfoire</a> - 
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15375?func=file&amp;file_name=find-b">CÄutare</a> - 
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15376?func=short">Lista rezultatelor</a> - 
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15377?func=history">CÄutÄri anterioare</a> - 
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15378?func=file&amp;file_name=base-list">Baze de date</a> - 
+<a href="https://aleph.bibnat.ro:443/F/GCIV521JTUXU8V5FD3U6EJNAKB15I7ITHY1CDH3KBC1FF3NYDF-15379?func=basket-short">CoÅ</a>
+</div>
+<!-- filename: copyrights -->
+<br/>
+<style> 
+.containersub{ 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+        margin-bottom: 0.5em; 
+    flex-wrap: wrap; 
+} 
+.itemsub{ 
+      text-align: center; 
+      font-weight: bold; 
+          margin-bottom: 0.3em; 
+    } 
+</style>
+<div class="containersub">
+<div class="itemsub">
+<a href="https://www.bibnat.ro" style="FONT-SIZE: 11px; COLOR: #074953; FONT-FAMILY: 'Arial Unicode MS',TAHOMA,ARIAL,VERDANA,sans-serif; TEXT-DECORATION: UNDERLINE; FONT-WEIGHT: BOLD; HEIGHT: 15PX; PADDING-LEFT: 6PX; PADDING-RIGHT: 6PX; PADDING-BOTTOM: 2PX" target="_blank"> 
+                Biblioteca NaÅ£ionalÄ RomÃ¢niei</a>
+</div>
+<div class="itemsub">
+<a href="http://digitool.bibnat.ro" style="FONT-SIZE: 11px; COLOR: #074953; FONT-FAMILY: 'Arial Unicode MS',TAHOMA,ARIAL,VERDANA,sans-serif; TEXT-DECORATION: UNDERLINE; FONT-WEIGHT: BOLD; HEIGHT: 15PX; PADDING-LEFT: 6PX; PADDING-RIGHT: 6PX; PADDING-BOTTOM: 2PX" target="_blank"> 
+                Biblioteca DigitalÄ NaÅ£ionalÄ</a>
+</div>
+<div class="itemsub">
+<select onchange="window.open(this.options[this.selectedIndex].value, '_blank')" style="FONT-SIZE: 0.7em; FONT-WEIGHT: bold; COLOR: #074953">
+<option style="COLOR: #000000" value="">Resursele bibliotecii</option>
+<option style="COLOR: #000000" value="http://www.bibnat.ro">Biblioteca Nationala a Romaniei</option>
+<option style="COLOR: #000000" value="https://digitool.bibnat.ro">Biblioteca Digitala</option>
+<option style="COLOR: #000000" value="https://www.manuscriptorium.com">Manuscriptorium</option>
+<option style="COLOR: #000000" value="https://www.europeana.eu">Europeana</option>
+</select>
+</div>
+<div class="itemsub">
+<a href="javascript:void(0);" name="Error Handling" onclick='window.open("https://aleph.bibnat.ro/exlibris/aleph/u23_1/alephe/www_f_rum/icon/Terms_and_cond_ro.html","Ratting","width=550,height=670,left=150,top=200,toolbar=0,status=0,");' style="FONT-SIZE: 11px; COLOR: #074953; FONT-FAMILY: 'Arial Unicode MS',TAHOMA,ARIAL,VERDANA,sans-serif; TEXT-DECORATION: UNDERLINE; FONT-WEIGHT: BOLD; HEIGHT: 15PX; PADDING-LEFT: 6PX; PADDING-RIGHT: 6PX; PADDING-BOTTOM: 2PX" title="ZeroDivisionError handling"> 
+                                Termeni Åi condiÅ£ii de utilizare a bazelor de date 
+                </a>
+</div>
+</div>
+<div class="containersub">
+<div class="itemsub">
+<a "="" href="https://twitter.com/BibDigiNat" target="_blank"><img src="http://aleph.bibnat.ro:80/exlibris/aleph/u23_1/alephe/www_f_rum/icon/Twitter-icon.jpg" style="HEIGHT: 21PX; PADDING-BOTTOM: 0"/></a>
+</div>
+<div class="itemsub">
+<a "="" href="https://www.instagram.com/bibliotecadigitalanationala/" target="_blank"><img src="http://aleph.bibnat.ro:80/exlibris/aleph/u23_1/alephe/www_f_rum/icon/ico-instag.jpg" style="HEIGHT: 26PX; PADDING-BOTTOM: 0"/></a>
+</div>
+<div class="itemsub">
+<a href="https://ro-ro.facebook.com/BibNatRo/" target="_blank"> <img src="http://aleph.bibnat.ro:80/exlibris/aleph/u23_1/alephe/www_f_rum/icon/ico-facebook-16.jpg" style="HEIGHT: 22PX; paPADDING-BOTTOM: 0"/></a>
+</div>
+</div>
+<p class="copyright"> 
+© 2005 Ex Libris 
+</p>
+<script> 
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), 
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); 
+ 
+  ga('create', 'UA-7988416-2', 'auto'); 
+  ga('send', 'pageview'); 
+ 
+</script>
+</p></meta></body>
+</html>
+

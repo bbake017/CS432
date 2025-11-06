@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<!-- META -->
+<meta charset="utf-8"/>
+<meta content="IE=9" http-equiv="X-UA-Compatible"> <!-- Pour Calames -->
+<meta content="L’application IdRef permet d’interroger les autorités des bases Calames, Sudoc, STAR, STEP et Thèses.fr, d'enrichir et/ou de corriger des notices autorités existantes, de créer, sur authentification, de nouvelles entités." name="description"/>
+<title>
+	Trump, Donald (1946-....)</title>
+<link href="img/icon.png" rel="shortcut icon"/>
+<!-- CSS -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="css/style.css?v=8" media="screen" rel="stylesheet" title="style" type="text/css">
+<link href="css/header.footer.menu.css?v=2" media="screen" rel="stylesheet" title="style" type="text/css"/>
+<link href="css/autocomplete.css?v=1" media="screen" rel="stylesheet" title="style" type="text/css"/>
+<link href="css/recherche.css?v=1" media="screen" rel="stylesheet" title="style" type="text/css"/>
+<link href="css/general.css?v=1" media="screen" rel="stylesheet" title="style" type="text/css"/>
+<link href="css/update.notice.css?v=2" media="screen" rel="stylesheet" title="style" type="text/css"/>
+<link href="css/perenne.css?v=1" media="screen" rel="stylesheet" title="style" type="text/css"/>
+<link href="css/form.css?v=1" media="screen" rel="stylesheet" title="style" type="text/css"/>
+<link href="css/lib/jquery.toast.min.css" media="screen" rel="stylesheet" title="style" type="text/css"/>
+<!-- JS -->
+<script src="https://code.jquery.com/jquery-3.0.0.min.js" type="text/javascript"></script>
+<script>$.noConflict();</script>
+<script src="js/lib-jquery/jquery.cookie.js" type="text/javascript"></script>
+<script src="js/lib-jquery/jquery.base64.js" type="text/javascript"></script>
+<script src="js/lib-jquery/jquery.toast.min.js" type="text/javascript"></script>
+<script src="Parametres" type="text/javascript"></script>
+<script src="js/piwik.js?v=1" type="text/javascript"></script>
+<script src="js/connexion.js?v=3" type="text/javascript"></script>
+<script src="js/messages.js?v=1" type="text/javascript"></script>
+<script src="js/app-perenne/references.js?v=4" type="text/javascript"></script>
+<script src="js/app-perenne/merged.js?v=1" type="text/javascript"></script>
+<script src="js/app-perenne/init.js?v=1" type="text/javascript"></script>
+<script src="js/hautdepage.js?v=1" type="text/javascript"></script></link></meta></head>
+<body bgcolor="gainsboro" merged="">
+<header>
+<div id="tete">
+<a href="autorites.jsp" id="logo">
+<img alt="autorites" src="img/logo.png"/>
+</a>
+<a href="https://paprika.idref.fr" id="paprika" target="_blank" title="Paprika">
+<img alt="paprika.idref.fr" src="img/paprika.png"/>
+<span style="display:block;">paprika.idref.fr</span>
+</a>
+<a href="https://data.idref.fr" id="tsIdRef" target="_blank" title="Triple Store">
+<img alt="data.idref.fr" src="img/tsIdRef.png"/>
+<span style="display:block;">data.idref.fr</span>
+</a>
+<a href="http://documentation.abes.fr/aideidref/accueil/fr/index.html" id="assistance" target="_blank" title="Documentation">
+<img alt="Documentation" src="img/aide.png"/>
+<span style="display:block;">Documentation</span>
+</a>
+<table class="table_login" id="tableLogin">
+<tr>
+<td><input id="login" name="login" placeholder="Identifiant" type="text" value=""/></td>
+<td></td>
+</tr>
+<tr>
+<td><input id="password" name="password" placeholder="Mot de passe" type="password" value=""/></td>
+<td width="40px">
+<button class="button" onclick="loginUser()" title="se connecter, réservé aux utilisateurs habilités" type="button">
+<i class="fa fa-sign-in"></i>
+</button>
+</td>
+</tr>
+</table>
+<table class="display-none" id="tableLogout">
+<tr>
+<td>
+<p>
+						Bonjour <b id="spanBLogin"></b>,
+					</p>
+<ul>
+<li>Bienvenue sur IdRef, Identifiants et référentiels pour l'Enseignement supérieur et la Recherche.</li>
+</ul>
+</td>
+<td>
+<a class="button" href="#" onclick="logoutUser()" title="se déconnecter"><i class="fa fa-sign-out"></i></a>
+</td>
+</tr>
+</table>
+</div>
+</header>
+<div id="conteneur">
+<div id="MenuHeader">
+<ul>
+<li class="maxi-1" id="maxi-1-perenne">Trump, Donald (1946-....)</li>
+</ul>
+</div>
+<div class="colonne-1" id="modexsl">
+<div class="perenne">
+<div id="Notice" name="notice" style="">
+<div class="actions">
+<div class="action"><a href="https://paprika.idref.fr/?lastname=Trump&amp;firstname=Donald" target="_blank">
+<div><img alt="Contrôler dans Paprika" src="img/paprika.png" title="Contrôler dans Paprika"/></div>
+<div>Contrôle Paprika</div></a></div>
+<div class="action"><a href="https://data.idref.fr/describe/?url=http://www.idref.fr/145942198/id&amp;distinct=1" target="_blank">
+<div><img alt="Explorer data.idref" src="img/tsIdRef.png" title="Explorer data.idref"/></div>
+<div>data.idref</div></a></div>
+<div class="action"><a href="javascript:showInfoEAD('L%E2%80%99%C3%A9l%C3%A9ment EAD a %C3%A9t%C3%A9 copi%C3%A9 dans votre presse-papier.');" id="copierEAD" onclick="copierPpnClipBoard('&lt;persname source=&quot;idref&quot; authfilenumber=&quot;145942198&quot; normal=&quot;Trump, Donald (1946-....)&quot; role=&quot;&quot;&gt;Trump, Donald (1946-....)&lt;/persname&gt;')">
+<div><img alt="Copier ce élément EAD" src="img/exporter-ead.png" title="Copier ce élément EAD"/></div>
+<div>Élément EAD</div></a></div>
+<div class="action"><a href="javascript:showInfoZotero('Les r%C3%A9f%C3%A9rences bibliographiques de cette notice sont exportables avec Zotero. Une fois le plugin install%C3%A9, cliquez sur l%E2%80%99ic%C3%B4ne \'dossier\' dans la barre de votre navigateur.','https://www.idref.fr/145942198');">
+<div><img alt="Export bibliographique" src="img/exporter-zoteroBis.png" title="Export bibliographique"/></div>
+<div>Export biblio</div></a></div>
+<div class="action"><a href="https://www.idref.fr/145942198.xml" target="_blank">
+<div><img alt="Exporter en XML" src="img/exporter-xml.png" title="Exporter en XML"/></div>
+<div>Export XML</div></a></div>
+<div class="action"><a href="https://www.idref.fr/145942198.json" target="_blank">
+<div><img alt="Exporter en JSON" src="img/exporter-json.png" title="Exporter en JSON"/></div>
+<div>Export JSON</div></a></div>
+<div class="action"><a href="https://www.idref.fr/145942198.rdf" target="_blank">
+<div><img alt="Exporter en RDF" src="img/exporter-rdf.png" title="Exporter en RDF"/></div>
+<div>Export RDF</div></a></div>
+<div class="action"><a href="https://www.idref.fr/amelioration.jsp?ppn=145942198&amp;titre=Trump, Donald (1946-....)" target="_blank">
+<div><img alt="Améliorer la notice" src="img/ameliorer.png" title="Améliorer la notice"/></div>
+<div>Améliorer la notice</div></a></div>
+<div class="action"><a href="https://www.idref.fr/assistance.jsp?ppn=145942198&amp;titre=Trump, Donald (1946-....)" target="_blank">
+<div><img alt="Signaler une erreur" src="img/signaler.png" title="Signaler une erreur"/></div>
+<div>Signaler une erreur</div></a></div>
+</div>
+<div id="modexsl" style="margin-top:0px">
+<div id="editzone">
+<div class="detail_ppn"><span class="detail_value">
+                  Identifiant pérenne de la notice : <span class="ppn">145942198</span><a id="copierPpn" onclick="copierPpnClipBoard('145942198')"><img alt="Copier cet identifiant (PPN)" src="img/copy-link.png" style="width:15px;" title="Copier cet identifiant (PPN)"/></a></span></div>
+<div class="detail_ppn"><span class="detail_value"><font size="2pt">
+                     URI de l'entité :
+                     <a href="http://www.idref.fr/145942198/id" target="_blank">http://www.idref.fr/145942198/id</a></font><a id="copierPpn" onclick="copierPpnClipBoard('http://www.idref.fr/145942198/id')"><img alt="Copier cet URI" src="img/copy-link.png" style="width:10px;" title="Copier cet URI"/></a></span></div>
+<div class="detail_recordType"><span>Notice de type</span><span class="DataCoded" id="noticeType">
+                  Personne
+                  </span></div>
+<div class="detail_bloc_formesRetenue">
+<div class="detail_titre">
+<p>Point d'accès autorisé</p>
+</div>
+<div class="detail_vedette"><span class="detail_value"><b>Trump, Donald (1946-....)</b></span></div>
+<div class="detail_nomOrdre"><span class="detail_value"></span></div>
+</div>
+<div class="detail_bloc_identifiants">
+<div class="detail_titre">
+<p>Sur le web</p>
+</div>
+<table>
+<tr>
+<th>
+<div class="detail_idEnCours"><span class="detail_label"></span></div>
+</th>
+<th>
+<div class="detail_idEnCours"><span class="detail_label"></span></div>
+</th>
+<th>
+<div class="detail_idEnCours"><span class="detail_label"><a href="https://fr.wikipedia.org/wiki/Donald_Trump" target="_blank"><img class="img-size-m" src="img/bibliographie-wikipedia.png"/></a></span></div>
+</th>
+</tr>
+</table>
+</div>
+<div class="detail_bloc_formesRejetees">
+<div class="detail_titre">
+<p>Variantes de point d'accès</p>
+</div>
+<div class="detail_variantes"><span class="detail_value"><b>Trump, D.</b></span><div class="detail_nameType">[Nom de personne]</div>
+<div class="detail_nameType"><span id="ZXXX_5"></span></div>
+</div>
+<div class="detail_variantes"><span class="detail_value"><b>Trump, Donald John</b></span><div class="detail_nameType">[Nom de personne]</div>
+<div class="detail_nameType"><span id="ZXXX_5">Nom à l'état civil</span></div>
+</div>
+<div class="detail_variantes"><span class="detail_value"><b>Trump, Donald J.</b></span><div class="detail_nameType">[Nom de personne]</div>
+<div class="detail_nameType"><span id="ZXXX_5">Nom à l'état civil</span></div>
+</div>
+<div class="detail_variantes"><span class="detail_value"><b>Trump, D. John</b></span><div class="detail_nameType">[Nom de personne]</div>
+<div class="detail_nameType"><span id="ZXXX_5">Nom à l'état civil</span></div>
+</div>
+<div class="detail_variantes"><span class="detail_value"><b>Trump, D. J.</b></span><div class="detail_nameType">[Nom de personne]</div>
+<div class="detail_nameType"><span id="ZXXX_5">Nom à l'état civil</span></div>
+</div>
+</div>
+<div class="detail_bloc_informations">
+<div class="detail_titre">
+<p>Information</p>
+</div>
+<div class="detail_info"><span> (par souci de protection des données à <a href="https://www.idref.fr/donnees_personnelles.jsp">caractère personnel</a>, le jour et le mois de naissance peuvent ne pas être affichés)</span></div>
+<div class="detail_langue"><b>Langue d'expression : </b><span class="DataCoded" id="Langues">anglais</span></div>
+<div class="detail_nationalite"><b>Pays : </b><span class="DataCoded" id="PaysISO3166">Etats-Unis d'Amérique</span></div>
+<div class="detail_naissance"><b>Date de naissance : </b><span class="detail_value">  
+                     	                        1946</span></div>
+<div class="detail_sexe"><b>Genre : </b><span class="DataCoded" id="Z120_sexe">Masculin</span></div>
+</div>
+<div class="detail_bloc_informations">
+<div class="detail_titre">
+<p>Notes</p>
+</div><span class="detail_label">Note publique d'information : </span><div class="detail_chaqueNoteBio"><span class="detail_value">Homme d'affaires, animateur de télévision et homme d'État américain. Il a été le 45ᵉ
+                     président des États-Unis, en fonction du 20 janvier 2017 au 20 janvier 2021.</span></div><br/></div>
+<div class="detail_bloc_identifiants">
+<div class="detail_titre">
+<p>Identifiants externes</p>
+</div>
+<div class="detail_idEnCours"><span class="detail_label"><img class="img-size-xs" src="img/bibliographie-bnf.png"/> Identifiant BNF : </span><span class="detail_value">FRBNF12195835</span></div>
+<div class="detail_idEnCours"><span class="detail_label"><img class="img-size-xs" src="img/bibliographie-viaf.png"/> Identifiant VIAF : </span><span class="detail_value"><a href="http://viaf.org/viaf/49272447" target="_blank">http://viaf.org/viaf/49272447</a></span></div>
+<div class="detail_idEnCours"><span class="detail_label"><img class="img-size-xs" src="img/bibliographie-wikipedia.png"/> Identifiant Wikipédia : </span><span class="detail_value"><a href="https://fr.wikipedia.org/wiki/Donald_Trump" target="_blank">https://fr.wikipedia.org/wiki/Donald_Trump</a></span></div>
+<div class="detail_idEnCours"><span class="detail_label"><img class="img-size-xs" src="img/bibliographie-isni.png"/> Identifiant ISNI : </span><span class="detail_value"><a href=" http://isni.org/isni/0000000108986765" target="_blank">0000000108986765</a></span></div>
+</div>
+<div class="detail_bloc_sources">
+<div class="detail_titre">
+<p>Source</p>
+</div>
+<div class="detail_sourceProfit"><span class="detail_value">Internet, https://fr.wikipedia.org/wiki/Donald_Trump (2019-12-03)</span></div>
+<hr align="left" size="1px" style="border-top: 1px solid #ccc; margin-top : 10px; margin-bottom : 10px;" width="30%"/>
+<div class="detail_sourceProfit"><span class="detail_value">L'Amérique paralysée / Donald Trump, DL 2016</span></div>
+<hr align="left" size="1px" style="border-top: 1px solid #ccc; margin-top : 10px; margin-bottom : 10px;" width="30%"/>
+<div class="detail_sourceProfit"><span class="detail_value">Survivre au sommet / Donald J. Trump, 1991</span></div>
+</div>
+</div>
+<div class="detail_bloc_biblio">
+<div class="detail_titre"><a name="haut"></a><p id="ref-liees-p"><span id="perenne-references-total">...</span> Références liées : <span id="perenne-references-count">...</span></p>
+</div>
+<div class="text-center" id="perenne-references-loader">
+<h1><i class="fa fa-spinner fa-pulse fa-fw"></i></h1>
+</div>
+<div id="perenne-references-roles"></div>
+<div id="perenne-references-docs"></div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+<div id="LogDiv">
+<textarea cols="70" id="log" rows="5"></textarea>
+</div>
+<!-- Bouton de retour en haut de page -->
+<button class="chevron" id="scrollBtn" onclick="scrollToTop()" title="Revenir en haut de page"><img src="/img/chevron.png"/></button>
+<footer>
+<div class="pied" id="pied">
+<div id="infoFooter">
+<div style="width:30%">
+<p>IdRef - Identifiants et Référentiels pour l'ESR</p>
+				L'interface publique IdRef permet la consultation des notices d'autorités produites par les établissements membres des réseaux documentaires de l'ESR (Sudoc, Calames, Star). 
+				<br>
+				IdRef est à la disposition des usagers professionnels habilités à créer/corriger/enrichir les notices d'autorité (authentification requise). 
+				<br/>A partir d'IdRef, une gamme de services (triple store data.id<span style="color:#da1259;">ref</span>.fr, entrepôt OAI-PMH, APIs) est disponible en accès libre pour faciliter la réutilisation des données.
+			</br></div>
+<div>
+<p>Pour les développeurs</p>
+<ul>
+<li>
+<a href="http://documentation.abes.fr/aideidref/accueil/fr/index.html" target="_blank">Documentation IdRef</a>
+</li>
+<li>
+<a href="http://documentation.abes.fr/aideidrefdeveloppeur/index.html" target="_blank">APIs et web services</a>
+</li>
+<li>
+<a href="http://documentation.abes.fr/aideidrefdata/index.html" target="_blank">data.idref.fr</a>
+</li>
+<li>
+<a href="http://documentation.abes.fr/aideidrefoai/index.html" target="_blank">OAI-PMH IdRef</a>
+</li>
+<li>
+<a href="https://github.com/abes-esr/" target="_blank">GitHub Abes</a>
+</li>
+</ul>
+</div>
+<div style="width:20%">
+<p>Utilisation des données</p>
+				Libre et gratuite sous licence Etalab
+				<ul>
+<li>
+<a href="https://github.com/etalab" target="_blank" title="Licence Etalab">
+							GitHub Etalab	
+						</a>
+</li>
+</ul>
+<a href="https://www.etalab.gouv.fr/licence-ouverte-open-licence" target="_blank" title="Licence Etalab">
+<img alt="Licence Etalab" src="img/etalab.png" style="width:40px;">
+</img></a>
+</div>
+<div>
+<p>Assistance</p>
+<a href="https://stp.abes.fr/node/3?origine=idref" target="_blank">Guichet AbesSTP</a>
+</div>
+<div style="vertical-align: top;">
+<br/>
+<a href="http://www.abes.fr" target="_blank" title="Agence bibliographique de l'enseignement supérieur">
+<img alt="ABES" src="img/logo-abes.png" style="width: 110px;">
+</img></a>
+<br/>
+<a href="http://www.enseignementsup-recherche.gouv.fr/" target="_blank" title="Minist�re de l'enseignement sup�rieur et de la recherche">
+<img alt="MESRI" src="img/logo-mesri.png" style="margin:20px 0px 0px 20px;width: 80px;">
+</img></a>
+</div>
+</div>
+<div id="footer">
+<div style="width:50%">
+</div>
+<div>
+<a href="https://abes.fr/reseaux-idref-orcid/outils-et-services-autorites/plateforme-idref" target="_blank">A propos</a> |
+				<a href="https://abes.fr/reseaux-idref-orcid/le-reseau/etablissements-autorites" target="_blank">Partenaires</a> |
+				<a href="https://abes.fr/pages-donnees-personnelles/idref.html" target="_blank">Données Personnelles</a> |
+				<a href="https://abes.fr/pages-cgu/conditions-generales-utilisation-sites-abes.html" target="_blank">CGU</a> |
+				<a href="https://abes.fr/pages-mentions-legales/idref.html" target="_blank">Mentions Légales</a> |
+				<a href="https://abes.fr/pages-accessibilite/idref.html" target="_blank">Accessibilité numérique</a>
+</div>
+</div>
+</div>
+</footer>
+<script>
+	window.addEventListener('load', function() {
+		var cookieBar = document.querySelector("#cookie-banner");
+		if (cookieBar!=null){
+			cookieBar.style.removeProperty("top");
+			cookieBar.style.position = "fixed";
+			cookieBar.style.height = "50px";
+			cookieBar.style.bottom = "0";
+		}
+	})
+</script>
+</body>
+</html>
+

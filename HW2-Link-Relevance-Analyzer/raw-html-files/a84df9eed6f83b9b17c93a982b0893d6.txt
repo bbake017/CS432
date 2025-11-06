@@ -1,0 +1,926 @@
+ <!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="/images/favicon.png" rel="shortcut icon"/>
+<link href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css" rel="stylesheet"/>
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+<script>
+    $(function () {
+      $.widget("custom.iconselectmenu", $.ui.selectmenu, {
+        _renderItem: function (ul, item) {
+          var li = $("<li>"),
+            wrapper = $("<div>", { text: item.label });
+
+          if (item.disabled) {
+            li.addClass("ui-state-disabled");
+          }
+
+          $("<span>", {
+            style: item.element.attr("data-style"),
+            "class": "ui-icon " + item.element.attr("data-class")
+          })
+            .appendTo(wrapper);
+
+          return li.append(wrapper).appendTo(ul);
+        },
+        _renderButtonItem: function (item) {
+          var buttonItem = $("<span>", {
+            "class": "ui-selectmenu-text"
+          });
+          if (item.value !== "") {
+            let callingCode = item.label.substring(item.label.indexOf("+"))
+            this._setText(buttonItem, callingCode);
+          } else {
+            this._setText(buttonItem, "Country");
+          }
+          return buttonItem;
+        }
+      });
+
+      $("#input_country_code")
+        .iconselectmenu({
+          create: function (event, ui) {
+            var widget = $(this).iconselectmenu("widget");
+            $span = $('<span id="' + this.id + 'selected" class="avatar-selected"> ').prependTo(widget);
+            $span.attr("style", $(this).children(":first").data("style"));
+            if (widget.text() === "Country") {
+              $span.attr("class", "avatar-selected--hidden");
+            }
+          },
+          change: function (event, ui) {
+            $span = $("#" + this.id + 'selected');
+            $span.attr("style", ui.item.element.data("style"));
+            $span.attr("class", "avatar-selected");
+          }
+        })
+        .iconselectmenu("menuWidget")
+        .addClass("ui-menu-icons avatar");
+    });
+  </script>
+<meta content="website" name="og:type"/>
+<script src="https://www.google.com/recaptcha/enterprise.js?render=6LfxOBwrAAAAADl45hox0xc5mGq1tmDxZew71Iwj"></script>
+<link href="/stylesheets/index.css" rel="stylesheet" type="text/css">
+<link href="/stylesheets/style.css" rel="stylesheet" type="text/css"/>
+</link></head>
+<body style="margin: 0; background: rgba(255, 255, 255, 1)">
+<input id="anPageName" name="page" type="hidden" value="desktop-1"/>
+<div class="main">
+<div class="main-content">
+<h1 class="main-content__header">
+        European Unified ID (EUID) Portal
+      </h1>
+<div class="main-content__divider"></div>
+<p class="main-content__description">
+        This site allows you to withdraw consent and object to targeted advertising based on EUID.
+      </p>
+<p class="main-content__description">
+        EUID transforms your email address or phone number into an advertising identifier, which allows websites, apps, advertisers, and advertising companies to show you relevant advertising.
+      </p>
+<p class="main-content__description">
+        By entering your email or phone number below, you confirm that this is your information.
+      </p>
+<form action="/" class="main-content__form" id="email_prompt" method="post">
+<input id="recpatchaSiteKey" name="recpatchaSiteKey" type="hidden" value="6LfxOBwrAAAAADl45hox0xc5mGq1tmDxZew71Iwj"/>
+<input name="step" type="hidden" value="email_prompt"/>
+<input id="recaptcha" name="recaptcha" type="hidden">
+<input id="email" name="email" type="hidden">
+<input id="countryCode" name="countryCode" type="hidden"/>
+<input id="phone" name="phone" type="hidden"/>
+<div class="form__radio-group">
+<div class="form__radio-button">
+<input checked="" id="email_type" name="idType" onclick="handleIdTypeClick(this)" type="radio" value="email"/>
+<label class="form__radio-label" for="email_type" style="border-style: none">Email Address</label>
+</div>
+<div class="form__radio-button">
+<input id="phone_type" name="idType" onclick="handleIdTypeClick(this)" type="radio" value="phone"/>
+<label class="form__radio-label" for="phone_type" style="border-style: none">Phone Number</label>
+</div>
+</div>
+<div class="form__input-container" id="email-input-container">
+<input class="form__input" id="id_input_email" placeholder="Enter your email address" type="text" value="">
+</input></div>
+<div class="form__input-container" id="phone-input-container" style="display:none">
+<div class="form__input-country-code">
+<select id="input_country_code">
+<option disabled="" selected="" value=""></option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/AF.svg');" value="AF">
+                Afghanistan +93
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/AL.svg');" value="AL">
+                Albania +355
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/DZ.svg');" value="DZ">
+                Algeria +213
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/AS.svg');" value="AS">
+                American Samoa +1684
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/AD.svg');" value="AD">
+                Andorra +376
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/AO.svg');" value="AO">
+                Angola +244
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/AI.svg');" value="AI">
+                Anguilla +1264
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/AQ.svg');" value="AQ">
+                Antarctica +672
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/AG.svg');" value="AG">
+                Antigua and Barbuda +1268
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/AR.svg');" value="AR">
+                Argentina +54
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/AM.svg');" value="AM">
+                Armenia +374
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/AW.svg');" value="AW">
+                Aruba +297
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/AU.svg');" value="AU">
+                Australia +61
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/AT.svg');" value="AT">
+                Austria +43
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/AZ.svg');" value="AZ">
+                Azerbaijan +994
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BH.svg');" value="BH">
+                Bahrain +973
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BD.svg');" value="BD">
+                Bangladesh +880
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BB.svg');" value="BB">
+                Barbados +1246
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BY.svg');" value="BY">
+                Belarus +375
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BE.svg');" value="BE">
+                Belgium +32
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BZ.svg');" value="BZ">
+                Belize +501
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BJ.svg');" value="BJ">
+                Benin +229
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BM.svg');" value="BM">
+                Bermuda +1441
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BT.svg');" value="BT">
+                Bhutan +975
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BO.svg');" value="BO">
+                Bolivia (Plurinational State of) +591
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BQ.svg');" value="BQ">
+                Bonaire, Sint Eustatius and Saba +5997
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BA.svg');" value="BA">
+                Bosnia and Herzegovina +387
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BW.svg');" value="BW">
+                Botswana +267
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BV.svg');" value="BV">
+                Bouvet Island +47
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BR.svg');" value="BR">
+                Brazil +55
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/IO.svg');" value="IO">
+                British Indian Ocean Territories +246
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/IO.svg');" value="IO">
+                British Indian Ocean Territory +246
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BN.svg');" value="BN">
+                Brunei Darussalam +673
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BG.svg');" value="BG">
+                Bulgaria +359
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BF.svg');" value="BF">
+                Burkina Faso +226
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BI.svg');" value="BI">
+                Burundi +257
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CV.svg');" value="CV">
+                Cabo Verde +238
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/KH.svg');" value="KH">
+                Cambodia +855
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CM.svg');" value="CM">
+                Cameroon +237
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CA.svg');" value="CA">
+                Canada +1
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/KY.svg');" value="KY">
+                Cayman Islands +1 345
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CF.svg');" value="CF">
+                Central African Republic +236
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/TD.svg');" value="TD">
+                Chad +235
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CL.svg');" value="CL">
+                Chile +56
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CN.svg');" value="CN">
+                China +86
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CX.svg');" value="CX">
+                Christmas Island +61
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CC.svg');" value="CC">
+                Cocos (Keeling) Islands +61 891
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CO.svg');" value="CO">
+                Colombia +57
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BS.svg');" value="BS">
+                Commonwealth of The Bahamas +1 242
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MP.svg');" value="MP">
+                Commonwealth of the Northern Mariana Islands +1 670
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/KM.svg');" value="KM">
+                Comoros +269
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CK.svg');" value="CK">
+                Cook Islands +682
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CR.svg');" value="CR">
+                Costa Rica +506
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/HR.svg');" value="HR">
+                Croatia +385
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CU.svg');" value="CU">
+                Cuba +53
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CW.svg');" value="CW">
+                Curaçao +599
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CY.svg');" value="CY">
+                Cyprus +357
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CZ.svg');" value="CZ">
+                Czechia +420
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CI.svg');" value="CI">
+                Côte d'Ivoire +225
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CD.svg');" value="CD">
+                Democratic Republic of the Congo +243
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/DK.svg');" value="DK">
+                Denmark +45
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/DJ.svg');" value="DJ">
+                Djibouti +253
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/DM.svg');" value="DM">
+                Dominica +767
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/DO.svg');" value="DO">
+                Dominican Republic +1
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/EC.svg');" value="EC">
+                Ecuador +593
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/EG.svg');" value="EG">
+                Egypt +20
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SV.svg');" value="SV">
+                El Salvador +503
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GQ.svg');" value="GQ">
+                Equatorial Guinea +240
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/ER.svg');" value="ER">
+                Eritrea +291
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/EE.svg');" value="EE">
+                Estonia +372
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SZ.svg');" value="SZ">
+                Eswatini +268
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/ET.svg');" value="ET">
+                Ethiopia +251
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/FK.svg');" value="FK">
+                Falkland Islands +500
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/FO.svg');" value="FO">
+                Faroe Islands +298
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/FJ.svg');" value="FJ">
+                Fiji +679
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/FI.svg');" value="FI">
+                Finland +358
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/FR.svg');" value="FR">
+                France +33
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GF.svg');" value="GF">
+                French Guiana +594
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/PF.svg');" value="PF">
+                French Polynesia +689
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/TF.svg');" value="TF">
+                French Southern and Antarctic Lands +672
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GA.svg');" value="GA">
+                Gabon +241
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GM.svg');" value="GM">
+                Gambia +220
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GE.svg');" value="GE">
+                Georgia +995
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/DE.svg');" value="DE">
+                Germany +49
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GH.svg');" value="GH">
+                Ghana +233
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GI.svg');" value="GI">
+                Gibraltar +350
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GR.svg');" value="GR">
+                Greece +30
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GL.svg');" value="GL">
+                Greenland +299
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GD.svg');" value="GD">
+                Grenada +1473
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GP.svg');" value="GP">
+                Guadeloupe +590
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GU.svg');" value="GU">
+                Guam +1
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GT.svg');" value="GT">
+                Guatemala +502
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GG.svg');" value="GG">
+                Guernsey +44
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GN.svg');" value="GN">
+                Guinea +224
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GW.svg');" value="GW">
+                Guinea-Bissau +245
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GY.svg');" value="GY">
+                Guyana +592
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/HT.svg');" value="HT">
+                Haiti +509
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/VA.svg');" value="VA">
+                Holy See +39
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/HN.svg');" value="HN">
+                Honduras +504
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/HK.svg');" value="HK">
+                Hong Kong +852
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/HU.svg');" value="HU">
+                Hungary +36
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/IS.svg');" value="IS">
+                Iceland +354
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/IN.svg');" value="IN">
+                India +91
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/ID.svg');" value="ID">
+                Indonesia +62
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/IR.svg');" value="IR">
+                Iran (Islamic Republic of) +98
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/IQ.svg');" value="IQ">
+                Iraq +964
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/IE.svg');" value="IE">
+                Ireland +353
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/IM.svg');" value="IM">
+                Isle of Man +44
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/IL.svg');" value="IL">
+                Israel +972
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/IT.svg');" value="IT">
+                Italy +39
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/JM.svg');" value="JM">
+                Jamaica +876
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/JP.svg');" value="JP">
+                Japan +81
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/JE.svg');" value="JE">
+                Jersey +44
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/JO.svg');" value="JO">
+                Jordan +962
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/KZ.svg');" value="KZ">
+                Kazakhstan +7
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/KE.svg');" value="KE">
+                Kenya +254
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/KI.svg');" value="KI">
+                Kiribati +686
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/KW.svg');" value="KW">
+                Kuwait +965
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/KG.svg');" value="KG">
+                Kyrgyzstan +996
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/LA.svg');" value="LA">
+                Lao People's Democratic Republic +856
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/LV.svg');" value="LV">
+                Latvia +371
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/LB.svg');" value="LB">
+                Lebanon +961
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/LS.svg');" value="LS">
+                Lesotho +266
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/LR.svg');" value="LR">
+                Liberia +231
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/LY.svg');" value="LY">
+                Libya +218
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/LI.svg');" value="LI">
+                Liechtenstein +423
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/LT.svg');" value="LT">
+                Lithuania +370
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/LU.svg');" value="LU">
+                Luxembourg +352
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MO.svg');" value="MO">
+                Macao +853
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MG.svg');" value="MG">
+                Madagascar +261
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MW.svg');" value="MW">
+                Malawi +265
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MY.svg');" value="MY">
+                Malaysia +60
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MV.svg');" value="MV">
+                Maldives +960
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/ML.svg');" value="ML">
+                Mali +223
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MT.svg');" value="MT">
+                Malta +356
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MQ.svg');" value="MQ">
+                Martinique +596
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MR.svg');" value="MR">
+                Mauritania +222
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MU.svg');" value="MU">
+                Mauritius +230
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/YT.svg');" value="YT">
+                Mayotte +262
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MX.svg');" value="MX">
+                Mexico +52
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/FM.svg');" value="FM">
+                Micronesia (Federated States of) +691
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MC.svg');" value="MC">
+                Monaco +377
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MN.svg');" value="MN">
+                Mongolia +976
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/ME.svg');" value="ME">
+                Montenegro +382
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MS.svg');" value="MS">
+                Montserrat +1664
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MA.svg');" value="MA">
+                Morocco +212
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MZ.svg');" value="MZ">
+                Mozambique +258
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MM.svg');" value="MM">
+                Myanmar +95
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/NA.svg');" value="NA">
+                Namibia +264
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/NR.svg');" value="NR">
+                Nauru +674
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/NP.svg');" value="NP">
+                Nepal +977
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/NL.svg');" value="NL">
+                Netherlands +31
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/AN.svg');" value="AN">
+                Netherlands Antilles +599
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/NC.svg');" value="NC">
+                New Caledonia +687
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/NZ.svg');" value="NZ">
+                New Zealand +64
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/NI.svg');" value="NI">
+                Nicaragua +505
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/NE.svg');" value="NE">
+                Niger +227
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/NG.svg');" value="NG">
+                Nigeria +234
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/NU.svg');" value="NU">
+                Niue +683
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/NF.svg');" value="NF">
+                Norfolk Island +672
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/KP.svg');" value="KP">
+                North Korea +850
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MK.svg');" value="MK">
+                North Macedonia +389
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/NO.svg');" value="NO">
+                Norway +47
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/OM.svg');" value="OM">
+                Oman +968
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/PK.svg');" value="PK">
+                Pakistan +92
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/PW.svg');" value="PW">
+                Palau +680
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/PS.svg');" value="PS">
+                Palestine, State of +970
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/PA.svg');" value="PA">
+                Panama +507
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/PG.svg');" value="PG">
+                Papua New Guinea +675
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/PY.svg');" value="PY">
+                Paraguay +595
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/PE.svg');" value="PE">
+                Peru +51
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/PH.svg');" value="PH">
+                Philippines +63
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/PN.svg');" value="PN">
+                Pitcairn +64
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/PL.svg');" value="PL">
+                Poland +48
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/PT.svg');" value="PT">
+                Portugal +351
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/PR.svg');" value="PR">
+                Puerto Rico +1
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/QA.svg');" value="QA">
+                Qatar +974
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/XK.svg');" value="XK">
+                Republic of Kosovo +383
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MD.svg');" value="MD">
+                Republic of Moldova +373
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SM.svg');" value="SM">
+                Republic of San Marino +378
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CG.svg');" value="CG">
+                Republic of the Congo +242
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MH.svg');" value="MH">
+                Republic of the Marshall Islands +692
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/RO.svg');" value="RO">
+                Romania +40
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/RU.svg');" value="RU">
+                Russia +7
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/RW.svg');" value="RW">
+                Rwanda +250
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/RE.svg');" value="RE">
+                Réunion +262
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/BL.svg');" value="BL">
+                Saint Barthélemy +590
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SH.svg');" value="SH">
+                Saint Helena, Ascension and Tristan da Cunha +290
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/KN.svg');" value="KN">
+                Saint Kitts and Nevis +1869
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/LC.svg');" value="LC">
+                Saint Lucia +1758
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/MF.svg');" value="MF">
+                Saint Martin (French part) +590
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/PM.svg');" value="PM">
+                Saint Pierre and Miquelon +508
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/VC.svg');" value="VC">
+                Saint Vincent and the Grenadines +1784
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/WS.svg');" value="WS">
+                Samoa +685
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/ST.svg');" value="ST">
+                Sao Tome and Principe +239
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SA.svg');" value="SA">
+                Saudi Arabia +966
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SN.svg');" value="SN">
+                Senegal +221
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/RS.svg');" value="RS">
+                Serbia +381
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SC.svg');" value="SC">
+                Seychelles +248
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SL.svg');" value="SL">
+                Sierra Leone +232
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SG.svg');" value="SG">
+                Singapore +65
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SX.svg');" value="SX">
+                Sint Maarten (Dutch part) +1721
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SK.svg');" value="SK">
+                Slovakia +421
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SI.svg');" value="SI">
+                Slovenia +386
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SB.svg');" value="SB">
+                Solomon Islands +677
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SO.svg');" value="SO">
+                Somalia +252
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/ZA.svg');" value="ZA">
+                South Africa +27
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GS.svg');" value="GS">
+                South Georgia and the South Sandwich Islands +500
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/KR.svg');" value="KR">
+                South Korea +82
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SS.svg');" value="SS">
+                South Sudan +211
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/ES.svg');" value="ES">
+                Spain +34
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/LK.svg');" value="LK">
+                Sri Lanka +94
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SD.svg');" value="SD">
+                Sudan +249
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SR.svg');" value="SR">
+                Suriname +597
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SJ.svg');" value="SJ">
+                Svalbard and Jan Mayen +4779
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SE.svg');" value="SE">
+                Sweden +46
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/CH.svg');" value="CH">
+                Switzerland +41
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/SY.svg');" value="SY">
+                Syrian Arab Republic +963
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/TW.svg');" value="TW">
+                Taiwan, Province of China +886
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/TJ.svg');" value="TJ">
+                Tajikistan +992
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/HM.svg');" value="HM">
+                Territory of Heard Island and McDonald Islands +672
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/TH.svg');" value="TH">
+                Thailand +66
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/TL.svg');" value="TL">
+                Timor-Leste +670
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/TG.svg');" value="TG">
+                Togo +228
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/TK.svg');" value="TK">
+                Tokelau +690
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/TO.svg');" value="TO">
+                Tonga +676
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/TT.svg');" value="TT">
+                Trinidad and Tobago +868
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/TN.svg');" value="TN">
+                Tunisia +216
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/TR.svg');" value="TR">
+                Turkey +90
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/TM.svg');" value="TM">
+                Turkmenistan +993
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/TC.svg');" value="TC">
+                Turks and Caicos Islands +1 649
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/TV.svg');" value="TV">
+                Tuvalu +688
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/UG.svg');" value="UG">
+                Uganda +256
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/UA.svg');" value="UA">
+                Ukraine +380
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/AE.svg');" value="AE">
+                United Arab Emirates +971
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/GB.svg');" value="GB">
+                United Kingdom +44
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/TZ.svg');" value="TZ">
+                United Republic of Tanzania +255
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/UM.svg');" value="UM">
+                United States Minor Outlying Islands +1
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/US.svg');" value="US">
+                United States of America +1
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/UY.svg');" value="UY">
+                Uruguay +598
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/UZ.svg');" value="UZ">
+                Uzbekistan +998
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/VU.svg');" value="VU">
+                Vanuatu +678
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/VE.svg');" value="VE">
+                Venezuela (Bolivarian Republic of) +58
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/VN.svg');" value="VN">
+                Vietnam +84
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/VG.svg');" value="VG">
+                Virgin Islands (British) +1284
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/VI.svg');" value="VI">
+                Virgin Islands (U.S.) +1340
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/WF.svg');" value="WF">
+                Wallis and Futuna +681
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/EH.svg');" value="EH">
+                Western Sahara +212
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/YE.svg');" value="YE">
+                Yemen +967
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/ZM.svg');" value="ZM">
+                Zambia +260
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/ZW.svg');" value="ZW">
+                Zimbabwe +263
+              </option>
+<option data-class="avatar" data-style="background-image: url('/images/flags/AX.svg');" value="AX">
+                Åland Islands +358
+              </option>
+</select>
+</div>
+<div class="form__input-phone">
+<input class="form__input" id="input_phone" placeholder="Enter phone number" type="text" value="">
+</input></div>
+</div>
+<button class="form__next-button">
+          NEXT
+        </button>
+</input></input></form>
+<br/>
+<p class="main-content__description">
+        For more information on how the Trade Desk manages EUID and your rights with respect to EUID, please read the
+        <a href="/privacy">EUID Privacy Notice</a>.
+      </p>
+<a class="vulnerability-link" href="https://www.thetradedesk.com/us/trust/report-a-vulnerability" target="_blank">Report a Vulnerability</a>
+<script>
+        function handleIdTypeClick(idType) {
+          if (idType.value === "email") {
+            document.getElementById('phone-input-container').style.display = "none";
+            document.getElementById('email-input-container').style.display = "inline-flex";
+          } else if (idType.value === "phone") {
+            document.getElementById('phone-input-container').style.display = "inline-flex";
+            document.getElementById('email-input-container').style.display = "none";
+          }
+        }
+
+        const form = document.getElementById("email_prompt");
+        form.addEventListener("submit", onSubmit);
+        function onSubmit(e) {
+          e.preventDefault();
+
+          if (form.querySelector('input[name=idType]:checked').value === 'email') {
+            $('#email').val($('#id_input_email').val());
+            $('#countryCode').val("");
+            $('#phone').val("");
+          } else {
+            $('#email').val("");
+            $('#countryCode').val($('#input_country_code').val());
+            $('#phone').val($('#input_phone').val());
+          }
+
+          grecaptcha.enterprise.ready(function () {
+            const key = $('#recpatchaSiteKey').val();
+            grecaptcha.enterprise.execute(key, { action: 'email_prompt' }).then(function (token) {
+              $('#recaptcha').val(token);
+              form.submit();
+            });
+          });
+        }
+
+      </script>
+</div>
+<div class="main__footer">
+<h3 class="main__logo-label">Powered by</h3>
+<img class="main__logo" src="/images/EUID.png"/>
+</div>
+</div>
+</body>
+</html>
+

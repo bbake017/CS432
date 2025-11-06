@@ -1,0 +1,9 @@
+European Unified ID (EUID) Portal
+This site allows you to withdraw consent and object to targeted advertising based on EUID.
+EUID transforms your email address or phone number into an advertising identifier, which allows websites, apps, advertisers, and advertising companies to show you relevant advertising.
+By entering your email or phone number below, you confirm that this is your information.
+Email Address
+Phone Number
+NEXT
+For more information on how the Trade Desk manages EUID and your rights with respect to EUID, please read the EUID Privacy Notice .
+

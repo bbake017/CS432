@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<script src="/Scripts/accountNoLoad/Env_prod.js"></script>
+<script type="text/javascript">
+        HHURL.config.baseUrl = "https://help.cnn.com/"
+        HHURL.config.countryRoute = "us"
+        HHURL.config.cookieDomain = ".help.cnn.com"
+        HHURL.config.selectedCountry = "US"
+        HHURL.config.selectedLanguage = "en"
+    </script>
+<script src="https://www.cnn.com/wmuc/cnn_user_consent.min.js" type="text/javascript"></script>
+<script src="/Scripts/accountNoLoad/OTUC.js"></script>
+<!-- Google Tag Manager -->
+<script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-T9V4VCH');</script>
+<!-- End Google Tag Manager -->
+<script src="/Scripts/jquery-3.6.0.js"></script>
+<meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type">
+<meta content="text/css" http-equiv="Content-Style-Type"/>
+<meta content="text/javascript" http-equiv="Content-Script-Type"/>
+<meta content="chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=2.0, user-scalable=yes" name="viewport"/>
+<link href="/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<title>CNN | Help Center</title>
+<script src="/Scripts/modernizr-2.8.3.js"></script>
+<script src="/Scripts/js.cookie.js"></script>
+<!--My Bundles-->
+<script src="/Scripts/base/BaseUtils.js"></script>
+<script src="/Scripts/account/AccountUtils.js"></script>
+<script src="/Scripts/account/debounce.js"></script>
+<script src="/Scripts/account/JSResources.js"></script>
+<link href="/Styles/Base/Site_phone.css" rel="stylesheet">
+<link href="/Styles/Base/Site_tablet.css" rel="stylesheet"/>
+<link href="/Styles/Base/Site_desktop.css" rel="stylesheet"/>
+<link href="/Styles/Base/Site.css" rel="stylesheet"/>
+<link href="/Styles/Account/Fonts.css" rel="stylesheet"/>
+<link href="/Styles/Account/Account_phone.css" rel="stylesheet"/>
+<link href="/Styles/Account/Account_tablet.css" rel="stylesheet"/>
+<link href="/Styles/Account/Account_desktop.css" rel="stylesheet"/>
+<script src="/Plugins/Clamp/clamp.js"></script>
+<script src="/Plugins/UAParser/ua-parser.min.js"></script>
+<link href="https://help.cnn.com/us" rel="canonical"/>
+</link></meta></head>
+<body class="Site">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-T9V4VCH" style="display:none;visibility:hidden" width="0"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="SiteParent Home">
+<header>
+<div class="HeaderBG">
+<header class="Site-header AtTop" id="Site-header">
+<div class="Header" role="banner">
+<div class="HeaderRow">
+<div class="HeaderTitleBlock">
+<div class="HeaderTitleWrapper">
+<a class="HeaderLinkTitle InlineBlock" data-gatsection="Header" data-gattype="Link" data-nav="Light" href="/us">
+<div>
+<div class="LogoBlock InlineBlock">
+<img alt="CNN Logo" class="HeaderLogo" src="/images/icons/CNN_Logo_fff.svg"/>
+</div><div class="InlineBlock HeaderTitleLabelWrapper">
+<h1 class="HeaderTitleLabel">Help Center</h1>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="HeaderLinkBlock">
+<div class="HeaderLinkWrapper"><a class="HeaderLink" data-gatsection="Header" data-gattype="Link" data-nav="Light" href="/us/Feedback" target="_self">Give Feedback</a></div>
+</div>
+</div>
+</div>
+</header>
+<div class="HeaderSpacer"></div>
+<div class="SearchBlock">
+<div class="SearchTitleBlock">
+<div class="SearchTitle">How can we help you?</div>
+<div class="SearchSubtitle">Get answers to your questions about the CNN app</div>
+</div>
+<div class="SearchSection">
+<div class="SearchContainer">
+<div class="SearchIconBlock" id="SearchIconBlock">
+<img alt="Search" class="SearchIcon" src="/images/icons/search-default.svg"/>
+</div><div class="SearchInputBlock">
+<form accept-charset="UTF-8" action="/us/Answer/Results" class="search" data-gattype="Button" method="post" role="search"><input name="__RequestVerificationToken" type="hidden" value="MpLrBRt7v6vxV8De8cgqlZ1glkbrm3ItFI259HEQtpjK42BkZwI3q6kY8zhJzFfnGuwMcN3tQ6DEqdtLD7Ta_rcoAA3-T_32f4yIJAvM0vw1"/> <input aria-label="Search for anything" autocomplete="off" class="SearchInput" id="SearchHome" name="query" placeholder="Search for anything" type="search"/>
+<input data-gatname="Search" data-gatsection="Home" data-gattype="Button" id="HomeSearchSubmit" name="commit" style="display:none;" type="submit" value="Search"/>
+<input id="IsNewSearch" name="IsNewSearch" type="hidden" value="True">
+</input></form> </div>
+<div class="DisplayNone" id="DynamicSearchHome">
+<div class="DynSearchWrapper DynSearchHome" id="DynamicSearchWrapper">
+<div class="" id="PopularBlock">
+<div class="PageSearchRow2Title">POPULAR RIGHT NOW</div>
+<div>
+<ul class="PageSearchPopList">
+<li><a class="FeaturedLink" data-gatsection="PopularSearches" data-gattype="Link" href="/us/Answer/Detail/000001033">Error when streaming CNN</a></li>
+<li><a class="FeaturedLink" data-gatsection="PopularSearches" data-gattype="Link" href="/us/Answer/Detail/000001069">Manage your CNN subscription</a></li>
+<li><a class="FeaturedLink" data-gatsection="PopularSearches" data-gattype="Link" href="/us/Answer/Detail/000001021">Change CNN settings</a></li>
+<li><a class="FeaturedLink" data-gatsection="PopularSearches" data-gattype="Link" href="/us/Answer/Detail/000001008">Sign in and out of CNN</a></li>
+<li><a class="FeaturedLink" data-gatsection="PopularSearches" data-gattype="Link" href="/us/Answer/Detail/000001027">Troubleshoot CNN app and cnn.com</a></li>
+</ul>
+</div>
+</div>
+<div class="" id="DynamicSearchBlock"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="PopularBlock">
+<ul class="PopularList">
+<li class="PopularLabel">Popular:</li>
+<li><a aria-label="Popular Article - Start CNN subscription" class="PopularLink" data-gatsection="PopularList" data-gattype="Link" data-nav="Light" href="/us/Answer/Detail/000001009">Start CNN subscription</a></li>
+<li><a aria-label="Popular Article - Sign in to CNN" class="PopularLink" data-gatsection="PopularList" data-gattype="Link" data-nav="Light" href="/us/Answer/Detail/000001008">Sign in to CNN</a></li>
+<li><a aria-label="Popular Article - Troubleshoot CNN" class="PopularLink" data-gatsection="PopularList" data-gattype="Link" data-nav="Light" href="/us/Answer/Detail/000001027">Troubleshoot CNN</a></li>
+</ul>
+</div>
+</div>
+<script>
+    $(document).ready(function () {
+        $("#SearchHome").focusin(function () {
+            $("#DynamicSearchHome").removeClass("DisplayNone");
+        });
+        MonitorSearch("SearchHome", "DynamicSearchBlock", "/us/Answer/AnswerSearch");
+        $('#SearchIconBlock').click(function () {
+            _doSearch();
+        });
+        $('#SearchHome').keypress(function (e) {
+            if (e.which == 13) {
+                _doSearch();
+                return false;
+            }
+        });
+    });
+    function _doSearch() {
+        if ($("#SearchHome").val().trim().length > 0) {
+            $('#HomeSearchSubmit').click();
+        }
+    }
+</script>
+<div id="ScrollToTop"><img alt="Back to Top" src="/images/icons/back-to-top.svg"/></div>
+</div>
+</header>
+<main class="Site-content Site-content--full">
+<div class="BodyHome">
+<section class="categories" data-section="categories">
+<section class="CategoryHolder">
+<div class="category ScaleBox">
+<div class="CategoryHeaderRow">
+<a aria-label="Sign Up &amp; Get Started" class="cat-link" data-gatsection="CategoryBlockTitle" data-gattype="Link" href="/us/Category/Detail/Getting_Started"><img alt="Profile Icon" class="CategoryIcon" src="\images\icons\profile-icon.svg"/><h2 class="cat-heading" data-breadcrumb="Sign Up &amp; Get Started">Sign Up &amp; Get Started</h2></a>
+</div>
+<div class="CategoryBody">
+<ul class="cat-questions" data-section="Getting Started" id="TopInCategory0">
+<li class="question"><a aria-label="Learn about Start CNN subscription" data-gatsection="CategoryBlockAnswer" data-gattype="Link" href="/us/Answer/Detail/000001009">Start CNN subscription</a></li>
+<li class="question"><a aria-label="Learn about Sign in to CNN" data-gatsection="CategoryBlockAnswer" data-gattype="Link" href="/us/Answer/Detail/000001008">Sign in to CNN</a></li>
+<li class="question"><a aria-label="Learn about CNN devices" data-gatsection="CategoryBlockAnswer" data-gattype="Link" href="/us/Answer/Detail/000001006">CNN devices</a></li>
+</ul>
+</div>
+<div class="category-footer"><a aria-label="View All - Sign Up &amp; Get Started" class="see-all" data-gatname="View All - Sign Up &amp; Get Started" data-gatsection="CategoryBlock" data-gattype="Link" href="/us/Category/Detail/Getting_Started" title="View All - Sign Up &amp; Get Started">View All</a></div>
+<script type="text/javascript">
+	    $( window ).resize(function() {
+	        textClamp_TopInCategory(0);
+	    });
+
+        $(window).on('load', function () {
+            textClamp_TopInCategory(0);
+        });
+
+            </script>
+</div>
+</section>
+<section class="CategoryHolder">
+<div class="category ScaleBox">
+<div class="CategoryHeaderRow">
+<a aria-label="Watch CNN" class="cat-link" data-gatsection="CategoryBlockTitle" data-gattype="Link" href="/us/Category/Detail/Using_CNN"><img alt="Using Max Icon" class="CategoryIcon" src="\images\icons\using-max-icon.svg"/><h2 class="cat-heading" data-breadcrumb="Watch CNN">Watch CNN</h2></a>
+</div>
+<div class="CategoryBody">
+<ul class="cat-questions" data-section="Getting Started" id="TopInCategory1">
+<li class="question"><a aria-label="Learn about CNN settings" data-gatsection="CategoryBlockAnswer" data-gattype="Link" href="/us/Answer/Detail/000001021">CNN settings</a></li>
+<li class="question"><a aria-label="Learn about CNN notifications and emails" data-gatsection="CategoryBlockAnswer" data-gattype="Link" href="/us/Answer/Detail/000001024">CNN notifications and emails</a></li>
+<li class="question"><a aria-label="Learn about Stream CNN using AirPlay" data-gatsection="CategoryBlockAnswer" data-gattype="Link" href="/us/Answer/Detail/000001026">Stream CNN using AirPlay</a></li>
+</ul>
+</div>
+<div class="category-footer"><a aria-label="View All - Watch CNN" class="see-all" data-gatname="View All - Watch CNN" data-gatsection="CategoryBlock" data-gattype="Link" href="/us/Category/Detail/Using_CNN" title="View All - Watch CNN">View All</a></div>
+<script type="text/javascript">
+	    $( window ).resize(function() {
+	        textClamp_TopInCategory(1);
+	    });
+
+        $(window).on('load', function () {
+            textClamp_TopInCategory(1);
+        });
+
+            </script>
+</div>
+</section>
+<section class="CategoryHolder">
+<div class="category ScaleBox">
+<div class="CategoryHeaderRow">
+<a aria-label="Account &amp; Sign In" class="cat-link" data-gatsection="CategoryBlockTitle" data-gattype="Link" href="/us/Category/Detail/Account"><img alt="Billing Icon" class="CategoryIcon" src="\images\icons\billing-icon.svg"/><h2 class="cat-heading" data-breadcrumb="Account &amp; Sign In">Account &amp; Sign In</h2></a>
+</div>
+<div class="CategoryBody">
+<ul class="cat-questions" data-section="Getting Started" id="TopInCategory2">
+<li class="question"><a aria-label="Learn about Sign in to CNN" data-gatsection="CategoryBlockAnswer" data-gattype="Link" href="/us/Answer/Detail/000001008">Sign in to CNN</a></li>
+<li class="question"><a aria-label="Learn about Can't sign in: TV provider" data-gatsection="CategoryBlockAnswer" data-gattype="Link" href="/us/Answer/Detail/000001030">Can't sign in: TV provider</a></li>
+<li class="question"><a aria-label="Learn about Can't sign in: CNN account" data-gatsection="CategoryBlockAnswer" data-gattype="Link" href="/us/Answer/Detail/000001029">Can't sign in: CNN account</a></li>
+</ul>
+</div>
+<div class="category-footer"><a aria-label="View All - Account &amp; Sign In" class="see-all" data-gatname="View All - Account &amp; Sign In" data-gatsection="CategoryBlock" data-gattype="Link" href="/us/Category/Detail/Account" title="View All - Account &amp; Sign In">View All</a></div>
+<script type="text/javascript">
+	    $( window ).resize(function() {
+	        textClamp_TopInCategory(2);
+	    });
+
+        $(window).on('load', function () {
+            textClamp_TopInCategory(2);
+        });
+
+            </script>
+</div>
+</section>
+<section class="CategoryHolder">
+<div class="category ScaleBox">
+<div class="CategoryHeaderRow">
+<a aria-label="Billing &amp; Subscription" class="cat-link" data-gatsection="CategoryBlockTitle" data-gattype="Link" href="/us/Category/Detail/Troubleshoot_Fix"><img alt="Troubleshoot Icon" class="CategoryIcon" src="\images\icons\troubleshoot-icon.svg"/><h2 class="cat-heading" data-breadcrumb="Billing &amp; Subscription">Billing &amp; Subscription</h2></a>
+</div>
+<div class="CategoryBody">
+<ul class="cat-questions" data-section="Getting Started" id="TopInCategory3">
+<li class="question"><a aria-label="Learn about Start CNN subscription" data-gatsection="CategoryBlockAnswer" data-gattype="Link" href="/us/Answer/Detail/000001009">Start CNN subscription</a></li>
+<li class="question"><a aria-label="Learn about Manage CNN subscription" data-gatsection="CategoryBlockAnswer" data-gattype="Link" href="/us/Answer/Detail/000001069">Manage CNN subscription</a></li>
+<li class="question"><a aria-label="Learn about Troubleshoot CNN" data-gatsection="CategoryBlockAnswer" data-gattype="Link" href="/us/Answer/Detail/000001027">Troubleshoot CNN</a></li>
+</ul>
+</div>
+<div class="category-footer"><a aria-label="View All - Billing &amp; Subscription" class="see-all" data-gatname="View All - Billing &amp; Subscription" data-gatsection="CategoryBlock" data-gattype="Link" href="/us/Category/Detail/Troubleshoot_Fix" title="View All - Billing &amp; Subscription">View All</a></div>
+<script type="text/javascript">
+	    $( window ).resize(function() {
+	        textClamp_TopInCategory(3);
+	    });
+
+        $(window).on('load', function () {
+            textClamp_TopInCategory(3);
+        });
+
+            </script>
+</div>
+</section>
+</section>
+<script type="text/javascript">
+    function textClamp_TopInCategory(InstanceID) {
+        $("#TopInCategory" + InstanceID + " .question").each(function () {
+            $clamp($(this)[0], { clamp: 2, useNativeClamp: false, splitOnChars: [" "] });
+        });
+    }
+</script>
+</div>
+<div class="KBLists">
+<div class="FeaturedBlock">
+<div class="FeatureWidth">
+<div class="FeaturedTitleRow">
+<div class="FeaturedTitle">Featured articles</div>
+</div>
+<div>
+<ul class="FeaturedList">
+<li><a aria-label="Featured Article - Start CNN subscription" class="FeaturedLink" data-gatsection="FeaturedArticles" data-gattype="Link" href="/us/Answer/Detail/000001009">Start CNN subscription</a></li>
+<li><a aria-label="Featured Article - Manage CNN subscription" class="FeaturedLink" data-gatsection="FeaturedArticles" data-gattype="Link" href="/us/Answer/Detail/000001069">Manage CNN subscription</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="HowDoIBlock">
+<div class="FeatureWidth">
+<div class="FeaturedTitleRow">
+<div class="FeaturedTitle">How do I...?</div>
+</div>
+<div>
+<ul class="FeaturedList">
+<li><a class="FeaturedLink" data-gatsection="HowDoI" data-gattype="Link" href="/us/Answer/Detail/000001008">Sign in to CNN</a></li>
+<li><a class="FeaturedLink" data-gatsection="HowDoI" data-gattype="Link" href="/us/Answer/Detail/000001027">Troubleshoot CNN</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</main>
+<footer class="Site-footer">
+<div class="Footer">
+<div class="FooterLinksRow">
+<div class="FooterLinks">
+<div class="FooterLink"><a aria-label="Contact us about Getting Started" class="InlineBlock Light" data-gatsection="Footer" data-gattype="Link" data-nav="Light" href="/us/ContactUs/Topic/Getting_Started">
+<div class="CUButton" data-gatsection="Footer" data-gattype="Link" data-nav="Light" id="FooterCUButton">Contact Us</div>
+</a>
+<div class="Overlay CUModalBG DisplayNone" id="CUModalBG">
+<div class="CUModal" id="CUModal">
+<div class="CUModalHeader"><button id="CUModalClose">Close</button></div>
+<div>
+<div class="CUModalTitle">What do you need help with?</div>
+<div class="CUModalDesc">
+                Choose a topic and we'll recommend the best way to contact us.
+            </div>
+<div>
+<a aria-label="Contact Us Modal - Watch CNN" class="CUModalChoice" href="/us/ContactUs/Topic/Using_CNN">Watch CNN</a>
+<a aria-label="Contact Us Modal - Account &amp; Sign In" class="CUModalChoice" href="/us/ContactUs/Topic/Account">Account &amp; Sign In</a>
+<a aria-label="Contact Us Modal - Billing &amp; Subscription" class="CUModalChoice" href="/us/ContactUs/Topic/Troubleshoot_Fix">Billing &amp; Subscription</a>
+</div>
+</div>
+</div>
+</div></div>
+<div class="FooterLink"><a data-gatsection="Footer" data-gattype="Link" data-nav="Light" href="/us/Feedback" target="_self">Give Feedback</a></div>
+<div class="FooterLink"><a data-gatsection="Footer" data-gattype="Link" data-nav="Light" href="https://www.cnn.com/privacy0" target="_blank">Privacy Policy</a></div>
+<div class="FooterLink"><a data-gatsection="Footer" data-gattype="Link" data-nav="Light" href="https://www.cnn.com/terms0/" target="_blank">Terms of Use</a></div>
+<div class="FooterLink"><a class="ot-sdk-show-settings Light" data-gatsection="Footer" data-gattype="Link" data-nav="Light" id="footer_donotsell" role="button" tabindex="0">Do Not Sell or Share My Personal Information</a></div>
+</div>
+<div class="SocialLinks">
+</div>
+</div>
+<hr class="FooterHR"/>
+<div class="CopyrightRow">
+<div class="FooterSocialLink"><span class="FollowUs">Follow Us</span><a aria-label="Follow CNN Plus Help on Twitter" class="FollowLink" data-gatname="Twitter" data-gatsection="Footer" data-gattype="Link" data-nav="Light" href="https://x.com/CNN" target="_blank"><img alt="Twitter icon" class="TwitterFooterIcon" src="/images/icons/twitter-white.png"/></a></div>
+<div class="CR">© 2025 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.</div>
+</div>
+</div>
+</footer>
+<script>
+    if (WM.UserConsent.getGeoState() == 'CA') {
+        function OptanonWrapper() {
+            document.getElementById("footer_donotsell").innerHTML = "Do Not Sell or Share My Personal Information";
+            console.log(WM.UserConsent.getGeoState());
+        }
+    } else {
+        function OptanonWrapper() {
+            document.getElementById("footer_donotsell").innerHTML = "Cookie Settings";
+            console.log(WM.UserConsent.getGeoState());
+        }
+    }
+</script>
+</div>
+</body>
+</html>
+

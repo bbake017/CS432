@@ -1,0 +1,796 @@
+
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T4C5DKK');
+</script>
+<meta content="L’AFP est une agence d’information globale, assurant une couverture rapide, complète et vérifiée des événements de l’actualité comme des thèmes qui façonnent notre quotidien. Avec un réseau de journalistes sans égal, déployé sur 151 pays, l'AFP est en outre un leader mondial de l’investigation nu..." name="description"/>
+<link href="http://www.afp.com/en" rel="canonical"/>
+<link href="http://www.afp.com/en" rel="shortlink"/>
+<meta content="Drupal 10 (https://www.drupal.org)" name="Generator"/>
+<meta content="width" name="MobileOptimized"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Page not found | AFP.com</title>
+<link href="/themes/custom/afp9/assets/images/favicon_afp.com_201120.ico" rel="icon"/>
+<link href="/sites/default/files/css/css_OhyoFncBRPIYIHy5YQFLZh3hzjhPoOZ9TJwHF68Sls8.css?delta=0&amp;language=en&amp;theme=afp9&amp;include=eJx1jTEOgCAMAD-EdnLwOQULIaGUtF3w9RonFre75JLDPE4oTSK2zXy22kuIIm6uOA6IaLT6f8lkhoUsJFGCLsrY6k1BKWNy0TeHhXe8uPZg05z42zxjdjVX" media="all" rel="stylesheet">
+<link href="/sites/default/files/css/css_O-i0upoHnr0KkFi1FX4RcopE6xpuEq6-6WhVvjDKwaY.css?delta=1&amp;language=en&amp;theme=afp9&amp;include=eJx1jTEOgCAMAD-EdnLwOQULIaGUtF3w9RonFre75JLDPE4oTSK2zXy22kuIIm6uOA6IaLT6f8lkhoUsJFGCLsrY6k1BKWNy0TeHhXe8uPZg05z42zxjdjVX" media="all" rel="stylesheet"/>
+<!-- OneTrust Cookies Consent Notice start for Plateforme de l'info | AFP.com | AFP.com  -->
+<script src="https://cdn.cookielaw.org/consent/00be26b7-7ae8-4143-b25f-6a95ee93593c/OtAutoBlock.js" type="text/javascript"></script>
+<script charset="UTF-8" data-document-language="true" data-domain-script="00be26b7-7ae8-4143-b25f-6a95ee93593c" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript"></script>
+<script type="text/javascript">
+  function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for Plateforme de l'info | AFP.com | AFP.com  -->
+<!-- Kameleoon tag -->
+<script type="text/javascript">
+  var kameleoonLoadingTimeout = 1000;
+  window.kameleoonQueue = window.kameleoonQueue || []; window.kameleoonStartLoadTime = new Date().getTime(); if (! document.getElementById("kameleoonLoadingStyleSheet") && ! window.kameleoonDisplayPageTimeOut) { var kameleoonS = document.getElementsByTagName("script")[0]; var kameleoonCc = "* { visibility: hidden !important; background-image: none !important; }"; var kameleoonStn = document.createElement("style"); kameleoonStn.type = "text/css"; kameleoonStn.id = "kameleoonLoadingStyleSheet"; if (kameleoonStn.styleSheet) { kameleoonStn.styleSheet.cssText = kameleoonCc; } else { kameleoonStn.appendChild(document.createTextNode(kameleoonCc)); } kameleoonS.parentNode.insertBefore(kameleoonStn, kameleoonS); window.kameleoonDisplayPage = function(fromEngine) { if (!fromEngine) { window.kameleoonTimeout = true; } if (kameleoonStn.parentNode) { kameleoonStn.parentNode.removeChild(kameleoonStn); } }; window.kameleoonDisplayPageTimeOut = window.setTimeout(window.kameleoonDisplayPage, kameleoonLoadingTimeout); }
+</script>
+<script type="text/javascript">
+  window.kameleoonIframeURL = "https://www.afp.com/kameleoon-iframe.html"; window.kameleoonLightIframe = false; var kameleoonIframeOriginElement = document.createElement("a"); kameleoonIframeOriginElement.href = kameleoonIframeURL; window.kameleoonIframeOrigin = kameleoonIframeOriginElement.origin || (kameleoonIframeOriginElement.protocol + "//" + kameleoonIframeOriginElement.hostname); if (location.href.indexOf(window.kameleoonIframeOrigin) != 0) { window.kameleoonLightIframe = true; var kameleoonProcessMessageEvent = function(event) { if (window.kameleoonIframeOrigin == event.origin && event.data.slice && event.data.slice(0,9) == "Kameleoon") { window.removeEventListener("message", kameleoonProcessMessageEvent); window.kameleoonExternalIFrameLoaded = true; if (window.Kameleoon) { Kameleoon.Utils.runProtectedScript(event.data); Kameleoon.Analyst.load(); } else { window.kameleoonExternalIFrameLoadedData = event.data; } } }; if (window.addEventListener) { window.addEventListener("message", kameleoonProcessMessageEvent, false); } var iframeNode = document.createElement("iframe"); iframeNode.src = kameleoonIframeURL; iframeNode.id = "kameleoonExternalIframe"; iframeNode.style = "float: left !important; opacity: 0.0 !important; width: 0px !important; height: 0px !important;"; document.head.appendChild(iframeNode); }
+</script>
+<script async="true" fetchpriority="high" src="//oquziqknke.kameleoon.eu/kameleoon.js" type="text/javascript"></script>
+<!-- End of Kameleoon tag -->
+<!--  Script Marketo -->
+<script type="text/javascript">
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('715-ASN-767');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script>
+<!-- RTP tag -->
+<script type="text/javascript">
+(function(c,h,a,f,i,l,e){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+c[a].a=i;c[a].l=l;c[a].e=e;var g=h.createElement("script");g.async=true;g.type="text/javascript";
+g.src=f+'?aid='+i;var b=h.getElementsByTagName("script")[0];b.parentNode.insertBefore(g,b);
+})(window,document,"rtp","//lonrtp1-cdn.marketo.com/rtp-api/v1/rtp.js","afpblue");
+
+rtp('send','view');
+rtp('get', 'campaign',true);
+</script>
+<!-- End of RTP tag -->
+<link href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" rel="stylesheet"/>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
+<!-- YEP script -->
+<script>(function (j, c) {var s = function (o) {var t = document.createElement('script');for (var p in o) {t[p] = o[p];};return t;};var p = s({src: j, defer: true, async: true, onload: c});var i = document.getElementsByTagName('script')[0];i.parentNode.insertBefore(p, i);})('https://afp.overlay.yepnews.eu/news-overlay-afp.js', ScriptLoaded);function ScriptLoaded() {NewsOverlay();}</script>
+</link></head>
+<body class="path-en d-flex flex-column h-100">
+<div class="visually-hidden-focusable skip-link">
+<a href="#main-content">
+        Skip to main content
+      </a>
+</div>
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-T4C5DKK" style="display:none;visibility:hidden;" width="0"></iframe>
+</noscript>
+<div class="dialog-off-canvas-main-canvas d-flex flex-column h-100" data-off-canvas-main-canvas="">
+<div id="page">
+<header role="banner">
+<div class="navbar navbar-expand-lg navbar-white">
+<div class="burger-logo">
+<a class="logo-afp-link" href="/en" title="AFP - Homepage">
+<img alt="" class="logo-afp" src="/themes/custom/afp9/assets/svg/logo-afp.svg"/>
+</a>
+<button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Switch navigation" class="navbar-toggler collapsed" data-bs-target="#navbarSupportedContent" data-bs-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse justify-content-md-start" id="navbarSupportedContent">
+<nav aria-label="menu principal" class="" role="navigation">
+<ul class="navbar-nav justify-content-end flex-wrap nav-level-0" data-block="nav_main">
+<li class="nav-item">
+<a class="nav-link" href="/en">
+<p><span>Home</span></p>
+</a>
+</li>
+<li class="nav-item dropdown">
+<button aria-controls="dropdown-1" aria-expanded="false" class="nav-link title-nav" data-bs-auto-close="outside" data-bs-toggle="dropdown"><span>Our offer</span></button>
+<ul class="dropdown-menu nav-level-1" data-block="nav_main" id="dropdown-1">
+<li class="nav-item dropdown">
+<button aria-controls="dropdown-1-0" aria-expanded="false" class="dropdown-item subtitle-nav subtitle-nav-mobile-button" data-bs-auto-close="outside" data-bs-toggle="dropdown"><span>Products</span></button>
+<p class="dropdown-item subtitle-nav subtitle-nav-tablet-desktop-text"><span>Products<span></span></span></p>
+<ul class="nav-level-2" data-block="nav_main" id="dropdown-1-0">
+<li class="nav-item">
+<a class="dropdown-item" href="/en/our-offer/picture">
+<p><span>Picture</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item" href="/en/our-offer/video">
+<p><span>Video</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item" href="/en/our-offer/text">
+<p><span>Text</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item" href="/en/our-offer/afp-archive">
+<p><span>AFP Archives</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item" href="/en/our-offer/graphics">
+<p><span>Graphics</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item" href="/en/our-offer/interactive-graphics">
+<p><span>Interactive Graphics</span></p>
+</a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown">
+<button aria-controls="dropdown-1-1" aria-expanded="false" class="dropdown-item subtitle-nav subtitle-nav-mobile-button" data-bs-auto-close="outside" data-bs-toggle="dropdown"><span>Ready to publish</span></button>
+<p class="dropdown-item subtitle-nav subtitle-nav-tablet-desktop-text"><span>Ready to publish<span></span></span></p>
+<ul class="nav-level-2" data-block="nav_main" id="dropdown-1-1">
+<li class="nav-item">
+<a class="dropdown-item" href="/en/our-offer/afp-fact-check">
+<p><span>AFP Fact Check</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item" href="/en/our-offer/afp-stories">
+<p><span>AFP Stories</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item" href="/en/our-offer/afp-social-stories">
+<p><span>AFP Social Stories</span></p>
+</a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown">
+<button aria-controls="dropdown-1-2" aria-expanded="false" class="dropdown-item subtitle-nav subtitle-nav-mobile-button" data-bs-auto-close="outside" data-bs-toggle="dropdown"><span>Platforms</span></button>
+<p class="dropdown-item subtitle-nav subtitle-nav-tablet-desktop-text"><span>Platforms<span></span></span></p>
+<ul class="nav-level-2" data-block="nav_main" id="dropdown-1-2">
+<li class="nav-item">
+<a class="dropdown-item" href="/en/our-offer/afp-news">
+<p><span>AFP News</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item" href="/en/our-offer/afptv-live">
+<p><span>AFPTV Live</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item" href="/en/our-offer/afp-agenda-browse-news-it-breaks">
+<p><span>AFP Agenda</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item" href="/en/our-offer/afp-api">
+<p><span>AFP API</span></p>
+</a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown">
+<button aria-controls="dropdown-1-3" aria-expanded="false" class="dropdown-item subtitle-nav subtitle-nav-mobile-button" data-bs-auto-close="outside" data-bs-toggle="dropdown"><span>Themes</span></button>
+<p class="dropdown-item subtitle-nav subtitle-nav-tablet-desktop-text"><span>Themes<span></span></span></p>
+<ul class="nav-level-2" data-block="nav_main" id="dropdown-1-3">
+<li class="nav-item">
+<a class="dropdown-item" href="/en/our-offer/afp-sports">
+<p><span>AFP Sports</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item" href="/en/our-offer/corporate-content-services">
+<p><span>Corporate Content Services</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item" href="/en/our-offer/future-planet">
+<p><span>Future of the planet</span></p>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown">
+<button aria-controls="dropdown-2" aria-expanded="false" class="nav-link title-nav" data-bs-auto-close="outside" data-bs-toggle="dropdown"><span>Access our content</span></button>
+<ul class="dropdown-menu nav-level-1" data-block="nav_main" id="dropdown-2">
+<li class="nav-item dropdown">
+<button aria-controls="dropdown-2-0" aria-expanded="false" class="dropdown-item subtitle-nav subtitle-nav-mobile-button" data-bs-auto-close="outside" data-bs-toggle="dropdown"><span>Our branches</span></button>
+<p class="dropdown-item subtitle-nav subtitle-nav-tablet-desktop-text"><span>Our branches<span></span></span></p>
+<ul class="nav-level-2" data-block="nav_main" id="dropdown-2-0">
+<li class="nav-item">
+<a class="dropdown-item" href="/en/news-hub-0">
+<p><span>AFP GMBH</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item ext-link" href="https://sid.de" target="_blank">
+<p><span>SID</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item ext-link" href="https://mediaconnect.com/fr?lang=fr" target="_blank">
+<p><span>MediaConnect</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item ext-link" href="https://www.factstory.agency/?lang=fr" target="_blank">
+<p><span>FACTSTORY</span></p>
+</a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown">
+<button aria-controls="dropdown-2-1" aria-expanded="false" class="dropdown-item subtitle-nav subtitle-nav-mobile-button" data-bs-auto-close="outside" data-bs-toggle="dropdown"><span>Partners</span></button>
+<p class="dropdown-item subtitle-nav subtitle-nav-tablet-desktop-text"><span>Partners<span></span></span></p>
+<ul class="nav-level-2" data-block="nav_main" id="dropdown-2-1">
+<li class="nav-item">
+<a class="dropdown-item" href="/en/access-our-content/partners/our-partners">
+<p><span>Our partners</span></p>
+</a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown">
+<button aria-controls="dropdown-2-2" aria-expanded="false" class="dropdown-item subtitle-nav subtitle-nav-mobile-button" data-bs-auto-close="outside" data-bs-toggle="dropdown"><span>Resources and events</span></button>
+<p class="dropdown-item subtitle-nav subtitle-nav-tablet-desktop-text"><span>Resources and events<span></span></span></p>
+<ul class="nav-level-2" data-block="nav_main" id="dropdown-2-2">
+<li class="nav-item">
+<a class="dropdown-item" href="/en/behind-the-scenes">
+<p><span>Behind the scenes</span></p>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown">
+<button aria-controls="dropdown-3" aria-expanded="false" class="nav-link title-nav" data-bs-auto-close="outside" data-bs-toggle="dropdown"><span>Fact-checking</span></button>
+<ul class="dropdown-menu nav-level-1" data-block="nav_main" id="dropdown-3">
+<li class="nav-item dropdown">
+<button aria-controls="dropdown-3-0" aria-expanded="false" class="dropdown-item subtitle-nav subtitle-nav-mobile-button" data-bs-auto-close="outside" data-bs-toggle="dropdown"><span>Fact-checking with AFP</span></button>
+<p class="dropdown-item subtitle-nav subtitle-nav-tablet-desktop-text"><span>Fact-checking with AFP<span></span></span></p>
+<ul class="nav-level-2" data-block="nav_main" id="dropdown-3-0">
+<li class="nav-item">
+<a class="dropdown-item" href="/en/fact-checking/fact-checking-afp/what-fact-checking">
+<p><span>What is fact-checking?</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item ext-link" href="https://factcheck.afp.com/afps-editorial-and-ethical-standards" target="_blank">
+<p><span>AFP’s editorial and ethical standards</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item ext-link" href="https://digitalcourses.afp.com/" target="_blank">
+<p><span>Training in digital investigation</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item" href="/en/fact-checking/fact-checking-afp/medialab">
+<p><span>Medialab</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item ext-link" href="https://factcheck.afp.com/" target="_blank">
+<p><span>AFP Fact Check</span></p>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown">
+<button aria-controls="dropdown-4" aria-expanded="false" class="nav-link title-nav" data-bs-auto-close="outside" data-bs-toggle="dropdown"><span>The Agency</span></button>
+<ul class="dropdown-menu nav-level-1" data-block="nav_main" id="dropdown-4">
+<li class="nav-item dropdown">
+<button aria-controls="dropdown-4-0" aria-expanded="false" class="dropdown-item subtitle-nav subtitle-nav-mobile-button" data-bs-auto-close="outside" data-bs-toggle="dropdown"><span>About AFP</span></button>
+<p class="dropdown-item subtitle-nav subtitle-nav-tablet-desktop-text"><span>About AFP<span></span></span></p>
+<ul class="nav-level-2" data-block="nav_main" id="dropdown-4-0">
+<li class="nav-item">
+<a class="dropdown-item" href="/en/agency/about/about-us">
+<p><span>About us</span></p>
+</a>
+</li>
+<li class="menu-firstchild nav-item">
+<a class="dropdown-item" href="/en/agency/about-afp/our-organisation/afp-management">
+<p><span>Our organisation</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item" href="/en/agency/about-afp/afp-world">
+<p><span>AFP in the world</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item" href="/en/agency/about-afp/philanthropic-partnerships">
+<p><span>Philanthropic Partnerships</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item ext-link" href="https://www.afp.com/sites/default/files/2025-09/AFP-annual-report-2024-EN.pdf" target="_blank">
+<p><span>2024 Annual Report</span></p>
+</a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown">
+<button aria-controls="dropdown-4-1" aria-expanded="false" class="dropdown-item subtitle-nav subtitle-nav-mobile-button" data-bs-auto-close="outside" data-bs-toggle="dropdown"><span>Our projects</span></button>
+<p class="dropdown-item subtitle-nav subtitle-nav-tablet-desktop-text"><span>Our projects<span></span></span></p>
+<ul class="nav-level-2" data-block="nav_main" id="dropdown-4-1">
+<li class="nav-item">
+<a class="dropdown-item" href="/en/agency/our-projects/european-projects">
+<p><span>European Projects</span></p>
+</a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown">
+<button aria-controls="dropdown-4-2" aria-expanded="false" class="dropdown-item subtitle-nav subtitle-nav-mobile-button" data-bs-auto-close="outside" data-bs-toggle="dropdown"><span>Our commitments</span></button>
+<p class="dropdown-item subtitle-nav subtitle-nav-tablet-desktop-text"><span>Our commitments<span></span></span></p>
+<ul class="nav-level-2" data-block="nav_main" id="dropdown-4-2">
+<li class="nav-item">
+<a class="dropdown-item" href="/en/agency/our-commitments/afp-charters">
+<p><span>AFP Charter</span></p>
+</a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown">
+<button aria-controls="dropdown-4-3" aria-expanded="false" class="dropdown-item subtitle-nav subtitle-nav-mobile-button" data-bs-auto-close="outside" data-bs-toggle="dropdown"><span>Inside AFP</span></button>
+<p class="dropdown-item subtitle-nav subtitle-nav-tablet-desktop-text"><span>Inside AFP<span></span></span></p>
+<ul class="nav-level-2" data-block="nav_main" id="dropdown-4-3">
+<li class="nav-item">
+<a class="dropdown-item" href="/en/agency/inside-afp/inside-afp">
+<p><span>Inside AFP</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item" href="/en/agency/inside-afp/awards">
+<p><span>Awards</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item" href="/en/agency/inside-afp/press-releases">
+<p><span>Press releases</span></p>
+</a>
+</li>
+</ul>
+</li>
+<li class="nav-item dropdown">
+<button aria-controls="dropdown-4-4" aria-expanded="false" class="dropdown-item subtitle-nav subtitle-nav-mobile-button" data-bs-auto-close="outside" data-bs-toggle="dropdown"><span>Join us</span></button>
+<p class="dropdown-item subtitle-nav subtitle-nav-tablet-desktop-text"><span>Join us<span></span></span></p>
+<ul class="nav-level-2" data-block="nav_main" id="dropdown-4-4">
+<li class="nav-item">
+<a class="dropdown-item" href="/en/agency/join-us/our-job-postings">
+<p><span>Our job postings</span></p>
+</a>
+</li>
+<li class="nav-item">
+<a class="dropdown-item ext-link" href="https://www.welcometothejungle.com/en/companies/agence-france-presse/jobs/candidatures-spontanees#apply" target="_blank">
+<p><span>Submit your application</span></p>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+<div class="navbar-collapse-footer">
+<a class="navbar-collapse-footer-connect-button primary blue" href="https://news.afp.com/#/u/login"><span>Connexion<span></span></span></a></div>
+</div>
+<div class="header-aside">
+<a class="header-contact-link" href="/en/contact-us-0"><span class="hidden-mobile">Contact us</span></a>
+<div class="region region-nav-additional">
+<div class="language-switcher-language-url block block-language block-language-blocklanguage-content" id="block-afp9-selecteurdelanguecontent" role="navigation">
+<style>
+  .dropdown-menu li a.disabled {
+    text-decoration: line-through !important;
+  }
+</style>
+<div class="dropdown">
+<button aria-expanded="false" class="btn dropdown-toggle" data-bs-toggle="dropdown" id="dropdownLanguageButton" type="button">
+          en
+      </button>
+<ul aria-labelledby="dropdownLanguageButton" class="dropdown-menu" data-block="nav_additional"> <li data-drupal-link-system-path="system/404" hreflang="fr"><!--<a href="/fr/system/404" class="language-link" hreflang="fr" data-drupal-link-system-path="system/404">French</a> this line must stay -->
+<a class="language-link" href="/fr/system/404" hreflang="fr">Français</a></li>
+<li data-drupal-link-system-path="system/404" hreflang="en"><!--<a href="/en/system/404" class="language-link" hreflang="en" data-drupal-link-system-path="system/404">Anglais</a> this line must stay -->
+<a class="language-link" href="/en/system/404" hreflang="en">English</a></li>
+<li data-drupal-link-system-path="system/404" hreflang="es"><!--<a href="/es/system/404" class="language-link" hreflang="es" data-drupal-link-system-path="system/404">Spanish</a> this line must stay -->
+<a class="language-link" href="/es/system/404" hreflang="es">Español</a></li>
+<li data-drupal-link-system-path="system/404" hreflang="pt-pt"><!--<a href="/pt/system/404" class="language-link" hreflang="pt-pt" data-drupal-link-system-path="system/404">Portuguese, Portugal</a> this line must stay -->
+<a class="language-link" href="/pt/system/404" hreflang="pt-pt">Português</a></li>
+<li data-drupal-link-system-path="system/404" hreflang="de"><!--<a href="/de/system/404" class="language-link" hreflang="de" data-drupal-link-system-path="system/404">German</a> this line must stay -->
+<a class="language-link" href="/de/system/404" hreflang="de">Deutsch</a></li>
+<li data-drupal-link-system-path="system/404" hreflang="ar"><!--<a href="/ar/system/404" class="language-link" hreflang="ar" data-drupal-link-system-path="system/404">Arabic</a> this line must stay -->
+<a class="language-link" href="/ar/system/404" hreflang="ar">العربية</a></li>
+</ul>
+</div>
+</div>
+</div>
+<a class="header-connect-button primary blue" href="https://news.afp.com/#/u/login"><span>Login<span></span></span></a>
+</div>
+</div>
+<div class="region region-header">
+<div class="block block-ticker block-ticker-block" id="block-tickerblock">
+<style>
+  ul.lightSlider.lsGrab.lSSlide, ul.lightSlider.lSSlide.lsGrabbing {
+    height: 100% !important;
+  }
+  @media (min-width: 576px) {
+    main[role=main] {
+      padding-top: 98px !important;
+    }
+  }
+
+  @media (min-width: 1025px) {
+    .mobile-sizing {
+      height: 40px;
+    }
+  }
+
+
+@media (max-width: 1024px) {
+  .mobile-sizing {
+    height: 100px;
+  }
+  #header_slider_prev, #header_slider_next {
+    bottom: 28px !important;
+  }
+  main {
+    padding-top: 144px;
+  }
+
+  .lSSlideOuter li.lslide {
+    padding: 0 36px;
+    display: flex;
+    align-items: center;
+    height: 100px;
+    margin-top: 5px;
+    font-size: 16px !important;
+  }
+}
+</style>
+<div class="block block-">
+<div class="w100" id="header_slider_container">
+<button class="w10 left slider_control slider_control_prev icon-afp navigateleft" id="header_slider_prev"><span class="visually-hidden">Précédent</span></button>
+<div class="w80" id="header_slider">
+<ul class="cS-hidden">
+<li>
+<p class="afp_news_visibility afp_news_visibility_show" id="afp_news_6|doc-33fb89e-copy3" style="text-align: -webkit-center;">
+<span style="text-align: -webkit-center; font-weight: bold;">Madrid (AFP)</span>
+<span class="date"> | 28/09/2025 - 20:08:26</span>
+<span class="title"> | Spain's Valencia region on red alert for heavy rains</span>
+</p>
+</li>
+<li>
+<p class="afp_news_visibility afp_news_visibility_show" id="afp_news_6|doc-33fb89e-copy3" style="text-align: -webkit-center;">
+<span style="text-align: -webkit-center; font-weight: bold;">New York (AFP)</span>
+<span class="date"> | 28/09/2025 - 20:00:35</span>
+<span class="title"> | Eric Adams abandons reelection bid for New York mayor: statement </span>
+</p>
+</li>
+<li>
+<p class="afp_news_visibility afp_news_visibility_show" id="afp_news_6|doc-33fb89e-copy3" style="text-align: -webkit-center;">
+<span style="text-align: -webkit-center; font-weight: bold;">Washington (AFP)</span>
+<span class="date"> | 28/09/2025 - 19:50:00</span>
+<span class="title"> | Rubio hails Afghanistan's release of US citizen as 'important step forward'</span>
+</p>
+</li>
+<li>
+<p class="afp_news_visibility afp_news_visibility_show" id="afp_news_6|doc-33fb89e-copy3" style="text-align: -webkit-center;">
+<span style="text-align: -webkit-center; font-weight: bold;">Grand Blanc (AFP)</span>
+<span class="date"> | 28/09/2025 - 19:21:15</span>
+<span class="title"> | Trump says Mormon church shooting, fire another 'attack on Christians'</span>
+</p>
+</li>
+<li>
+<p class="afp_news_visibility afp_news_visibility_show" id="afp_news_6|doc-33fb89e-copy3" style="text-align: -webkit-center;">
+<span style="text-align: -webkit-center; font-weight: bold;">Kabul (AFP)</span>
+<span class="date"> | 28/09/2025 - 19:00:56</span>
+<span class="title"> | Afghan Foreign Ministry announces release of detained US citizen </span>
+</p>
+</li>
+<li>
+<p class="afp_news_visibility afp_news_visibility_show" id="afp_news_6|doc-33fb89e-copy3" style="text-align: -webkit-center;">
+<span style="text-align: -webkit-center; font-weight: bold;">Jerusalem (AFP)</span>
+<span class="date"> | 28/09/2025 - 18:30:56</span>
+<span class="title"> | Israel army says struck Hezbollah weapons depots in south Lebanon</span>
+</p>
+</li>
+<li>
+<p class="afp_news_visibility afp_news_visibility_show" id="afp_news_6|doc-33fb89e-copy3" style="text-align: -webkit-center;">
+<span style="text-align: -webkit-center; font-weight: bold;">Tehran (AFP)</span>
+<span class="date"> | 28/09/2025 - 18:24:44</span>
+<span class="title"> | Iran says will not accept nuclear talks that cause 'new problems'</span>
+</p>
+</li>
+<li>
+<p class="afp_news_visibility afp_news_visibility_show" id="afp_news_6|doc-33fb89e-copy3" style="text-align: -webkit-center;">
+<span style="text-align: -webkit-center; font-weight: bold;">Washington (AFP)</span>
+<span class="date"> | 28/09/2025 - 15:43:01</span>
+<span class="title"> | Trump hints at 'something special' in Middle East talks </span>
+</p>
+</li>
+<li>
+<p class="afp_news_visibility afp_news_visibility_show" id="afp_news_6|doc-33fb89e-copy3" style="text-align: -webkit-center;">
+<span style="text-align: -webkit-center; font-weight: bold;">Gaza City (AFP)</span>
+<span class="date"> | 28/09/2025 - 14:57:52</span>
+<span class="title"> | Hamas says lost contact with two Gaza hostages due to Israeli strikes</span>
+</p>
+</li>
+<li>
+<p class="afp_news_visibility afp_news_visibility_show" id="afp_news_6|doc-33fb89e-copy3" style="text-align: -webkit-center;">
+<span style="text-align: -webkit-center; font-weight: bold;">Copenhagen (AFP)</span>
+<span class="date"> | 28/09/2025 - 13:49:53</span>
+<span class="title"> | Denmark bans all civilian drone flights this week due to EU summit: ministry</span>
+</p>
+</li>
+</ul>
+</div>
+<button class="w10 left slider_control slider_control_next icon-afp navigateright" id="header_slider_next"><span class="visually-hidden">Suivant</span></button>
+</div>
+</div>
+</div>
+</div>
+</header>
+<main role="main">
+<div id="main-content" tabindex="-1"></div>
+<div class="container container-main">
+<div class="container-content">
+<div class="row d-none d-lg-block">
+<div class="col region region-breadcrumb offset-lg-1 col-lg-10">
+<div class="block block-system block-system-breadcrumb-block" id="block-afp9-breadcrumbs">
+<style>
+  .breadcrumb {
+    content: none;
+  }
+  .breadcrumb li::before {
+    content: none;
+  }
+  </style>
+<nav aria-labelledby="system-breadcrumb" class="breadcrumb">
+<h2 class="visually-hidden" id="system-breadcrumb">Breadcrumb</h2>
+<ol>
+<li>
+<a href="/en">Home</a> </li>
+</ol>
+</nav>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col col-12 offset-lg-1 col-lg-10"> <div class="region region-title">
+<div class="block block-core block-page-title-block" id="block-afp9-page-title">
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="order-1 order-lg-2 offset-lg-1 col-12 col-lg-10">
+<div class="region region-content">
+<div class="hidden" data-drupal-messages-fallback=""></div>
+<div class="block block-system block-system-main-block" id="block-afp9-content">
+  
+    
+      The requested page could not be found.
+  </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main></div>
+
+<footer class="" role="contentinfo">
+<div class="container" style="max-width: 1900px;">
+<div class="row">
+<div class="col-12 col-lg-12 col-xl-4 about-afp">
+<img alt="" class="logo-afp-white" src="/themes/custom/afp9/assets/svg/logo-afp-white.svg"/>
+<div class="about-content">
+<div class="region region-footer-col1">
+<div class="block-content--footer block-type-block-content block block-block-content block-block-content08365dcf-4593-4781-8ea8-e0a7ebd59d46" id="block-footer-2">
+<style>
+  .text-formatted table tr td {
+    vertical-align: middle;
+  }
+</style>
+<div class="clearfix text-formatted toto field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2>About AFP</h2><p>AFP is a leading global news agency providing fast, comprehensive and verified coverage of the events shaping our world and of the issues affecting our daily lives. Drawing from an unparalleled news gathering network across 150 countries, AFP is also a world leader in digital verification. With 2,600 staff representing 100 different nationalities, AFP covers the world in six languages, with a unique quality of multimedia storytelling spanning video, text, photos and graphics.</p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-12 col-lg-12 col-xl-8 afp-links">
+<div class="region region-footer-col2">
+<div class="contextual-region block block-menu menu--footer" id="block-footer">
+<style>
+  .footer-link-img {
+    width: 42px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .footer-link-img:hover {
+    background-color: #4d4d4d;
+    border-radius: 50%;
+  }
+  .footer-link img {
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+  }
+</style>
+<ul class="footer-links" data-block="footer_col2" data-region="footer_col2">
+<li class="footer-item">
+<p class="footer-link title-nav"><span>Useful links</span></p>
+<ul style="padding-left: 0;">
+<li class="footer-item">
+<a class="footer-item footer-link" href="/en/useful-links/terms-use">
+<span>Terms of use</span>
+</a>
+</li>
+<li class="footer-item">
+<a class="footer-item footer-link" href="/en/useful-links/privacy-policy">
+<span>Privacy policy</span>
+</a>
+</li>
+<li class="footer-item">
+<a class="footer-item footer-link" href="/en/useful-links/afps-copyright-protection-measures">
+<span>AFP’s Copyright Protection Measures</span>
+</a>
+</li>
+<li class="footer-item">
+<a class="footer-item footer-link" href="/en/useful-links/use-cookies">
+<span>Use of cookies</span>
+</a>
+</li>
+<li class="footer-item">
+<a class="footer-item footer-link" href="/en/useful-links/legal-information">
+<span>Legal information</span>
+</a>
+</li>
+<li class="footer-item">
+<a class="footer-item footer-link" href="/en/sitemap">
+<span>Site Map</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="footer-item">
+<p class="footer-link title-nav"><span>Press office</span></p>
+<ul style="padding-left: 0;">
+<li class="footer-item">
+<a class="footer-item footer-link" href="/en/agency/inside-afp/press-releases">
+<span>Press releases</span>
+</a>
+</li>
+<li class="footer-item">
+<a class="footer-item footer-link" href="/en/agency/inside-afp/awards">
+<span>Awards</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="footer-item">
+<p class="footer-link title-nav"><span>Our subsidiaries</span></p>
+<ul style="padding-left: 0;">
+<li class="footer-item">
+<a class="footer-item footer-link ext-link" href="https://www.afp.com/de" target="_blank">
+<span>AFP GmbH</span>
+</a>
+</li>
+<li class="footer-item">
+<a class="footer-item footer-link ext-link" href="https://www.sid.de/" target="_blank">
+<span>Sport-Informations-Dienst (SID)</span>
+</a>
+</li>
+<li class="footer-item">
+<a class="footer-item footer-link ext-link" href="https://www.factstory.agency" target="_blank">
+<span>FACTSTORY</span>
+</a>
+</li>
+<li class="footer-item">
+<a class="footer-item footer-link ext-link" href="https://mediaconnect.com/en/?lang=en" target="_blank">
+<span>MediaConnect</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="footer-item">
+<p class="footer-link title-nav"><span>Join us</span></p>
+<ul style="padding-left: 0;">
+<li class="footer-item">
+<a class="footer-item footer-link" href="/en/agency/join-us/our-job-postings">
+<span>Our job postings</span>
+</a>
+</li>
+<li class="footer-item">
+<a class="footer-item footer-link ext-link" href="https://www.welcometothejungle.com/en/companies/agence-france-presse/jobs/candidatures-spontanees#apply" target="_blank">
+<span>Submit your application</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="footer-item">
+<p class="footer-link title-nav"><span>Follow us</span></p>
+<ul style="padding-left: 0;">
+<li class="footer-item">
+<a class="footer-item footer-link ext-link" href="https://www.afp.com/fr/centre-de-preference" target="_blank">
+<span>Preference Center</span>
+</a>
+</li>
+<li class="footer-item">
+<a class="footer-item footer-link" href="">
+<span>Social Media</span>
+</a>
+<ul style="padding-left: 0;">
+<li class="footer-item">
+<a class="footer-item footer-link ext-link footer-link-img" href="https://www.facebook.com/AFPnewsenglish" target="_blank">
+<img alt="" class="no-image-style img-fluid image-style-thumbnail" loading="lazy" src="/sites/default/files/2025-04/Facebook_30x30.svg">
+</img></a>
+</li>
+<li class="footer-item">
+<a class="footer-item footer-link ext-link footer-link-img" href="https://x.com/afpcom" target="_blank">
+<img alt="" class="no-image-style img-fluid image-style-thumbnail" loading="lazy" src="/sites/default/files/2025-04/X_30x30.svg">
+</img></a>
+</li>
+<li class="footer-item">
+<a class="footer-item footer-link ext-link footer-link-img" href="https://www.linkedin.com/company/afp" target="_blank">
+<img alt="" class="no-image-style img-fluid image-style-thumbnail" loading="lazy" src="/sites/default/files/2025-04/LinkedIn_30x30.svg"/>
+</a>
+</li>
+<li class="footer-item">
+<a class="footer-item footer-link ext-link footer-link-img" href="https://www.instagram.com/afpnewsagency/" target="_blank">
+<img alt="" class="no-image-style img-fluid image-style-thumbnail" loading="lazy" src="/sites/default/files/2025-04/Instagram_30x30.svg"/>
+</a>
+</li>
+<li class="footer-item">
+<a class="footer-item footer-link ext-link footer-link-img" href="https://www.youtube.com/@AFP" target="_blank">
+<img alt="" class="no-image-style img-fluid image-style-thumbnail" loading="lazy" src="/sites/default/files/2025-04/Youtube_30x30.svg"/>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+
+<script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","pathPrefix":"en\/","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx1jsEOwjAMQ3-opScOfM3ktVkpapsqyQ7j60EIxjhw83Mcy1jGJWAZvlFfHT40INZJ9OtoLYlk5ynBMA3htEYr3KcsGNcS3x-58ozq1bZaenYzs6k9E-cwQ-mHd-lv6iuM1I73_02NVJFJXWSh0FkaarmTE1oQjeUZDwd9QmqlO93UqL1mPADfEGAh","theme":"afp9","theme_token":null},"ajaxTrustedUrl":[],"user":{"uid":0,"permissionsHash":"47dc340dad16eba8572bd94ecbbc1e3d986277897f02f8b6adab5852626b7d17"}}</script>
+<script src="/sites/default/files/js/js_xsAA2WQ_p516CB8DXRommD-6GWq0iC3i__kU1d2nj20.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=afp9&amp;include=eJxFyEEOwyAMBdELQVllkdOgX3BSIoot20g5frJps5s32GRN2CR-acyAnwTqg9SeY71V0r9zhSOLcp3FG4-8K-TTioU3s5vfWtKT8bDY4WQeCiulqlPQXzhwXlUeMP0"></script>
+<script src="https://pym.nprapps.org/pym.v1.min.js"></script>
+<script src="/sites/default/files/js/js_1KmryITxJ8wnopt6aK1eDUQx5JE0d-dpR4iKqgr4ZCY.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=afp9&amp;include=eJxFyEEOwyAMBdELQVllkdOgX3BSIoot20g5frJps5s32GRN2CR-acyAnwTqg9SeY71V0r9zhSOLcp3FG4-8K-TTioU3s5vfWtKT8bDY4WQeCiulqlPQXzhwXlUeMP0"></script>
+</body>
+</html>
+

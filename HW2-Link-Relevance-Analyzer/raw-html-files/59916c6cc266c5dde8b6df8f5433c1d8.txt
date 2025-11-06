@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="http://gmpg.org/xfn/11" rel="profile"/>
+<title>American Presidents: Greatest and Worst – Siena Research Institute</title>
+<meta content="max-image-preview:large" name="robots">
+<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+<link href="//sri.siena.edu" rel="dns-prefetch"/>
+<link href="//maps.googleapis.com" rel="dns-prefetch"/>
+<link href="//www.google.com" rel="dns-prefetch"/>
+<link href="//www.googletagmanager.com" rel="dns-prefetch"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="https://sri.siena.edu/feed/" rel="alternate" title="Siena Research Institute » Feed" type="application/rss+xml"/>
+<link href="https://sri.siena.edu/comments/feed/" rel="alternate" title="Siena Research Institute » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sri.siena.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=fb541f877a2d5ba8b2a0e3a1fc3616bc"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C500%2C600%2C700%2C800&amp;display=swap&amp;ver=fb541f877a2d5ba8b2a0e3a1fc3616bc" id="twb-open-sans-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://sri.siena.edu/wp-content/plugins/slider-wd/booster/assets/css/global.css?ver=1.0.0" id="twb-global-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://sri.siena.edu/wp-content/plugins/wd-google-maps/css/bootstrap.css?ver=1.0.51" id="bootstrap-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://sri.siena.edu/wp-content/plugins/wd-google-maps/css/frontend_main.css?ver=1.0.51" id="frontend_main-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://sri.siena.edu/wp-content/plugins/easymega/assets/css/style.css?ver=1745517477" id="easymega-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="easymega-inline-css" type="text/css">
+.easymega-wp-desktop #easymega-wp-page .easymega-wp .mega-item .mega-content li.mega-content-li { margin-top: 0px; }
+</style>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link href="https://sri.siena.edu/wp-includes/css/dist/block-library/style.min.css?ver=fb541f877a2d5ba8b2a0e3a1fc3616bc" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link href="https://sri.siena.edu/wp-includes/css/dist/components/style.min.css?ver=fb541f877a2d5ba8b2a0e3a1fc3616bc" id="wp-components-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://sri.siena.edu/wp-includes/css/dist/preferences/style.min.css?ver=fb541f877a2d5ba8b2a0e3a1fc3616bc" id="wp-preferences-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://sri.siena.edu/wp-includes/css/dist/block-editor/style.min.css?ver=fb541f877a2d5ba8b2a0e3a1fc3616bc" id="wp-block-editor-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://sri.siena.edu/wp-includes/css/dist/reusable-blocks/style.min.css?ver=fb541f877a2d5ba8b2a0e3a1fc3616bc" id="wp-reusable-blocks-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://sri.siena.edu/wp-includes/css/dist/patterns/style.min.css?ver=fb541f877a2d5ba8b2a0e3a1fc3616bc" id="wp-patterns-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://sri.siena.edu/wp-includes/css/dist/editor/style.min.css?ver=fb541f877a2d5ba8b2a0e3a1fc3616bc" id="wp-editor-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://sri.siena.edu/wp-content/plugins/infographic-and-list-builder-ilist/gutenberg/ilist-block/dist/blocks.style.build.css?ver=fb541f877a2d5ba8b2a0e3a1fc3616bc" id="ilist_block-cgb-style-css-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link href="https://sri.siena.edu/wp-content/plugins/constant-contact-forms/assets/css/style.css?ver=2.12.0" id="ctct_form_styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://sri.siena.edu/wp-content/plugins/infographic-and-list-builder-ilist//embed/css/embed-form.css?ver=fb541f877a2d5ba8b2a0e3a1fc3616bc" id="ilist-embed-form-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://sri.siena.edu/wp-content/themes/mh_newsdesk/style.css?ver=fb541f877a2d5ba8b2a0e3a1fc3616bc" id="mh-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://sri.siena.edu/wp-content/themes/mh_newsdesk/includes/font-awesome.min.css" id="mh-font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=PT+Serif:300,400,400italic,600,700%7cOswald:300,400,400italic,600,700" id="mh-google-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://sri.siena.edu/wp-content/plugins/tablepress/css/build/default.css?ver=3.2.3" id="tablepress-default-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://sri.siena.edu/wp-content/plugins/forget-about-shortcode-buttons/public/css/button-styles.css?ver=2.1.3" id="forget-about-shortcode-buttons-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="https://sri.siena.edu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://sri.siena.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" type="text/javascript"></script>
+<script id="twb-circle-js" src="https://sri.siena.edu/wp-content/plugins/slider-wd/booster/assets/js/circle-progress.js?ver=1.2.2" type="text/javascript"></script>
+<script id="twb-global-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var twb = {"nonce":"2e5fc9fc0f","ajax_url":"https:\/\/sri.siena.edu\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/sri.siena.edu\/wp-content\/plugins\/slider-wd\/booster","href":"https:\/\/sri.siena.edu\/wp-admin\/admin.php?page=twb_slider_wd"};
+var twb = {"nonce":"2e5fc9fc0f","ajax_url":"https:\/\/sri.siena.edu\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/sri.siena.edu\/wp-content\/plugins\/slider-wd\/booster","href":"https:\/\/sri.siena.edu\/wp-admin\/admin.php?page=twb_slider_wd"};
+/* ]]> */
+</script>
+<script id="twb-global-js" src="https://sri.siena.edu/wp-content/plugins/slider-wd/booster/assets/js/global.js?ver=1.0.0" type="text/javascript"></script>
+<script id="gmwd_map-js-js" src="https://maps.googleapis.com/maps/api/js?libraries=places%2Cgeometry&amp;v=3.exp&amp;key=%09AIzaSyDi6aVWxOVptj9WZZYeAgdAA1xpqAR1mnw&amp;ver=fb541f877a2d5ba8b2a0e3a1fc3616bc" type="text/javascript"></script>
+<script id="frontend_init_map-js-js" src="https://sri.siena.edu/wp-content/plugins/wd-google-maps/js/init_map.js?ver=1.0.51" type="text/javascript"></script>
+<script id="frontend_main-js-js" src="https://sri.siena.edu/wp-content/plugins/wd-google-maps/js/frontend_main.js?ver=1.0.51" type="text/javascript"></script>
+<script id="ilist-embed-form-script-js" src="https://sri.siena.edu/wp-content/plugins/infographic-and-list-builder-ilist//embed/js/embed-form.js?ver=fb541f877a2d5ba8b2a0e3a1fc3616bc" type="text/javascript"></script>
+<script id="wl-weblizar-fronend-twitter-tweets-js" src="https://sri.siena.edu/wp-content/plugins/twitter-tweets/js/weblizar-fronend-twitter-tweets.js?ver=1" type="text/javascript"></script>
+<script id="mh-scripts-js" src="https://sri.siena.edu/wp-content/themes/mh_newsdesk/js/scripts.js?ver=fb541f877a2d5ba8b2a0e3a1fc3616bc" type="text/javascript"></script>
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+<!-- Google Analytics snippet added by Site Kit -->
+<script async="" id="google_gtagjs-js" src="https://www.googletagmanager.com/gtag/js?id=GT-KTR3F5P" type="text/javascript"></script>
+<script id="google_gtagjs-js-after" type="text/javascript">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["sri.siena.edu"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-KTR3F5P");
+/* ]]> */
+</script>
+<link href="https://sri.siena.edu/wp-json/" rel="https://api.w.org/"/><link href="https://sri.siena.edu/wp-json/wp/v2/posts/6371" rel="alternate" title="JSON" type="application/json"/><link href="https://sri.siena.edu/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://sri.siena.edu/2022/06/22/american-presidents-greatest-and-worst/" rel="canonical"/>
+<link href="https://sri.siena.edu/?p=6371" rel="shortlink"/>
+<link href="https://sri.siena.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsri.siena.edu%2F2022%2F06%2F22%2Famerican-presidents-greatest-and-worst%2F" rel="alternate" title="oEmbed (JSON)" type="application/json+oembed"/>
+<link href="https://sri.siena.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsri.siena.edu%2F2022%2F06%2F22%2Famerican-presidents-greatest-and-worst%2F&amp;format=xml" rel="alternate" title="oEmbed (XML)" type="text/xml+oembed"/>
+<meta content="Site Kit by Google 1.162.1" name="generator"><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//sri.siena.edu/?wordfence_lh=1&hid=B4333AA3B776FFFCCAF8F021613CA1C4');
+</script> <style type="text/css">
+    	    		.social-nav a:hover, .logo-title, .entry-content a, a:hover, .entry-meta .entry-meta-author, .entry-meta a, .comment-info, blockquote, .pagination a:hover .pagelink { color: #b7b6b5; }
+			.main-nav li:hover, .slicknav_menu, .ticker-title, .breadcrumb a, .breadcrumb .bc-text, .button span, .widget-title span, input[type=submit], table th, .comment-section-title .comment-count, #cancel-comment-reply-link:hover, .pagination .current, .pagination .pagelink { background: #b7b6b5; }
+			blockquote, input[type=text]:hover, input[type=email]:hover, input[type=tel]:hover, input[type=url]:hover, textarea:hover { border-color: #b7b6b5; }
+    	    				.widget-title, .pagination a.page-numbers:hover, .dots:hover, .pagination a:hover .pagelink, .comment-section-title { background: #727271; }
+			.commentlist .depth-1, .commentlist .bypostauthor .avatar { border-color: #727271; }
+    	    				.main-nav, .main-nav ul li:hover > ul, .mh-footer { background: #1b4932; }
+    	    	    	    				.header-nav li a, .main-nav li a, .footer-nav li a, .social-nav .fa-mh-social, .mh-footer, .mh-footer a, .mh-footer .wp-caption-text, .footer-widgets .widget-title { color: #fcc917; }
+    		</style>
+<!--[if lt IE 9]>
+<script src="https://sri.siena.edu/wp-content/themes/mh_newsdesk/js/css3-mediaqueries.js"></script>
+<![endif]-->
+<meta content="Elementor 3.32.2; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto" name="generator"/>
+<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+<link href="https://sri.siena.edu/wp-content/uploads/2023/08/favicon.png" rel="icon" sizes="32x32"/>
+<link href="https://sri.siena.edu/wp-content/uploads/2023/08/favicon.png" rel="icon" sizes="192x192"/>
+<link href="https://sri.siena.edu/wp-content/uploads/2023/08/favicon.png" rel="apple-touch-icon"/>
+<meta content="https://sri.siena.edu/wp-content/uploads/2023/08/favicon.png" name="msapplication-TileImage">
+<style id="wp-custom-css" type="text/css">
+			.gallery-item:hover img {
+    transform: scale(1.05); /* Scales the image to 105% of its original size */
+    transition: transform 0.3s ease-in-out; /* Smooth transition effect */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5); /* Adds shadow around the image */
+}
+		</style>
+</meta></meta></meta></head>
+<body class="wp-singular post-template-default single single-post postid-6371 single-format-standard wp-theme-mh_newsdesk do-etfw ctct-mh_newsdesk mh-right-sb mh-loop-layout1 elementor-default elementor-kit-4536" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<div id="mh-wrapper">
+<header class="mh-header" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+<div class="header-wrap clearfix">
+<div class="mh-col mh-1-3 header-logo-full">
+<a href="https://sri.siena.edu/" rel="home" title="Siena Research Institute">
+<div class="logo-wrap" role="banner">
+<img alt="Siena Research Institute" fetchpriority="high" height="139" src="https://sri.siena.edu/wp-content/uploads/2025/08/cropped-SRI_418x155.png" width="418"/>
+</div>
+</a>
+</div>
+</div>
+<div class="header-menu clearfix">
+<nav class="main-nav clearfix" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<div class="menu-menu-1-container"><ul class="menu" id="menu-menu-1"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-22" id="menu-item-22"><a href="https://sri.siena.edu/category/political/">Political</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9020" id="menu-item-9020"><a href="https://sri.siena.edu/category/political/sny/">SNY</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6802" id="menu-item-6802"><a href="https://sri.siena.edu/category/political/nyt/">In Partnership with The New York Times</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11365" id="menu-item-11365"><a href="https://sri.siena.edu/nyt-links/">NYT Surveys</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10468" id="menu-item-10468"><a href="https://www.nytimes.com/news-event/times-siena-poll-coverage">NYT Coverage</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9385" id="menu-item-9385"><a href="https://sri.siena.edu/category/political/newsday/">In Partnership with Newsday</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6801" id="menu-item-6801"><a href="https://sri.siena.edu/category/political/partnerships/">Partnerships</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2730" id="menu-item-2730"><a href="https://sri.siena.edu/about-us/likely-voter-methodology/">Likely Voter Methodology</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6914" id="menu-item-6914"><a href="https://sri.siena.edu/policy-of-non-partisanship/">Policy of Non-partisanship</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-48" id="menu-item-48"><a href="https://sri.siena.edu/category/economic/">Economic</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10156" id="menu-item-10156"><a href="https://sri.siena.edu/category/economic/ics/">ICS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13019" id="menu-item-13019"><a href="https://sri.siena.edu/coli/">Cost of Living Index (COLI)</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12336" id="menu-item-12336"><a href="https://sri.siena.edu/category/economic/national-ceo/">National CEO</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2943" id="menu-item-2943"><a href="https://sri.siena.edu/business-leaders-study/">NYCEO</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-49" id="menu-item-49"><a href="https://sri.siena.edu/category/social-and-cultural/">Social and Cultural</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9292" id="menu-item-9292"><a href="https://sri.siena.edu/asfs/">American Sports Fanship Survey (ASFS)</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9801" id="menu-item-9801"><a href="https://sri.siena.edu/comd210/">Community Research and Consulting</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7970" id="menu-item-7970"><a href="https://sri.siena.edu/wp-content/uploads/2023/02/Project-Summary-021723.pdf">Hofstra Needed Math Project</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12326" id="menu-item-12326"><a href="https://sri.siena.edu/studying-community-well-being/">Studying Community Well-Being</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5804" id="menu-item-5804"><a href="https://sri.siena.edu/the-american-values-study/">The American Values Study</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2944" id="menu-item-2944"><a href="https://sri.siena.edu/us-presidents-study/">US Presidents Study</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4537" id="menu-item-4537"><a href="https://sri.siena.edu/first-ladies-study/">First Ladies Study</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4567" id="menu-item-4567"><a href="https://sri.siena.edu/upstanders/">Upstanders</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4549" id="menu-item-4549"><a href="https://nasce.siena.edu">NASCE</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4117" id="menu-item-4117"><a href="https://sri.siena.edu/elementor-3970/">Client Services</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10763" id="menu-item-10763"><a href="https://sri.siena.edu/career-jam-info/">Career Jam</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-602" id="menu-item-602"><a href="https://sri.siena.edu/client-services/client-survey-research-process/">Client Survey Research Process</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8797" id="menu-item-8797"><a href="https://sri.siena.edu/diversity-equity-and-inclusion-climate-survey/">Diversity, Equity and Inclusion Climate Survey</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4464" id="menu-item-4464"><a href="https://sri.siena.edu/orgculture/">Organizational Culture Study</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10847" id="menu-item-10847"><a href="https://sri.siena.edu/prescription-for-progress/">Prescription for Progress</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4681" id="menu-item-4681"><a href="https://sri.siena.edu/client-services/sampling-strategies">Sampling Strategies</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-530" id="menu-item-530"><a href="https://sri.siena.edu/about-us/">About Us</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11707" id="menu-item-11707"><a href="https://www.siena.edu/">About Siena University</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10501" id="menu-item-10501"><a href="https://sri.siena.edu/faq/">Frequently Asked Questions (FAQ)</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-597" id="menu-item-597"><a href="https://sri.siena.edu/about-us/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-596" id="menu-item-596"><a href="https://sri.siena.edu/about-us/staff/">Staff</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-598" id="menu-item-598"><a href="https://sri.siena.edu/about-us/work-for-scri/">Work for SRI</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11611" id="menu-item-11611"><a href="https://sri.siena.edu/internship-program/">Internship Program</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-6156" id="menu-item-6156"><a href="https://sri.siena.edu/privacy-policy/" rel="privacy-policy">Privacy Policy</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6152" id="menu-item-6152"><a href="https://sri.siena.edu/events/">Events</a></li>
+</ul></div> </nav>
+<div class="header-sub clearfix">
+<div class="news-ticker mh-col mh-2-3 clearfix" id="ticker">
+<span class="ticker-title">
+			Hot Topics		</span>
+<ul class="ticker-content"> <li class="ticker-item">
+<a class="ticker-item-link" href="https://sri.siena.edu/2025/09/16/hochul-approval-favorability-ratings-up-a-little-favorability-best-since-jan-24-majority-hochul-works-hard-demonstrates-honesty-integrity-plurality-gets-things-done-provides-dec/" title="Hochul Approval/Favorability Ratings Up a Little; Favorability Best Since Jan. ’24; Majority: Hochul Works Hard, Demonstrates Honesty &amp; Integrity; Plurality: Gets Things Done, Provides Decisive Leadership and Cares About People Like You">
+<span class="ticker-item-date">September 16, 2025</span>
+<span class="ticker-item-separator">|</span>
+<span class="ticker-item-title">Hochul Approval/Favorability Ratings Up a Little; Favorability Best Since Jan. ’24; Majority: Hochul Works Hard, Demonstrates Honesty &amp; Integrity; Plurality: Gets Things Done, Provides Decisive Leadership and Cares About People Like You</span>
+</a>
+</li> <li class="ticker-item">
+<a class="ticker-item-link" href="https://sri.siena.edu/2025/09/09/new-york-times-siena-poll-new-york-city-mayoral-race/" title="New York Times/Siena Poll: New York City Mayoral Race">
+<span class="ticker-item-date">September 9, 2025</span>
+<span class="ticker-item-separator">|</span>
+<span class="ticker-item-title">New York Times/Siena Poll: New York City Mayoral Race</span>
+</a>
+</li> <li class="ticker-item">
+<a class="ticker-item-link" href="https://sri.siena.edu/2025/08/27/special-newsday-siena-long-island-progress-report-opportunity/" title="Special Newsday/Siena Long Island Progress Report: Opportunity">
+<span class="ticker-item-date">August 27, 2025</span>
+<span class="ticker-item-separator">|</span>
+<span class="ticker-item-title">Special Newsday/Siena Long Island Progress Report: Opportunity</span>
+</a>
+</li> <li class="ticker-item">
+<a class="ticker-item-link" href="https://sri.siena.edu/2025/08/13/special-newsday-siena-long-island-quality-of-life-progress-report/" title="Special Newsday/Siena Long Island Quality of Life Progress Report">
+<span class="ticker-item-date">August 13, 2025</span>
+<span class="ticker-item-separator">|</span>
+<span class="ticker-item-title">Special Newsday/Siena Long Island Quality of Life Progress Report</span>
+</a>
+</li> <li class="ticker-item">
+<a class="ticker-item-link" href="https://sri.siena.edu/2025/08/12/hochul-approval-favorability-ratings-up-a-little-hochul-lead-over-stefanik-in-2026-race-falls-to-14-points-45-31-from-23-points-47-24-in-june-voters-say-if-stefanik-runs-is-elected-g/" title="Hochul Approval &amp; Favorability Ratings Up a Little; Hochul Lead Over Stefanik In 2026 Race Falls to 14 Points, 45-31%, from 23 Points, 47-24%, in June; Voters Say if Stefanik Runs &amp; Is Elected Gov, It Would Be Bad for NY,49-37%">
+<span class="ticker-item-date">August 12, 2025</span>
+<span class="ticker-item-separator">|</span>
+<span class="ticker-item-title">Hochul Approval &amp; Favorability Ratings Up a Little; Hochul Lead Over Stefanik In 2026 Race Falls to 14 Points, 45-31%, from 23 Points, 47-24%, in June; Voters Say if Stefanik Runs &amp; Is Elected Gov, It Would Be Bad for NY,49-37%</span>
+</a>
+</li> </ul>
+</div> <aside class="mh-col mh-1-3 header-search">
+<form action="https://sri.siena.edu/" class="search-form" method="get" role="search">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input class="search-field" name="s" placeholder="Search …" type="search" value=""/>
+</label>
+<input class="search-submit" type="submit" value="Search"/>
+</form> </aside>
+</div>
+</div>
+</header><div class="mh-section mh-group">
+<div class="mh-content" id="main-content" itemprop="mainContentOfPage" role="main"><nav class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a class="bc-home" href="https://sri.siena.edu" itemprop="item"><span itemprop="name">Home</span></a><meta content="1" itemprop="position"/></span> <span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="https://sri.siena.edu/category/social-and-cultural/" itemprop="item"><span itemprop="name">Social and Cultural</span></a><meta content="2" itemprop="position"/></span></nav>
+<article class="post-6371 post type-post status-publish format-standard has-post-thumbnail hentry category-social-and-cultural tag-american-presidents tag-biden tag-president-survey tag-siena-poll" id="post-6371">
+<header class="entry-header clearfix">
+<h1 class="entry-title">
+			American Presidents: Greatest and Worst		</h1><div class="entry-tags clearfix"><span>TOPICS:</span><a href="https://sri.siena.edu/tag/american-presidents/" rel="tag">American Presidents</a><a href="https://sri.siena.edu/tag/biden/" rel="tag">Biden</a><a href="https://sri.siena.edu/tag/president-survey/" rel="tag">President Survey</a><a href="https://sri.siena.edu/tag/siena-poll/" rel="tag">Siena Poll</a></div> </header>
+<div class="entry-thumbnail">
+<img alt="white house" class="attachment-content-single size-content-single wp-post-image" decoding="async" height="437" sizes="(max-width: 777px) 100vw, 777px" src="https://sri.siena.edu/wp-content/uploads/2022/06/whitehouse-3157445-777x437.jpg" srcset="https://sri.siena.edu/wp-content/uploads/2022/06/whitehouse-3157445-777x437.jpg 777w, https://sri.siena.edu/wp-content/uploads/2022/06/whitehouse-3157445-180x101.jpg 180w, https://sri.siena.edu/wp-content/uploads/2022/06/whitehouse-3157445-260x146.jpg 260w, https://sri.siena.edu/wp-content/uploads/2022/06/whitehouse-3157445-373x210.jpg 373w, https://sri.siena.edu/wp-content/uploads/2022/06/whitehouse-3157445-120x67.jpg 120w" width="777"/></div>
+<p class="entry-meta">
+<span class="entry-meta-author vcard author">Posted By: <a class="fn" href="https://sri.siena.edu/author/knelligan/">Siena University Research Institute</a></span>
+<span class="entry-meta-date updated">June 22, 2022</span>
+</p>
+<div class="entry-content clearfix">
+<p class="has-text-align-center"><strong><em>Siena’s 7<sup>th</sup> Presidential Expert Poll 1982 – 2022</em></strong></p>
+<ul class="wp-block-list">
+<li>Top Five, Rushmore Plus 1 Remain Unchanged; FDR, Lincoln, Washington, Teddy Roosevelt &amp; Jefferson</li>
+<li>Worst Five Again – Andrew Johnson, Buchanan, Trump, Harding &amp; Pierce</li>
+<li>Biden Enters Ranking 19th, LBJ Moves into Top Ten, Obama 11th, Ike firmly 6th, Ronald Reagan rated 18th Best President</li>
+</ul>
+<p><a class="fasc-button fasc-size-large fasc-type-glossy" href="https://sri.siena.edu/wp-content/uploads/2022/06/draft-final.pdf" style="background-color: #006b54; color: #ffffff;">Press Release </a>    <a class="fasc-button fasc-size-large fasc-type-glossy" href="https://sri.siena.edu/wp-content/uploads/2023/02/combinepdf.pdf" style="background-color: #006b54; color: #ffffff;">Rankings, Charts and Tables </a>    <a class="fasc-button fasc-size-large fasc-type-glossy" href="https://sri.siena.edu/wp-content/uploads/2022/06/Graphics-for-Presidents-Release-2.pdf" style="background-color: #006b54; color: #ffffff;">Graphics </a>    <a class="fasc-button fasc-size-large fasc-type-glossy" href="https://sri.siena.edu/wp-content/uploads/2022/06/Pres-Paper-Survey-2022_final.pdf" style="background-color: #006b54; color: #ffffff;">Survey Instrument</a></p>
+<p><strong>Loudonville, NY</strong> – For the seventh time since its inception in 1982, the Siena College Research Institute’s (SCRI) Survey of U.S. Presidents finds that experts rank Franklin D. Roosevelt, Abraham Lincoln, George Washington, Theodore Roosevelt and Thomas Jefferson as the United States’ top five chief executives. The 141 participating presidential scholars agree with their peers over the last 40 years naming the same five leaders as America’s finest. For the second time, scholars include Donald Trump along with Andrew Johnson, James Buchanan, Warren Harding and Franklin Pierce in the bottom five.</p>
+<p>Joseph Biden enters the ranking after only a year in office at 19th rated highly on his ability to compromise (9th), court appointments (10th), executive appointments (10th) and integrity (12th) but lower on luck (34th), his relationship with Congress (31st) and his communication ability (30th). Lyndon Johnson is ranked 8th, entering the top 10 for the first time due to his work with Congress (1st) and court appointments (4th) but weighed down by foreign policy accomplishments (39th) and avoiding crucial mistakes (35th). Barack Obama is in 11th position, his highest ever, Dwight Eisenhower is once again rated the 6th best president and Ronald Reagan remains in the top twenty at 18th scoring highly on luck (3rd), party leadership (6th), communication (7th) and relationship with Congress (8th).</p>
+<p>“The scholars that participate in this study have changed over 40 years but the top five – FDR, Abe, Washington, Teddy and Jefferson remain carved in granite year after year. In fact, this year a large plurality of 41% say that if we added onto Rushmore, it should be FDR’s face gracing the South Dakota hills,” according to Don Levy, SCRI’s director.</p>
+<p>“Four of the worst rated presidents, Andrew Johnson, James Buchanan, Warren Harding and Franklin Pierce have been in the bottom five in each of the seven surveys. History appears to have spoken about those four presidents. Joined now by Donald Trump who gets higher scores for luck, willingness to take risks and party leadership, it is too early to say how history will ultimately rate Mr. Trump. Despite a third, a plurality, saying Trump contributed most of any president to weakening the office, a few would like to see Trump rather than FDR added to Rushmore,” according to Levy.</p>
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="top ten presidents by survey year 2022" class="wp-image-6373" decoding="async" height="228" sizes="(max-width: 685px) 100vw, 685px" src="https://sri.siena.edu/wp-content/uploads/2022/06/top-ten-presidents-by-survey-year-2022.png" srcset="https://sri.siena.edu/wp-content/uploads/2022/06/top-ten-presidents-by-survey-year-2022.png 685w, https://sri.siena.edu/wp-content/uploads/2022/06/top-ten-presidents-by-survey-year-2022-300x100.png 300w" width="685"/></figure></div>
+<p>Scholars rate presidents on each of twenty categories that include attributes – background, imagination, integrity, intelligence, luck and willingness to take risks, abilities – compromising, executive ability, leadership, communication, and overall ability and accomplishments – party leadership, relationship with Congress, court appointments, handling the economy, executive appointments, domestic accomplishments, foreign policy accomplishments and avoiding mistakes. Theodore Roosevelt is rated highest on attributes, Lincoln tops the list on abilities and Franklin Roosevelt leads on accomplishments.</p>
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="Bottom Five presidents by survey year" class="wp-image-6372" decoding="async" height="151" loading="lazy" sizes="(max-width: 760px) 100vw, 760px" src="https://sri.siena.edu/wp-content/uploads/2022/06/Bottom-Five-presidents-by-survey-year.png" srcset="https://sri.siena.edu/wp-content/uploads/2022/06/Bottom-Five-presidents-by-survey-year.png 760w, https://sri.siena.edu/wp-content/uploads/2022/06/Bottom-Five-presidents-by-survey-year-300x60.png 300w" width="760"/></figure></div>
+<p>“While some have questioned the results of this survey, we note that participating scholars for over 40 years have been incredibly consistent in naming the top and most of the bottom presidents. Some presidents like Grant, Eisenhower and Lyndon Johnson have risen and others like Andrew Jackson and Woodrow Wilson have dropped as time took a longer look at their record. Some have argued that the rankings favor Democrats over Republicans but Lincoln and Theodore Roosevelt are in the top five, and Eisenhower is sixth. We don’t ask the historians and political scientists that respond to name their political ideology, just to painstakingly rate each of 45 individual presidents on 20 attributes, abilities and accomplishments,” Levy explained.</p>
+<p><strong><span style="text-decoration: underline;">Survey Odds and Ends</span></strong><br/>• By 44-35%, scholars believe the office of President of the United States has become too powerful.<br/>• 51% say they think the framers of the constitution would say that our system of checks and balances is working not very or not at all well.<br/>• 63% given a choice would argue in favor of electing the President by a national popular vote rather than 17% that prefer the Electoral College.<br/>• By 75-5%, scholars think it at least somewhat or very likely rather than not too or not at all likely that through 2032, the United States will continue to be a democratic republic.<br/>• 69% believe it likely that by 2032 a woman will be elected president.</p>
+<p><strong><u>20 Presidential Categories</u></strong> – <strong>Top and Bottom Two in Each</strong></p>
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img alt="20 Presidential Categories" class="wp-image-6392" decoding="async" height="571" loading="lazy" sizes="(max-width: 726px) 100vw, 726px" src="https://sri.siena.edu/wp-content/uploads/2022/06/20-Presidential-Categories.png" srcset="https://sri.siena.edu/wp-content/uploads/2022/06/20-Presidential-Categories.png 726w, https://sri.siena.edu/wp-content/uploads/2022/06/20-Presidential-Categories-300x236.png 300w" width="726"/></figure></div>
+<p>The Siena College Research Institute (SCRI) Survey of U.S. Presidents is based on responses from 141 presidential scholars, historians and political scientists that responded via mail or web to an invitation to participate. Respondents ranked each of 45 presidents on a scale of 1 (poor) to 5 (excellent) on each of twenty presidential attributes, abilities and accomplishments. Overall rankings were computed by assigning equal weight to each of those twenty categories. For additional information about the survey visit www.siena.edu/sri/research or contact Don Levy at 518-783-2901, dlevy@siena.edu .</p>
+<p class="has-small-font-size">*Grover Cleveland was the 22nd and the 24th president. As such there are 45 unique individuals who have held the U.S. Presidency.</p>
+</div>
+</article><div class="mh-share-buttons mh-group">
+<a class="mh-col mh-1-4 mh-facebook" href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=https://sri.siena.edu/2022/06/22/american-presidents-greatest-and-worst/&amp;t=American Presidents: Greatest and Worst', 'facebookShare', 'width=626,height=436'); return false;" title="Share on Facebook">
+<span class="mh-share-button"><i class="fa fa-facebook fa-2x"></i>SHARE</span>
+</a>
+<a class="mh-col mh-1-4 mh-twitter" href="#" onclick="window.open('http://twitter.com/share?text=American Presidents: Greatest and Worst -&amp;url=https://sri.siena.edu/2022/06/22/american-presidents-greatest-and-worst/', 'twitterShare', 'width=626,height=436'); return false;" title="Tweet This Post">
+<span class="mh-share-button"><i class="fa fa-twitter fa-2x"></i>TWEET</span>
+</a>
+<a class="mh-col mh-1-4 mh-pinterest" href="#" onclick="window.open('http://pinterest.com/pin/create/button/?url=https://sri.siena.edu/2022/06/22/american-presidents-greatest-and-worst/&amp;media=https://sri.siena.edu/wp-content/uploads/2022/06/whitehouse-3157445.jpg&amp;description=American Presidents: Greatest and Worst', 'pinterestShare', 'width=750,height=350'); return false;" title="Pin This Post">
+<span class="mh-share-button"><i class="fa fa-pinterest fa-2x"></i>PIN</span>
+</a>
+</div><nav class="post-nav-wrap" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<ul class="post-nav clearfix">
+<li class="post-nav-prev">
+<a href="https://sri.siena.edu/2022/06/16/%c2%be-of-nyers-say-new-law-requiring-permit-to-get-semi-automatic-weapons-will-be-good-for-the-state-79-hope-supreme-court-upholds-ny-law-requiring-license-to-carry-a-concealed-handgun/" rel="prev"><i class="fa fa-chevron-left"></i>Previous post</a></li>
+<li class="post-nav-next">
+<a href="https://sri.siena.edu/2022/07/01/consumer-sentiment-drops-6-points-lowest-since-2011/" rel="next">Next post<i class="fa fa-chevron-right"></i></a></li>
+</ul>
+</nav>
+<h4 class="widget-title related-content-title">
+<span>Related Articles</span>
+</h4>
+<div class="related-content clearfix"><article class="mh-col mh-1-4 content-grid post-10860 post type-post status-publish format-standard has-post-thumbnail hentry category-nyt category-political tag-2024-election tag-biden tag-hochul tag-national tag-siena-poll tag-trump">
+<div class="content-thumb content-grid-thumb">
+<a href="https://sri.siena.edu/2024/09/19/new-york-times-siena-national-survey-of-likely-voters-9-19-24/" title="New York Times/Siena National Survey of Likely Voters 9/19/24"><img alt="" class="attachment-content-grid size-content-grid wp-post-image" decoding="async" height="101" sizes="(max-width: 180px) 100vw, 180px" src="https://sri.siena.edu/wp-content/uploads/2024/09/0924-NYT-National-Release-Post-Debate-180x101.png" srcset="https://sri.siena.edu/wp-content/uploads/2024/09/0924-NYT-National-Release-Post-Debate-180x101.png 180w, https://sri.siena.edu/wp-content/uploads/2024/09/0924-NYT-National-Release-Post-Debate-300x169.png 300w, https://sri.siena.edu/wp-content/uploads/2024/09/0924-NYT-National-Release-Post-Debate-1024x576.png 1024w, https://sri.siena.edu/wp-content/uploads/2024/09/0924-NYT-National-Release-Post-Debate-768x432.png 768w, https://sri.siena.edu/wp-content/uploads/2024/09/0924-NYT-National-Release-Post-Debate-1536x864.png 1536w, https://sri.siena.edu/wp-content/uploads/2024/09/0924-NYT-National-Release-Post-Debate-777x437.png 777w, https://sri.siena.edu/wp-content/uploads/2024/09/0924-NYT-National-Release-Post-Debate-260x146.png 260w, https://sri.siena.edu/wp-content/uploads/2024/09/0924-NYT-National-Release-Post-Debate-373x210.png 373w, https://sri.siena.edu/wp-content/uploads/2024/09/0924-NYT-National-Release-Post-Debate-120x67.png 120w, https://sri.siena.edu/wp-content/uploads/2024/09/0924-NYT-National-Release-Post-Debate.png 1920w" width="180"/> </a>
+</div>
+<p class="entry-meta">
+<span><a href="https://sri.siena.edu/category/political/nyt/" rel="category tag">In Partnership with The New York Times</a>, <a href="https://sri.siena.edu/category/political/" rel="category tag">Political</a></span>
+</p>
+<h3 class="entry-title content-grid-title">
+<a href="https://sri.siena.edu/2024/09/19/new-york-times-siena-national-survey-of-likely-voters-9-19-24/" rel="bookmark" title="New York Times/Siena National Survey of Likely Voters 9/19/24">
+			New York Times/Siena National Survey of Likely Voters 9/19/24		</a>
+</h3>
+</article>
+<hr class="mh-separator content-grid-separator"/><article class="mh-col mh-1-4 content-grid post-2162 post type-post status-publish format-standard has-post-thumbnail hentry category-political tag-siena-poll">
+<div class="content-thumb content-grid-thumb">
+<a href="https://sri.siena.edu/2010/03/12/peralta-has-huge-lead-heading-into-election-day/" title="Peralta Has Huge Lead Heading Into Election Day"><img alt="Political poll image" class="attachment-content-grid size-content-grid wp-post-image" decoding="async" height="101" sizes="(max-width: 180px) 100vw, 180px" src="https://sri.siena.edu/wp-content/uploads/2018/04/PoliticalGeneric-180x101.png" srcset="https://sri.siena.edu/wp-content/uploads/2018/04/PoliticalGeneric-180x101.png 180w, https://sri.siena.edu/wp-content/uploads/2018/04/PoliticalGeneric-260x146.png 260w, https://sri.siena.edu/wp-content/uploads/2018/04/PoliticalGeneric-373x210.png 373w, https://sri.siena.edu/wp-content/uploads/2018/04/PoliticalGeneric-120x67.png 120w" width="180"/> </a>
+</div>
+<p class="entry-meta">
+<span><a href="https://sri.siena.edu/category/political/" rel="category tag">Political</a></span>
+</p>
+<h3 class="entry-title content-grid-title">
+<a href="https://sri.siena.edu/2010/03/12/peralta-has-huge-lead-heading-into-election-day/" rel="bookmark" title="Peralta Has Huge Lead Heading Into Election Day">
+			Peralta Has Huge Lead Heading Into Election Day		</a>
+</h3>
+</article>
+<hr class="mh-separator content-grid-separator"/><article class="mh-col mh-1-4 content-grid post-3586 post type-post status-publish format-standard has-post-thumbnail hentry category-political tag-2018-election tag-ny24 tag-siena-poll tag-spectrum-news tag-syracuse-com">
+<div class="content-thumb content-grid-thumb">
+<a href="https://sri.siena.edu/2018/10/28/katko-maintains-double-digit-lead-over-balter/" title="Katko Maintains Double-Digit Lead Over Balter"><img alt="Katko Balter Race" class="attachment-content-grid size-content-grid wp-post-image" decoding="async" height="101" sizes="(max-width: 180px) 100vw, 180px" src="https://sri.siena.edu/wp-content/uploads/2018/08/Picture40-180x101.png" srcset="https://sri.siena.edu/wp-content/uploads/2018/08/Picture40-180x101.png 180w, https://sri.siena.edu/wp-content/uploads/2018/08/Picture40-260x146.png 260w, https://sri.siena.edu/wp-content/uploads/2018/08/Picture40-373x210.png 373w, https://sri.siena.edu/wp-content/uploads/2018/08/Picture40-120x67.png 120w" width="180"/> </a>
+</div>
+<p class="entry-meta">
+<span><a href="https://sri.siena.edu/category/political/" rel="category tag">Political</a></span>
+</p>
+<h3 class="entry-title content-grid-title">
+<a href="https://sri.siena.edu/2018/10/28/katko-maintains-double-digit-lead-over-balter/" rel="bookmark" title="Katko Maintains Double-Digit Lead Over Balter">
+			Katko Maintains Double-Digit Lead Over Balter		</a>
+</h3>
+</article>
+<hr class="mh-separator content-grid-separator"/><article class="mh-col mh-1-4 content-grid post-1975 post type-post status-publish format-standard has-post-thumbnail hentry category-political tag-siena-poll">
+<div class="content-thumb content-grid-thumb">
+<a href="https://sri.siena.edu/2010/10/20/cuomo-extends-lead-over-paladino-to-37-points-with-likely-voters/" title="Cuomo Extends Lead over Paladino to 37 Points with Likely Voters"><img alt="Political poll image" class="attachment-content-grid size-content-grid wp-post-image" decoding="async" height="101" sizes="(max-width: 180px) 100vw, 180px" src="https://sri.siena.edu/wp-content/uploads/2018/04/PoliticalGeneric-180x101.png" srcset="https://sri.siena.edu/wp-content/uploads/2018/04/PoliticalGeneric-180x101.png 180w, https://sri.siena.edu/wp-content/uploads/2018/04/PoliticalGeneric-260x146.png 260w, https://sri.siena.edu/wp-content/uploads/2018/04/PoliticalGeneric-373x210.png 373w, https://sri.siena.edu/wp-content/uploads/2018/04/PoliticalGeneric-120x67.png 120w" width="180"/> </a>
+</div>
+<p class="entry-meta">
+<span><a href="https://sri.siena.edu/category/political/" rel="category tag">Political</a></span>
+</p>
+<h3 class="entry-title content-grid-title">
+<a href="https://sri.siena.edu/2010/10/20/cuomo-extends-lead-over-paladino-to-37-points-with-likely-voters/" rel="bookmark" title="Cuomo Extends Lead over Paladino to 37 Points with Likely Voters">
+			Cuomo Extends Lead over Paladino to 37 Points with Likely Voters		</a>
+</h3>
+</article>
+<hr class="mh-separator content-grid-separator"/> </div> </div>
+<aside class="mh-sidebar" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+<div class="sb-widget clearfix widget_media_image" id="media_image-7"><a href="https://sri.siena.edu/faq/"><img alt="" class="image wp-image-13294 attachment-full size-full" decoding="async" height="200" sizes="(max-width: 900px) 100vw, 900px" src="https://sri.siena.edu/wp-content/uploads/2025/08/FAQ-Banner-for-Website-900-x-200-px-1.png" srcset="https://sri.siena.edu/wp-content/uploads/2025/08/FAQ-Banner-for-Website-900-x-200-px-1.png 900w, https://sri.siena.edu/wp-content/uploads/2025/08/FAQ-Banner-for-Website-900-x-200-px-1-300x67.png 300w, https://sri.siena.edu/wp-content/uploads/2025/08/FAQ-Banner-for-Website-900-x-200-px-1-768x171.png 768w" style="max-width: 100%; height: auto;" width="900"/></a></div><div class="sb-widget clearfix widget_archive" id="archives-2"><h4 class="widget-title"><span>Archives</span></h4> <label class="screen-reader-text" for="archives-dropdown-2">Archives</label>
+<select id="archives-dropdown-2" name="archive-dropdown">
+<option value="">Select Month</option>
+<option value="https://sri.siena.edu/2025/09/"> September 2025 </option>
+<option value="https://sri.siena.edu/2025/08/"> August 2025 </option>
+<option value="https://sri.siena.edu/2025/07/"> July 2025 </option>
+<option value="https://sri.siena.edu/2025/05/"> May 2025 </option>
+<option value="https://sri.siena.edu/2025/04/"> April 2025 </option>
+<option value="https://sri.siena.edu/2025/03/"> March 2025 </option>
+<option value="https://sri.siena.edu/2025/02/"> February 2025 </option>
+<option value="https://sri.siena.edu/2025/01/"> January 2025 </option>
+<option value="https://sri.siena.edu/2024/12/"> December 2024 </option>
+<option value="https://sri.siena.edu/2024/11/"> November 2024 </option>
+<option value="https://sri.siena.edu/2024/10/"> October 2024 </option>
+<option value="https://sri.siena.edu/2024/09/"> September 2024 </option>
+<option value="https://sri.siena.edu/2024/08/"> August 2024 </option>
+<option value="https://sri.siena.edu/2024/07/"> July 2024 </option>
+<option value="https://sri.siena.edu/2024/06/"> June 2024 </option>
+<option value="https://sri.siena.edu/2024/05/"> May 2024 </option>
+<option value="https://sri.siena.edu/2024/04/"> April 2024 </option>
+<option value="https://sri.siena.edu/2024/03/"> March 2024 </option>
+<option value="https://sri.siena.edu/2024/02/"> February 2024 </option>
+<option value="https://sri.siena.edu/2024/01/"> January 2024 </option>
+<option value="https://sri.siena.edu/2023/12/"> December 2023 </option>
+<option value="https://sri.siena.edu/2023/11/"> November 2023 </option>
+<option value="https://sri.siena.edu/2023/10/"> October 2023 </option>
+<option value="https://sri.siena.edu/2023/09/"> September 2023 </option>
+<option value="https://sri.siena.edu/2023/08/"> August 2023 </option>
+<option value="https://sri.siena.edu/2023/07/"> July 2023 </option>
+<option value="https://sri.siena.edu/2023/06/"> June 2023 </option>
+<option value="https://sri.siena.edu/2023/05/"> May 2023 </option>
+<option value="https://sri.siena.edu/2023/04/"> April 2023 </option>
+<option value="https://sri.siena.edu/2023/03/"> March 2023 </option>
+<option value="https://sri.siena.edu/2023/02/"> February 2023 </option>
+<option value="https://sri.siena.edu/2023/01/"> January 2023 </option>
+<option value="https://sri.siena.edu/2022/12/"> December 2022 </option>
+<option value="https://sri.siena.edu/2022/11/"> November 2022 </option>
+<option value="https://sri.siena.edu/2022/10/"> October 2022 </option>
+<option value="https://sri.siena.edu/2022/09/"> September 2022 </option>
+<option value="https://sri.siena.edu/2022/08/"> August 2022 </option>
+<option value="https://sri.siena.edu/2022/07/"> July 2022 </option>
+<option value="https://sri.siena.edu/2022/06/"> June 2022 </option>
+<option value="https://sri.siena.edu/2022/04/"> April 2022 </option>
+<option value="https://sri.siena.edu/2022/03/"> March 2022 </option>
+<option value="https://sri.siena.edu/2022/02/"> February 2022 </option>
+<option value="https://sri.siena.edu/2022/01/"> January 2022 </option>
+<option value="https://sri.siena.edu/2021/12/"> December 2021 </option>
+<option value="https://sri.siena.edu/2021/11/"> November 2021 </option>
+<option value="https://sri.siena.edu/2021/10/"> October 2021 </option>
+<option value="https://sri.siena.edu/2021/09/"> September 2021 </option>
+<option value="https://sri.siena.edu/2021/07/"> July 2021 </option>
+<option value="https://sri.siena.edu/2021/06/"> June 2021 </option>
+<option value="https://sri.siena.edu/2021/05/"> May 2021 </option>
+<option value="https://sri.siena.edu/2021/04/"> April 2021 </option>
+<option value="https://sri.siena.edu/2021/03/"> March 2021 </option>
+<option value="https://sri.siena.edu/2021/02/"> February 2021 </option>
+<option value="https://sri.siena.edu/2021/01/"> January 2021 </option>
+<option value="https://sri.siena.edu/2020/11/"> November 2020 </option>
+<option value="https://sri.siena.edu/2020/10/"> October 2020 </option>
+<option value="https://sri.siena.edu/2020/09/"> September 2020 </option>
+<option value="https://sri.siena.edu/2020/07/"> July 2020 </option>
+<option value="https://sri.siena.edu/2020/06/"> June 2020 </option>
+<option value="https://sri.siena.edu/2020/05/"> May 2020 </option>
+<option value="https://sri.siena.edu/2020/04/"> April 2020 </option>
+<option value="https://sri.siena.edu/2020/03/"> March 2020 </option>
+<option value="https://sri.siena.edu/2020/02/"> February 2020 </option>
+<option value="https://sri.siena.edu/2020/01/"> January 2020 </option>
+<option value="https://sri.siena.edu/2019/12/"> December 2019 </option>
+<option value="https://sri.siena.edu/2019/11/"> November 2019 </option>
+<option value="https://sri.siena.edu/2019/10/"> October 2019 </option>
+<option value="https://sri.siena.edu/2019/09/"> September 2019 </option>
+<option value="https://sri.siena.edu/2019/08/"> August 2019 </option>
+<option value="https://sri.siena.edu/2019/07/"> July 2019 </option>
+<option value="https://sri.siena.edu/2019/06/"> June 2019 </option>
+<option value="https://sri.siena.edu/2019/04/"> April 2019 </option>
+<option value="https://sri.siena.edu/2019/03/"> March 2019 </option>
+<option value="https://sri.siena.edu/2019/02/"> February 2019 </option>
+<option value="https://sri.siena.edu/2019/01/"> January 2019 </option>
+<option value="https://sri.siena.edu/2018/12/"> December 2018 </option>
+<option value="https://sri.siena.edu/2018/11/"> November 2018 </option>
+<option value="https://sri.siena.edu/2018/10/"> October 2018 </option>
+<option value="https://sri.siena.edu/2018/09/"> September 2018 </option>
+<option value="https://sri.siena.edu/2018/08/"> August 2018 </option>
+<option value="https://sri.siena.edu/2018/07/"> July 2018 </option>
+<option value="https://sri.siena.edu/2018/06/"> June 2018 </option>
+<option value="https://sri.siena.edu/2018/05/"> May 2018 </option>
+<option value="https://sri.siena.edu/2018/04/"> April 2018 </option>
+<option value="https://sri.siena.edu/2018/03/"> March 2018 </option>
+<option value="https://sri.siena.edu/2018/02/"> February 2018 </option>
+<option value="https://sri.siena.edu/2018/01/"> January 2018 </option>
+<option value="https://sri.siena.edu/2017/12/"> December 2017 </option>
+<option value="https://sri.siena.edu/2017/11/"> November 2017 </option>
+<option value="https://sri.siena.edu/2017/10/"> October 2017 </option>
+<option value="https://sri.siena.edu/2017/09/"> September 2017 </option>
+<option value="https://sri.siena.edu/2017/08/"> August 2017 </option>
+<option value="https://sri.siena.edu/2017/07/"> July 2017 </option>
+<option value="https://sri.siena.edu/2017/05/"> May 2017 </option>
+<option value="https://sri.siena.edu/2017/04/"> April 2017 </option>
+<option value="https://sri.siena.edu/2017/03/"> March 2017 </option>
+<option value="https://sri.siena.edu/2017/02/"> February 2017 </option>
+<option value="https://sri.siena.edu/2017/01/"> January 2017 </option>
+<option value="https://sri.siena.edu/2016/12/"> December 2016 </option>
+<option value="https://sri.siena.edu/2016/11/"> November 2016 </option>
+<option value="https://sri.siena.edu/2016/10/"> October 2016 </option>
+<option value="https://sri.siena.edu/2016/09/"> September 2016 </option>
+<option value="https://sri.siena.edu/2016/08/"> August 2016 </option>
+<option value="https://sri.siena.edu/2016/07/"> July 2016 </option>
+<option value="https://sri.siena.edu/2016/06/"> June 2016 </option>
+<option value="https://sri.siena.edu/2016/05/"> May 2016 </option>
+<option value="https://sri.siena.edu/2016/04/"> April 2016 </option>
+<option value="https://sri.siena.edu/2016/03/"> March 2016 </option>
+<option value="https://sri.siena.edu/2016/02/"> February 2016 </option>
+<option value="https://sri.siena.edu/2016/01/"> January 2016 </option>
+<option value="https://sri.siena.edu/2015/12/"> December 2015 </option>
+<option value="https://sri.siena.edu/2015/11/"> November 2015 </option>
+<option value="https://sri.siena.edu/2015/10/"> October 2015 </option>
+<option value="https://sri.siena.edu/2015/09/"> September 2015 </option>
+<option value="https://sri.siena.edu/2015/07/"> July 2015 </option>
+<option value="https://sri.siena.edu/2015/06/"> June 2015 </option>
+<option value="https://sri.siena.edu/2015/05/"> May 2015 </option>
+<option value="https://sri.siena.edu/2015/04/"> April 2015 </option>
+<option value="https://sri.siena.edu/2015/03/"> March 2015 </option>
+<option value="https://sri.siena.edu/2015/02/"> February 2015 </option>
+<option value="https://sri.siena.edu/2015/01/"> January 2015 </option>
+<option value="https://sri.siena.edu/2014/12/"> December 2014 </option>
+<option value="https://sri.siena.edu/2014/11/"> November 2014 </option>
+<option value="https://sri.siena.edu/2014/10/"> October 2014 </option>
+<option value="https://sri.siena.edu/2014/09/"> September 2014 </option>
+<option value="https://sri.siena.edu/2014/08/"> August 2014 </option>
+<option value="https://sri.siena.edu/2014/07/"> July 2014 </option>
+<option value="https://sri.siena.edu/2014/06/"> June 2014 </option>
+<option value="https://sri.siena.edu/2014/05/"> May 2014 </option>
+<option value="https://sri.siena.edu/2014/04/"> April 2014 </option>
+<option value="https://sri.siena.edu/2014/03/"> March 2014 </option>
+<option value="https://sri.siena.edu/2014/02/"> February 2014 </option>
+<option value="https://sri.siena.edu/2014/01/"> January 2014 </option>
+<option value="https://sri.siena.edu/2013/12/"> December 2013 </option>
+<option value="https://sri.siena.edu/2013/11/"> November 2013 </option>
+<option value="https://sri.siena.edu/2013/10/"> October 2013 </option>
+<option value="https://sri.siena.edu/2013/09/"> September 2013 </option>
+<option value="https://sri.siena.edu/2013/08/"> August 2013 </option>
+<option value="https://sri.siena.edu/2013/07/"> July 2013 </option>
+<option value="https://sri.siena.edu/2013/06/"> June 2013 </option>
+<option value="https://sri.siena.edu/2013/05/"> May 2013 </option>
+<option value="https://sri.siena.edu/2013/04/"> April 2013 </option>
+<option value="https://sri.siena.edu/2013/03/"> March 2013 </option>
+<option value="https://sri.siena.edu/2013/02/"> February 2013 </option>
+<option value="https://sri.siena.edu/2013/01/"> January 2013 </option>
+<option value="https://sri.siena.edu/2012/12/"> December 2012 </option>
+<option value="https://sri.siena.edu/2012/11/"> November 2012 </option>
+<option value="https://sri.siena.edu/2012/10/"> October 2012 </option>
+<option value="https://sri.siena.edu/2012/09/"> September 2012 </option>
+<option value="https://sri.siena.edu/2012/08/"> August 2012 </option>
+<option value="https://sri.siena.edu/2012/07/"> July 2012 </option>
+<option value="https://sri.siena.edu/2012/06/"> June 2012 </option>
+<option value="https://sri.siena.edu/2012/05/"> May 2012 </option>
+<option value="https://sri.siena.edu/2012/04/"> April 2012 </option>
+<option value="https://sri.siena.edu/2012/03/"> March 2012 </option>
+<option value="https://sri.siena.edu/2012/02/"> February 2012 </option>
+<option value="https://sri.siena.edu/2012/01/"> January 2012 </option>
+<option value="https://sri.siena.edu/2011/12/"> December 2011 </option>
+<option value="https://sri.siena.edu/2011/11/"> November 2011 </option>
+<option value="https://sri.siena.edu/2011/10/"> October 2011 </option>
+<option value="https://sri.siena.edu/2011/09/"> September 2011 </option>
+<option value="https://sri.siena.edu/2011/08/"> August 2011 </option>
+<option value="https://sri.siena.edu/2011/07/"> July 2011 </option>
+<option value="https://sri.siena.edu/2011/06/"> June 2011 </option>
+<option value="https://sri.siena.edu/2011/05/"> May 2011 </option>
+<option value="https://sri.siena.edu/2011/04/"> April 2011 </option>
+<option value="https://sri.siena.edu/2011/03/"> March 2011 </option>
+<option value="https://sri.siena.edu/2011/02/"> February 2011 </option>
+<option value="https://sri.siena.edu/2011/01/"> January 2011 </option>
+<option value="https://sri.siena.edu/2010/12/"> December 2010 </option>
+<option value="https://sri.siena.edu/2010/11/"> November 2010 </option>
+<option value="https://sri.siena.edu/2010/10/"> October 2010 </option>
+<option value="https://sri.siena.edu/2010/09/"> September 2010 </option>
+<option value="https://sri.siena.edu/2010/08/"> August 2010 </option>
+<option value="https://sri.siena.edu/2010/07/"> July 2010 </option>
+<option value="https://sri.siena.edu/2010/06/"> June 2010 </option>
+<option value="https://sri.siena.edu/2010/05/"> May 2010 </option>
+<option value="https://sri.siena.edu/2010/04/"> April 2010 </option>
+<option value="https://sri.siena.edu/2010/03/"> March 2010 </option>
+<option value="https://sri.siena.edu/2010/02/"> February 2010 </option>
+<option value="https://sri.siena.edu/2010/01/"> January 2010 </option>
+<option value="https://sri.siena.edu/2009/12/"> December 2009 </option>
+<option value="https://sri.siena.edu/2009/11/"> November 2009 </option>
+<option value="https://sri.siena.edu/2009/10/"> October 2009 </option>
+<option value="https://sri.siena.edu/2009/09/"> September 2009 </option>
+<option value="https://sri.siena.edu/2009/08/"> August 2009 </option>
+<option value="https://sri.siena.edu/2009/07/"> July 2009 </option>
+<option value="https://sri.siena.edu/2009/06/"> June 2009 </option>
+<option value="https://sri.siena.edu/2009/05/"> May 2009 </option>
+<option value="https://sri.siena.edu/2009/04/"> April 2009 </option>
+<option value="https://sri.siena.edu/2009/03/"> March 2009 </option>
+<option value="https://sri.siena.edu/2009/02/"> February 2009 </option>
+<option value="https://sri.siena.edu/2009/01/"> January 2009 </option>
+<option value="https://sri.siena.edu/2008/12/"> December 2008 </option>
+<option value="https://sri.siena.edu/2008/11/"> November 2008 </option>
+<option value="https://sri.siena.edu/2008/10/"> October 2008 </option>
+<option value="https://sri.siena.edu/2008/09/"> September 2008 </option>
+<option value="https://sri.siena.edu/2008/08/"> August 2008 </option>
+<option value="https://sri.siena.edu/2008/07/"> July 2008 </option>
+<option value="https://sri.siena.edu/2008/06/"> June 2008 </option>
+<option value="https://sri.siena.edu/2008/05/"> May 2008 </option>
+<option value="https://sri.siena.edu/2008/04/"> April 2008 </option>
+<option value="https://sri.siena.edu/2008/03/"> March 2008 </option>
+<option value="https://sri.siena.edu/2008/02/"> February 2008 </option>
+<option value="https://sri.siena.edu/2008/01/"> January 2008 </option>
+<option value="https://sri.siena.edu/2007/12/"> December 2007 </option>
+<option value="https://sri.siena.edu/2007/11/"> November 2007 </option>
+<option value="https://sri.siena.edu/2007/10/"> October 2007 </option>
+<option value="https://sri.siena.edu/2007/09/"> September 2007 </option>
+<option value="https://sri.siena.edu/2007/08/"> August 2007 </option>
+<option value="https://sri.siena.edu/2007/07/"> July 2007 </option>
+<option value="https://sri.siena.edu/2007/06/"> June 2007 </option>
+<option value="https://sri.siena.edu/2007/05/"> May 2007 </option>
+<option value="https://sri.siena.edu/2007/04/"> April 2007 </option>
+<option value="https://sri.siena.edu/2007/03/"> March 2007 </option>
+<option value="https://sri.siena.edu/2007/02/"> February 2007 </option>
+<option value="https://sri.siena.edu/2007/01/"> January 2007 </option>
+<option value="https://sri.siena.edu/2006/09/"> September 2006 </option>
+<option value="https://sri.siena.edu/2006/08/"> August 2006 </option>
+<option value="https://sri.siena.edu/2006/07/"> July 2006 </option>
+<option value="https://sri.siena.edu/2006/06/"> June 2006 </option>
+<option value="https://sri.siena.edu/2006/05/"> May 2006 </option>
+<option value="https://sri.siena.edu/2006/04/"> April 2006 </option>
+<option value="https://sri.siena.edu/2006/03/"> March 2006 </option>
+<option value="https://sri.siena.edu/2006/01/"> January 2006 </option>
+<option value="https://sri.siena.edu/2005/12/"> December 2005 </option>
+<option value="https://sri.siena.edu/2005/10/"> October 2005 </option>
+<option value="https://sri.siena.edu/2005/09/"> September 2005 </option>
+<option value="https://sri.siena.edu/2005/06/"> June 2005 </option>
+<option value="https://sri.siena.edu/2005/05/"> May 2005 </option>
+<option value="https://sri.siena.edu/2005/04/"> April 2005 </option>
+<option value="https://sri.siena.edu/2005/03/"> March 2005 </option>
+<option value="https://sri.siena.edu/2005/02/"> February 2005 </option>
+<option value="https://sri.siena.edu/2002/08/"> August 2002 </option>
+<option value="https://sri.siena.edu/1995/01/"> January 1995 </option>
+<option value="https://sri.siena.edu/1990/05/"> May 1990 </option>
+<option value="https://sri.siena.edu/1990/03/"> March 1990 </option>
+</select>
+<script type="text/javascript">
+/* <![CDATA[ */
+
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-2" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+
+/* ]]> */
+</script>
+</div><div class="sb-widget clearfix widget-do-etfw" id="do-etfw-3">
+<a class="twitter-timeline" data-border-color="#f5f5f5" data-height="400" data-link-color="#3b94d9" data-theme="light" data-tweet-limit="6" href="https://twitter.com/SienaResearch">Tweets by @SienaResearch</a>
+</div><div class="sb-widget clearfix widget_media_image" id="media_image-5"><a href="https://www.siena.edu/visit/"><img alt="" class="image wp-image-11716 attachment-full size-full" decoding="async" height="250" src="https://sri.siena.edu/wp-content/uploads/2024/11/24SIEN0157_NYT_Display_300x250.jpg" style="max-width: 100%; height: auto;" width="300"/></a></div></aside></div>
+</div>
+<footer class="mh-footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+<div class="wrapper-inner clearfix">
+</div>
+<div class="footer-bottom">
+<div class="wrapper-inner clearfix">
+<nav class="footer-nav clearfix" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<div class="menu-footer-menu-container"><ul class="menu" id="menu-footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6148" id="menu-item-6148"><a href="https://sri.siena.edu/about-us/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6149" id="menu-item-6149"><a href="https://sri.siena.edu/about-us/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13051" id="menu-item-13051"><a href="https://sri.siena.edu/faq/">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6150" id="menu-item-6150"><a href="https://sri.siena.edu/about-us/work-for-scri/">Work for SRI</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-6147" id="menu-item-6147"><a href="https://sri.siena.edu/privacy-policy/" rel="privacy-policy">Privacy Policy</a></li>
+</ul></div> </nav>
+<div class="copyright-wrap">
+<p class="copyright">
+                    © 2025 Siena Research Institute.  All Rights Reserved.				</p>
+</div>
+</div>
+</div>
+</footer>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/mh_newsdesk\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+<script id="easymega-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var MegamenuWp = {"ajax_url":"https:\/\/sri.siena.edu\/wp-admin\/admin-ajax.php","loading_icon":"<div class=\"mega-spinner\"><div class=\"uil-squares-css\" style=\"transform:scale(0.4);\"><div><div><\/div><\/div><div><div><\/div><\/div><div><div><\/div><\/div><div><div><\/div><\/div><div><div><\/div><\/div><div><div><\/div><\/div><div><div><\/div><\/div><div><div><\/div><\/div><\/div><\/div>","theme_support":{"mobile_mod":720,"disable_auto_css":0,"disable_css":0,"parent_level":0,"content_right":0,"content_left":0,"margin_top":0,"animation":"","child_li":"","ul_css":"","li_css":""},"mega_parent_level":"0","mega_content_left":"0","mega_content_right":"0","animation":"shift-up"};
+/* ]]> */
+</script>
+<script id="easymega-js" src="https://sri.siena.edu/wp-content/plugins/easymega/assets/js/easymega-wp.js?ver=1745517477" type="text/javascript"></script>
+<script id="recaptcha-v2-js" src="https://sri.siena.edu/wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min.js?ver=2.12.0" type="text/javascript"></script>
+<script async="async" defer="" id="recaptcha-lib-v2-js" src="//www.google.com/recaptcha/api.js?hl=en&amp;onload=renderReCaptcha&amp;render=explicit&amp;ver=2.12.0" type="text/javascript"></script>
+<script id="ctct_frontend_forms-js" src="https://sri.siena.edu/wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-frontend.min.js?ver=2.12.0" type="text/javascript"></script>
+<script id="do-etfw-twitter-widgets-js" src="https://sri.siena.edu/wp-content/plugins/easy-twitter-feed-widget/js/twitter-widgets.js?ver=1.0" type="text/javascript"></script>
+<script type="text/javascript">
+			var visualizerUserInteractionEvents = [
+				"scroll",
+				"mouseover",
+				"keydown",
+				"touchmove",
+				"touchstart"
+			];
+
+			visualizerUserInteractionEvents.forEach(function(event) {
+				window.addEventListener(event, visualizerTriggerScriptLoader, { passive: true });
+			});
+
+			function visualizerTriggerScriptLoader() {
+				visualizerLoadScripts();
+				visualizerUserInteractionEvents.forEach(function(event) {
+					window.removeEventListener(event, visualizerTriggerScriptLoader, { passive: true });
+				});
+			}
+
+			function visualizerLoadScripts() {
+				document.querySelectorAll("script[data-visualizer-script]").forEach(function(elem) {
+					jQuery.getScript( elem.getAttribute("data-visualizer-script") )
+					.done( function( script, textStatus ) {
+						elem.setAttribute("src", elem.getAttribute("data-visualizer-script"));
+						elem.removeAttribute("data-visualizer-script");
+						setTimeout( function() {
+							visualizerRefreshChart();
+						} );
+					} );
+				});
+			}
+
+			function visualizerRefreshChart() {
+				jQuery( '.visualizer-front:not(.visualizer-chart-loaded)' ).resize();
+				if ( jQuery( 'div.viz-facade-loaded:not(.visualizer-lazy):empty' ).length > 0 ) {
+					visualizerUserInteractionEvents.forEach( function( event ) {
+						window.addEventListener( event, function() {
+							jQuery( '.visualizer-front:not(.visualizer-chart-loaded)' ).resize();
+						}, { passive: true } );
+					} );
+				}
+			}
+		</script>
+</body>
+</html>
+<!-- Dynamic page generated in 0.321 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2025-09-28 14:12:58 -->
+<!-- super cache -->

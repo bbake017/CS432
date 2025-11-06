@@ -1,0 +1,24 @@
+Bienvenue sur IdRef, Identifiants et référentiels pour l'Enseignement supérieur et la Recherche.
+Cable News Network
+Identifiant pérenne de la notice : 031995845
+URI de l'entité : http://www.idref.fr/031995845/id
+Date de naissance : 01 - 
+                     06 - 
+                     						1980
+Notes
+ChaÎne américaine, fondée le 1er juin 1980 par Ted Turner
+Terme générique
+LCNA, 1977-1986. CNN, the inside story / H. Whittemore, 1990
+Informations sur la notice
+Identifiant de la notice : 031995845
+RCR créateur de la notice : 0004
+Date de création : 17-05-1993
+RCR dernier modificateur de la notice : 991401103
+Date de dernière modification : 05-09-2025 à 08 h 50
+... Références liées : ...
+IdRef - Identifiants et Référentiels pour l'ESR
+L'interface publique IdRef permet la consultation des notices d'autorités produites par les établissements membres des réseaux documentaires de l'ESR (Sudoc, Calames, Star).
+IdRef est à la disposition des usagers professionnels habilités à créer/corriger/enrichir les notices d'autorité (authentification requise).
+A partir d'IdRef, une gamme de services (triple store data.idref.fr, entrepôt OAI-PMH, APIs) est disponible en accès libre pour faciliter la réutilisation des données.
+Pour les développeurs
+

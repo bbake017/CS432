@@ -1,0 +1,19 @@
+About Us
+Preferences
+We aim to make this site accessible to a wide audience and ensure a great experience for all users by conforming to World Wide Web Consortium accessibility guidelines (W3C's WCAG).
+However, if you are having trouble reading this website, you can change the way it looks or disable some of its functionalities.
+Allow flashing elements Untick this to disable flashing and moving elements
+Allow autoplay video Untick this to disable autoplaying video
+We offer beta support for a dark colour scheme on the web. The colour scheme preference will follow your system settings.
+Participate in the dark colour scheme beta Tick this to opt in (browser will refresh)
+Accessibility
+May 2022
+Recommended browsers
+The Guardian website aims to support all major browsers available today. Unfortunately, we can’t support every version of every browser
+May 31 2022 07.54 EDT
+January 2017
+Help us improve the Guardian website's accessibility
+Guardian Digital are interested in speaking to people who have accessibility needs and who could help us improve our online products
+Jan 21 2017 06.44 EST
+Explore more on these topics
+

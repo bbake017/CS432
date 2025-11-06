@@ -1,0 +1,53 @@
+S&P 500 and its 125-day moving average
+S&P 500
+125-day moving average
+S&P 500 and its 125-day moving average
+It’s useful to look at stock market levels compared to where they’ve been over the past few months. When the S&P 500 is above its moving or rolling average of the prior 125 trading days, that’s a sign of positive momentum. But if the index is below this average, it shows investors are getting skittish. The Fear & Greed Index uses slowing momentum as a signal for Fear and a growing momentum for Greed.
+It’s useful to look at stock market levels compared to where they’ve been over the past few months. When the S&P 500 is above its moving or rolling average of the prior 125 trading days, that’s a sign of positive momentum. But if the index is below this average, it shows investors are getting skittish.  The Fear & Greed Index uses slowing momentum as a signal for Fear and a growing momentum for Greed.
+stock price strength
+Net new 52-week highs and lows on the NYSE
+Net new 52-week highs and lows on the NYSE
+A few big stocks can skew returns for the market. It’s important to also know how many stocks are doing well versus those that are struggling. This shows the number of stocks on the NYSE at 52-week highs compared to those at 52-week lows. When there are many more highs than lows, that’s a bullish sign and signals Greed.
+A few big stocks can skew returns for the market. It’s important to also know how many stocks are doing well versus those that are struggling. This shows the number of stocks on the NYSE at 52-week highs compared to those at 52-week lows. When there are many more highs than lows, that’s a bullish sign and signals Greed.
+stock price breadth
+McClellan Volume Summation Index
+McClellan Volume Summation Index
+The market is made up of thousands of stocks. And on any given day, investors are actively buying and selling them. This measure looks at the amount, or volume, of shares on the NYSE that are rising compared to the number of shares that are falling. A low (or even negative) number is a bearish sign. The Fear & Greed Index uses decreasing trading volume as a signal for Fear.
+Market breadth strong
+Market breadth weak
+The market is made up of thousands of stocks. And on any given day, investors are actively buying and selling them. This measure looks at the amount, or volume, of shares on the NYSE that are rising compared to the number of shares that are falling. A low (or even negative) number is a bearish sign. The Fear & Greed Index uses decreasing trading volume as a signal for Fear.
+put and call options
+5-day average put/call ratio
+5-day average put/call ratio
+Options are contracts that give investors the right to buy or sell stocks, indexes or other financial securities at an agreed upon price and date. Puts are the option to sell while calls are the option to buy. When the ratio of puts to calls is rising, it is usually a sign investors are growing more nervous. A ratio above 1 is considered bearish. The Fear & Greed Index uses a bearish options ratio as a signal for Fear.
+Options are contracts that give investors the right to buy or sell stocks, indexes or other financial securities at an agreed upon price and date. Puts are the option to sell while calls are the option to buy. When the ratio of puts to calls is rising, it is usually a sign investors are growing more nervous. A ratio above 1 is considered bearish.  The Fear & Greed Index uses a bearish options ratio as a signal for Fear.
+market volatility
+VIX and its 50-day moving average
+VIX
+50-day moving average
+VIX and its 50-day moving average
+The most well-known measure of market sentiment is the CBOE Volatility Index, or VIX. The VIX measures expected price fluctuations or volatility in the S&P 500 Index options over the next 30 days. The VIX often drops on days when the broader market rallies and soars when stocks plunge. But the key is to look at the VIX over time. It tends to be lower in bull markets and higher when the bears are in control. The Fear & Greed Index uses increasing market volatility as a signal for Fear.
+The most well-known measure of market sentiment is the CBOE Volatility Index, or VIX. The VIX  measures expected price fluctuations or volatility in the S&P 500 Index options over the next 30 days. The VIX often drops on days when the broader market rallies and soars when stocks plunge. But the key is to look at the VIX over time. It tends to be lower in bull markets and higher when the bears are in control. The Fear & Greed Index uses increasing market volatility as a signal for Fear.
+safe haven demand
+Difference in 20-day stock and bond returns
+Difference in 20-day stock and bond returns
+Stocks are riskier than bonds. But the reward for investing in stocks over the long haul is greater. Still, bonds can outperform stocks over short periods. Safe Haven Demand shows the difference between Treasury bond and stock returns over the past 20 trading days. Bonds do better when investors are scared. The Fear & Greed Index uses increasing safe haven demand as a signal for Fear.
+Stocks outperforming Bonds
+Bonds outperforming Stocks
+Stocks are riskier than bonds. But the reward for investing in stocks over the long haul is greater. Still, bonds can outperform stocks over short periods. Safe Haven Demand shows the difference between Treasury bond and stock returns over the past 20 trading days. Bonds do better when investors are scared. The Fear & Greed Index uses increasing safe haven demand as a signal for Fear.
+junk bond demand
+Yield spread: junk bonds vs. investment grade
+Yield spread: junk bonds vs. investment grade
+Junk bonds carry a higher risk of default compared to other bonds. Bond yields – or the return you get on investing in a bond - dip when prices go up. If investors crave junk bonds, the yields drop. Likewise, yields rise when people are selling. So a smaller difference (or spread) between yields for junk bonds and safer government bonds is a sign investors are taking on more risk. A wider spread shows more caution. The Fear & Greed Index uses junk bond demand as a signal for Greed.
+Note: The frequent drops of the yield spread on the Junk Bond Demand chart usually appear on the ex-dividend date. The spread typically bounces back after the dividend is paid and normalizes over time.
+Junk bonds carry a higher risk of default compared to other bonds. Bond yields – or the return you get on investing in a bond -  dip when prices go up. If investors crave junk bonds, the yields drop. Likewise, yields rise when people are selling. So a smaller difference (or spread) between yields for junk bonds and safer government bonds is a sign investors are taking on more risk. A wider spread shows more caution. The Fear & Greed Index uses junk bond demand as a signal for Greed.
+FEAR & GREED INDEX FAQs
+What is the CNN Business Fear & Greed Index?
+The Fear & Greed Index is a way to gauge stock market movements and whether stocks are fairly priced. The theory is based on the logic that excessive fear tends to drive down share prices, and too much greed tends to have the opposite effect.
+How is Fear & Greed Calculated?
+The Fear & Greed Index is a compilation of seven different indicators that measure some aspect of stock market behavior. They are market momentum, stock price strength, stock price breadth, put and call options, junk bond demand, market volatility, and safe haven demand. The index tracks how much these individual indicators deviate from their averages compared to how much they normally diverge. The index gives each indicator equal weighting in calculating a score from 0 to 100, with 100 representing maximum greediness and 0 signaling maximum fear.
+How often is the Fear & Greed Index calculated?
+Every component and the Index are calculated as soon as new data becomes available.
+How to use Fear & Greed Index?
+The Fear & Greed Index is used to gauge the mood of the market. Many investors are emotional and reactionary, and fear and greed sentiment indicators can alert investors to their own emotions and biases that can influence their decisions. When combined with fundamentals and other analytical tools, the Index can be a helpful way to assess market sentiment.
+

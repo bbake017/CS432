@@ -1,0 +1,242 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<html>
+<head>
+<meta content="14:01:57" name="ora"/>
+<meta content="06-12-2000" name="datait"/>
+<meta content="2000-12-06" name="data"/>
+<meta content="laRepubblica" name="owner"/>
+<meta content="IES v2.5.8.8 (Nov 14 2000)" name="creatore"/>
+<meta content="online" name="pub"/>
+<meta content="ti" name="sz"/>
+<meta content="tecnologie_internet" name="sezione"/>
+<meta content="cnn" name="servizio"/>
+<meta content="cnn" name="articolo"/>
+<meta content="Roma-Atlanta via web Parte CNN Italia" name="titolo"/>
+<meta content="" name="firma"/>
+<meta content="12" name="corpoCar"/>
+<meta content="altro" name="subSez"/>
+<meta content="" name="paroleChiave"/>
+<meta content="l.bartoletti" name="vistoSiStampi"/>
+<meta content="http://www.repubblica.it/online/tecnologie_internet/cnn/cnn/cnn.html" name="NATIVEDOC"/>
+<meta content="text/html;CHARSET=iso-8859-1" http-equiv="Content-Type"/>
+<title>la Repubblica/tecnologie_internet: Roma-Atlanta via web Parte CNN Italia</title>
+</head>
+<body alink="#000000" bgcolor="#FFFFFF" link="#0A3990" text="#000000" vlink="#000000">
+<!-- Inizio DaStrippare --> <!-- Fine DaStrippare -->
+<a name="inizio">
+<table border="0" cellpadding="0" cellspacing="0" width="601">
+<tbody><tr>
+<td bgcolor="#FFFFFF" rowspan="2" valign="TOP" width="91">
+<p align="RIGHT"><a href="/"><img align="BOTTOM" border="0" height="90" src="/images/logo_new.gif" width="90"/></a>
+</p></td>
+<td align="LEFT" bgcolor="#FFFFFF" rowspan="2" valign="TOP" width="246">
+<!-- Inizio logo settore --><img height="90" src="/images/rep_tecnologie_internet_new.gif" width="227"/><!-- Fine logo settore -->
+</td>
+<td align="RIGHT" bgcolor="#FFFFFF" valign="TOP" width="256">
+<!-- Inizio logo pubblicita_settore --><!--spacedesc=tecnologie_internet-->
+<!--#include virtual="/includes/adtags/tecnologie_internet/tecnologie_internet234x60.html"-->
+<!--/spacedesc-->
+<!-- Fine logo pubblicita_settore -->
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" width="256"><!--vuoto--></td>
+</tr>
+<tr>
+<td align="RIGHT" bgcolor="#FFFFFF" colspan="3" height="22"> </td>
+</tr>
+<tr>
+<td valign="TOP" width="91"><a href="/"><img align="BOTTOM" border="0" height="38" src="/images/homepage.gif" width="90"/></a><br/>
+<br/>
+<!--#include virtual="/includes/online/sezioni.txt"-->
+<br/>
+<br/> <!-- inizio linkEst --><!-- fine linkEst --><br/>
+<!-- Inizio logo2 pubblicita_settore --><!-- Fine logo2 pubblicita_settore --> </td>
+<td colspan="2" valign="TOP"><!-- tabella degli articoli -->
+<table border="0" cellpadding="4" cellspacing="0" width="100%">
+<tbody><tr>
+<td bgcolor="#EFEFEF" valign="TOP" width="350"><font face="Arial,Helvetica"><font size="2"><i>
+<!-- inizio OCCHIELLO -->L'iniziativa realizzata da una joint venture<br/>tra il gruppo Usa e l'Editoriale l'Espresso<!-- fine OCCHIELLO --></i></font><br/>
+<br/>
+<font size="5"><b>
+<!-- inizio TITOLO -->Roma-Atlanta via web<br/>Parte CNN Italia<!-- fine TITOLO --></b></font><br/>
+<font size="2"><i>
+<!-- inizio SOMMARIO --><!-- fine SOMMARIO --></i></font><br/><br/>
+<font face="Arial,Helvetica" size="1"><i><b>
+<!-- inizio FIRMA --><!-- fine FIRMA --></b></i></font>
+</font></td>
+<td bgcolor="#EFEFEF" valign="TOP" width="100"> </td>
+</tr>
+<tr>
+<td bgcolor="#EFEFEF" valign="TOP" width="350">
+<hr align="LEFT" noshade="" size="1"/>
+<font face="Arial,Helvetica">
+<!-- inizio TESTO --><img align="RIGHT" src="/online/tecnologie_internet/cnn/cnn/internet2cnncxw200h030c00.jpg" width="200"/>
+<b>ROMA </b>- E' attivo da oggi il sito CNN Italia, notiziario Internet in italiano operativo 24 ore su 24. L'iniziativa Ã¨ stata lanciata da CNN Interactive e dal Gruppo Editoriale L'Espresso, tramite Kataweb, la sua Internet company. CNN Italia Ã¨ la prima joint venture di CNN Interactive per un sito web non in lingua inglese.<br/>
+<br/>
+Il sito conterrÃ  notizie internazionali provenienti dal servizio Internet della americana CNN, versione web della tv di informazione leader mondiale. A queste si aggiungeranno le notizie sull'Italia. Il nuovo sito Ã¨ realizzato da due redazioni giornalistiche, una a Roma e una ad Atlanta. <br/>
+<br/>
+"CNN Italia rende disponibile per i navigatori italiani tutto il patrimonio di risorse giornalistiche della CNN, assicurato da  36 redazioni, 850 affiliate e 4 mila professionisti di tutto il mondo", afferma Scott Woelfel, senior vice president di CNN, direttore generale e direttore responsabile di CNN Interactive.<br/>
+<br/>
+"Siamo convinti di portare sul mercato dell'informazione - spiega Paolo Garimberti, direttore di CNN Italia - un'offerta davvero unica e innovativa e siamo fiduciosi che questa offerta incontri il gradimento di coloro che da oggi si collegheranno con il nostro sito. Ma, come tutti i nuovi progetti, avremo bisogno di tempo per mettere a punto il nostro prodotto. PerciÃ² ogni suggerimento, ogni critica sono benvenuti e invitiamo i nostri lettori ad aprire un dialogo con noi".<br/>
+<br/>
+CNN Italia ospiterÃ  notizie in continuo aggiornamento che potranno essere integrate anche da servizi audio e video. Il sito avrÃ  dieci sezioni: notizie dal mondo, notizie dall'Italia, previsioni meteo per oltre 4 mila cittÃ  di tutto il mondo, sport, salute, tecnologie, approfondimenti, costume, intrattenimento, e finanza con le quotazioni borsistiche in tempo reale.<br/>
+<br/>
+In aggiunta, CNN Italia include due speciali, uno sul bug dell'anno 2000 e uno sulla storia del millennio, "Millennium", realizzata dalla CNN.com in dieci puntate.<br/>
+<br/>
+CNN Italia Ã¨ il sesto sito internet di CNN Interactive non in lingua inglese: gli altri sono in spagnolo, portoghese, svedese, danese e norvegese. <br/>
+<br/>
+<i>(15 novembre 1999)</i><!-- fine TESTO --><br/> </font></td>
+<td bgcolor="#EFEFEF" nowrap="" valign="TOP" width="100">
+<font face="Arial Narrow,Helvetica" size="2">
+<!-- inizio linkInt -->
+<font size="2"><p></p><hr align="CENTER" noshade="" size="1"/><font size="2"><!-- inserisci puntowap.html --><a href="/online/tecnologie_internet/cnn/wap/wap.html">Le notizie<br/>di CnnItalia.it<br/>sul telefonino</a></font>
+<br/><b><br/>DALL'ARCHIVIO<br/>di Repubblica.it</b><br/>
+<img height="10" src="/images/pallaombra.gif" width="14"/><font size="2"><a href="/online/tecnologie_internet/cnn/cnn/cnn.html">Al via Cnn Italia</a></font>
+<br/><br/><b>IN RETE<br/>(in italiano)</b><br/>
+<font size="2"><a href="/cgi-bin/back.cgi?mainlink=http://www.cnnitalia.it&amp;backlink=http://www.repubblica.it/online/tecnologie_internet/cnn/cnn/cnn.html">CnnItalia</a></font>
+<br/><br/>
+<font size="2"><a href="/cgi-bin/back.cgi?mainlink=http://www.wind.it&amp;backlink=http://www.repubblica.it/online/tecnologie_internet/cnn/cnn/cnn.html">Wind</a></font><hr align="CENTER" noshade="" size="1"/><p></p></font>
+<!-- fine linkInt --> </font></td>
+</tr>
+</tbody></table><!-- /tabella degli articoli -->
+</td>
+</tr>
+<tr>
+<td align="CENTER" valign="TOP" width="91"><a href="#inizio"><img border="0" height="32" src="/images/inizio_new.gif" width="91"/></a></td>
+<td align="LEFT" colspan="2" valign="BOTTOM"><br/>
+<!-- Inizio logo3 pubblicita_settore --><!-- Fine logo3 pubblicita_settore -->
+</td>
+</tr>
+</tbody></table>
+<!--beenz_tag-->
+<!--#include virtual="/includes/2002/bottom.html"-->
+</a><script type="text/javascript">
+  window.Zephr = window.Zephr || {};
+  window.Zephr.includeOutcomes = true;
+  window.Zephr.outcomesAsEvents = true;
+  window.Zephr.groupFields = true;
+(function() {
+    var xhr = new(XMLHttpRequest || ActiveXObject)('MSXML2.XMLHTTP.3.0');
+    xhr.open('GET', '/blaize/datalayer', true);
+    xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4) {
+            var response;
+            try {
+                response = JSON.parse(xhr.response);
+            } catch (e) {
+                response = xhr.response;
+            }
+            if (xhr.status === 200) {
+                for (var dataLayerFieldName in response) {
+                    if (!(dataLayerFieldName in window)) window[dataLayerFieldName] = [];
+
+                    var pageView = response[dataLayerFieldName];
+                    var events = [];
+
+                    if (window.Zephr && window.Zephr.includeOutcomes && window.Zephr.outcomes) {
+                        pageView.zephrOutcomes = window.Zephr.outcomes;
+
+                        if (window.Zephr.outcomesAsEvents) {
+                            Object.keys(window.Zephr.outcomes || []).forEach(function(outcomeKey) {
+                                var outcomeEvent = {
+                                    event: "zephr-outcome-" + outcomeKey,
+                                    featureId: outcomeKey,
+                                    featureLabel: window.Zephr.outcomes[outcomeKey].featureLabel,
+                                    outcomeId: window.Zephr.outcomes[outcomeKey].outcomeId,
+                                    outcomeLabel: window.Zephr.outcomes[outcomeKey].outcomeLabel,
+                                };
+                                events.push(outcomeEvent);
+                            });
+                        }
+                    }
+                    if (window.Zephr && window.Zephr.accessDetails) {
+                        Object.keys((window.Zephr.accessDetails.trials || {})).forEach(function(trialId){
+                            var trial = window.Zephr.accessDetails.trials[trialId]
+                            if(trial.reportInDataLayer){
+                                var usedCredits = trial.totalCredits - trial.remainingCredits
+                                if (window.Zephr.groupFields && !pageView.zephrTrials) pageView.zephrTrials = {};
+                                var target = window.Zephr.groupFields ? pageView.zephrTrials : pageView
+                                if (trial.dataLayerCreditsUsedKey) {
+                                   target[trial.dataLayerCreditsUsedKey] = usedCredits;
+                                }
+                                if (trial.dataLayerCreditsRemainingKey) {
+                                   target[trial.dataLayerCreditsRemainingKey] = trial.remainingCredits;
+                                }
+                            }
+                        });
+                        (window.Zephr.accessDetails.trialTrackingDetails || []).forEach(function(details) {
+                            var type = details.entitlementType === 'credits' ? 'credits' : 'meters';
+                            var trial = (window.Zephr.accessDetails[type] || {})[details.entitlementId];
+                            if (!trial) return;
+                            if (window.Zephr.groupFields && !pageView.zephrTrials) pageView.zephrTrials = {};
+                            if (details.creditsRemainingKey) {
+                                if (window.Zephr.groupFields) {
+                                    pageView.zephrTrials[details.creditsRemainingKey] = trial.remainingCredits;
+                                } else {
+                                    pageView[details.creditsRemainingKey] = trial.remainingCredits;
+                                }
+                            }
+                            if (details.creditsUsedKey) {
+                                if (window.Zephr.groupFields) {
+                                    pageView.zephrTrials[details.creditsUsedKey] = trial.totalCredits - trial.remainingCredits;
+                                } else {
+                                    pageView[details.creditsUsedKey] = trial.totalCredits - trial.remainingCredits;
+                                }
+                            }
+                        });
+                        try {
+                          (Object.keys(window.Zephr.accessDetails.timeTrials || {})).forEach(function(timeTrialId) {
+                               var timeTrial = window.Zephr.accessDetails.timeTrials[timeTrialId]
+                               if(timeTrial.reportInDataLayer){
+                                   if (window.Zephr.groupFields && !pageView.zephrTrials) pageView.zephrTrials = {};
+                                   var target = window.Zephr.groupFields ? pageView.zephrTrials : pageView
+
+                                   if (timeTrial.dataLayerTrialDurationKey) {
+                                    target[timeTrial.dataLayerTrialDurationKey] = timeTrial.trialDuration;
+                                   }
+                                   if (timeTrial.dataLayerTrialDurationUnitsKey) {
+                                    target[timeTrial.dataLayerTrialDurationUnitsKey] = timeTrial.trialDurationUnits;
+                                   }
+                                   if (timeTrial.dataLayerTrackerEntryTimeKey) {
+                                    target[timeTrial.dataLayerTrackerEntryTimeKey] = timeTrial.entryTime;
+                                   }
+                                   if (timeTrial.dataLayerTrackerHitsKey) {
+                                    target[timeTrial.dataLayerTrackerHitsKey] = timeTrial.trackerHits;
+                                   }
+                                   if (timeTrial.dataLayerTrialTimeRemainingKey) {
+                                    target[timeTrial.dataLayerTrialTimeRemainingKey] = timeTrial.timeRemainingInTrial;
+                                   }
+                               }
+                          });
+                        } catch (err) {
+                          console.error("Error aggregating Zephr time trials", err);
+                        }
+                    }
+                    if (Object.keys(pageView).length) {
+                        pageView.event = "zephr-pageview";
+                        events.unshift(pageView);
+                    }
+                    if (!events.length) continue;
+
+                    events.forEach(function(event) {
+                        window[dataLayerFieldName].push(event);
+                    });
+                }
+                var readyEvent = document.createEvent('Event');
+                readyEvent.initEvent('zephr.dataLayerReady', true, true);
+                document.dispatchEvent(readyEvent);
+            }
+        }
+    }
+    xhr.send({});
+})();
+</script>
+<script type="text/javascript">
+  if (!window.Zephr) window.Zephr = {};
+  window.Zephr.accessDetails = {"isAuthenticated":false,"accessDecisions":{},"entitlements":{},"credits":{},"meters":{},"trials":{},"timeTrials":{},"trialTrackingDetails":[{"creditsUsedKey":"rlc_used1","creditsRemainingKey":"rlc_rema1","entitlementId":"1obPAs","entitlementType":"meter"},{"creditsUsedKey":"crter_1","creditsRemainingKey":"crter_2","entitlementId":"IwKC30","entitlementType":"meter"},{"creditsUsedKey":"rlc10_used1","creditsRemainingKey":"rlc10_rema1","entitlementId":"NM1VNs","entitlementType":"meter"}],"testGroups":{"03acccb8-8418-469c-9413-94e4af8c6962":"B","04268b89-337b-4373-bfd6-456a7df94e6c":"C","0b3fca1e-46fb-4fb4-bd88-b6423d9d8c62":"B","0ceb39bc-1dce-45a4-9c98-98cb27112aab":"B","0f01b9c2-be9b-4b64-b8c5-6c9d59463a76":"B","12ad6c0a-93b6-4d09-ba35-72bedfa2d71f":"A","1b101ffa-95d3-40f0-bf7b-1b1034843850":"B","1b39cceb-fd50-43cf-b416-f467d4b524b3":"A","20ace5ba-2ec8-4b5f-a2ec-e754807c2425":"C","2136ee66-a6ee-4eda-9d70-d5e082d0080e":"A","3ef018f4-33fa-4036-82f3-9e0a100d35d1":"A","43b150ff-41b2-4e29-b03d-00ef61491e61":"A","44eaac12-0f6d-4e0a-82a1-f379a92ebb8d":"A","497f71d5-14dd-4448-8e85-e23a3feacc14":"A","4ffbe8f6-2dcc-4c3a-a6dd-df35ea9f1575":"A","5129f57f-616f-4ce5-aa69-6312de527e43":"A","51885a1a-d12e-4313-bb8b-ebf2fd2e0720":"B","529359f3-ac75-46bb-90c6-58d06f8e6655":"B","5413e28c-f496-4979-a490-7a3f8758fab4":"B","61e3a934-aad5-4d9f-87c3-0092a1f0a6ea":"D","6575d3f2-2bb2-4641-ab18-55a71f76c6ff":"B","6fdc4d8c-0866-4f9f-80b0-b826d640da01":"B","7024e44c-0a15-46d1-aa2a-33dce1ee5c29":"A","70913037-b04b-4cdb-a319-2c18ef8ce2e4":"C","7190b360-8e12-46a1-9716-46fc6c322d13":"A","71abd2d3-1af8-40da-9043-352c6aa2c3a6":"A","746fb34e-7416-479f-a38e-2cb4c88b49c9":"A","7c36653e-a25d-4acd-b90f-377708b86530":"B","7d0552dd-bca3-4653-a764-10b44d672f16":"A","803eb1b6-d3d6-416c-8ade-b33c8368c40a":"A","8581677e-28b4-4e08-b8b4-de1efa6a6d89":"A","866a771a-f916-4dab-b13f-314a7a19302c":"A","878679bf-19c9-4977-889c-4207334282bd":"C","89b08766-b0fd-4346-a5f7-67befc7d5696":"A","8a1e6bc2-bf44-445b-82ec-9282461bbbc4":"B","8c5d5081-cd8e-42a2-8a1d-57c2d644f5a4":"A","961f253b-332d-4f3d-8536-44c7d16d80f4":"A","98568817-9ddf-4b4e-9f39-ba5e98d55a5a":"B","a49dcf27-70af-47c1-ac39-2a85bed62e59":"B","a4a7e675-f5c5-4a26-a906-de573fe989e3":"A","a77d428c-b376-451c-8dae-6083634dd194":"A","aa9f545a-811d-4d19-a765-1f54aaf14157":"A","abfe2d73-acf8-4d9f-865f-0fe5243f9113":"A","ae8b6b6e-6db8-4cac-8ab5-58e56a5e8063":"A","affbdc21-5fcc-4719-be37-b0565e610d45":"B","b0135bc5-16cb-423d-b71a-c17d5f8e9df5":"A","b6f3b988-5679-4740-a303-34daefd8681e":"A","b7cf3a85-8d05-4704-ae1e-98400fd012d2":"A","c2b70a46-767a-44ba-9951-e60904c0805f":"A","c3627a30-c97b-4e23-ad4e-c1f5a47a388b":"B","c58e96b6-49cc-470e-a0b9-b9a4f8f029be":"B","c5e4569d-833f-4fba-9ed4-83e13a3cf89f":"B","d0c95b0a-88a6-4893-9d3a-4dd13374ad63":"E","d4caece8-b073-435c-95a3-4e7d096872c7":"C","e28a3bd5-7065-4ac0-ba8e-4520a3544935":"A","ee6b7c8e-8b85-46f3-a362-2e0feca04260":"B","f87dfb18-d532-4d98-bf91-f068c33ad3af":"B","fa4d2df9-d4d0-4fcc-a10f-58024e500cac":"A","ff1abf78-62b8-4dec-b9b9-bda0c0d26bec":"B"},"activeProducts":[]};
+</script>
+</body>
+</html>
+

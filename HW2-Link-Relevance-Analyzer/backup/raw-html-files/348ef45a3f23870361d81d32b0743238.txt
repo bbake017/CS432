@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<meta charset="utf-8"/>
+<title>CNN Weekly News Quiz: September 26, 2025 - CNN</title>
+<meta content="width=device-width initial-scale=1 shrink-to-fit=no" name="viewport"/>
+<meta content="index,follow" name="robots"/>
+<meta content="noarchive" name="googlebot"/>
+<meta content="5 Things Weekly News Quiz" name="title"/>
+<meta content="" name="description"/>
+<meta content="" name="keywords"/>
+<meta content="" name="news_keywords"/>
+<meta content="us" name="section"/>
+<meta content="CNN" name="source"/>
+<meta content="" name="subsection"/>
+<meta content="CNN" name="application-name"/>
+<meta content="" property="og:description"/>
+<meta content="https://media.cnn.com/api/v1/images/stellar/prod/20250925-news-quiz-split-0925.jpg?c=original" property="og:image"/>
+<meta content="5 Things Weekly News Quiz" property="og:title"/>
+<meta content="Article" property="og:type"/>
+<meta content="https://www.cnn.com/interactive/2025/09/us/cnn-5-things-news-quiz-sep-26-sec/" property="og:url"/>
+<meta content="690014395" property="fb:admins"/>
+<meta content="80401312489" property="fb:app_id"/>
+<meta content="" name="twitter:description"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@cnn" name="twitter:site"/>
+<meta content="759251" name="twitter:site:id"/>
+<meta content="@cnn" name="twitter:creator"/>
+<meta content="https://media.cnn.com/api/v1/images/stellar/prod/20250925-news-quiz-split-0925.jpg?c=original" name="twitter:image"/>
+<link href="http://rss.cnn.com/rss/cnn_topstories.rss" rel="alternate" title="CNN - Top Stories [RSS]"/>
+<link href="http://rss.cnn.com/rss/cnn_latest.rss" rel="alternate" title="CNN - Recent Stories [RSS]"/>
+<link href="http://edition.cnn.com" hreflang="en" rel="alternate" title="CNN International"/>
+<link href="http://arabic.cnn.com" hreflang="ar" rel="alternate" title="CNN Arabic"/>
+<link href="http://mexico.cnn.com" hreflang="es" rel="alternate" title="CNN Mexico"/>
+<link href="http://i.cdn.turner.com/cnn/.e/img/3.0/global/misc/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="https://ix.cnn.io/static/fonts/fonts.css" rel="stylesheet"/>
+<link href="https://www.cnn.com/interactive/2025/09/us/cnn-5-things-news-quiz-sep-26-sec/" rel="canonical"/>
+<script src="https://www.cnn.com/wmuc/cnn_user_consent.min.js"></script>
+<script src="https://i.cdn.turner.com/ads/adfuel/adfuel-3.0.43.js"></script>
+<script type="text/javascript">
+    // set the branding if necessary on the correct global object (CNN or CNNI)
+    var editionRef = window.location.href.indexOf("edition") > 0 ? 'CNNI' : 'CNN';
+    window[editionRef] = window[editionRef] || {}; window[editionRef]['adTargets']
+    = window[editionRef]['adTargets'] || {};
+    window[editionRef]['adTargets']['spec'] = '5_things_to_know';
+    window[editionRef]['adTargets']['cep'] = `16B6`
+  </script>
+<script type="text/javascript">
+    window.CNN = window.CNN || {}; window.CNN.adTargets = window.CNN.adTargets ||
+    {}; window.CNN.adTargets.spec = '5_things_to_know';
+  </script>
+<script>
+    window.CNN = window.CNN || {}; window.CNN.interactive = window.CNN.interactive
+    || {}; window.CNN.omniture = { "branding_ad_page": "", "branding_ad_zone":
+    ["", "", ""], "branding_ad_container": ["", "", ""], "branding_ad_card": ["",
+    "", ""], "branding_content_page": "",
+    "branding_content_zone": ["", "", ""], "branding_content_container": ["", "",
+    ""], "branding_content_card": ["", "", ""], "cap_author": "",
+    "cap_content_type": "article", "cap_genre": "", "cap_franchise": "",
+    "cap_media_type": "", "cap_show_name": "", "cap_topic": "", "friendly_name": "",
+    "full_gallery": "", "gallery_name": "", "gallery_slide": "", "grid_size": "",
+    "headline": "", "ireport_assignment": "", "publish_date": "2025-09-25",
+    "rs_flag": "", "search_results_count": "", "search_results_page": "",
+    "search_term": "", "section": ["us", "",
+    "interactives", "", ""], "template_type": "interactive", "video_collection":
+    "", "video_hpt": "", "video_opportunity": "", "video_player_type": "" }
+    window.CNN.bitlyUrl = 'https://cnn.it/41dFTE3'; var editionizeRegistry =
+    function(registry) { return (window.location.href.indexOf("edition") > -1 ||
+    window.location.href.indexOf('localhost') > -1) ? registry :
+    registry.split('cnni').join('cnn'); }
+  
+  </script>
+<script>
+    var adRegistry = 'https://cdn.cnn.com/ads/cnn/cnn_us_leaf_inter.js'; var
+    adType = (window.innerWidth > 769) ? 'bnr' : 'rect';
+    window.AdFuel.queueRegistry( editionizeRegistry(adRegistry), { sync: true,
+    syncSlots: [], slots: [ `ad_bnr_atf_01`, `ad_${adType}_btf_02`,
+    `ad_${adType}_btf_03`, `ad_${adType}_btf_04`, ], dispatch: true, });
+  </script>
+<script src="https://lightning.cnn.com/launch/7be62238e4c3/97fa00444124/launch-2878c87af5e3.min.js" type="text/javascript"></script>
+<script>
+    var _sf_async_config = _sf_async_config || {}; _sf_async_config.uid = 37612;
+    _sf_async_config.domain = window.location.host; _sf_async_config.useCanonical
+    = true; _sf_async_config.sections = 'us'; _sf_async_config.scrollElement =
+    true; (function() { function loadChartbeat() { window._sf_endpt = (new
+    Date()).getTime(); var e = document.createElement('script');
+    e.setAttribute('language', 'javascript'); e.setAttribute('type',
+    'text/javascript'); e.setAttribute('src',
+    '//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); } var
+    oldonload = window.onload; window.onload = (typeof window.onload !=
+    'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+  </script>
+<script type="application/ld+json">
+    { "@context": "http://schema.org/", "@type": "NewsArticle", "headline": "CNN Weekly News Quiz: September 26, 2025",
+    "image": { "@type": "ImageObject", "url": "https://media.cnn.com/api/v1/images/stellar/prod/20250925-news-quiz-split-0925.jpg?c=4x3",
+    "height": 360, "width": 640 }, "keywords": "", "publisher": { "@type":
+    "Organization", "name": "CNN", "logo": { "@type": "ImageObject", "url":
+    "https://amp.cnn.com/static/cnn-publisher-image.png", "width": 103, "height":
+    60 } }, "author": { "@type": "Organization", "name": "CNN", "logo": { "@type":
+    "ImageObject", "url": "https://amp.cnn.com/static/cnn-publisher-image.png",
+    "width": 103, "height": 60 } }, "url": "https://www.cnn.com/interactive/2025/09/us/cnn-5-things-news-quiz-sep-26-sec/",
+    "mainEntityOfPage": { "@type": "WebPage", "@id": "CNN Weekly News Quiz: September 26, 2025" },
+    "dateCreated": "2025-09-25", "dateModified": "2025-09-25",
+    "datePublished": "2025-09-25", "description": "" }
+  </script>
+<script crossorigin="" src="./assets/index-BaQqn8N1.js" type="module"></script>
+<link crossorigin="" href="./assets/index-DEVAF_m1.css" rel="stylesheet"/>
+<body>
+<div class="app" style="opacity: 0;">
+<section class="ad-slot-header">
+<div class="ad-slot-header__container adSlotPlaceholder">
+<div class="ad-slot" id="ad_bnr_atf_01"></div>
+<div class="ad-feedback-link__label">Advertisement</div>
+</div>
+</section>
+<nav class="cnnix--nav__container">
+<div class="cnnix--nav__content">
+<a class="cnnix--nav__logo" href="//www.cnn.com">
+<svg height="40" viewbox="0 0 53.54 53.54" width="40" xmlns="https://www.w3.org/2000/svg">
+<title>CNN</title>
+<g>
+<path d="M0 0h53.54v53.54H0z" fill="#c00"></path>
+<g fill="#fff">
+<path d="M10.85 26.77a4.08 4.08 0 0 1 4.08-4.08H18v-2.32h-3.09a6.4 6.4 0 1 0 0 12.8h6a.65.65 0 0 0 .61-.61V20.71a1.39 1.39 0 0 1 1-1.37 1.53 1.53 0 0 1 1.74.83L28 26.64l3.63 6.26a.65.65 0 0 0 .7.41.47.47 0 0 0 .34-.48V20.71a1.39 1.39 0 0 1 1-1.37 1.53 1.53 0 0 1 1.73.83l3.48 6 3.9 6.73a.65.65 0 0 0 .7.41.47.47 0 0 0 .34-.48v-15.7h-2.27v9.34l-4.05-7c-2.5-4.15-7.12-2.47-7.12 1.17v5.83l-4.05-7c-2.46-4.18-7.11-2.45-7.11 1.15v9.58a.64.64 0 0 1-.64.65h-3.65a4.08 4.08 0 0 1-4.08-4.08z"></path>
+<path d="M44.79 17.13v15.7a1.38 1.38 0 0 1-1.38 1.42 1.59 1.59 0 0 1-1.41-.88l-3.91-6.74-3.48-6a.65.65 0 0 0-.61-.4.47.47 0 0 0-.33.48v12.12a1.39 1.39 0 0 1-1 1.37 1.53 1.53 0 0 1-1.74-.83l-3.69-6.27-3.75-6.46a.65.65 0 0 0-.7-.41.47.47 0 0 0-.34.48v11.85a1.57 1.57 0 0 1-1.53 1.53h-6a7.32 7.32 0 1 1 0-14.65H18v-2.31h-3.09a9.64 9.64 0 1 0 0 19.28H21a3.5 3.5 0 0 0 3.79-3.85v-5.5l4.05 7c2.46 4.18 7.11 2.45 7.11-1.15v-5.85L40 34c2.46 4.18 7.11 2.45 7.11-1.15V17.13h-2.32z"></path>
+</g>
+</g>
+</svg>
+</a>
+<div class="cnnix--nav__tray">
+<a class="games-nav-tray" href="https://www.cnn.com/games" target="_blank">
+      			Games
+      			</a>
+<h3 class="cnnix--nav__title">
+      				5 Things Weekly News Quiz
+      			</h3>
+</div>
+<div class="cnnix__header__nav__contents__share">
+<a class="share__icon facebook" data-trackmetric="sharing: facebook-nav" data-trackmetrictype="social-click" href="https://www.facebook.com/sharer/sharer.php?u=https://www.cnn.com/interactive/2025/09/us/cnn-5-things-news-quiz-sep-26-sec/" id="facebook-nav" style="margin-right:10px;" target="_blank">
+<svg aria-hidden="true" class="facebook-icon" fill="" height="64" viewbox="0 0 64 64" width="64" xmlns="https://www.w3.org/2000/svg">
+<path d="M56,5.1H8c-1.6,0-3,1.4-3,3v48.8c0,1.7,1.3,3,3,3h25.9V38.7h-7v-8.3h7v-6.1 c0-7.1,4.3-10.9,10.5-10.9c3,0,5.9,0.2,6.7,0.3v7.7h-4.7c-3.4,0-4.1,1.6-4.1,4v5h8.1l-1,8.3h-7v21.2H56c1.6,0,3-1.4,3-3V8.1 C59,6.4,57.7,5.1,56,5.1">
+</path>
+</svg>
+</a>
+<a class="share__icon twitter" data-trackmetric="sharing: twitter-nav" data-trackmetrictype="social-click" href="https://twitter.com/intent/tweet?text=&amp;url=https://www.cnn.com/interactive/2025/09/us/cnn-5-things-news-quiz-sep-26-sec/" id="twitter-nav" target="_blank">
+<svg aria-hidden="true" class="x-icon" fill="" height="64" viewbox="0 0 24 24" width="64" xmlns="https://www.w3.org/2000/svg">
+<path d="M13.903 10.469 21.348 2h-1.764l-6.465 7.353L7.955 2H2l7.808 11.12L2 22h1.764l6.828-7.765L16.044 22H22l-8.097-11.531Zm-2.417 2.748-.791-1.107L4.4 3.3h2.71l5.08 7.11.791 1.107 6.604 9.242h-2.71l-5.389-7.542Z">
+</path>
+</svg>
+</a>
+</div>
+</div>
+</nav>
+<header class="total-recall_hero">
+<figure class="header--hero-carousel">
+<div class="header--hero-carousel__item crossfade slow active" data-type="hero-image">
+<img class="header--hero-carousel__item-src" src="https://media.cnn.com/api/v1/images/stellar/prod/51732391125-a6a60014c4-k.jpg?c=original"/>
+<p class="header--hero-carousel__item-credit">Thomas Marshburn/NASA</p>
+</div>
+<div class="header--hero-carousel__item crossfade slow" data-type="hero-image">
+<img class="header--hero-carousel__item-src" src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236214805.jpg?c=original"/>
+<p class="header--hero-carousel__item-credit">Ming Yeung/Getty Images</p>
+</div>
+<div class="header--hero-carousel__item crossfade slow" data-type="hero-image">
+<img class="header--hero-carousel__item-src" src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235873759.jpg?c=original"/>
+<p class="header--hero-carousel__item-credit">Justin Tallis/AFP/Getty Images</p>
+</div>
+</figure>
+<div class="_container _container-s">
+<h1 class="_heading-xxl">Weekly News Quiz: September 26, 2025</h1>
+<div class="header-content__byline">
+<p>By Alexandra Banner and Kenneth Uzquiano</p>
+</div>
+<div class="header-content__timestamp">
+</div>
+</div>
+</header>
+<div class="intro--container">
+<div class="intro--container__copy _heading-m">
+<p class="paragraph">A natural disaster. A controversial memoir. A pricey cell phone. What do you remember from the week that was?</p>
+<p class="paragraph">Keep up with the news you need. <a href="https://www.cnn.com/newsletters/5-things?source=five-things-quiz_top-ctr" target="_blank">Sign up for the 5 Things newsletter.</a></p>
+</div>
+</div>
+<section id="quiz">
+<div class="quiz--question questionBlock desatBlur is-ready">
+<div class="quiz--question__content">
+<div class="quiz--question__number five-things">
+<div class="digit-container"><span class="digit"><svg viewbox="0 0 63.6 111.9"><path d="M6.6,108.3c8.3,0,11-2.7,11-10.7V27.8c0-6.6-3.6-9.6-6.8-9.6c-2.7,0-5.5,0.6-10.2,1.9v-3.6c16-5,25.8-9.4,34.5-16.5h11.9v99.7c0,6.1,3.1,8.6,10.7,8.6h5.8v3.6H0v-3.6H6.6z"></path></svg></span></div>
+</div>
+<h3 class="_heading-m">Which over-the-counter medication has President Donald Trump controversially linked to autism?</h3>
+<div class="_question-block_media">
+<figure class="quiz--question-image">
+<div class="quiz--question-image__src">
+<img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236788534.jpg?c=original"/>
+</div>
+<div class="quiz--question-image__credit">Justin Sullivan/Getty Images</div>
+</figure>
+</div>
+<div class="_question-block_options">
+<button class="_button _question-block_option questionOption" value="">Advil</button>
+<button class="_button _question-block_option questionOption" value="">Aleve</button>
+<button class="_button _question-block_option questionOption" value="true">Tylenol</button>
+<button class="_button _question-block_option questionOption" value="">Zyrtec</button>
+</div>
+<div class="_question-block_answer-response answerResponse">
+<div>
+<span class="answerResponseHeading"></span>
+<p class="_question-block_answer-response__copy">President Trump made an announcement Monday <a href="https://www.cnn.com/2025/09/22/health/trump-autism-announcement-cause-tylenol" target="_blank">linking autism to Tylenol use during pregnancy</a>, contradicting decades of evidence that itâs safe.</p>
+</div>
+</div>
+</div>
+</div>
+<section class="_advertisement">
+<div class="_container">
+<div class="ad-slot" id="ad_bnr_btf_02"></div>
+<div class="ad-slot" id="ad_rect_btf_02"></div>
+</div>
+</section>
+<div class="quiz--question questionBlock desatBlur">
+<div class="quiz--question__content">
+<div class="quiz--question__number five-things">
+<div class="digit-container"><span class="digit"><svg viewbox="0 0 70.7 114.1"><path d="M70.5,75.4c-0.2,13.7-1.4,20.4-4.7,26.8c-3.9,7.5-10.2,11.9-17.1,11.9c-10.5,0-16.3-5.5-25.1-16.2c-5.5-6.6-7.5-8.2-10.8-8.2c-3-0.2-5.6,2.2-5.8,5.2c0,0.2,0,0.4,0,0.6c0.2,1.3,0.5,2.6,0.9,3.8c0.9,2.6,1.5,5.4,1.6,8.2c0,4.1-1.4,6.3-4.1,6.3C1.9,113.7,0,110.5,0,105c0-15.7,13.7-29.5,24.2-40.2c14.4-14.7,17.3-18.6,17.3-37.6c0-9.6-1.4-15.1-4.9-18.5c-2.9-2.7-6.7-4.3-10.7-4.2c-11,0-19.5,10.5-19.5,15.9c0,1.6,0.8,2.2,2.7,2.2c0.8,0,4.7-0.6,5.6-0.6c7.1,0,11.5,4.9,11.5,12.6c0,7.2-4.9,12.2-11.8,12.2c-8.6,0-14-6.3-14-16.3C0.5,11.5,12.6,0,32.3,0C56,0,70.7,11.5,70.7,30.1c0,17.9-13.5,24.3-27.3,31.1c-19.9,9.6-23.5,13-33.3,25.1c3.5-0.5,7-0.8,10.5-0.9c4.2,0,8.4,0.4,12.6,1.1c5.9,1.1,11.8,1.6,17.7,1.7c12.6,0,15.5-2.7,16.2-12.9L70.5,75.4z"></path></svg></span></div>
+</div>
+<h3 class="_heading-m">Which type of natural disaster recently forced a massive evacuation in southern China?</h3>
+<div class="_question-block_media">
+<figure class="quiz--question-image">
+<div class="quiz--question-image__src">
+<img src="https://media.cnn.com/api/v1/images/stellar/prod/ap25267278005053.jpg?c=original"/>
+</div>
+<div class="quiz--question-image__credit">Cheong Kam Ka/AP</div>
+</figure>
+</div>
+<div class="_question-block_options">
+<button class="_button _question-block_option questionOption" value="">Earthquake</button>
+<button class="_button _question-block_option questionOption" value="">Volcanic eruption</button>
+<button class="_button _question-block_option questionOption" value="true">Typhoon</button>
+<button class="_button _question-block_option questionOption" value="">Wildfire</button>
+</div>
+<div class="_question-block_answer-response answerResponse">
+<div>
+<span class="answerResponseHeading"></span>
+<p class="_question-block_answer-response__copy">Nearly 2 million people in Chinaâs Guangdong province were evacuated as <a href="https://www.cnn.com/2025/09/23/asia/typhoon-ragasa-hong-kong-southern-china-impact-intl-hnk" target="_blank">Typhoon Ragasa</a> slammed into one of the world's most densely populated coasts.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="quiz--question questionBlock desatBlur">
+<div class="quiz--question__content">
+<div class="quiz--question__number five-things">
+<div class="digit-container"><span class="digit"><svg viewbox="0 0 70.2 114"><path d="M40.8,24c0-15.9-2.4-19.5-13.2-19.5c-8,0-15.9,4.7-15.9,8.5c0,1.1,1.1,1.9,3.9,2.4C24,17,25.6,22.3,25.6,27c0,6.2-5.1,11.2-11.3,11.2c0,0,0,0,0,0c-7.4,0-12.6-6-12.6-14.4C1.7,10.4,15.4,0,33.1,0c20.1,0,34.5,11.5,34.5,27.5c0,10.8-7.4,20.1-19.3,24.3c-2.3,0.9-4.4,1.4-9.6,2.3C49.1,56.2,54.3,58.4,60,63c6.5,5.1,10.3,13,10.2,21.3c0,10.4-7.5,29.7-38.9,29.7C12.1,114,0,104.4,0,89.3c0-9.1,5-14.8,12.9-14.8c6.6,0,10.7,4.1,10.7,10.7c0,5.5-2.4,8.6-8.2,10.8c-3.6,1.4-4.6,2.4-4.6,4.6c0,4.7,6.7,9.1,14,9.1c16,0,16-13.7,16-25.8c0-17.6-0.6-21.7-4.4-25c-2.2-1.9-5-2.9-7.9-2.8c-1.4,0-8.3,1.4-9.9,1.4c-2.7,0-4.2-1.3-4.2-3.5c0-1.8,1.6-3.1,4.2-3.1c0.9,0.1,1.8,0.2,2.7,0.5c2.7,0.7,5.5,1,8.3,1.1c9.6,0,11.1-5.5,11.1-19.8V24z"></path></svg></span></div>
+</div>
+<h3 class="_heading-m">Which political figure kicked off a book tour this week?</h3>
+<div class="_question-block_media">
+<figure class="quiz--question-image">
+<div class="quiz--question-image__src">
+<img src="https://media.cnn.com/api/v1/images/stellar/prod/ap25267835202315.jpg?c=original"/>
+</div>
+<div class="quiz--question-image__credit">Angelina Katsanis/AP</div>
+</figure>
+</div>
+<div class="_question-block_options">
+<button class="_button _question-block_option questionOption" value="">Joe Biden</button>
+<button class="_button _question-block_option questionOption" value="true">Kamala Harris</button>
+<button class="_button _question-block_option questionOption" value="">Barack Obama</button>
+<button class="_button _question-block_option questionOption" value="">Nancy Pelosi</button>
+</div>
+<div class="_question-block_answer-response answerResponse">
+<div>
+<span class="answerResponseHeading"></span>
+<p class="_question-block_answer-response__copy">Former Vice President Kamala Harris <a href="https://www.cnn.com/2025/09/24/politics/kamala-harris-book-tour-protesters" target="_blank">kicked off her book tour this week</a> in New York City, with both supporters and protesters in attendance.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="quiz--question questionBlock">
+<div class="quiz--question__content">
+<div class="quiz--question__number five-things">
+<div class="digit-container"><span class="digit"><svg viewbox="0 0 71 111.8"><path d="M48,0h14.3v73.3h8.5v10.5h-8.3V100c0,5.5,2.4,7.8,8.5,8.3v3.4H22.8v-3.6h2.8c5.2,0,8.2-3,8.2-8V83.7H0v-9.9L48,0z M33.6,29L4.9,73.2h28.7V29z"></path></svg></span></div>
+</div>
+<h3 class="_heading-m">What recently caused widespread check-in disruptions at major European airports, including Londonâs Heathrow?</h3>
+<div class="_question-block_media">
+<figure class="quiz--question-image">
+<div class="quiz--question-image__src">
+<img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235873759.jpg?c=original"/>
+</div>
+<div class="quiz--question-image__credit">Justin Tallis/AFP/Getty Images</div>
+</figure>
+</div>
+<div class="_question-block_options">
+<button class="_button _question-block_option questionOption" value="true">Cyberattack</button>
+<button class="_button _question-block_option questionOption" value="">Airport security strike</button>
+<button class="_button _question-block_option questionOption" value="">Immigration protest</button>
+<button class="_button _question-block_option questionOption" value="">Flooding</button>
+</div>
+<div class="_question-block_answer-response answerResponse">
+<div>
+<span class="answerResponseHeading"></span>
+<p class="_question-block_answer-response__copy">A man was arrested this week in connection with a cyberattack that <a href="https://www.cnn.com/2025/09/24/uk/european-airports-cyberattack-man-arrested-intl" target="_blank">knocked out automatic check-in systems</a> at some of Europeâs busiest airports.</p>
+</div>
+</div>
+</div>
+</div>
+<section class="_advertisement">
+<div class="_container">
+<div class="ad-slot" id="ad_bnr_btf_03"></div>
+<div class="ad-slot" id="ad_rect_btf_03"></div>
+</div>
+</section>
+<div class="quiz--question questionBlock photoquestion">
+<div class="quiz--question__content">
+<div class="quiz--question__number five-things">
+<div class="digit-container"><span class="digit"><svg viewbox="0 0 69.4 114.4"><path d="M10.3,0h3.3C19.7,2.7,26,3.6,37.5,3.6C47,3.6,51.1,3,58.5,0h5c-2.2,7.2-5.2,12.4-9.4,16.5c-6.6,6.3-16.8,10.2-27.3,10.2c-4.8,0-9.5-0.5-14.1-1.6L11.1,52c7.1-7.1,12.7-9.5,21.9-9.5c20.9,0,36.4,15.4,36.4,35.8c0,10.4-2.5,17.4-8.5,23.7c-8,8.2-18.8,12.4-31.9,12.4c-23.9,0-29-17.9-29-24.7c-0.1-10.5,4.9-16.6,13.6-16.6c6.9,0,11.9,4.7,11.9,11.2c0,6.8-3.9,10.5-11.5,11.8c-4.4,0.6-5.7,1.7-5.7,4.6c0,3.8,7.1,9.6,17.3,9.6c14.4,0,14.4-9.3,14.4-32.3V67.5c0-16-2.7-20.7-11.8-20.7c-6.9,0-12.2,3.6-17.9,12.4H7.2L10.3,0z"></path></svg></span></div>
+</div>
+<h3 class="_heading-m">Global leaders gathered in New York City this week to attend which annual meeting?</h3>
+<div class="_question-block_media">
+<figure class="quiz--question-image">
+<div class="quiz--question-image__src">
+<img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236934324.jpg?c=original"/>
+</div>
+<div class="quiz--question-image__credit">Chip Somodevilla/Getty Images</div>
+</figure>
+</div>
+<div class="_question-block_options">
+<button class="_button _question-block_option questionOption" value="">World Economic Forum</button>
+<button class="_button _question-block_option questionOption" value="">G7 Summit</button>
+<button class="_button _question-block_option questionOption" value="true">UN General Assembly</button>
+<button class="_button _question-block_option questionOption" value="">NATO Summit</button>
+</div>
+<div class="_question-block_answer-response answerResponse">
+<div>
+<span class="answerResponseHeading"></span>
+<p class="_question-block_answer-response__copy">World leaders convened at the <a href="https://www.cnn.com/2025/09/23/politics/takeaways-trump-un-speech" target="_blank">80th United Nations General Assembly</a> at UN headquarters in Manhattan.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="quiz--question questionBlock">
+<div class="quiz--question__content">
+<div class="quiz--question__number five-things">
+<div class="digit-container"><span class="digit"><svg viewbox="0 0 70.3 114"><path d="M26.4,55.9c4.9-6.3,10.5-8.8,17.9-8.8c14.7,0,26.1,13.5,26.1,31.2C70.3,99.5,57,114,37.5,114C14.1,114,0,93.4,0,59.2C0,35,5,20.3,17.1,9.4C23.8,3.2,32.6-0.2,41.8,0c13.8,0,23.9,9,23.9,21.2c0,9.3-5.2,15.2-13.2,15.2c-6.6,0-11.6-5.2-11.6-12.1c0-6.3,3.3-10.2,9.9-11.3c2.8-0.5,4.4-1.4,4.4-3.1c0-3.3-5.3-6.3-11.3-6.3C30,3.6,26.4,15.5,26.4,35.8V55.9z M26.4,94.5c0,10.8,2.7,15.7,8.6,15.7c4.9,0,6.6-3.9,6.6-10.5V64.4c0-6.3-0.2-11.2-6-11.2c-5.6,0-9.3,9.4-9.3,20.3L26.4,94.5z"></path></svg></span></div>
+</div>
+<h3 class="_heading-m">Which Jewish holiday was celebrated this week?</h3>
+<div class="_question-block_media">
+<figure class="quiz--question-image">
+<div class="quiz--question-image__src">
+<img src="https://media.cnn.com/api/v1/images/stellar/prod/2025-09-22t143851z-90495691-rc2ywgavpts0-rtrmadp-3-ukraine-crisis-religion-pilgrims.jpg?c=original"/>
+</div>
+<div class="quiz--question-image__credit">Reuters</div>
+</figure>
+</div>
+<div class="_question-block_options">
+<button class="_button _question-block_option questionOption" value="">Passover</button>
+<button class="_button _question-block_option questionOption" value="">Yom Kippur</button>
+<button class="_button _question-block_option questionOption" value="true">Rosh Hashanah</button>
+<button class="_button _question-block_option questionOption" value="">Shavuot</button>
+</div>
+<div class="_question-block_answer-response answerResponse">
+<div>
+<span class="answerResponseHeading"></span>
+<p class="_question-block_answer-response__copy"><a href="https://www.cnn.com/world/rosh-hashanah-fast-facts" target="_blank">Rosh Hashanah</a>, the Jewish New Year, began at sundown on Monday and was celebrated through nightfall on Wednesday.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="quiz--question questionBlock">
+<div class="quiz--question__content">
+<div class="quiz--question__number five-things">
+<div class="digit-container"><span class="digit"><svg viewbox="0 0 67.5 114"><path d="M0,0h3.5v18.4c1.1-1.7,1.1-1.9,2-3.4C11.1,6,17.9,0,28.4,0c6.4,0,12.4,3.5,20.2,11.8c3.1,3.5,5,4.4,7.8,4.4s6.6-2.2,6.6-4.7c-0.1-1.3-0.5-2.5-1.2-3.6c-0.8-1.2-1.2-2.6-1.3-4.1c0-2.2,0.9-3.3,3-3.3c2.7,0,3.9,2,3.9,6.3c0,13.7-7.1,25.1-11,31.6c-6.9,11.3-12.9,21-12.9,33.1c0,2.8,1.2,16.8,1.2,19.9c0,14.6-5.2,22.6-14.6,22.6c-8.6,0-14.3-7.1-14.3-17.6c0-19.2,16.7-37.2,22-42.9l4.1-4.5c9.4-10,14.3-15.8,18.5-26.5c-10.7,7.5-13.8,9-20.7,9c-7.4,0-11.6-1.9-19-8.5c-4.9-4.3-6.9-5.4-9.7-5.4c-5.2,0-7.7,4.2-7.7,12.6v15.4H0V0z"></path></svg></span></div>
+</div>
+<h3 class="_heading-m">Around what year is NASA planning to de-orbit and retire the International Space Station?</h3>
+<div class="_question-block_media">
+<figure class="quiz--question-image">
+<div class="quiz--question-image__src">
+<img src="https://media.cnn.com/api/v1/images/stellar/prod/51732391125-a6a60014c4-k.jpg?c=original"/>
+</div>
+<div class="quiz--question-image__credit">Thomas Marshburn/NASA</div>
+</figure>
+</div>
+<div class="_question-block_options">
+<button class="_button _question-block_option questionOption" value="true">2030</button>
+<button class="_button _question-block_option questionOption" value="">2050</button>
+<button class="_button _question-block_option questionOption" value="">2070</button>
+<button class="_button _question-block_option questionOption" value="">2090</button>
+</div>
+<div class="_question-block_answer-response answerResponse">
+<div>
+<span class="answerResponseHeading"></span>
+<p class="_question-block_answer-response__copy">NASA is working with private companies to develop a modern successor to the aging International Space Station. The agency plans to <a href="https://www.cnn.com/science/vast-worlds-first-commercial-space-station-spc" target="_blank">de-orbit the ISS around 2030</a>.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="quiz--question questionBlock">
+<div class="quiz--question__content">
+<div class="quiz--question__number five-things">
+<div class="digit-container"><span class="digit"><svg viewbox="0 0 70.2 114"><path d="M62.2,57.8c5.2,6.2,8.1,14.1,8,22.3c0,21.3-13.2,33.9-36.9,33.9C14.4,114,0,101.9,0,86c0-17.2,12.1-22.7,19-26C13.5,56,1.9,47.4,1.9,30.3C1.9,12.6,15.5,0,34.8,0c17.6,0,31.7,11.1,31.7,24.8c0,11-6.1,17.7-16.2,23.7C56.8,52.4,59.3,54.5,62.2,57.8z M31.4,67c-3.2-1.4-6.3-3.1-9.3-5c-6.6,6.4-9,12.2-9,22.3c0,16,9.3,25.9,22.6,25.9c13.7,0,21.8-7.5,21.8-18.7c0-11.8-12.9-18.2-24.2-23.6L31.4,67z M47.3,46.8c6.4-5.5,8.8-11.2,8.8-21c0-14-8.3-22.1-22.6-22.1c-10.8,0-18.8,6.8-18.8,15.7c0,8.5,7.1,14.8,28.4,25.4L47.3,46.8z"></path></svg></span></div>
+</div>
+<h3 class="_heading-m">A massive memorial service was recently held for conservative political activist Charlie Kirk in which state?</h3>
+<div class="_question-block_media">
+<figure class="quiz--question-image">
+<div class="quiz--question-image__src">
+<img src="https://media.cnn.com/api/v1/images/stellar/prod/2025-09-21t174829z-826573448-rc2hwgarbj5y-rtrmadp-3-usa-shooting-kirk.JPG?c=original"/>
+</div>
+<div class="quiz--question-image__credit">Carlos Barria/Reuters</div>
+</figure>
+</div>
+<div class="_question-block_options">
+<button class="_button _question-block_option questionOption" value="">Texas</button>
+<button class="_button _question-block_option questionOption" value="true">Arizona</button>
+<button class="_button _question-block_option questionOption" value="">Ohio</button>
+<button class="_button _question-block_option questionOption" value="">Georgia</button>
+</div>
+<div class="_question-block_answer-response answerResponse">
+<div>
+<span class="answerResponseHeading"></span>
+<p class="_question-block_answer-response__copy">Tens of thousands of mourners gathered inside a stadium in Glendale, Arizona, to pay tribute to <a href="https://www.cnn.com/2025/09/21/politics/takeaways-charlie-kirk-memorial-service-trump-erika-kirk" target="_blank">Charlie Kirk</a>.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="quiz--question questionBlock">
+<div class="quiz--question__content">
+<div class="quiz--question__number five-things">
+<div class="digit-container"><span class="digit"><svg viewbox="0 0 70.3 114"><path d="M44,58.2c-4.9,6.1-10.5,8.6-17.9,8.6C11.3,66.9,0,53.4,0,35.6C0,14.4,13.3,0,32.8,0c23.4,0,37.5,20.6,37.5,54.8c0,24.2-5,38.9-17.1,49.8c-6.7,6.3-15.5,9.6-24.7,9.4c-13.8,0-23.9-9-23.9-21.2c0-9.3,5.2-15.2,13.2-15.2c6.6,0,11.6,5.2,11.6,12.1c0,6.3-3.3,10.2-9.9,11.3c-2.8,0.5-4.4,1.4-4.4,3.1c0,3.3,5.3,6.3,11.3,6.3c13.8,0,17.5-11.9,17.5-32.2V58.2z M44,19.5c0-10.8-2.7-15.7-8.6-15.7c-4.9,0-6.6,3.9-6.6,10.5v35.3c0,6.3,0.2,11.2,6,11.2c5.7,0,9.3-9.4,9.3-20.2L44,19.5z"></path></svg></span></div>
+</div>
+<h3 class="_heading-m">What is the mandatory retirement age for commercial airline pilots?</h3>
+<div class="_question-block_media">
+<figure class="quiz--question-image">
+<div class="quiz--question-image__src">
+<img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2230722381.jpg?c=original"/>
+</div>
+<div class="quiz--question-image__credit">Kevin Carter/Getty Images</div>
+</figure>
+</div>
+<div class="_question-block_options">
+<button class="_button _question-block_option questionOption" value="">55</button>
+<button class="_button _question-block_option questionOption" value="">60</button>
+<button class="_button _question-block_option questionOption" value="true">65</button>
+<button class="_button _question-block_option questionOption" value="">70</button>
+</div>
+<div class="_question-block_answer-response answerResponse">
+<div>
+<span class="answerResponseHeading"></span>
+<p class="_question-block_answer-response__copy">Pilots of commercial aircraft are currently required to retire at 65 years old. Some lawmakers are calling for a new international standard to <a href="https://www.cnn.com/2025/09/22/us/pilot-mandatory-retirement" target="_blank">increase the age limit</a>.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="quiz--question questionBlock">
+<div class="quiz--question__content">
+<div class="quiz--question__number five-things">
+<div class="digit-container"><span class="digit"><svg viewbox="0 0 63.6 111.9"><path d="M6.6,108.3c8.3,0,11-2.7,11-10.7V27.8c0-6.6-3.6-9.6-6.8-9.6c-2.7,0-5.5,0.6-10.2,1.9v-3.6c16-5,25.8-9.4,34.5-16.5h11.9v99.7c0,6.1,3.1,8.6,10.7,8.6h5.8v3.6H0v-3.6H6.6z"></path></svg></span><span class="digit"><svg viewbox="0 0 70.6 114.2"><path d="M14.3,9.1c6-6.3,12.5-9.1,21-9.1c8-0.1,15.6,3.2,21,9c9.9,9.7,14.3,24.3,14.3,46.3c0,26.1-4.9,41.8-15.9,51.8c-6.1,5.7-12.1,7.1-19.5,7.1c-8.3-0.1-16.3-3.4-22.3-9.3C4.4,96.1,0,80.4,0,58.3C0,33.9,4.2,19.6,14.3,9.1z M27.2,84.6c0,22.5,2.3,25.9,8.2,25.9c6.1,0,8.2-3.5,8.2-26.1V29.8c0.7-23.2-1.4-26.2-7.8-26.2c-6.3,0-8.5,3.6-8.5,26.2V84.6z"></path></svg></span></div>
+</div>
+<h3 class="_heading-m">What is the list price of Appleâs latest top-of-the-line iPhone?</h3>
+<div class="_question-block_media">
+<figure class="quiz--question-image">
+<div class="quiz--question-image__src">
+<img src="https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2236214805.jpg?c=original"/>
+</div>
+<div class="quiz--question-image__credit">Ming Yeung/Getty Images</div>
+</figure>
+</div>
+<div class="_question-block_options">
+<button class="_button _question-block_option questionOption" value="">$999</button>
+<button class="_button _question-block_option questionOption" value="true">$1,999</button>
+<button class="_button _question-block_option questionOption" value="">$2,999</button>
+<button class="_button _question-block_option questionOption" value="">$5,999</button>
+</div>
+<div class="_question-block_answer-response answerResponse">
+<div>
+<span class="answerResponseHeading"></span>
+<p class="_question-block_answer-response__copy">It costs about $2,000 to buy Apple's new iPhone 17 Pro Max, if buyers choose the version with two terabytes of storage. It's now one of the <a href="https://www.cnn.com/2025/09/19/tech/apple-iphone-17-pro-max-2tb-2000-dollars" target="_blank">most expensive phones on the market</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="_results-block" id="results">
+<div class="_results-main">
+<div class="_results-main__content">
+<h4 class="_results-main__title _heading-xl" id="resultTitle"></h4>
+<div class="_results-main__description _heading-m" id="resultDescription"></div>
+<div class="_social-buttons">
+<a class="_social-button facebook" data-trackmetric="sharing: facebook-results" data-trackmetrictype="social-click" id="facebook" title="Share on Facebook">
+<span>
+<svg height="20" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24" width="20">
+<path d="M8.258,4.458c0-0.144,0.02-0.455,0.06-0.931c0.043-0.477,0.223-0.976,0.546-1.5c0.32-0.522,0.839-0.991,1.561-1.406
+                            C11.144,0.208,12.183,0,13.539,0h3.82v4.163h-2.797c-0.277,0-0.535,0.104-0.768,0.309c-0.231,0.205-0.35,0.4-0.35,0.581v2.59h3.914
+                            c-0.041,0.507-0.086,1-0.138,1.476l-0.155,1.258c-0.062,0.425-0.125,0.819-0.187,1.182h-3.462v11.542H8.258V11.558H5.742V7.643
+                            h2.516V4.458z"></path>
+</svg>
+</span>
+</a>
+<a class="_social-button twitter" data-trackmetric="sharing: twitter-results" data-trackmetrictype="social-click" id="twitter" title="Share on Twitter">
+<span>
+<svg aria-hidden="true" class="x-icon" height="20" viewbox="0 0 24 24" width="20" xmlns="https://www.w3.org/2000/svg">
+<path d="M13.903 10.469 21.348 2h-1.764l-6.465 7.353L7.955 2H2l7.808 11.12L2 22h1.764l6.828-7.765L16.044 22H22l-8.097-11.531Zm-2.417 2.748-.791-1.107L4.4 3.3h2.71l5.08 7.11.791 1.107 6.604 9.242h-2.71l-5.389-7.542Z">
+</path>
+</svg>
+</span>
+</a>
+<a class="_social-button whatsapp" data-trackmetric="sharing: whatsapp" data-trackmetrictype="social-click" id="whatsapp" title="Share on WhatsApp">
+<span>
+<svg height="24" preserveaspectratio="xMidYMid meet" viewbox="0 0 24 24" width="24">
+<path d="M8.55545 7.14811C8.55545 7.14811 8.80008 6.99994 8.92786 6.99994H9.64116C9.64116 6.99994 9.83229 7.03196 9.92042 7.22239C10.0083 7.41281 10.6096 8.76363 10.6545 8.86782C10.6994 8.97202 10.8161 9.22989 10.6286 9.46077C10.4413 9.69174 10.0495 10.1228 10.0495 10.1228C10.0495 10.1228 9.89452 10.2563 10.029 10.4687C10.1632 10.6814 10.6362 11.382 11.2544 11.9117C11.8725 12.4413 12.6298 12.8306 13.0073 12.9492C13.3845 13.0677 13.4672 12.9095 13.612 12.7321C13.7569 12.554 14.2067 12.0105 14.2067 12.0105C14.2067 12.0105 14.3619 11.7931 14.6669 11.9266C14.9722 12.0598 16.4558 12.7467 16.4558 12.7467C16.4558 12.7467 16.637 12.7763 16.647 12.9689C16.6573 13.1619 16.7818 13.7382 16.2439 14.2933C15.7062 14.8482 14.5623 15.1049 14.0207 14.9602C13.4791 14.8153 11.6886 14.3679 10.5206 13.3271C9.35297 12.2864 8.40729 11.1907 8.02052 10.383C7.63356 9.5749 7.65494 9.09578 7.67652 8.86993C7.6979 8.64397 7.82237 7.59711 8.55545 7.14811ZM12.0896 2C7.16849 2 3.18209 5.96231 3.18209 10.8505C3.18209 13.2751 4.47238 15.4432 4.47238 15.4432L3 20L7.79667 18.6067C7.79667 18.6067 9.60924 19.7015 12.0896 19.7015C17.0109 19.7015 21 15.7391 21 10.8505C21 5.96231 17.0109 2 12.0896 2Z"></path>
+</svg>
+</span>
+</a>
+<a class="_social-button email" data-trackmetric="sharing: email" data-trackmetrictype="social-click" id="email" title="Share by Email">
+<span>
+<svg height="22" preserveaspectratio="xMidYMid meet" viewbox="0 1 24 24" width="22">
+<path d="M2 19.286v-8.25l9.536 3.441c.314.114.655.114.97 0L22 11.051v8.235c0 .394-.304.714-.672.714H2.667C2.299 20 2 19.68 2 19.286zM21.335 5c.368 0 .665.32.665.714v2.37c0 .72-.423 1.36-1.052 1.586l-8.927 3.222-8.967-3.236C2.424 9.43 2 8.79 2 8.07V5.714C2 5.32 2.299 5 2.667 5h18.668z"></path>
+</svg>
+</span>
+</a>
+<a class="_social-button copy" data-trackmetric="sharing: copy" data-trackmetrictype="social-click" id="copy" title="Copy Link">
+<span>
+<svg height="24" preserveaspectratio="xMidYMid meet" viewbox="0 1 24 24" width="24">
+<path d="M17.88 13.143h-1.57c0-2.363-1.831-4.286-4.084-4.286H9.508c.46-.852 1.318-1.428 2.3-1.428h6.073c1.466 0 2.66 1.281 2.66 2.857 0 1.575-1.194 2.857-2.66 2.857m-8.733-2.857h3.044c1.467 0 2.66 1.282 2.66 2.857h-3.044c-1.467 0-2.66-1.282-2.66-2.857M12.192 16H6.119c-1.467 0-2.66-1.282-2.66-2.857 0-1.575 1.193-2.857 2.66-2.857h1.57c0 2.363 1.832 4.285 4.084 4.285h2.72c-.462.853-1.32 1.429-2.301 1.429m5.724-10h-6.143C10 6 8.49 7.195 7.927 8.857H6.084C3.832 8.857 2 10.78 2 13.143c0 2.363 1.832 4.286 4.084 4.286h6.142c1.775 0 3.284-1.196 3.847-2.858h1.843c2.252 0 4.084-1.922 4.084-4.285C22 7.923 20.168 6 17.916 6"></path>
+</svg>
+</span>
+<span class="_social-button__copied" data-id="copied">
+<svg class="icon-ui-check-mark" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.556 19.286h-.024a1.152 1.152 0 01-.823-.361L2.264 13.02c-.397-.43-.34-1.076.128-1.442.47-.366 1.17-.313 1.568.118l4.633 5.024L20.072 5.327a1.183 1.183 0 011.572-.055.967.967 0 01.06 1.446L9.371 18.958a1.16 1.16 0 01-.816.328"></path>
+</svg>
+                                    Link Copied!
+                                </span>
+</a>
+</div>
+</div>
+</div>
+<form classname="feedbackForm" id="feedbackContainer">
+<div class="_container _results-feedback">
+            			What do you think of this weekâs quiz? What do you want to see in future quizzes? Whether you are a 5 Things quiz superfan or taking your first one, we want to hear your ideas.
+            			<textarea class="_feedbackText" cols="75" id="feedbackText" name="feedback" placeholder="Share your thoughts here." rows="5"></textarea>
+<button class="_button _feedbackButton" disabled="" id="feedbackButton" type="button">Submit</button>
+</div>
+</form>
+<div class="_container _container-xs _results-cta">
+                        Keep up with the news you need. <a href="https://www.cnn.com/newsletters/5-things?source=five-things-quiz_bottom-ctr" target="_blank">Sign up for the 5 Things newsletter.</a>
+</div>
+</section>
+<section class="cnnGames">
+<div class="games-container">
+<div class="games-content">
+<div class="games-text">
+<p class="games-header">
+                          Play more games
+                      </p>
+<p class="games-text">
+                          Test your knowledge with our free collection of games and puzzlesâright here on CNN.
+                      </p>
+<button class="games-button" id="gamesButton" role="link">
+<p class="games-button-text"> More games</p>
+<svg fill="none" height="28" viewbox="0 0 28 28" width="28" xmlns="http://www.w3.org/2000/svg">
+<path clip-rule="evenodd" d="M9.67504 5.0084C10.1306 4.55278 10.8693 4.55278 11.325 5.0084L19.4916 13.1751C19.9472 13.6307 19.9472 14.3694 19.4916 14.825L11.325 22.9916C10.8693 23.4473 10.1306 23.4473 9.67504 22.9916C9.21943 22.536 9.21943 21.7973 9.67504 21.3417L17.0167 14L9.67504 6.65831C9.21943 6.2027 9.21943 5.46401 9.67504 5.0084Z" fill="white" fill-rule="evenodd"></path>
+</svg>
+</button>
+</div>
+<div class="games-image-container">
+<img class="games-image" src="https://media.cnn.com/api/v1/images/stellar/prod/games-1600x900-blank.jpg?c=original"/>
+</div>
+</div>
+</div>
+</section> <section class="_advertisement">
+<div class="_container">
+<div class="ad-slot" id="ad_bnr_btf_04"></div>
+<div class="ad-slot" id="ad_rect_btf_04"></div>
+</div>
+</section>
+<section class="_recirc">
+<div class="_container" id="recircBlock">
+<section class="_recirc-item" data-trackmetric="recirc: https://www.cnn.com/2024/12/13/us/dinner-party-hosting-wellness-cec/index.html" data-trackmetrictype="social-click">
+<a href="https://www.cnn.com/2024/12/13/us/dinner-party-hosting-wellness-cec/index.html">
+<figure>
+<img class="_lazy" src="https://media.cnn.com/api/v1/images/stellar/prod/1-20241206185608760.jpg?c=16x9&amp;q=w_800,c_fill"/>
+</figure>
+</a>
+<figcaption>
+<a class="_heading-s" href="https://www.cnn.com/2024/12/13/us/dinner-party-hosting-wellness-cec/index.html">Why the dinner party is a declining art</a>
+</figcaption>
+</section>
+<section class="_recirc-item" data-trackmetric="recirc: https://www.cnn.com/2025/02/11/entertainment/video/have-i-got-news-for-you-season-2-trailer" data-trackmetrictype="social-click">
+<a href="https://www.cnn.com/2025/02/11/entertainment/video/have-i-got-news-for-you-season-2-trailer">
+<figure>
+<img class="_lazy" src="https://media.cnn.com/api/v1/images/stellar/prod/2506994-cnn-hignfy-2024-3840x2160.jpg?c=16x9&amp;q=w_800,c_fill"/>
+</figure>
+</a>
+<figcaption>
+<a class="_heading-s" href="https://www.cnn.com/2025/02/11/entertainment/video/have-i-got-news-for-you-season-2-trailer">Have you heard about âHave I Got News for Youâ season 2?</a>
+</figcaption>
+</section>
+<section class="_recirc-item" data-trackmetric="recirc: https://www.cnn.com/interactive/2025/04/business/thoughts-opinions-trump-tariffs-dg/" data-trackmetrictype="social-click">
+<a href="https://www.cnn.com/interactive/2025/04/business/thoughts-opinions-trump-tariffs-dg/">
+<figure>
+<img class="_lazy" src="https://www.cnn.com/interactive/2025/04/business/thoughts-opinions-trump-tariffs-dg/media/card.jpg"/>
+</figure>
+</a>
+<figcaption>
+<a class="_heading-s" href="https://www.cnn.com/interactive/2025/04/business/thoughts-opinions-trump-tariffs-dg/">CNNâs audience shares its thoughts on tariffs</a>
+</figcaption>
+</section>
+</div>
+</section>
+</div>
+<footer class="page-footer sc-fzoydu gZRuNw page-footer" id="page-footer">
+<div class="sc-AxmLO fsUIiy">
+<div class="sc-AxheI fQVzNt">
+<form action="https://www.cnn.com/search" class="sc-fznzOf haLBWR" name="q"><input autocomplete="off" class="sc-fznMnq iFyDgW" id="footer-search-bar" name="q" placeholder="Search CNN..." type="search"/><button aria-label="Search" class="sc-Axmtr sc-fzoant jPiCrx" color="inherit" width="24,,80">
+<div class="sc-fzozJi byQDzU">Search</div>
+<div class="sc-AxjAm dvpTEe"><svg aria-hidden="true" class="arrow-right-10-icon" fill="#4D4D4D" height="10" viewbox="0 0 20 20" width="10" xmlns="https://www.w3.org/2000/svg">
+<path d="M1.53,8.52H14.76L10,3.71a1.5,1.5,0,0,1,2.12-2.12l7.44,7.47a1.49,1.49,0,0,1,0,2.12l-7.44,7.47a1.5,1.5,0,0,1-2.12,0,1.51,1.51,0,0,1,0-2.12l5-5H1.53a1.5,1.5,0,1,1,0-3Z">
+</path>
+</svg></div>
+<div class="sc-AxjAm gGyXb"><svg aria-hidden="true" class="search-icon" fill="#4D4D4D" height="24" viewbox="0 0 64 64" width="24" xmlns="https://www.w3.org/2000/svg">
+<path d="M55.3,51.89,42.46,39a19.22,19.22,0,1,0-3.38,3.43L51.9,55.29a2.38,2.38,0,0,0,3.4,0A2.42,2.42,0,0,0,55.3,51.89ZM11.2,27.28a16,16,0,1,1,16,16.07A16.07,16.07,0,0,1,11.2,27.28Z">
+</path>
+</svg></div>
+</button></form>
+</div>
+</div>
+<div class="sc-AxmLO fsUIiy">
+<div class="sc-AxheI jLyvlV">
+<div class="sc-AxjAm sc-fzomuh jHaWF">
+<nav class="sc-fzolEj isffxt" data-role="nav-links" mode="dark">
+<ul class="sc-fzqBkg eWmFpS" mode="dark" type="expanded"></ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="sc-AxjAm sc-fznLPX jQtorM">
+<hr class="sc-fzoJMP pBLpg" mode="dark"/>
+</div>
+<div class="sc-AxmLO fsUIiy">
+<div class="sc-AxheI jLyvlV">
+<div class="sc-Axmtr dYDhPj">
+<div class="sc-Axmtr sc-fzpkqZ iSuUst">
+<div class="sc-Axmtr sc-fzoyTs heYAcf" size="40"><a aria-label="CNN" class="sc-fzoXzr sc-fzpjYC gUnSfk" color="#0C0C0C" data-analytics="footer" href="/" mode="light"><svg aria-hidden="true" class="cnn-badge-icon" fill="#CC0000" height="40" viewbox="0 0 240 240" width="40" xmlns="https://www.w3.org/2000/svg">
+<rect fill="#fff" height="100%" width="100%" x="0" y="0"></rect>
+<path d="M.31-.07v240h240V-.07ZM86.54,135.29V92.51c0-16.1,20.81-23.83,31.82-5.12.8,1.35,18.14,31.22,18.14,31.22V92.51c0-16.1,20.8-23.83,31.81-5.12.8,1.35,18.14,31.22,18.14,31.22V76.79h10.38V147a2.11,2.11,0,0,1-1.51,2.14c-1.1.3-2.26-.38-3.11-1.82-.17-.28-9-15.46-17.48-30.13L159.17,90.4c-2.18-3.7-5.43-4.35-7.74-3.72a6.23,6.23,0,0,0-4.55,6.13V147a2.12,2.12,0,0,1-1.51,2.14c-1.11.3-2.27-.38-3.11-1.82-.15-.25-8.34-14.36-16.25-28-10.08-17.38-16.7-28.78-16.8-28.95-2.18-3.71-5.44-4.35-7.77-3.72a6.24,6.24,0,0,0-4.56,6.13v53.05a2.9,2.9,0,0,1-2.72,2.71H67.23a28.64,28.64,0,0,1,0-57.28h14v10.36H67.35a18.28,18.28,0,1,0,0,36.56H83.68A2.84,2.84,0,0,0,86.54,135.29Zm124.77,12.05c0,16.1-20.81,23.83-31.82,5.13-.79-1.35-18.14-31.23-18.14-31.23v26.1c0,16.1-20.8,23.83-31.81,5.13-.8-1.35-18.14-31.23-18.14-31.23v24.61c0,11.17-6.63,17.22-17,17.22H67.25a43.14,43.14,0,0,1,0-86.28h14V87.15h-14a32.78,32.78,0,1,0,0,65.56H94.16a7,7,0,0,0,6.86-6.85V92.81a2.1,2.1,0,0,1,1.51-2.13c1.1-.3,2.26.38,3.11,1.82l16.79,28.93c9.76,16.83,16.17,27.88,16.25,28,2.19,3.7,5.45,4.35,7.78,3.71A6.22,6.22,0,0,0,151,147V92.82a2.11,2.11,0,0,1,1.49-2.14c1.09-.3,2.24.38,3.08,1.82l15.56,26.81,17.49,30.15c1.71,2.9,4.09,3.93,6.16,3.93a6,6,0,0,0,1.61-.22A6.23,6.23,0,0,0,201,147V76.79h10.34Z" transform="translate(-0.31 0.07)"></path>
+</svg></a></div>
+</div>
+<div class="sc-Axmtr sc-fzoYHE hIwgCg">
+<div class="sc-Axmtr sc-fzomME glCpWV" data-test="social-follow-bar"><span class="sc-fzoLsD cYCcKV" data-test="follow-text" font-size="12" font-weight="bold" letter-spacing="1.5">Follow
+                                CNN </span>
+<div class="sc-AxjAm sc-fzqMAW kHpzoj" mode="dark"></div>
+<ul class="sc-AxjAm hiNUxI">
+<li class="sc-AxjAm bThiiM"><a aria-label="Facebook" class="sc-fzoXzr sc-fzpjYC sc-fzqAbL iQmyJJ" color="#0C0C0C" data-icon="facebook" href="https://www.facebook.com/cnn" mode="dark" name="Facebook" rel="noopener" target="_blank noreferrer"><svg aria-hidden="true" class="facebook-icon" fill="" height="64" viewbox="0 0 64 64" width="64" xmlns="https://www.w3.org/2000/svg">
+<path d="M56,5.1H8c-1.6,0-3,1.4-3,3v48.8c0,1.7,1.3,3,3,3h25.9V38.7h-7v-8.3h7v-6.1 c0-7.1,4.3-10.9,10.5-10.9c3,0,5.9,0.2,6.7,0.3v7.7h-4.7c-3.4,0-4.1,1.6-4.1,4v5h8.1l-1,8.3h-7v21.2H56c1.6,0,3-1.4,3-3V8.1 C59,6.4,57.7,5.1,56,5.1">
+</path>
+</svg></a></li>
+<li class="sc-AxjAm bThiiM"><a aria-label="X" class="sc-fzoXzr sc-fzpjYC sc-fzqAbL iQmyJJ" color="#0C0C0C" data-icon="x" href="https://twitter.com/cnn" mode="dark" name="X" rel="noopener" target="_blank noreferrer"><svg aria-hidden="true" class="x-icon" fill="" height="64" viewbox="0 0 24 24" width="64" xmlns="https://www.w3.org/2000/svg">
+<path d="M13.903 10.469 21.348 2h-1.764l-6.465 7.353L7.955 2H2l7.808 11.12L2 22h1.764l6.828-7.765L16.044 22H22l-8.097-11.531Zm-2.417 2.748-.791-1.107L4.4 3.3h2.71l5.08 7.11.791 1.107 6.604 9.242h-2.71l-5.389-7.542Z">
+</path>
+</svg></a></li>
+<li class="sc-AxjAm bThiiM"><a aria-label="Instagram" class="sc-fzoXzr sc-fzpjYC sc-fzqAbL iQmyJJ" color="#0C0C0C" data-icon="instagram" href="https://instagram.com/cnn" mode="dark" name="Instagram" rel="noopener" target="_blank noreferrer"><svg aria-hidden="true" class="instagram-icon" fill="" height="64" viewbox="0 0 64 64" width="64" xmlns="https://www.w3.org/2000/svg">
+<path d="M47,13.2c-1.9,0-3.5,1.6-3.5,3.6s1.6,3.6,3.5,3.6s3.5-1.6,3.5-3.6S49,13.2,47,13.2 L47,13.2z M31.9,23c-5.1,0-9.3,4.3-9.3,9.5s4.2,9.5,9.3,9.5s9.3-4.3,9.3-9.5S37,23,31.9,23L31.9,23z M31.9,46.7 c-7.7,0-14-6.4-14-14.2s6.3-14.2,14-14.2s14,6.4,14,14.2S39.6,46.7,31.9,46.7L31.9,46.7z M15.7,8.8c-3.9,0-7,3.2-7,7.1v33.2 c0,3.9,3.1,7.1,7,7.1h32.7c3.9,0,7-3.2,7-7.1V15.9c0-3.9-3.1-7.1-7-7.1C48.4,8.8,15.7,8.8,15.7,8.8z M48.3,60.9H15.7 C9.2,60.9,4,55.6,4,49.1V15.9C4,9.4,9.2,4.1,15.7,4.1h32.7C54.8,4.1,60,9.4,60,15.9v33.2C60,55.6,54.8,60.9,48.3,60.9L48.3,60.9z">
+</path>
+</svg></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sc-AxmLO fsUIiy">
+<div class="sc-AxheI jLyvlV">
+<div class="sc-AxjAm sc-fzoaKM cEPWi">
+<hr class="sc-fzoJMP pBLpg" mode="dark"/>
+</div>
+<div class="sc-AxjAm dXPCCY">
+<nav class="sc-fzolEj isffxt" data-role="nav-links" mode="dark">
+<ul class="sc-fzqBkg gEYcfx" mode="dark" type="condensed">
+<li class="sc-fzqPZZ gjbhLh" data-section="terms of use" mode="dark" type="condensed"><a class="sc-fznWOq sc-fzoxKX gEUysD" data-analytics="footer" href="/terms" mode="dark" name="terms-of-use" title="visit the Terms of Use section" type="condensed">Terms of
+                                    Use</a></li>
+<li class="sc-fzqPZZ gjbhLh" data-section="privacy policy" mode="dark" type="condensed"><a class="sc-fznWOq sc-fzoxKX gEUysD" data-analytics="footer" href="/privacy" mode="dark" name="privacy-policy" title="visit the Privacy Policy section" type="condensed">Privacy Policy</a></li>
+<li class="sc-fzqPZZ gjbhLh" data-section="accessibility &amp; cc" mode="dark" type="condensed">
+<a class="sc-fznWOq sc-fzoxKX gEUysD" data-analytics="footer" href="/accessibility" mode="dark" name="accessibility-cc" title="visit the Accessibility &amp; CC section" type="condensed">Accessibility &amp; CC</a></li>
+<li class="sc-fzqPZZ gjbhLh" data-section="adchoices" mode="dark" type="condensed"><a class="sc-fznWOq sc-fzoxKX gEUysD" data-analytics="footer" href="https://preferences-mgr.truste.com/?pid=turnermedia01&amp;aid=turnermedia01&amp;type=turner_pop&amp;pid=turnermedia01&amp;aid=turnermedia01" mode="dark" name="adchoices" title="visit the AdChoices section" type="condensed">AdChoices</a>
+</li>
+<li class="sc-fzqPZZ gjbhLh" data-section="about us" mode="dark" type="condensed"><a class="sc-fznWOq sc-fzoxKX gEUysD" data-analytics="footer" href="/about" mode="dark" name="about-us" title="visit the About us section" type="condensed">About Us</a></li>
+<li class="sc-fzqPZZ gjbhLh" data-section="cnn store" mode="dark" type="condensed"><a class="sc-fznWOq sc-fzoxKX gEUysD" data-analytics="footer" href="//store.cnn.com" mode="dark" name="cnn-store" title="visit the CNN Store section" type="condensed">CNN Store</a></li>
+<li class="sc-fzqPZZ gjbhLh" data-section="newsletters" mode="dark" type="condensed"><a class="sc-fznWOq sc-fzoxKX gEUysD" data-analytics="footer" href="/newsletters" mode="dark" name="newsletters" title="visit the Newsletters section" type="condensed">Newsletters</a></li>
+<li class="sc-fzqPZZ gjbhLh" data-section="transcripts" mode="dark" type="condensed"><a class="sc-fznWOq sc-fzoxKX gEUysD" data-analytics="footer" href="/transcripts" mode="dark" name="transcripts" title="visit the Transcripts section" type="condensed">Transcripts</a></li>
+<li class="sc-fzqPZZ gjbhLh" data-section="license footage" mode="dark" type="condensed"><a class="sc-fznWOq sc-fzoxKX gEUysD" data-analytics="footer" href="/collection" mode="dark" name="license-footage" title="visit the License Footage section" type="condensed">License Footage</a></li>
+<li class="sc-fzqPZZ gjbhLh" data-section="cnn newsource" mode="dark" type="condensed"><a class="sc-fznWOq sc-fzoxKX gEUysD" data-analytics="footer" href="http://cnnnewsource.com" mode="dark" name="cnn-newsource" title="visit the CNN Newsource section" type="condensed">CNN Newsource</a></li>
+<li class="sc-fzqPZZ gjbhLh" data-section="sitemap" mode="dark" type="condensed"><a class="sc-fznWOq sc-fzoxKX gEUysD" data-analytics="footer" href="/sitemap.html" mode="dark" name="sitemap" title="visit the Sitemap section" type="condensed">Sitemap</a></li>
+</ul>
+</nav>
+</div>
+<div class="sc-AxjAm sc-fznxKY eTNDtk" data-component="copyright" mode="dark"><span class="sc-fzoLsD sc-fzoXWK jyRQkq" data-area="copyright-CNN">Â© 2025 Cable News Network.</span><span class="sc-fzoLsD sc-fzoXWK jyRQkq">A Warner Bros. Discovery Company.</span><span class="sc-fzoLsD sc-fzoXWK jyRQkq">All Rights Reserved.</span><span class="sc-fzoLsD sc-fzoXWK sc-fznMAR fzlawF">CNN Sans â¢ &amp; Â© 2016 Cable News Network.</span>
+</div>
+</div>
+</div>
+<script>var CNNENV = ( window.location.href.indexOf("edition")>0 ) ? "//edition.cnn.com" : "//www.cnn.com";</script>
+<script src="https://lightning.cnn.com/launch/7be62238e4c3/97fa00444124/launch-2878c87af5e3.min.js" type="text/javascript"></script>
+<script>
+            var _sf_async_config = _sf_async_config || {};
+    
+            _sf_async_config.uid = 37612;
+            _sf_async_config.domain = window.location.host;
+            _sf_async_config.useCanonical = true;
+            _sf_async_config.sections = '';
+    
+            (function() {
+                function loadChartbeat() {
+                    window._sf_endpt = (new Date()).getTime();
+                    var e = document.createElement('script');
+                    e.setAttribute('language', 'javascript');
+                    e.setAttribute('type', 'text/javascript');
+                    e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+                    document.body.appendChild(e);
+                }
+                var oldonload = window.onload;
+                window.onload = (typeof window.onload != 'function') ?
+                    loadChartbeat : function() {
+                        oldonload();
+                        loadChartbeat();
+                    };
+            })();
+        </script>
+</footer> </body>
+</html>
+

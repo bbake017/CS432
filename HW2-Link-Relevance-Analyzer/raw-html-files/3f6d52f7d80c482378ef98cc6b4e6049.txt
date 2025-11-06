@@ -1,0 +1,199 @@
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="Reform Bid Said to Be a No-Go for Trump
+" name="NYT_HEADLINE"/>
+<meta content="By  ADAM NAGOURNEY" name="BY_LINE"/>
+<meta content="     " name="FIRSTPAR"/>
+<meta content="February 14, 2000" name="DISPLAYDATE"/>
+<meta content="20000214" name="NYT_SORTDATE"/>
+<title>Reform Bid Said to Be a No-Go for Trump
+    </title>
+<script id="nyt-capsule-data" type="text/json">
+        {
+            "lastTransform": "2018-04-09T14:39:12.047Z"
+        }
+    </script>
+<script src="https://archive.nytimes.com/_capsule/nyt-capsule.js" type="text/javascript"></script>
+<meta content="Atex" name="Filingmethod"/>
+<meta content="../backfield/savekeep/Y14TRU.W01" name="UnixSlug"/>
+<meta content="00/02/14" name="Date"/>
+<meta content="story" name="Type"/>
+<meta content="ya18 trump nagourney  pk                " name="AtexNotes"/>
+<meta content="y14trum  " name="AtexSlug"/>
+<meta content="y018.84/0141" name="AtexHJ"/>
+<meta content="yslot-nat ;02/13,21:16 " name="AtexFrom"/>
+<meta content="karay ;02/13,21:10" name="AtexOp"/>
+<meta content="edpage;02/13,19:20" name="AtexBy"/>
+<meta content="" name="section"/>
+<meta content="" name="subsection"/>
+<meta content="" name="End of header"/>
+<link href="https://archive.nytimes.com/_capsule/nyt-capsule.css" rel="stylesheet" type="text/css"/>
+</head>
+<body background="https://static01.nyt.com/images/back.c.gif" bgcolor="#ffffff" link="#000066" vlink="#444464">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="left" valign="top" width="600">
+<img border="0" height="1" src="https://static01.nyt.com/images/pixel.gif" width="600"/>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="left" valign="top" width="60"><br/></td>
+<td align="left" valign="top" width="480">
+<img alt="banner" border="0" height="40" src="https://static01.nyt.com/images/1bannat-pol.gif" width="468"/>
+<br clear="all"/>
+<map name="maintoolbar2">
+<area coords="0,0,75,16" href="https://www.nytimes.com/yr/mo/day/" onmouseover="window.status='Click to go to the Home Page';return true" shape="rect"/>
+<area coords="76,0,154,16" href="https://www.nytimes.com/info/contents/siteindex.html" onmouseover="window.status='Click to see site contents';return true" shape="rect"/>
+<area coords="155,0,233,16" href="https://www.nytimes.com/search/daily/" onmouseover="window.status='Click to search the current site';return true" shape="rect"/>
+<area coords="234,0,312,16" href="https://www.nytimes.com/comment/" onmouseover="window.status='Click for discussion in the Forums';return true" shape="rect"/>
+<area coords="313,0,391,16" href="https://www.nytimes.com/archives/" onmouseover="window.status='Click to search the archives';return true" shape="rect"/>
+<area coords="392,0,468,16" href="https://www.nytimes.com/marketplace/" onmouseover="window.status='Click to visit the Marketplace';return true" shape="rect"/>
+</map>
+<a href="https://www.nytimes.com/images/maintoolbar2.map">
+<img alt="toolbar" border="0" height="16" ismap="" src="https://static01.nyt.com/images/maintoolbar2.gif" usemap="#maintoolbar2" width="468"/></a>
+<br/>
+</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<blockquote>
+<h5>February 14, 2000</h5><br/>
+<h2>Reform Bid Said to Be a No-Go for Trump
+                            </h2>
+<p>
+</p>
+<hr size="1"/>
+<b>Related Articles</b>
+<li><a href="https://www.nytimes.com/library/politics/camp/whouse/ref-trump.html">Campaigns: White House 2000 -- Donald Trump (Ref)</a>
+<p>
+<b>Forum</b>
+</p>
+</li>
+<li><a href="http://forums.nytimes.com/webin/WebX?13@@.f09ee2f">Join a Discussion on Presidential Primaries: After New Hampshire</a>
+<hr size="1"/>
+<h5>By ADAM NAGOURNEY</h5>
+<p>
+<img align="left" alt="D" src="https://static01.nyt.com/images/d.gif"/>onald J. Trump has decided to end his brief and flamboyant exploration of a run for president, concluding that the Reform Party, whose support he
+                                    had sought, was so beset by internal fighting that he would have no chance of winning the White House as its nominee, his associates said last night.
+                                </p>
+<p> Mr. Trump will officially announce his decision in a television interview this morning, according to someone close to him. In a formal statement that is scheduled to be released today, he denounced the divisions that have
+                                    beset the Reform Party in recent months, which he described as "general fratricide."
+                                </p>
+<p> Mr. Trump's decision came one day after a Reform Party faction backed by Ross Perot, which strongly opposed the prospect of Mr. Trump as the party's presidential candidate, ousted a faction aligned with Gov. Jesse
+                                    Ventura of Minnesota, who was close to Mr. Trump. Mr. Ventura quit the national party on Friday, calling it "dysfunctional."
+                                </p>
+<p> Although it is risky to offer any predictions concerning the Reform Party, the latest round of maneuvering seemed all but fatal to any hope Mr. Trump had of filling the position Mr. Perot had held in the 1992 and 1996 presidential
+                                    elections.
+                                </p>
+<p> Mr. Trump asserted in his statement that he believed he could win the party's nomination if he chose to pursue it. But, he said, "the prospect of divisive lawsuits, continued fighting over the national convention
+                                    site and general fratricide" had convinced him that the Reform Party nominee, whoever it may be, would have no chance of victory.
+                                </p>
+<p> "I have consistently stated that I would spend my time, energy and money on a campaign, not just to get a large number of votes, but to win," Mr. Trump said in the statement. "There would be no other purpose,
+                                    other than winning, for me to run. I have therefore decided not to seek the presidential nomination of the Reform Party."
+                                </p>
+<p> Mr. Trump's imminent departure would appear to leave Patrick J. Buchanan, the conservative commentator, as the leading prospect to win the Reform Party's backing -- providing that Mr. Perot does not decide to
+                                    make a third go at it.
+                                </p>
+<p> Mr. Trump's decision, which was described by his friend as final and unequivocal, ends what had been one of the stranger episodes of the 2000 presidential race. Before six months ago, Mr. Trump had never shown any
+                                    interest in electoral politics, instead building a large reputation as a developer, casino operator and, by his own boast, skilled publicity seeker and accomplished womanizer.
+                                </p>
+<p> The new interim head of the Reform Party, Pat Choate, described Mr. Trump as a "hustler" last night, and said he had never believed that Mr. Trump had any interest beyond promoting himself and a new book that
+                                    happened to be published at exactly the time he started his light schedule of campaign travel.
+                                </p>
+<p> "Donald Trump came in, promoted his hotels, he promoted his book, he promoted himself at our expense, and I think he understands very fully that we've ended the possibilities for such abuse of our party,"
+                                    Mr. Choate said. "We're taking our party back to our very principles, and exploiters such as Donald Trump will not be able to exploit us again -- and he realizes it."
+                                </p>
+<p> "We saw no evidence that he was a serious candidate at all," Mr. Choate said. "All this was, was a serious hustle of the media, and I think the media should send him a massive bill on it."
+                                </p>
+<p> Mr. Trump apparently anticipated such speculation -- which, in fact, is fairly common in political circles -- and in his statement went out of his way to say that this was more than a frolic. "For those who suggest
+                                    that this has just been a promotion, I want to strongly deny that," he said.
+                                </p>
+<p> He said that although his book and his businesses had probably benefited from the exposure his campaign generated, "I did not launch my exploratory campaign for that reason."
+                                </p>
+<p> Mr. Trump painted a fairly dark picture of the Reform Party in his statement, noting the role of Mr. Buchanan, along with the roles of David Duke, a former leader of the Ku Klux Klan, and Lenora Fulani, the former standard-bearer
+                                    of the New Alliance Party and an advocate of Marxist-Leninist politics.
+                                </p>
+<p> "The Reform Party now includes a Klansman, Mr. Duke, a neo-Nazi, Mr. Buchanan, and a communist, Ms. Fulani," he said in his statement. "This is not company I wish to keep."
+                                </p>
+<p> Mr. Trump reached his final decision after meeting with advisers at his estate in West Palm Beach before flying back to New York this evening. Although Mr. Ventura said he was forming his own new Independence Party, Mr.
+                                    Trump said he would not seek its nomination for president.
+                                </p>
+<p> At La Guardia Airport last night, Mr. Trump told reporters that he might make a decision soon about which candidate he would endorse. He lamented the loss of Mr. Ventura, calling him "the star of the party."
+                                </p>
+</li>
+</blockquote>
+</blockquote>
+<br/>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="left" valign="top" width="60"><br/></td>
+<td align="center" valign="top" width="468">
+<hr size="1"/>
+<p>
+<font size="-1">
+<a href="https://www.nytimes.com/"><b>Home</b></a> |
+                                            <a href="https://www.nytimes.com/info/contents/siteindex.html"><b>Site Index</b></a> |
+                                            <a href="https://www.nytimes.com/search/daily/"><b>Site Search</b></a> |
+                                            <a href="https://www.nytimes.com/comment/"><b>Forums</b></a> |
+                                            <a href="https://www.nytimes.com/archives/"><b>Archives</b></a> |
+                                            <a href="https://www.nytimes.com/marketplace/"><b>Marketplace</b></a>
+</font>
+</p>
+<p>
+<font size="-1">
+<a href="https://www.nytimes.com/yr/mo/day/late/">Quick News</a> |
+                                            <a href="https://www.nytimes.com/yr/mo/day/front/">Page One Plus</a> |
+                                            <a href="https://www.nytimes.com/yr/mo/day/world/">International</a> |
+                                            <a href="https://www.nytimes.com/yr/mo/day/national/">National/N.Y.</a> |
+                                            <a href="https://www.nytimes.com/yr/mo/day/business/">Business</a> |
+                                            <a href="https://www.nytimes.com/yr/mo/day/tech/">Technology</a> |
+                                            <a href="https://www.nytimes.com/yr/mo/day/science/">Science</a> |
+                                            <a href="https://www.nytimes.com/yr/mo/day/sports/">Sports</a> |
+                                            <a href="https://www.nytimes.com/weather/">Weather</a> |
+                                            <a href="https://www.nytimes.com/yr/mo/day/editorial/">Editorial</a> |
+                                            <a href="https://www.nytimes.com/yr/mo/day/oped/">Op-Ed</a> |
+                                            <a href="https://www.nytimes.com/yr/mo/day/artleisure/">Arts</a> |
+                                            <a href="https://www.nytimes.com/yr/mo/day/auto/">Automobiles</a> |
+                                            <a href="https://www.nytimes.com/books/yr/mo/day/home/">Books</a> |
+                                            <a href="https://www.nytimes.com/diversions/">Diversions</a> |
+                                            <a href="https://www.nytimes.com/yr/mo/day/jobmarket/">Job Market</a> |
+                                            <a href="https://www.nytimes.com/yr/mo/day/realestate/">Real Estate</a> |
+                                            <a href="https://www.nytimes.com/yr/mo/day/travel/">Travel</a>
+</font>
+</p>
+<p>
+<font size="-1">
+<a href="https://www.nytimes.com/subscribe/help/">Help/Feedback</a> |
+                                            <a href="https://www.nytimes.com/classified/">Classifieds</a> |
+                                            <a href="https://www.nytimes.com/info/contents/services.html">Services</a> |
+                                            <a href="http://www.nytoday.com/">New York Today</a>
+</font>
+</p>
+<p>
+<font size="-1">
+<a href="https://www.nytimes.com/subscribe/help/copyright.html"><b>Copyright 2000 The New York Times Company</b></a>
+</font>
+</p>
+<p>
+<font size="-1">
+</font>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align="left" valign="top" width="14">
+<img border="0" height="1" src="https://static01.nyt.com/images/pixel.gif" width="14"/></td>
+<td align="center" valign="top" width="140">
+<img border="0" height="2" src="https://static01.nyt.com/images/pixel.gif" width="140"/>
+</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

@@ -1,0 +1,2334 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<script data-load-strategy="domready" id="fenrir-console-script">(()=>{var e={15517:()=>{if(window.Fenrir=window.Fenrir||{config:{}},!window.Fenrir.console){window.Fenrir.console={};const e=new URLSearchParams(document.location.search),n=window.Fenrir?.config?.featureFlags?.logs||e.has("logs");Object.entries(window.console).forEach((e=>{let[o,r]=e;"function"==typeof r&&(window.Fenrir.console[o]=n?r.bind(window.console):()=>{})}))}window.Fenrir.getTime||(window.Fenrir.getTime=function(){const e=new Date;function n(e){let n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"00";return`${n}${e}`.slice(-n.length)}return`${n(e.getHours())}:${n(e.getMinutes())}:${n(e.getSeconds())}.${n(e.getMilliseconds(),"000")}`})}},n={};function o(r){var i=n[r];if(void 0!==i)return i.exports;var t=n[r]={exports:{}};return e[r](t,t.exports,o),t.exports}o.m=e,o.c=n,o.o=(e,n)=>Object.prototype.hasOwnProperty.call(e,n),(()=>{o.S={};var e={},n={};o.I=(r,i)=>{i||(i=[]);var t=n[r];if(t||(t=n[r]={}),!(i.indexOf(t)>=0)){if(i.push(t),e[r])return e[r];o.o(o.S,r)||(o.S[r]={});o.S[r];var s=[];return s.length?e[r]=Promise.all(s).then((()=>e[r]=1)):e[r]=1}}})();o(15517)})();</script>
+<script data-load-strategy="domready" id="fenrir-client-data" type="text/javascript">
+  const fenrirClientData = {"continentCode":"NA","config":{"identifier":"mi","componentsToLoad":{"markets-insider-auth-redirect":{"disableLazy":true,"target":[]},"markets-insider-stored-assets":{"defer":true,"target":[]},"markets-insider-subnav-ad":{"disableLazy":true,"target":[]}},"shouldDeferScripts":false,"isSiteForwarded":true,"apigateway":{"domain":"https://membership-api.businessinsider.com","apiKey":"OGU5ZWUyZWUtNjM2ZS00OTdiLWI0OTUtYTliOGIzMjQ1ODA2"},"tracking":{"providerName":["ga","t","comscore"],"base_url":"//markets.businessinsider.com","postTrackingObject":{"postID":null,"postURI":"homepage","publisher":"Markets Insider","editor":null,"vertical":"","verticals":[],"author":"","category":"","dateModified":false,"datePublished":false,"numSlides":0,"wordCount":0,"abTest":null,"splitTest":null,"secondaryVerticals":"","theme":""},"data":{"gtm":{"id":"GTM-MP6F46L","env_string":""},"domains":["businessinsider.com","insider.com"],"t":{"pixel":"https://i.businessinsider.com/t.gif"}}}},"privacyApi":"GPP"}; 
+  window.Fenrir = Object.assign({}, window.Fenrir || {"config": {}}, fenrirClientData);
+  window.Fenrir.cmd = window.Fenrir.cmd || [];
+</script>
+<script data-load-strategy="domready">
+LUX=function(){var e="undefined"!=typeof LUX&&void 0!==LUX.gaMarks?LUX.gaMarks:[],n="undefined"!=typeof LUX&&void 0!==LUX.gaMeasures?LUX.gaMeasures:[],t="LUX_start",r=window.performance,a="undefined"!=typeof LUX&&LUX.ns?LUX.ns:Date.now?Date.now():+new Date;function u(){if(r){if(r.now)return r.now();if(r.webkitNow)return r.now();if(r.msNow)return r.now();if(r.mozNow)return r.now()}return(Date.now?Date.now():+new Date)-a}function o(n){return function(e,n){for(i=n.length-1;i>=0;i--){var t=n[i];if(e===t.name)return t}return}(n,function(){if(r){if(r.getEntriesByType)return r.getEntriesByType("mark");if(r.webkitGetEntriesByType)return r.webkitGetEntriesByType("mark")}return e}())}return r&&r.timing&&r.timing.navigationStart&&(a=r.timing.navigationStart),{mark:function(n){if(r){if(r.mark)return r.mark(n);if(r.webkitMark)return r.webkitMark(n)}e.push({name:n,entryType:"mark",startTime:u(),duration:0})},measure:function(e,i,a){if(void 0===i&&o(t)&&(i=t),r){if(r.measure)return i?a?r.measure(e,i,a):r.measure(e,i):r.measure(e);if(r.webkitMeasure)return r.webkitMeasure(e,i,a)}var f=0,s=u();if(i){var m=o(i);if(m)f=m.startTime;else{if(!(r&&r.timing&&r.timing[i]))return;f=r.timing[i]-r.timing.navigationStart}}if(a){var w=o(a);if(w)s=w.startTime;else{if(!(r&&r.timing&&r.timing[a]))return;s=r.timing[a]-r.timing.navigationStart}}n.push({name:e,entryType:"measure",startTime:f,duration:s-f})},gaMarks:e,gaMeasures:n}}(),LUX.ns=Date.now?Date.now():+new Date,LUX.ac=[],LUX.cmd=function(e){LUX.ac.push(e)},LUX.init=function(){LUX.cmd(["init"])},LUX.send=function(){LUX.cmd(["send"])},LUX.addData=function(e,n){LUX.cmd(["addData",e,n])};
+LUX.label="homepage"; // PageType: homepage, story, slideshow, video, hubpage, etc.
+LUX.minMeasureTime = 7000;
+LUX.maxMeasureTime = 30000;// Custom Dimensions
+LUX.addData('siteName', 'Markets Insider');
+
+// We can't call LUX.forceSample until the API is on the page
+window.Fenrir = window.Fenrir || { config: {} };
+window.Fenrir.sampleSpeedcurve = function sampleSpeedcurve() {
+  if (window.LUX?.forceSample && window.Fenrir?.config?.featureFlags?.forceSpeedcurveSample) {
+    window.LUX.forceSample();
+  }
+}
+
+document.addEventListener('onGeoDataCaptured', (event) => {
+  LUX.addData('continentCode', event.detail?.geoData?.continentCode || 'NA')
+});
+</script>
+<script async="" data-load-strategy="domready" onload="window.Fenrir.sampleSpeedcurve()" src="https://cdn.speedcurve.com/js/lux.js?id=38383524"></script>
+<script data-load-strategy="domready">
+(function(){
+  var toFirstRequest = 'Inline Scripts Init - Start';
+  var toAdLibrary = 'Inline Scripts Ad Library Loaded - Start';
+
+  function createMark(markName) {
+    var perfMarks = window.performance;
+    var lux = window.LUX;
+
+    if (perfMarks && perfMarks.clearMarks && perfMarks.mark) {
+      perfMarks.clearMarks(markName);
+      perfMarks.mark(markName);
+    } else if (lux && lux.mark) {
+      lux.mark(markName);
+    }
+  }
+
+  createMark(toFirstRequest);
+  createMark(toAdLibrary);
+})()
+</script>
+<!-- Meta Tags -->
+<title>Markets Insider: Stock Market News, Realtime Quotes and Charts
+</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="#ffffff" name="theme-color"/>
+<meta content="Markets Insider: Stock Market News, Realtime Quotes and Charts
+" name="title"/>
+<meta content="Markets Insider: Stock Market News, Realtime Quotes and Charts
+" property="og:title"/>
+<meta content="Markets Insider: Stock Market News, Realtime Quotes and Charts
+" property="twitter:title"/>
+<meta content="A stock market site by Business Insider with real-time data, custom charts and breaking news. Get the latest on stocks, commodities, currencies, funds, rates, ETFs, and more." name="description"/>
+<meta content="A stock market site by Business Insider with real-time data, custom charts and breaking news. Get the latest on stocks, commodities, currencies, funds, rates, ETFs, and more." property="og:description"/>
+<meta content="A stock market site by Business Insider with real-time data, custom charts and breaking news. Get the latest on stocks, commodities, currencies, funds, rates, ETFs, and more." name="twitter:description"/>
+<meta content="https://markets.businessinsider.com/Images/FacebookIcon.jpg" property="og:image"/>
+<meta content="Markets Insider" name="Publisher"/>
+<meta content="finanzen.net GmbH" name="Copyright"/>
+<meta content="INDEX,FOLLOW" name="Robots"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="Finanzen" name="page-topic"/>
+<meta content="Kommerzielle Homepage" name="page-type"/>
+<meta content="Alle" name="audience"/>
+<meta content="O7IlH7Qai/tL0iF1rHcx2JJ8p+LJIZjfS+ylSLqaxm4=" name="verify-v1"/>
+<meta content="mZUp2IbDqdTBhra_E0ZqOG4NW0GuABzSMO9mcAXDJ9E" name="google-site-verification"/>
+<meta content="6efc6eae0393e106a6d1d377acc83e" name="pocket-site-verification"/>
+<meta content="markets.businessinsider.com" property="og:site_name"/>
+<meta content="1669622843355246" property="fb:page_id"/>
+<meta content="20446254070" property="fb:pages"/>
+<meta content="article" property="og:type"/>
+<meta content="https://markets.businessinsider.com/" property="og:url"/>
+<link href="/opensearch.xml" rel="search" title="markets.businessinsider.com" type="application/opensearchdescription+xml"/>
+<link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/manifest.json" rel="manifest"/>
+<link color="#014889" href="/safari-pinned-tab.svg" rel="mask-icon"/>
+<!-- PreLoads -->
+<link as="font" crossorigin="" href="/Content/dist/fonts/Garnett-VF-Italic-Subset-Web.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="/Content/dist/fonts/Garnett-VF-Subset-Web.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="/Content/dist/fonts/PTSans-Regular-Subset.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="/Content/dist/fonts/TiemposText-Regular-Subset.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="/Content/dist/fonts/TiemposText-Bold-Subset.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="/Content/dist/fonts/TiemposText-BoldItalic-Subset.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="/Content/dist/fonts/TiemposText-Italic-Subset.woff2" rel="preload" type="font/woff2"/>
+<link as="font" crossorigin="" href="/Content/dist/fonts/icon.woff2?v=674987178" rel="preload" type="font/woff2"/>
+<link as="image" href="/Content/dist/images/business-insider-logo.svg" rel="preload"/>
+<link as="image" href="/Content/dist/images/insider-intelligence-logo.svg" rel="preload"/>
+<link as="image" href="/Content/dist/images/insider-logo.svg" rel="preload"/>
+<link as="image" href="/Content/dist/images/markets-insider-logo.svg" rel="preload"/>
+<link href="//pproxy.markets.businessinsider.com" rel="dns-prefetch"/>
+<link href="//images.finanzen.net" rel="dns-prefetch"/>
+<link href="//www.google-analytics.com" rel="dns-prefetch"/>
+<link href="//www.googletagservices.com" rel="dns-prefetch"/>
+<link href="//www.googletagmanager.com" rel="dns-prefetch"/>
+<link href="//cdn.krxd.net" rel="dns-prefetch"/>
+<link href="//beacon.krxd.net" rel="dns-prefetch"/>
+<link href="//usermatch.krxd.net" rel="dns-prefetch"/>
+<link href="//js-agent.newrelic.com" rel="dns-prefetch"/>
+<link href="//cdn.taboola.com" rel="dns-prefetch"/>
+<link href="//ping.chartbeat.net" rel="dns-prefetch"/>
+<link href="//static.chartbeat.com" rel="dns-prefetch"/>
+<link href="//cdn.privacy-mgmt.com" rel="preconnect"/>
+<link href="//htlbid.com" rel="preconnect"/>
+<link href="//cdn.permutive.com" rel="preconnect"/>
+<link href="//live.sekindo.com" rel="preconnect"/>
+<link href="//cdn.taboola.com" rel="preconnect"/>
+<!-- Stylesheet -->
+<link href="/Content/dist/styles.css?v=202509282019" rel="stylesheet" title="" type="text/css"/>
+<link href="https://htlbid.com/v3/marketsinsider.com/htlbid.css" rel="stylesheet" type="text/css"/>
+<link href="/cache/css/chartiq/stx-chart.css?v=202509282019" rel="stylesheet" title="" type="text/css"/>
+<!-- this component generated on: 2025-05-30 -->
+<link href="/styles/markets-insider-shared-components.9dda23ff1b469edd6949.css" media="all" rel="stylesheet"/>
+<noscript>
+<style>
+		#piano-inline-content-wrapper {
+			display: none !important;
+		}
+
+		.piano-freemium {
+			display: block !important;
+		}
+
+		#piano-inline-slideshow-wrapper {
+			display: none !important;
+		}
+	</style>
+</noscript>
+<!-- JavaScript -->
+<script defer="defer" src="/Content/Scripts/jquery-1.11.3.min.js?v=202509282019"></script><script defer="defer" src="/Content/Scripts/jquery.lazy-master/jquery.lazy.min.js?v=202509282019"></script><script defer="defer" src="/Content/Scripts/jquery-ui.min.js?v=202509282019"></script><script defer="defer" src="/Content/Scripts/jquery.color.min.js?v=202509282019"></script>
+<script defer="defer" src="/Content/Scripts/MDSnG/Config.min.js?v=202509282019"></script>
+<script defer="defer" src="/Content/Scripts/MDSnG/min/clientApi.min.js?v=202509282019"></script>
+<!-- this component generated on: 2025-05-30 -->
+<script async="async" defer="defer" src="/Content/dist/scripts.js?v=202509282019"></script>
+<script>
+    ((window) => {
+		window.FinandoJsEnvironment = {  VersionNumber : "7", CurrencySeparator : ",", RegexForDateValidation : /^\d{1,2}\/\d{1,2}\/\d{4}$/, RegexForEmailValidation : /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,20}$/ }
+		window.isDevelopmentMode = 'False' === 'True';
+		window.idleNotify = {
+			time: '10',
+			href: '/notify',
+			isEnabled: 'False'
+		};
+	})(window);
+</script>
+<script>
+	var permutiveConfigurations = {
+		permutivePageType: 'home',
+		pageType: 'home',
+		topSection: 'index',
+		disableHtlbid: false,
+		isHome: true
+	};
+
+	var taboolaConfiguration = {
+		taboolaPageType: 'homepage',
+		taboolaPlacementIds: [],
+		taboolaPlacements: [],
+		pageType: 'home',
+		topSection: 'index',
+		isHome: true
+	};
+</script>
+<noscript>
+<style>
+		[data-simplebar] {
+			overflow: auto;
+		}
+	</style>
+</noscript>
+<!-- Sections for news, tracking and canonicals -->
+<link href="https://markets.businessinsider.com/" rel="canonical"/>
+<script data-load-strategy="domready">
+  window.initialDataLayer = {"pageType":"homepage","publisher":"Markets Insider","vertical":"homepage","postURI":"homepage","abTest":null};
+  window.newsMetaData = {};
+</script>
+<script data-load-strategy="domready" id="gtm-config-script">(()=>{var t={20560:(t,a,e)=>{"use strict";var r=e(667),s=e.n(r);(()=>{function t(){window.dataLayer=window.dataLayer||[];for(var t=arguments.length,a=new Array(t),e=0;e<t;e++)a[e]=arguments[e];window.dataLayer.push({...a})}const a={analytics_storage:"TCF"===window.Fenrir.privacyApi?"denied":"granted",ad_storage:"TCF"===window.Fenrir.privacyApi?"denied":"granted",ads_data_redaction:"TCF"===window.Fenrir.privacyApi};let e=window.localStorage.getItem("fenrir-ga-consent");try{if(e=JSON.parse(e),!["granted","denied"].includes(e.analytics_storage)||!["granted","denied"].includes(e.ad_storage)||![!0,!1].includes(e.ads_data_redaction))throw new Error("invalid fenrir-ga-consent value");a.analytics_storage=e.analytics_storage,a.ad_storage=e.ad_storage,a.ads_data_redaction=e.ads_data_redaction}catch(t){}window.localStorage.setItem("fenrir-ga-consent",JSON.stringify(a));const{analytics_storage:r,ad_storage:n,ads_data_redaction:i}=a;t("consent","default",{analytics_storage:r,ad_storage:n,wait_for_update:500}),t("set","ads_data_redaction",i);const o=window.initialDataLayer||{};o.authenticationStatus="unauthenticated";localStorage.getItem("email_hashes")&&(o.userPhase="user"),"bi"===window.Fenrir.config.identifier&&(o.userAgent=window.navigator.userAgent);const d=localStorage.getItem("profile");if(d){o.authenticationStatus="authenticated",o.userPhase="account";const{subscriptionId:t,insiderId:a,hasPrime:e,subscriptionStatus:r,accessType:s}=(t=>{const a=JSON.parse(t),{"https://insider/subscriptionId":e,"https://insider/memberId":r,"https://insider/hasPrime":s,subscriptionStatus:n,accessType:i}=a;return{subscriptionId:e,insiderId:r,hasPrime:s,subscriptionStatus:n,accessType:i}})(d);t&&(o.subscriptionId=t),r&&(o.subscription_status=r),1===e&&(o.userPhase="subscriber"),a&&(o.insiderId=a),s&&(o.access_type=s)}const c=localStorage.getItem("universal_id");if(c)o.universalId=c;else{const t=s()();localStorage.setItem("universal_id",t),o.universalId=t}const u={event:"privacy",privacy_is_opted_out_of_ads:!1};let p=null;const l=localStorage.getItem("_sp_user_consent_6165");try{p=l?JSON.parse(l):null}catch(t){}if("GPP"===window.Fenrir.privacyApi){const{granularStatus:t}=p?.usnat?.consentStatus||{};u.privacy_is_opted_out_of_ads=!1===t?.sellStatus}else if("TCF"===window.Fenrir.privacyApi){const{granularStatus:t}=p?.gdpr?.consentStatus||{};u.privacy_is_opted_out_of_ads="ALL"!==t?.purposeConsent?.toUpperCase()}window.dataLayer=window.dataLayer||[],window.dataLayer.push(u),window.dataLayer.push(o),window.dataLayer.push({"gtm.start":(new Date).getTime(),event:"gtm.js"})})()},667:t=>{t.exports=()=>{try{return crypto.randomUUID()}catch(t){return"xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g,(t=>{const a=16*Math.random()|0;return("x"===t?a:3&a|8).toString(16)}))}}}},a={};function e(r){var s=a[r];if(void 0!==s)return s.exports;var n=a[r]={exports:{}};return t[r](n,n.exports,e),n.exports}e.m=t,e.c=a,e.n=t=>{var a=t&&t.__esModule?()=>t.default:()=>t;return e.d(a,{a}),a},e.d=(t,a)=>{for(var r in a)e.o(a,r)&&!e.o(t,r)&&Object.defineProperty(t,r,{enumerable:!0,get:a[r]})},e.o=(t,a)=>Object.prototype.hasOwnProperty.call(t,a),(()=>{e.S={};var t={},a={};e.I=(r,s)=>{s||(s=[]);var n=a[r];if(n||(n=a[r]={}),!(s.indexOf(n)>=0)){if(s.push(n),t[r])return t[r];e.o(e.S,r)||(e.S[r]={});e.S[r];var i=[];return i.length?t[r]=Promise.all(i).then((()=>t[r]=1)):t[r]=1}}})();e(20560)})();</script>
+<script data-consent="ANALYTICS" data-load-strategy="gdpr" data-track-load="gtm" src="https://www.googletagmanager.com/gtm.js?id=GTM-MP6F46L"></script>
+<script data-load-strategy="domready" id="gpp-stub">
+      window.__gpp_addFrame=function(e){if(!window.frames[e])if(document.body){var t=document.createElement("iframe");t.style.cssText="display:none",t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gpp_addFrame,10,e)},window.__gpp_stub=function(){var e=arguments;if(__gpp.queue=__gpp.queue||[],__gpp.events=__gpp.events||[],!e.length||1==e.length&&"queue"==e[0])return __gpp.queue;if(1==e.length&&"events"==e[0])return __gpp.events;var t=e[0],p=e.length>1?e[1]:null,s=e.length>2?e[2]:null;if("ping"===t)p({gppVersion:"1.1",cmpStatus:"stub",cmpDisplayStatus:"hidden",signalStatus:"not ready",supportedAPIs:["2:tcfeuv2","5:tcfcav1","6:uspv1","7:usnatv1","8:uscav1","9:usvav1","10:uscov1","11:usutv1","12:usctv1"],cmpId:0,sectionList:[],applicableSections:[],gppString:"",parsedSections:{}},!0);else if("addEventListener"===t){"lastId"in __gpp||(__gpp.lastId=0),__gpp.lastId++;var n=__gpp.lastId;__gpp.events.push({id:n,callback:p,parameter:s}),p({eventName:"listenerRegistered",listenerId:n,data:!0,pingData:{gppVersion:"1.1",cmpStatus:"stub",cmpDisplayStatus:"hidden",signalStatus:"not ready",supportedAPIs:["2:tcfeuv2","5:tcfcav1","6:uspv1","7:usnatv1","8:uscav1","9:usvav1","10:uscov1","11:usutv1","12:usctv1"],cmpId:0,sectionList:[],applicableSections:[],gppString:"",parsedSections:{}}},!0)}else if("removeEventListener"===t){for(var a=!1,i=0;i<__gpp.events.length;i++)if(__gpp.events[i].id==s){__gpp.events.splice(i,1),a=!0;break}p({eventName:"listenerRemoved",listenerId:s,data:a,pingData:{gppVersion:"1.1",cmpStatus:"stub",cmpDisplayStatus:"hidden",signalStatus:"not ready",supportedAPIs:["2:tcfeuv2","5:tcfcav1","6:uspv1","7:usnatv1","8:uscav1","9:usvav1","10:uscov1","11:usutv1","12:usctv1"],cmpId:0,sectionList:[],applicableSections:[],gppString:"",parsedSections:{}}},!0)}else"hasSection"===t?p(!1,!0):"getSection"===t||"getField"===t?p(null,!0):__gpp.queue.push([].slice.apply(e))},window.__gpp_msghandler=function(e){var t="string"==typeof e.data;try{var p=t?JSON.parse(e.data):e.data}catch(e){p=null}if("object"==typeof p&&null!==p&&"__gppCall"in p){var s=p.__gppCall;window.__gpp(s.command,(function(p,n){var a={__gppReturn:{returnValue:p,success:n,callId:s.callId}};e.source.postMessage(t?JSON.stringify(a):a,"*")}),"parameter"in s?s.parameter:null,"version"in s?s.version:"1.1")}},"__gpp"in window&&"function"==typeof window.__gpp||(window.__gpp=window.__gpp_stub,window.addEventListener("message",window.__gpp_msghandler,!1),window.__gpp_addFrame("__gppLocator"));
+  </script>
+<script data-load-strategy="domready" id="sourcepoint-config">
+    const configObject = {
+      accountId: 1108,
+      baseEndpoint: 'https://cdn.privacy-mgmt.com',
+      
+      usnat: {},
+      propertyHref: 'https://www.businessinsider.com',
+      joinHref: true,
+    };
+    window._sp_queue = [];
+    window._sp_ = {
+      config: configObject
+    };
+  </script>
+<script data-load-strategy="domready" defer="" src="https://cdn.privacy-mgmt.com/unified/wrapperMessagingWithoutDetection.js">
+</script>
+</head>
+<body>
+<!-- DevisedLabs Very Large Image LCP Hack -->
+<img alt="" height="99999" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+" style="pointer-events: none; position: absolute; top: 0; left: 0; width: 99vw; height: 99vh; max-width: 99vw; max-height: 99vh;" width="99999"/>
+<noscript>
+<iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-MBTPXX" style="display: none; visibility: hidden" width="0"></iframe>
+</noscript>
+<script>
+!function (e, t, a, n, g) { e[n] = e[n] || [], e[n].push({ "gtm.start": (new Date).getTime(), event: "gtm.js" }); var m = t.getElementsByTagName(a)[0], r = t.createElement(a); r.async = !0, r.src = "//www.googletagmanager.com/gtm.js?id=GTM-MBTPXX", m.parentNode.insertBefore(r, m) }(window, document, "script", "dataLayer");
+</script>
+<div class="htlad-mobile_sticky_lower" data-htlad="true" data-prebid="0x0:Home/Homepage/mobile_leaderboard|768x0:" data-unit="Markets-Insider/Home/Homepage"></div>
+<!-- Markets Insider Page Header -->
+<!-- this component generated on: 2025-05-30 -->
+<shared-component class="scs">
+<header class="masthead" data-component-type="masthead" data-load-strategy="exclude" style="--scroll: 0">
+<section class="top-section full-width-section">
+<div class="masthead-ad pre-render as-homepage" data-ad-refresher-expand="" data-ad-subnav="" data-component-type="masthead-ad" data-load-strategy="exclude">
+<div class="masthead-ad-wrapper ad-label">
+<div class="htlad-subnav" data-bi-ad="" data-htlad="true" data-prebid="0x0:Home/Homepage/mobile_leaderboard|768x0:Home/Homepage/billboard_flex|1024x0:Home/Homepage/billboard_flex" data-unit="Markets-Insider/Home/Homepage"></div>
+<div aria-label="Close this ad" class="close-icon-wrapper">
+<div class="close-icon-circle"><svg class="svg-icon close-icon" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="M21 5.394 18.606 3 12 9.606 5.394 3 3 5.394 9.606 12 3 18.606 5.394 21 12 14.394 18.606 21 21 18.606 14.394 12 21 5.394Z" fill="currentColor"></path>
+</svg></div>
+</div>
+</div>
+</div>
+</section>
+<section class="main-section grid-lines masthead-animation main-animated with-mi-search">
+<a class="logo-link masthead-animation logo-animated" data-track-click='{"product_field":"logo","event":"navigation","element_name":"masthead","click_text":"Business Insider"}' href="https://www.businessinsider.com/">
+<svg class="svg-icon logo-inline" height="120" viewbox="0 0 1365 120" width="1365" xmlns="http://www.w3.org/2000/svg">
+<title>Business Insider</title>
+<g class="logo-inline-path" fill="#0a0a0a" fill-rule="evenodd">
+<path d="M0 2.46h49.1c27.31 0 41.59 14.12 41.59 31.46 0 11.97-6.75 20.1-16.11 24.4v.31c11.97 4.3 18.72 13.81 18.72 25.93 0 17.34-13.35 32.53-42.2 32.53H0V2.46Zm47.57 45.42c8.13 0 11.82-4.14 11.82-8.75s-3.68-8.9-11.82-8.9H33.15v17.65h14.42Zm.46 41.43c8.59 0 12.74-4.14 12.74-9.51s-4.3-9.51-12.58-9.51H33.15v19.03h14.88Zm52.32-18.87V2.46h33.45v67.67c0 12.74 6.29 19.49 17.03 19.49s17.49-6.75 17.49-19.64V2.46h33.61v67.98c0 28.85-19.33 49.57-51.1 49.57s-50.49-20.72-50.49-49.57ZM287.1 7.98v29.46c-7.21-5.06-19.49-8.59-29.46-8.59-9.05 0-13.66 2.92-13.66 6.75s5.06 5.83 14.12 9.05c15.35 5.37 36.21 12.58 36.21 36.98 0 21.79-16.42 37.9-45.27 37.9-14.88 0-28.54-4.3-36.98-9.97v-31c8.29 6.75 20.87 12.12 32.99 12.12 10.28 0 15.04-3.84 15.04-8.13 0-5.52-7.83-7.98-17.19-11.36-12.28-4.45-31.76-12.43-31.76-34.68 0-20.1 15.81-36.52 44.04-36.52 12.43 0 23.63 3.22 31.92 7.98Zm15.8-5.52h33.45v114.63H302.9V2.46Zm152.38 114.63h-31.92l-41.28-61.53h-.15v61.53h-31.76V2.46h31.92l41.28 60.46h.15V2.46h31.76v114.63ZM469.09 2.46h79.18v29.77h-45.73v13.81h41.12v27.01h-41.12v14.27h45.73v29.77h-79.18V2.46Zm163.12 5.52v29.46c-7.21-5.06-19.49-8.59-29.46-8.59-9.05 0-13.66 2.92-13.66 6.75s5.06 5.83 14.12 9.05c15.35 5.37 36.21 12.58 36.21 36.98 0 21.79-16.42 37.9-45.27 37.9-14.88 0-28.54-4.3-36.98-9.97v-31c8.29 6.75 20.87 12.12 32.99 12.12 10.28 0 15.04-3.84 15.04-8.13 0-5.52-7.83-7.98-17.19-11.36-12.28-4.45-31.76-12.43-31.76-34.68 0-20.1 15.81-36.52 44.04-36.52 12.43 0 23.63 3.22 31.92 7.98Zm88.54 0v29.46c-7.21-5.06-19.49-8.59-29.46-8.59-9.05 0-13.66 2.92-13.66 6.75s5.06 5.83 14.12 9.05c15.35 5.37 36.21 12.58 36.21 36.98 0 21.79-16.42 37.9-45.27 37.9-14.88 0-28.54-4.3-36.98-9.97v-31c8.29 6.75 20.87 12.12 32.99 12.12 10.28 0 15.04-3.84 15.04-8.13 0-5.52-7.83-7.98-17.19-11.36-12.28-4.45-31.76-12.43-31.76-34.68 0-20.1 15.81-36.52 44.04-36.52 12.43 0 23.63 3.22 31.92 7.98Zm45.97 109.33h33.45V2.69h-33.45v114.63ZM919.08 2.69h-31.76v60.46h-.15L845.89 2.69h-31.92v114.63h31.76V55.79h.15l41.28 61.53h31.92V2.69ZM972.92.23c-28.24 0-44.04 16.42-44.04 36.52 0 22.25 19.49 30.23 31.76 34.68 9.36 3.38 17.19 5.83 17.19 11.36 0 4.3-4.76 8.13-15.04 8.13-12.12 0-24.71-5.37-32.99-12.12v31c8.44 5.68 22.1 9.97 36.98 9.97 28.85 0 45.27-16.11 45.27-37.9 0-24.4-20.87-31.61-36.21-36.98-9.05-3.22-14.12-5.06-14.12-9.05s4.6-6.75 13.66-6.75c9.97 0 22.25 3.53 29.46 8.59V8.21C996.55 3.45 985.35.23 972.92.23Zm46.94 117.08h33.45V2.69h-33.45v114.63Zm80.71-30.23h6.45c17.34 0 28.54-9.82 28.54-27.01s-11.2-27.16-28.54-27.16h-6.45v54.17Zm68.75-27.01c0 34.53-26.09 57.24-63.53 57.24h-38.67V2.69h38.67c37.44 0 63.53 22.86 63.53 57.39Zm9.07 57.24h79.18V87.54h-45.73V73.27h41.12V46.26h-41.12V32.45h45.73V2.69h-79.18v114.63Zm131.83-60.46c8.44 0 15.04-3.99 15.04-11.97s-6.6-11.97-15.19-11.97h-7.06v23.94h7.21Zm54.78 60.46h-39.44l-21.79-35.45h-.77v35.45h-33.45V2.69h40.82c28.7 0 48.64 12.74 48.64 39.9 0 10.74-4.76 26.39-23.79 34.37l29.77 40.36Z"></path>
+</g>
+</svg></a>
+<div class="cta-wrapper">
+<div class="markets-insider-search-box" data-component-type="markets-insider-search-box" data-load-strategy="lazy">
+<form action="https://markets.businessinsider.com/searchresults?_search=/" method="GET">
+<input autocapitalize="off" autocomplete="off" class="search-box-input label-xl-subtle" id="" name="_search" placeholder="Search markets" type="text" value=""/>
+<input class="search-button" data-track-click='{"product_field":"search","event":"navigation","element_name":"masthead","click_path":"/searchresults","click_text":"bi_value_unassigned"}' type="submit" value="Press here to search"/>
+<div class="search-icon-wrapper">
+<svg class="svg-icon search-icon" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="M15.996 17.7a8.53 8.53 0 0 1-4.466 1.253c-4.711 0-8.53-3.795-8.53-8.477C3 5.795 6.819 2 11.53 2c4.71 0 8.53 3.795 8.53 8.476 0 2.156-.81 4.124-2.143 5.62l3.583 4.318L19.564 22l-3.568-4.3Zm1.555-7.224c0 3.305-2.696 5.984-6.021 5.984-3.325 0-6.021-2.679-6.021-5.984 0-3.304 2.696-5.983 6.02-5.983 3.326 0 6.022 2.679 6.022 5.983Z" fill="currentColor" fill-rule="evenodd"></path>
+</svg> </div>
+<div class="markets-insider-search-box-results">
+<div class="search-box-results"></div>
+</div>
+</form>
+</div>
+<a class="markets-insider-my-watchlist label-md-strong" data-component-type="markets-insider-my-watchlist" data-load-strategy="lazy" data-track-click='{"product_field":"watchlist","event":"navigation","element_name":"masthead"}' href="https://markets.businessinsider.com/mymarkets?originurl=/">
+              My Markets Watchlist
+            </a>
+<button class="menu-button" data-interaction-trigger="hamburger-menu,overlay,account-icon,ai-search-box" data-menu-toggle="" data-track-click='{"product_field":"hamburger_menu","event":"navigation","element_name":"masthead","click_text":"bi_value_unassigned","click_path":"bi_value_unassigned"}' title="Open menu">
+<svg class="svg-icon menu-icon" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="M2.5 5.5h19v1.414h-19V5.5Zm0 5.793h19v1.414h-19v-1.414Zm0 7.207v-1.414h19V18.5h-19Z" fill="currentColor" stroke="currentColor"></path>
+</svg> </button>
+</div>
+</section>
+<section class="bottom-section grid-lines with-markets-insider-banner">
+<div class="markets-insider-banner" data-component-type="markets-insider-banner">
+<div class="marquee" data-component-type="marquee" data-scroll-type="loop">
+<div class="marquee-wrapper">
+<div class="marquee-scroller">
+<div class="banner-asset-wrapper"></div>
+</div>
+</div>
+</div>
+</div> </section>
+<section class="vertical-nav grid-lines is-mi" data-component-type="vertical-nav" data-load-strategy="lazy">
+<nav class="vertical-subnav" data-track-click-shared='{"product_field":"vertical","event":"navigation","element_name":"navbar"}'>
+<div class="mi-nav-top-wrapper">
+<h1 class="current-vertical display-xl">
+        Markets
+      </h1>
+<a class="markets-insider-my-watchlist label-md-strong" data-component-type="markets-insider-my-watchlist" data-load-strategy="lazy" data-track-click='{"product_field":"watchlist","event":"navigation","element_name":"masthead"}' href="https://markets.businessinsider.com/mymarkets?originurl=/">
+        My Markets Watchlist
+      </a>
+</div>
+<div class="sub-verticals">
+<a class="subnav-item-link heading-2xs" data-track-click="" href="/stocks">Stocks</a>
+<a class="subnav-item-link heading-2xs" data-track-click="" href="/indices">Indices</a>
+<a class="subnav-item-link heading-2xs" data-track-click="" href="/commodities">Commodities</a>
+<a class="subnav-item-link heading-2xs" data-track-click="" href="/cryptocurrencies">Cryptocurrencies</a>
+<a class="subnav-item-link heading-2xs" data-track-click="" href="/currencies">Currencies</a>
+<a class="subnav-item-link heading-2xs" data-track-click="" href="/etfs">ETFs</a>
+<a class="subnav-item-link heading-2xs" data-track-click="" href="/news">News</a>
+<a class="mi-calendar subnav-item-link" data-track-click='{"product_field":"calendar"}' href="/economic-calendar">
+<svg class="svg-icon calendar-icon" fill="none" height="1em" role="img" viewbox="0 0 16 17" width="1em" xmlns="http://www.w3.org/2000/svg">
+<title>Calendar icon</title>
+<desc>An icon in the shape of a calendar.</desc>
+<rect height="13.7143" rx="0.1" stroke="currentColor" stroke-width="2" width="14" x="1" y="2.28564"></rect>
+<path d="M1.16663 8H15.1666" stroke="currentColor" stroke-width="2"></path>
+<path d="M5.08333 4.57143V0" stroke="currentColor" stroke-width="2"></path>
+<path d="M10.9167 4.57143V0" stroke="currentColor" stroke-width="2"></path>
+</svg> </a>
+</div>
+</nav>
+</section>
+</header>
+<nav class="hamburger-menu" data-component-type="hamburger-menu" data-load-strategy="interaction">
+<section class="hamburger-menu-content">
+<div class="hamburger-menu-top">
+<a class="monogram-tap-target" data-track-click='{"click_text":"Business Insider","product_field":"other","element_name":"hamburger_menu","event":"navigation"}' href="https://www.businessinsider.com/" title="Business Insider">
+<svg class="svg-icon logo-monogram" height="120" viewbox="0 0 147.4 120" width="147.4" xmlns="http://www.w3.org/2000/svg">
+<g class="logo-monogram-path" fill="currentColor" fill-rule="evenodd">
+<path d="M0 0h51.4C80 0 94.9 14.8 94.9 32.9s-7.1 21-16.9 25.5v.3c12.5 4.5 19.6 14.5 19.6 27.2 0 18.2-14 34.1-44.2 34.1H0V0Zm49.8 47.6c8.5 0 12.4-4.3 12.4-9.2s-3.9-9.3-12.4-9.3H34.7v18.5h15.1Zm.5 43.3c9 0 13.3-4.3 13.3-10s-4.5-10-13.2-10H34.7v19.9h15.6ZM112.4 0h35v120h-35V0Z"></path>
+</g>
+</svg> </a>
+<button class="close-button" data-menu-toggle="" data-track-click='{"product_field":"close","event":"navigation","element_name":"hamburger_menu","click_text":"bi_value_unassigned","click_path":"bi_value_unassigned"}' title="Close menu">
+<span class="close-button-background">
+<svg class="svg-icon close-icon" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="M21 5.394 18.606 3 12 9.606 5.394 3 3 5.394 9.606 12 3 18.606 5.394 21 12 14.394 18.606 21 21 18.606 14.394 12 21 5.394Z" fill="currentColor"></path>
+</svg> </span>
+</button>
+</div>
+<div class="ai-search-box" data-component-type="ai-search-box" data-load-strategy="interaction" data-tracking-area="hamburger">
+<form action="/answers" class="input-holder" method="get">
+<div class="input-holder-inner">
+<input class="js-search-input" placeholder="Search Business Insider" type="text"/>
+<button class="inline-button" title="Search BI"><svg class="svg-icon ai-search-icon" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="M19.475 9.275a8.415 8.415 0 0 1-2.058 6.82L21 20.414 19.064 22l-3.568-4.3a8.53 8.53 0 0 1-4.466 1.253c-4.711 0-8.53-3.795-8.53-8.477C2.5 5.795 6.319 2 11.03 2c.396 0 .786.027 1.167.079l-.549 1.069-2.716 1.395c-.335.173-.6.41-.794.684a5.977 5.977 0 0 0-3.13 5.25c0 3.304 2.697 5.983 6.022 5.983a6.025 6.025 0 0 0 5.298-3.138c.251-.19.468-.441.629-.754l1.395-2.716 1.123-.577Z" fill="currentColor"></path>
+<path d="M14.822 1.346a.2.2 0 0 1 .356 0l1.66 3.23a.2.2 0 0 0 .086.087l3.23 1.66a.2.2 0 0 1 0 .355l-3.23 1.66a.2.2 0 0 0-.087.086l-1.66 3.23a.2.2 0 0 1-.355 0l-1.66-3.23a.2.2 0 0 0-.086-.087l-3.23-1.66a.2.2 0 0 1 0-.355l3.23-1.66a.2.2 0 0 0 .087-.086l1.66-3.23Z" fill="#002AFF"></path>
+</svg></button>
+</div>
+<button class="big-button">Search</button>
+</form>
+</div>
+<section class="hamburger-menu-vertical-lists" data-track-click-shared='{"product_field":"vertical","event":"navigation","element_name":"hamburger_menu"}'>
+<div class="accordion level-0" data-component-type="accordion" data-group="menu" data-level="0" data-load-strategy="exclude" data-track-click-shared='{"element_name":"hamburger_menu","event":"navigation","product_field":"vertical"}'>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<button class="accordion-button headline-medium" title="Expand menu"><svg class="svg-icon chevron-down-icon" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="m19.44 5.5-7.486 7.72L4.56 5.594 2 8.234 11.954 18.5 22 8.14 19.44 5.5Z" fill="currentColor" fill-rule="evenodd"></path>
+</svg></button>
+<a class="accordion-link headline-medium with-nested-accordion" data-track-click="" href="https://www.businessinsider.com/business">Business</a>
+</span>
+<div class="accordion level-1" data-component-type="accordion" data-group="menu" data-level="1" data-load-strategy="exclude">
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/strategy">Strategy</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/economy">Economy</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/finance">Finance</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/retail">Retail</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/advertising">Advertising</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/careers">Careers</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/media">Media</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/real-estate">Real Estate</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/smallbusiness">Small Business</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/sc/introducing-the-better-work-project-hub">The Better Work Project</a>
+</span>
+</div>
+</div> </div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<button class="accordion-button headline-medium" title="Expand menu"><svg class="svg-icon chevron-down-icon" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="m19.44 5.5-7.486 7.72L4.56 5.594 2 8.234 11.954 18.5 22 8.14 19.44 5.5Z" fill="currentColor" fill-rule="evenodd"></path>
+</svg></button>
+<a class="accordion-link headline-medium with-nested-accordion" data-track-click="" href="https://www.businessinsider.com/tech">Tech</a>
+</span>
+<div class="accordion level-1" data-component-type="accordion" data-group="menu" data-level="1" data-load-strategy="exclude">
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/science">Science</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/artificial-intelligence">AI</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/enterprise">Enterprise</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/transportation">Transportation</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/startups">Startups</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/innovation">Innovation</a>
+</span>
+</div>
+</div> </div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<button class="accordion-button headline-medium" title="Expand menu"><svg class="svg-icon chevron-down-icon" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="m19.44 5.5-7.486 7.72L4.56 5.594 2 8.234 11.954 18.5 22 8.14 19.44 5.5Z" fill="currentColor" fill-rule="evenodd"></path>
+</svg></button>
+<a class="accordion-link headline-medium with-nested-accordion" data-track-click="" href="https://markets.businessinsider.com">Markets</a>
+</span>
+<div class="accordion level-1" data-component-type="accordion" data-group="menu" data-level="1" data-load-strategy="exclude">
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://markets.businessinsider.com/stocks">Stocks</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://markets.businessinsider.com/indices">Indices</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://markets.businessinsider.com/commodities">Commodities</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://markets.businessinsider.com/cryptocurrencies">Crypto</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://markets.businessinsider.com/currencies">Currencies</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://markets.businessinsider.com/etfs">ETFs</a>
+</span>
+</div>
+</div> </div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<button class="accordion-button headline-medium" title="Expand menu"><svg class="svg-icon chevron-down-icon" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="m19.44 5.5-7.486 7.72L4.56 5.594 2 8.234 11.954 18.5 22 8.14 19.44 5.5Z" fill="currentColor" fill-rule="evenodd"></path>
+</svg></button>
+<a class="accordion-link headline-medium with-nested-accordion" data-track-click="" href="https://www.businessinsider.com/lifestyle">Lifestyle</a>
+</span>
+<div class="accordion level-1" data-component-type="accordion" data-group="menu" data-level="1" data-load-strategy="exclude">
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/entertainment">Entertainment</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/culture">Culture</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/travel">Travel</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/food">Food</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/health">Health</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/parenting">Parenting</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<button class="accordion-button headline-medium" title="Expand menu"><svg class="svg-icon arrow-filled-right" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="M7 22V2L22 12L7 22Z" fill="currentColor"></path>
+</svg></button>
+<a class="accordion-link headline-medium with-nested-accordion" data-track-click="" href="https://www.businessinsider.com/guides">Reviews</a>
+</span>
+<div class="accordion level-2" data-component-type="accordion" data-group="menu" data-level="2" data-load-strategy="exclude">
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/guides/tech ">Tech</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/guides/streaming ">Streaming</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/guides/tickets ">Tickets</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/guides/home">Home</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/guides/kitchen">Kitchen</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/guides/style">Style</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/guides/beauty">Beauty</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/guides/gifts">Gifts</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/guides/deals">Deals</a>
+</span>
+</div>
+</div> </div>
+</div> </div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<button class="accordion-button headline-medium" title="Expand menu"><svg class="svg-icon chevron-down-icon" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="m19.44 5.5-7.486 7.72L4.56 5.594 2 8.234 11.954 18.5 22 8.14 19.44 5.5Z" fill="currentColor" fill-rule="evenodd"></path>
+</svg></button>
+<a class="accordion-link headline-medium with-nested-accordion" data-track-click="" href="https://www.businessinsider.com/politics">Politics</a>
+</span>
+<div class="accordion level-1" data-component-type="accordion" data-group="menu" data-level="1" data-load-strategy="exclude">
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/defense">Military &amp; Defense</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/law">Law</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/education">Education</a>
+</span>
+</div>
+</div> </div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<button class="accordion-button headline-medium" title="Expand menu"><svg class="svg-icon chevron-down-icon" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="m19.44 5.5-7.486 7.72L4.56 5.594 2 8.234 11.954 18.5 22 8.14 19.44 5.5Z" fill="currentColor" fill-rule="evenodd"></path>
+</svg></button>
+<a class="accordion-link headline-medium with-nested-accordion" data-track-click="" href="https://www.businessinsider.com/personal-finance">Personal Finance</a>
+</span>
+<div class="accordion level-1" data-component-type="accordion" data-group="menu" data-level="1" data-load-strategy="exclude">
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<button class="accordion-button headline-medium" title="Expand menu"><svg class="svg-icon arrow-filled-right" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="M7 22V2L22 12L7 22Z" fill="currentColor"></path>
+</svg></button>
+<a class="accordion-link headline-medium with-nested-accordion" data-track-click="" href="https://www.businessinsider.com/personal-finance/banking">Banking</a>
+</span>
+<div class="accordion level-2" data-component-type="accordion" data-group="menu" data-level="2" data-load-strategy="exclude">
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/savings">Savings</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/banking/best-high-yield-savings-accounts-rates-right-now">Best Savings Accounts</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/banking/raisin-review">Raisin Review</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/checking-account">Checking Accounts</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/banking/best-checking-accounts">Best Checking Accounts</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/banking/chime-bank-review">Chime Checking Account</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/banking/sofi-checking-savings-review">SoFi Checking and Saving</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/banking/best-money-market-accounts">Best Money Market Accounts</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/certificates-of-deposit">CDs</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/banking/who-has-the-best-cd-rates-right-now">Best CD Rates</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/banking/best-bank-account-bonuses">Best Bank Account Bonuses</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/banking/cash-back-debit-cards">Cash Back Debit Cards</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/banking/best-banks">Best Banks</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/banking/cit-bank-review">CIT Bank Review</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/banking/ufb-direct-banking-review">UFB Direct Bank</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/small-business">Small Business Banking</a>
+</span>
+</div>
+</div> </div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<button class="accordion-button headline-medium" title="Expand menu"><svg class="svg-icon arrow-filled-right" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="M7 22V2L22 12L7 22Z" fill="currentColor"></path>
+</svg></button>
+<a class="accordion-link headline-medium with-nested-accordion" data-track-click="" href="https://www.businessinsider.com/personal-finance/credit-cards">Credit Cards</a>
+</span>
+<div class="accordion level-2" data-component-type="accordion" data-group="menu" data-level="2" data-load-strategy="exclude">
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/credit-score">Credit Scores</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/credit-score/best-credit-monitoring-services">Credit Monitoring</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/credit-cards/best-credit-cards">Best Credit Cards</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/credit-cards/best-cash-back-credit-cards">Best Cash Back Credit Cards</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/credit-cards/best-rewards-credit-cards">Best Rewards Credit Cards</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/credit-cards/best-travel-rewards-credit-cards">Best Travel Credit Cards</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/credit-cards/best-zero-interest-credit-cards">Best 0% APR Credit Cards</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/credit-cards/best-balance-transfer-credit-cards">Best Balance Transfer Credit Cards</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/credit-cards/best-starter-credit-cards">Best First Credit Cards</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/credit-cards/best-small-business-credit-card">Best Business Credit Cards</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/credit-cards/discover-it-cash-back-card-review">Discover it Cash Back Credit Card</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/credit-cards/chase-sapphire-preferred-card-review">Chase Sapphire Preferred Credit Card</a>
+</span>
+</div>
+</div> </div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<button class="accordion-button headline-medium" title="Expand menu"><svg class="svg-icon arrow-filled-right" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="M7 22V2L22 12L7 22Z" fill="currentColor"></path>
+</svg></button>
+<a class="accordion-link headline-medium with-nested-accordion" data-track-click="" href="https://www.businessinsider.com/personal-finance/investing">Investing</a>
+</span>
+<div class="accordion level-2" data-component-type="accordion" data-group="menu" data-level="2" data-load-strategy="exclude">
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/financial-planning">Financial Planning</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/retirement">Retirement</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/taxes">Taxes</a>
+</span>
+</div>
+</div> </div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<button class="accordion-button headline-medium" title="Expand menu"><svg class="svg-icon arrow-filled-right" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="M7 22V2L22 12L7 22Z" fill="currentColor"></path>
+</svg></button>
+<a class="accordion-link headline-medium with-nested-accordion" data-track-click="" href="https://www.businessinsider.com/personal-finance/loans">Loans</a>
+</span>
+<div class="accordion level-2" data-component-type="accordion" data-group="menu" data-level="2" data-load-strategy="exclude">
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/personal-loans/best-personal-loans">Best personal loans</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/personal-loans/best-debt-consolidation-loans">Best debt consolidation loans</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/personal-loans/best-personal-loans-bad-credit">Best Loans for Bad Credit</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/student-loans">Student Loans</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/student-loans/best-private-student-loans">Best Student Loans</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/student-loans/best-student-loan-refinance-companies">Best Student Loan Refinance</a>
+</span>
+</div>
+</div> </div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<button class="accordion-button headline-medium" title="Expand menu"><svg class="svg-icon arrow-filled-right" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="M7 22V2L22 12L7 22Z" fill="currentColor"></path>
+</svg></button>
+<a class="accordion-link headline-medium with-nested-accordion" data-track-click="" href="https://www.businessinsider.com/personal-finance/mortgages">Mortgages</a>
+</span>
+<div class="accordion level-2" data-component-type="accordion" data-group="menu" data-level="2" data-load-strategy="exclude">
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/mortgages/best-mortgage-lenders">Best mortgage lenders</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/mortgages/best-mortgage-refinance-lenders">Best mortgage refinance lenders</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/mortgages/fha-interest-rates">Best FHA Lenders</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/mortgages/current-heloc-rates">Best HELOC Lenders</a>
+</span>
+</div>
+</div> </div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<button class="accordion-button headline-medium" title="Expand menu"><svg class="svg-icon arrow-filled-right" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="M7 22V2L22 12L7 22Z" fill="currentColor"></path>
+</svg></button>
+<a class="accordion-link headline-medium with-nested-accordion" data-track-click="" href="https://www.businessinsider.com/personal-finance/insurance">Insurance</a>
+</span>
+<div class="accordion level-2" data-component-type="accordion" data-group="menu" data-level="2" data-load-strategy="exclude">
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/auto-insurance/best-car-insurance-companies">Best Car Insurance</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/homeowners-insurance">Homeowners Insurance</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/homeowners-insurance/best-homeowners-insurance-companies">Best Homeowners Insurance</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/homeowners-insurance/best-renters-insurance-companies">Best Renters Insurance</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/life-insurance">Life Insurance</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/life-insurance/best-life-insurance-companies">Best Life Insurance</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/pet-insurance">Pet Insurance</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/pet-insurance/best-pet-insurance">Best Pet Insurance</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/travel-insurance">Travel Insurance</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/travel-insurance/best-travel-insurance-companies">Best Travel Insurance</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/travel-insurance/squaremouth-travel-insurance-review">SquareMouth Travel Insurance</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/personal-finance/identity-protection">Identity Theft Protection</a>
+</span>
+</div>
+</div> </div>
+</div> </div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<button class="accordion-button headline-medium" title="Expand menu"><svg class="svg-icon chevron-down-icon" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="m19.44 5.5-7.486 7.72L4.56 5.594 2 8.234 11.954 18.5 22 8.14 19.44 5.5Z" fill="currentColor" fill-rule="evenodd"></path>
+</svg></button>
+<a class="accordion-link headline-medium with-nested-accordion" data-track-click="" href="https://www.businessinsider.com/video">Video</a>
+</span>
+<div class="accordion level-1" data-component-type="accordion" data-group="menu" data-level="1" data-load-strategy="exclude">
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/show/big-business">Big Business</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/show/food-wars">Food Wars</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/show/so-expensive">So Expensive</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/show/still-standing">Still Standing</a>
+</span>
+</div>
+<div class="accordion-row">
+<span class="accordion-item headline-medium">
+<a class="accordion-link headline-medium" data-track-click="" href="https://www.businessinsider.com/show/boot-camp">Boot Camp</a>
+</span>
+</div>
+</div> </div>
+</div> </section>
+</section>
+<footer class="hamburger-menu-footer">
+</footer>
+</nav>
+<div class="overlay" data-component-type="overlay" data-load-strategy="interaction"></div></shared-component>
+<!-- Markets Insider Page Content -->
+<main class="site-content">
+<div>
+<div class="site-content__row">
+<div class="grid__col--12 grid__col--m-12 grid__col--s-12 site-content__col--spacer">
+</div>
+</div>
+<div class="spacer-10"></div>
+<div class="site-content__row graviton">
+<div class="site-content__col site-content__col--left"><div class="graviton">
+<h2 class="header-underline">
+<a class="clear-link pointer" href="/news">Stock Market News</a>
+<a class="header-underline__right-text" href="/news">More News<span class="icon icon-arrow-circle"></span></a>
+</h2>
+<section class="top-story">
+<div class="top-story__story">
+<div class="top-story__meta">
+<span class="top-story__source">Business Insider</span>
+<time class="top-story__date" datetime="3d">3d</time>
+</div>
+<a class="top-story__image-link" href="https://www.businessinsider.com/stock-market-today-sp500-dow-nasdaq-rally-nvda-orcl-ai-2025-9" rel="sponsored noopener" target="_blank">
+<img alt="Why the stock market's record-breaking rally is stalling out" class="top-story__image" src="https://markets.businessinsider.com/images/unsortiert/trader-screen-colorful-nyse-terminal.jpg" title="Why the stock market's record-breaking rally is stalling out"/>
+</a>
+<h3 class="top-story__title">
+<a class="top-story__link" href="https://www.businessinsider.com/stock-market-today-sp500-dow-nasdaq-rally-nvda-orcl-ai-2025-9" rel="sponsored noopener" target="_blank">Why the stock market's record-breaking rally is stalling out</a>
+</h3>
+<ul class="top-story__teaser-list">
+<li class="top-story__teaser">
+<a class="top-story__link" href="https://www.businessinsider.com/stock-market-today-sp500-dow-nasdaq-rally-nvda-orcl-ai-2025-9" rel="sponsored noopener" target="_blank">US stocks were on track for their third day of losses as bond yields spiked and AI excitement wore thin.</a>
+</li>
+</ul>
+<div class="top-story__read-more">
+<a class="button" href="https://www.businessinsider.com/stock-market-today-sp500-dow-nasdaq-rally-nvda-orcl-ai-2025-9" rel="sponsored noopener" target="_blank">Read the story</a>
+</div>
+<div class="instrument-stories__clear"></div>
+</div>
+<div class="top-story__story">
+<div class="top-story__meta">
+<span class="top-story__source">Business Insider</span>
+<time class="top-story__date" datetime="7d">7d</time>
+</div>
+<a class="top-story__image-link" href="https://www.businessinsider.com/rob-arnott-profile-research-affiliates-stock-market-index-investing-strategies-2025-9" rel="sponsored noopener" target="_blank">
+<img alt="Rob Arnott revolutionized stock investing. Decades later, he's still disrupting the market's favorite strategies." class="top-story__image" src="https://markets.businessinsider.com/images/unsortiert/rob-arnott-original-photo.jpg" title="Rob Arnott revolutionized stock investing. Decades later, he's still disrupting the market's favorite strategies."/>
+</a>
+<h3 class="top-story__title">
+<a class="top-story__link" href="https://www.businessinsider.com/rob-arnott-profile-research-affiliates-stock-market-index-investing-strategies-2025-9" rel="sponsored noopener" target="_blank">Rob Arnott revolutionized stock investing. Decades later, he's still disrupting the market's favorite strategies.</a>
+</h3>
+<ul class="top-story__teaser-list">
+<li class="top-story__teaser">
+<a class="top-story__link" href="https://www.businessinsider.com/rob-arnott-profile-research-affiliates-stock-market-index-investing-strategies-2025-9" rel="sponsored noopener" target="_blank">Rob Arnott pioneered smart beta decades ago. The investor sat down for lunch with Business Insider to talk ETFs, investing, and eclipse chasing.</a>
+</li>
+</ul>
+<div class="instrument-stories__clear"></div>
+</div>
+<div class="top-story__story">
+<div class="top-story__meta">
+<span class="top-story__source">Business Insider</span>
+<time class="top-story__date" datetime="7d">7d</time>
+</div>
+<a class="top-story__image-link" href="https://www.businessinsider.com/stock-investing-ideas-inflation-hedge-gold-jeff-gundlach-bond-king-2025-9" rel="sponsored noopener" target="_blank">
+<img alt="'Bond King' Jeffrey Gundlach says he's got 3 investment ideas to prep for higher inflation and a global shift from the dollar" class="top-story__image" src="https://markets.businessinsider.com/images/unsortiert/jeff-gundlach.jpeg" title="'Bond King' Jeffrey Gundlach says he's got 3 investment ideas to prep for higher inflation and a global shift from the dollar"/>
+</a>
+<h3 class="top-story__title">
+<a class="top-story__link" href="https://www.businessinsider.com/stock-investing-ideas-inflation-hedge-gold-jeff-gundlach-bond-king-2025-9" rel="sponsored noopener" target="_blank">'Bond King' Jeffrey Gundlach says he's got 3 investment ideas to prep for higher inflation and a global shift from the dollar</a>
+</h3>
+<ul class="top-story__teaser-list">
+<li class="top-story__teaser">
+<a class="top-story__link" href="https://www.businessinsider.com/stock-investing-ideas-inflation-hedge-gold-jeff-gundlach-bond-king-2025-9" rel="sponsored noopener" target="_blank">DoubleLine's Jeffrey Gundlach said he doesn't see a 25% portfolio allocation to gold as "excessive."</a>
+</li>
+</ul>
+<div class="instrument-stories__clear"></div>
+</div>
+<div class="top-story__story">
+<div class="top-story__meta">
+<span class="top-story__source">Business Insider</span>
+<time class="top-story__date" datetime="7d">7d</time>
+</div>
+<a class="top-story__image-link" href="https://www.businessinsider.com/industrial-stocks-to-buy-top-stock-picks-investing-advice-ubs-2025-9" rel="sponsored noopener" target="_blank">
+<img alt="UBS says these are the top 11 stocks in the booming industrial sector" class="top-story__image" src="https://markets.businessinsider.com/images/unsortiert/stock-trader-chart-screen.jpg" title="UBS says these are the top 11 stocks in the booming industrial sector"/>
+</a>
+<h3 class="top-story__title">
+<a class="top-story__link" href="https://www.businessinsider.com/industrial-stocks-to-buy-top-stock-picks-investing-advice-ubs-2025-9" rel="sponsored noopener" target="_blank">UBS says these are the top 11 stocks in the booming industrial sector</a>
+</h3>
+<ul class="top-story__teaser-list">
+<li class="top-story__teaser">
+<a class="top-story__link" href="https://www.businessinsider.com/industrial-stocks-to-buy-top-stock-picks-investing-advice-ubs-2025-9" rel="sponsored noopener" target="_blank">UBS analysts highlighted 11 buy-rated industrial stocks, with the overall sector outstripping the S&amp;P 500 year-to-date.</a>
+</li>
+</ul>
+<div class="instrument-stories__clear"></div>
+</div>
+<div class="top-story__border"></div>
+</section>
+</div> <div class="spacer-50 mobile-spacer-25"></div>
+<div class="graviton">
+<div class="mostviewed-instruments" data-mostviewed-instruments-limit-rows="10" id="mostviewed-instruments-container"></div>
+</div>
+</div><div class="site-content__col site-content__col--right">
+<script>
+    window.marketsNowChart = window.marketsNowChart || {};
+    window.marketsNowChart.configs = window.marketsNowChart.configs || [];
+    window.marketsNowChart.configs.push({
+        regionSelector: '#marketsnow-chart',
+        marketsNowChart: {
+            data: [{"tab":"Overview","asset":null,"elements":[{"typeID":1,"tkData":"310,998313,310,333","isAmericanStock":true,"isAsiaStock":false,"urlTypeID":0,"premarketUrlTypeID":0,"absoluteDecimals":0,"currentDecimals":0,"identifier":"998313","premarketIdentifier":null,"exchange":"IDJ","premarketExchange":null,"customName":"DOW 30","mobileHiddenName":null,"premarketCustomName":null,"urlLookup":"dow_jones","isMarketTime":false,"url":"/ajax/Chart_GetIntradayQuotesMiniChart","pushIdentifier":"Y0101136000998313|Last","premarketPushIdentifier":null,"useOutOfMarketTimeLogic":true,"useExchangeStrictly":false,"useMongo":false,"IdentifierType":null,"shortenedNotation":false,"pushField":null},{"typeID":1,"tkData":"1135,985336,1135,333","isAmericanStock":true,"isAsiaStock":false,"urlTypeID":0,"premarketUrlTypeID":0,"absoluteDecimals":0,"currentDecimals":0,"identifier":"985336","premarketIdentifier":null,"exchange":"NAI","premarketExchange":null,"customName":"NASDAQ 100","mobileHiddenName":null,"premarketCustomName":null,"urlLookup":"nasdaq_100","isMarketTime":false,"url":"/ajax/Chart_GetIntradayQuotesMiniChart","pushIdentifier":"Y010146F000985336|Mid","premarketPushIdentifier":null,"useOutOfMarketTimeLogic":true,"useExchangeStrictly":false,"useMongo":false,"IdentifierType":null,"shortenedNotation":false,"pushField":null},{"typeID":1,"tkData":"1059,998434,1059,333","isAmericanStock":true,"isAsiaStock":false,"urlTypeID":0,"premarketUrlTypeID":0,"absoluteDecimals":0,"currentDecimals":0,"identifier":"998434","premarketIdentifier":null,"exchange":"SNC","premarketExchange":null,"customName":"S&P 500","mobileHiddenName":null,"premarketCustomName":null,"urlLookup":"s&p_500","isMarketTime":false,"url":"/ajax/Chart_GetIntradayQuotesMiniChart","pushIdentifier":"Y0101423000998434|Last","premarketPushIdentifier":null,"useOutOfMarketTimeLogic":true,"useExchangeStrictly":false,"useMongo":false,"IdentifierType":null,"shortenedNotation":false,"pushField":null}]},{"tab":"Commodities","asset":null,"elements":[{"typeID":6,"tkData":"300009,6,0,333","isAmericanStock":false,"isAsiaStock":false,"urlTypeID":0,"premarketUrlTypeID":0,"absoluteDecimals":2,"currentDecimals":0,"identifier":"1594836","premarketIdentifier":null,"exchange":"NMN","premarketExchange":null,"customName":"Oil (WTI)","mobileHiddenName":null,"premarketCustomName":null,"urlLookup":"oil-price?type=wti","isMarketTime":false,"url":"/ajax/Chart_GetIntradayQuotesMiniChart","pushIdentifier":"Y01010080001594836-USD|Last","premarketPushIdentifier":null,"useOutOfMarketTimeLogic":false,"useExchangeStrictly":true,"useMongo":false,"IdentifierType":null,"shortenedNotation":false,"pushField":null},{"typeID":6,"tkData":"300009,1,0,333","isAmericanStock":false,"isAsiaStock":false,"urlTypeID":0,"premarketUrlTypeID":0,"absoluteDecimals":0,"currentDecimals":0,"identifier":"275078","premarketIdentifier":null,"exchange":null,"premarketExchange":null,"customName":"Gold","mobileHiddenName":null,"premarketCustomName":null,"urlLookup":"gold-price","isMarketTime":false,"url":"/ajax/Chart_GetIntradayQuotesMiniChart","pushIdentifier":"Y0101E4D000113377356-USD|Mid","premarketPushIdentifier":null,"useOutOfMarketTimeLogic":false,"useExchangeStrictly":false,"useMongo":false,"IdentifierType":null,"shortenedNotation":false,"pushField":null},{"typeID":6,"tkData":"300009,5,0,333","isAmericanStock":false,"isAsiaStock":false,"urlTypeID":0,"premarketUrlTypeID":0,"absoluteDecimals":2,"currentDecimals":0,"identifier":"274207","premarketIdentifier":null,"exchange":null,"premarketExchange":null,"customName":"Oil (Brent)","mobileHiddenName":null,"premarketCustomName":null,"urlLookup":"oil-price","isMarketTime":false,"url":"/ajax/Chart_GetIntradayQuotesMiniChart","pushIdentifier":"Y0101E4D000113378775-USD|Mid","premarketPushIdentifier":null,"useOutOfMarketTimeLogic":false,"useExchangeStrictly":false,"useMongo":false,"IdentifierType":null,"shortenedNotation":false,"pushField":null}]},{"tab":"Currencies","asset":null,"elements":[{"typeID":5,"tkData":"1,275023,148,534","isAmericanStock":false,"isAsiaStock":false,"urlTypeID":0,"premarketUrlTypeID":0,"absoluteDecimals":2,"currentDecimals":0,"identifier":"275023","premarketIdentifier":null,"exchange":null,"premarketExchange":null,"customName":"USD/JPY","mobileHiddenName":null,"premarketCustomName":null,"urlLookup":"usd-jpy","isMarketTime":false,"url":"/ajax/Chart_GetIntradayQuotesMiniChart","pushIdentifier":"Y0101095000275023-JPY|Mid","premarketPushIdentifier":null,"useOutOfMarketTimeLogic":false,"useExchangeStrictly":true,"useMongo":false,"IdentifierType":null,"shortenedNotation":false,"pushField":null},{"typeID":5,"tkData":"1,946681,148,333","isAmericanStock":false,"isAsiaStock":false,"urlTypeID":0,"premarketUrlTypeID":0,"absoluteDecimals":3,"currentDecimals":0,"identifier":"946681","premarketIdentifier":null,"exchange":"FXR","premarketExchange":null,"customName":"EUR/USD","mobileHiddenName":null,"premarketCustomName":null,"urlLookup":"eur-usd","isMarketTime":false,"url":"/ajax/Chart_GetIntradayQuotesMiniChart","pushIdentifier":"Y0101094000946681-USD|Mid","premarketPushIdentifier":null,"useOutOfMarketTimeLogic":false,"useExchangeStrictly":true,"useMongo":false,"IdentifierType":null,"shortenedNotation":false,"pushField":null},{"typeID":5,"tkData":"1,275017,148,333","isAmericanStock":false,"isAsiaStock":false,"urlTypeID":0,"premarketUrlTypeID":0,"absoluteDecimals":2,"currentDecimals":0,"identifier":"275017","premarketIdentifier":null,"exchange":"FXR","premarketExchange":null,"customName":"GBP/USD","mobileHiddenName":null,"premarketCustomName":null,"urlLookup":"gbp-usd","isMarketTime":false,"url":"/ajax/Chart_GetIntradayQuotesMiniChart","pushIdentifier":"Y0101095000275321-USD|Mid","premarketPushIdentifier":null,"useOutOfMarketTimeLogic":false,"useExchangeStrictly":true,"useMongo":false,"IdentifierType":null,"shortenedNotation":false,"pushField":null}]}],
+            pushApiLibrary: 'clientApiHandler',
+            utcOffset: -4
+        }
+    });
+</script>
+<div class="graviton">
+<h3 class="header-underline">
+		Markets Now
+		<span class="header-underline__date">September 28, 2025</span>
+</h3>
+<div id="marketsnow-chart">
+<div class="tab-region" data-tab-region="markets-markets-now">
+<nav class="tab-region__navigation">
+<div class="tab" data-tab="markets-markets-now">
+<ul class="tab__list">
+<li class="tab__item tab__item--small" data-tab-item="overview">Overview</li>
+<li class="tab__item tab__item--small" data-tab-item="commodities">Commodities</li>
+<li class="tab__item tab__item--small" data-tab-item="currencies">Currencies</li>
+</ul>
+</div>
+</nav>
+<div class="tab-region__container">
+<section class="tab-region__content tab-region__content--active" data-tab-region-content="overview">
+<div class="markets-now-overview">
+<div class="markets-now-overview__chart-container">
+<div class="markets-now-overview__chart"></div>
+</div>
+<div class="markets-now-overview__selection">
+<button class="button markets-now-overview__selection-button markets-now-overview__selection-button--active">DOW 30</button>
+<button class="button markets-now-overview__selection-button">S&amp;P 500</button>
+<button class="button markets-now-overview__selection-button">NASDAQ 100</button>
+</div>
+</div>
+</section>
+<section class="tab-region__content tab-region__content--active" data-tab-region-content="commodities">
+<div class="markets-now-overview">
+<div class="markets-now-overview__chart-container">
+<div class="markets-now-overview__chart"></div>
+</div>
+<div class="markets-now-overview__selection">
+<button class="button markets-now-overview__selection-button">Gold</button>
+<button class="button markets-now-overview__selection-button">Oil</button>
+<button class="button markets-now-overview__selection-button">Copper</button>
+</div>
+</div>
+</section>
+<section class="tab-region__content tab-region__content--active" data-tab-region-content="currencies">
+<div class="markets-now-overview">
+<div class="markets-now-overview__chart-container">
+<div class="markets-now-overview__chart"></div>
+</div>
+<div class="markets-now-overview__selection">
+<button class="button markets-now-overview__selection-button">Bitcoin</button>
+<button class="button markets-now-overview__selection-button">Ethereum</button>
+<button class="button markets-now-overview__selection-button">Ripple</button>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+<div class="spacer-50 mobile-spacer-25"></div>
+<div class="htlad-upper_300_1" data-htlad="true" data-prebid="0x0:|960x0:Home/Homepage/halfpage_flex" data-unit="Markets-Insider/Home/Homepage"></div>
+</div>
+</div>
+<div class="spacer-10"></div>
+<div class="site-content__row">
+<div class="grid__col--12 grid__col--m-12 grid__col--s-12 site-content__col--spacer">
+<div class="graviton">
+<h2 class="header-underline">
+            Stocks
+                <a class="header-underline__right-text" href="/stocks">All Stocks<span class="icon icon-arrow-circle"></span></a>
+</h2>
+</div>
+</div>
+</div>
+<div class="site-content__row graviton">
+<div class="site-content__col site-content__col--left"> <div class="graviton">
+<section class="instrument-stories">
+<div class="instrument-stories__story">
+<div class="instrument-stories__meta">
+<span class="instrument-stories__source">Business Insider</span>
+<time class="instrument-stories__date" datetime="2025-25-09 16:34">3d</time>
+</div>
+<a class="instrument-stories__image-link" href="https://www.businessinsider.com/us-housing-market-outlook-2025-buying-a-home-mortgage-rates-2025-9" rel="sponsored noopener" target="_blank">
+</a>
+<h3 class="instrument-stories__title">
+<a class="instrument-stories__link" href="https://www.businessinsider.com/us-housing-market-outlook-2025-buying-a-home-mortgage-rates-2025-9" rel="sponsored noopener" target="_blank">3 signs the US housing market is roaring back to life</a>
+</h3>
+<p class="instrument-stories__teaser">
+<a class="instrument-stories__link" href="https://www.businessinsider.com/us-housing-market-outlook-2025-buying-a-home-mortgage-rates-2025-9" rel="sponsored noopener" target="_blank">While existing home sales stalled in August, sales of new homes surged to their highest level in years. Affordability has improved as rates edge lower. </a>
+</p>
+<div class="instrument-stories__clear"></div>
+</div>
+<div class="instrument-stories__story">
+<div class="instrument-stories__meta">
+<span class="instrument-stories__source">Business Insider</span>
+<time class="instrument-stories__date" datetime="2025-24-09 21:36">4d</time>
+</div>
+<a class="instrument-stories__image-link" href="https://www.businessinsider.com/moomoo-retail-trading-store-nyc-investors-meetup-gme-reddit-2025-9" rel="sponsored noopener" target="_blank">
+</a>
+<h3 class="instrument-stories__title">
+<a class="instrument-stories__link" href="https://www.businessinsider.com/moomoo-retail-trading-store-nyc-investors-meetup-gme-reddit-2025-9" rel="sponsored noopener" target="_blank">Why one retail investing platform is betting on physical storefronts for traders</a>
+</h3>
+<p class="instrument-stories__teaser">
+<a class="instrument-stories__link" href="https://www.businessinsider.com/moomoo-retail-trading-store-nyc-investors-meetup-gme-reddit-2025-9" rel="sponsored noopener" target="_blank">Stock trading platform Moomoo is launching a physical storefront in New York City, looking to tap into retail traders' desire for community support. </a>
+</p>
+<div class="instrument-stories__clear"></div>
+</div>
+<div class="instrument-stories__story">
+<div class="instrument-stories__meta">
+<span class="instrument-stories__source">Business Insider</span>
+<time class="instrument-stories__date" datetime="2025-17-09 16:06">11d</time>
+</div>
+<a class="instrument-stories__image-link" href="https://www.businessinsider.com/refinance-mortgage-30-year-rate-housing-market-fed-rate-cut-2025-9" rel="sponsored noopener" target="_blank">
+</a>
+<h3 class="instrument-stories__title">
+<a class="instrument-stories__link" href="https://www.businessinsider.com/refinance-mortgage-30-year-rate-housing-market-fed-rate-cut-2025-9" rel="sponsored noopener" target="_blank">Americans are sprinting to refinance their mortgages as rates fall</a>
+</h3>
+<p class="instrument-stories__teaser">
+<a class="instrument-stories__link" href="https://www.businessinsider.com/refinance-mortgage-30-year-rate-housing-market-fed-rate-cut-2025-9" rel="sponsored noopener" target="_blank">Americans are racing to refinance their mortgages. Borrower demand in the last week has been the strongest since 2022. </a>
+</p>
+<div class="instrument-stories__clear"></div>
+</div>
+<div class="instrument-stories__story">
+<div class="instrument-stories__meta">
+<span class="instrument-stories__source">Business Insider</span>
+<time class="instrument-stories__date" datetime="2025-17-09 15:56">11d</time>
+</div>
+<a class="instrument-stories__image-link" href="https://www.businessinsider.com/coreweave-stock-short-seller-report-kerrisdale-ai-nvidia-gpus-tech-2025-9" rel="sponsored noopener" target="_blank">
+</a>
+<h3 class="instrument-stories__title">
+<a class="instrument-stories__link" href="https://www.businessinsider.com/coreweave-stock-short-seller-report-kerrisdale-ai-nvidia-gpus-tech-2025-9" rel="sponsored noopener" target="_blank">Why a prominent short-seller is betting against one of the market's hottest AI plays</a>
+</h3>
+<p class="instrument-stories__teaser">
+<a class="instrument-stories__link" href="https://www.businessinsider.com/coreweave-stock-short-seller-report-kerrisdale-ai-nvidia-gpus-tech-2025-9" rel="sponsored noopener" target="_blank">CoreWeave has enjoyed a huge post-IPO rally, but a short seller this week says the share price should be slashed by more than 90%. </a>
+</p>
+<div class="instrument-stories__clear"></div>
+</div>
+<div class="instrument-stories__story">
+<div class="instrument-stories__meta">
+<span class="instrument-stories__source">Business Insider</span>
+<time class="instrument-stories__date" datetime="2025-17-09 11:16">11d</time>
+</div>
+<a class="instrument-stories__image-link" href="https://www.businessinsider.com/fed-rate-cut-decision-market-impact-stock-picks-sp500-2025-9" rel="sponsored noopener" target="_blank">
+</a>
+<h3 class="instrument-stories__title">
+<a class="instrument-stories__link" href="https://www.businessinsider.com/fed-rate-cut-decision-market-impact-stock-picks-sp500-2025-9" rel="sponsored noopener" target="_blank">These 3 areas of the stock market will be the most likely winners of a Fed rate cut, strategist says</a>
+</h3>
+<p class="instrument-stories__teaser">
+<a class="instrument-stories__link" href="https://www.businessinsider.com/fed-rate-cut-decision-market-impact-stock-picks-sp500-2025-9" rel="sponsored noopener" target="_blank">Markets have already rallied in anticipation of a Fed rate cut, but SoFi's top strategist tells Business Insider these sectors have more room to run. </a>
+</p>
+<div class="instrument-stories__clear"></div>
+</div>
+<div class="instrument-stories__border"></div>
+</section>
+<div class="margin-bottom--larger"></div>
+</div>
+</div><div class="site-content__col site-content__col--right">
+<div class="graviton margin-top--s-large">
+<div class="tab" data-tab="If8c55e3730984e208576b79310e80ca8" data-tab-ajax-container="If8c55e3730984e208576b79310e80ca8">
+<ul class="tab__list">
+<li class="tab__item" data-tab-item="/ajax/BiggestGainersLosers/55444">Dow Jones</li>
+<li class="tab__item" data-tab-item="/ajax/BiggestGainersLosers/55448">S&amp;P 500</li>
+<li class="tab__item" data-tab-item="/ajax/BiggestGainersLosers/55449">Nasdaq 100</li>
+</ul>
+</div>
+<div data-tab-ajax-region-content="If8c55e3730984e208576b79310e80ca8">
+<div class="graviton">
+<h3 class="header-underline">Biggest Gainers</h3>
+<div class="top-flop">
+<div class="top-flop__row">
+<a class="top-flop__label" href="/stocks/ba-stock" title="BA">BA</a>
+<div class="top-flop__relative-value top-flop__relative-value--positive">3.62%</div>
+<div class="top-flop__name" title="Boeing Co">Boeing Co</div>
+<div class="top-flop__absolute-value">
+<span>221.26</span>
+			 
+			<span>(9/26/25)</span>
+</div>
+</div>
+<div class="top-flop__row">
+<a class="top-flop__label" href="/stocks/trv-stock" title="TRV">TRV</a>
+<div class="top-flop__relative-value top-flop__relative-value--positive">1.29%</div>
+<div class="top-flop__name" title="Travelers Cos">Travelers Cos</div>
+<div class="top-flop__absolute-value">
+<span>277.76</span>
+			 
+			<span>(9/26/25)</span>
+</div>
+</div>
+<div class="top-flop__row">
+<a class="top-flop__label" href="/stocks/mrk-stock" title="MRK">MRK</a>
+<div class="top-flop__relative-value top-flop__relative-value--positive">1.24%</div>
+<div class="top-flop__name" title="Merck">Merck</div>
+<div class="top-flop__absolute-value">
+<span>78.56</span>
+			 
+			<span>(9/26/25)</span>
+</div>
+</div>
+<div class="top-flop__row">
+<a class="top-flop__label" href="/stocks/jnj-stock" title="JNJ">JNJ</a>
+<div class="top-flop__relative-value top-flop__relative-value--positive">1.11%</div>
+<div class="top-flop__name" title="Johnson&amp;Johnson">Johnson&amp;Johnson</div>
+<div class="top-flop__absolute-value">
+<span>179.71</span>
+			 
+			<span>(9/26/25)</span>
+</div>
+</div>
+<div class="top-flop__row">
+<a class="top-flop__label" href="/stocks/crm-stock" title="CRM">CRM</a>
+<div class="top-flop__relative-value top-flop__relative-value--positive">1.03%</div>
+<div class="top-flop__name" title="Salesforce">Salesforce</div>
+<div class="top-flop__absolute-value">
+<span>243.43</span>
+			 
+			<span>(9/26/25)</span>
+</div>
+</div>
+</div>
+<div class="margin-top--large"></div>
+<h3 class="header-underline">Biggest Losers</h3>
+<div class="top-flop">
+<div class="top-flop__row">
+<a class="top-flop__label" href="/stocks/csco-stock" title="CSCO">CSCO</a>
+<div class="top-flop__relative-value top-flop__relative-value--negative">-0.93%</div>
+<div class="top-flop__name" title="Cisco Systems">Cisco Systems</div>
+<div class="top-flop__absolute-value">
+<span>67.22</span>
+			 
+			<span>(9/27/25)</span>
+</div>
+</div>
+<div class="top-flop__row">
+<a class="top-flop__label" href="/stocks/aapl-stock" title="AAPL">AAPL</a>
+<div class="top-flop__relative-value top-flop__relative-value--negative">-0.55%</div>
+<div class="top-flop__name" title="Apple">Apple</div>
+<div class="top-flop__absolute-value">
+<span>255.46</span>
+			 
+			<span>(9/27/25)</span>
+</div>
+</div>
+<div class="top-flop__row">
+<a class="top-flop__label" href="/stocks/ko-stock" title="KO">KO</a>
+<div class="top-flop__relative-value top-flop__relative-value--negative">-0.47%</div>
+<div class="top-flop__name" title="Coca-Cola Co">Coca-Cola Co</div>
+<div class="top-flop__absolute-value">
+<span>65.67</span>
+			 
+			<span>(9/26/25)</span>
+</div>
+</div>
+<div class="top-flop__row">
+<a class="top-flop__label" href="/stocks/unh-stock" title="UNH">UNH</a>
+<div class="top-flop__relative-value top-flop__relative-value--negative">-0.43%</div>
+<div class="top-flop__name" title="Unitedhealth Gro">Unitedhealth Gro</div>
+<div class="top-flop__absolute-value">
+<span>344.08</span>
+			 
+			<span>(9/26/25)</span>
+</div>
+</div>
+<div class="top-flop__row">
+<a class="top-flop__label" href="/stocks/cvx-stock" title="CVX">CVX</a>
+<div class="top-flop__relative-value top-flop__relative-value--negative">-0.35%</div>
+<div class="top-flop__name" title="Chevron">Chevron</div>
+<div class="top-flop__absolute-value">
+<span>160.16</span>
+			 
+			<span>(9/26/25)</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+<div class="spacer-10"></div>
+<div class="site-content__row">
+<div class="grid__col--12 grid__col--m-12 grid__col--s-12 site-content__col--spacer">
+<div class="htlad-mobile_in_post_ad_1" data-htlad="true" data-prebid="0x0:Home/Homepage/medrec_flex|768x0:" data-unit="Markets-Insider/Home/Homepage"></div>
+<div class="htlad-desktop_in_post_ad_1" data-htlad="true" data-prebid="0x0:|768x0:Home/Homepage/medrec|1261x0:Home/Homepage/billboard_flex" data-unit="Markets-Insider/Home/Homepage"></div>
+</div>
+</div>
+<div class="spacer-10"></div>
+<div class="site-content__row">
+<div class="grid__col--12 grid__col--m-12 grid__col--s-12 site-content__col--spacer">
+<div class="graviton">
+<h2 class="header-underline">
+            Indices
+                <a class="header-underline__right-text" href="/indices">All Indices<span class="icon icon-arrow-circle"></span></a>
+</h2>
+</div>
+</div>
+</div>
+<div class="site-content__row graviton">
+<div class="site-content__col site-content__col--left">
+<div class="graviton">
+<div class="generic-indices-world-map" id="A896ce990c2cc4a4996f977ef31796408"></div>
+</div>
+<script>
+  window.genericIndicesWorldMapConfigs = window.genericIndicesWorldMapConfigs || [];
+  window.genericIndicesWorldMapConfigs.push({
+    data: [{"DisplayName":"U.S.A., New York","X":275,"Y":191,"Latitude":40.73061,"Longitude":-73.935242,"CountryCode":"USA","Flag":"us","IndexID":null,"ParsedIndexIDs":[],"IndicesItems":[{"IndexName":"Dow Jones","ChangeAbsolute":299.97,"ChangeRelative":0.65,"Quote":46247.29,"IndexURL":"/index/dow_jones"},{"IndexName":"S&P 500","ChangeAbsolute":38.98,"ChangeRelative":0.59,"Quote":6643.7,"IndexURL":"/index/s&p_500"},{"IndexName":"NASDAQ 100","ChangeAbsolute":106.54,"ChangeRelative":0.44,"Quote":24503.85,"IndexURL":"/index/nasdaq_100"}]},{"DisplayName":"Canada, Toronto","X":254,"Y":182,"Latitude":43.65107,"Longitude":-79.402953,"CountryCode":"CAN","Flag":"ca","IndexID":null,"ParsedIndexIDs":[],"IndicesItems":[{"IndexName":"S&P/TSX 60","ChangeAbsolute":-3.7,"ChangeRelative":-0.21,"Quote":1755.24,"IndexURL":"/index/s&p-tsx-60"}]},{"DisplayName":"Italy, Milan","X":494,"Y":180,"Latitude":42.690055,"Longitude":12.715211,"CountryCode":"ITA","Flag":"it","IndexID":null,"ParsedIndexIDs":[],"IndicesItems":[{"IndexName":"FTSE Italia A","ChangeAbsolute":197.17,"ChangeRelative":0.95,"Quote":21050.96,"IndexURL":"/index/ftse-italia-all-shares"}]},{"DisplayName":"Argentina, Buenos Aires","X":314,"Y":387,"Latitude":-34.603722,"Longitude":-58.381592,"CountryCode":"ARG","Flag":"ar","IndexID":null,"ParsedIndexIDs":[],"IndicesItems":[{"IndexName":"Merval 25","ChangeAbsolute":-904.76,"ChangeRelative":-2.33,"Quote":37849.99,"IndexURL":"/index/merval_25"}]},{"DisplayName":"Germany, Frankfurt","X":492,"Y":163,"Latitude":50.110924,"Longitude":8.682127,"CountryCode":"DEU","Flag":"de","IndexID":null,"ParsedIndexIDs":[],"IndicesItems":[{"IndexName":"DAX","ChangeAbsolute":204.64,"ChangeRelative":0.87,"Quote":23739.47,"IndexURL":"/index/dax"}]},{"DisplayName":"Belgium, Brussels","X":475,"Y":153,"Latitude":50.85045,"Longitude":4.34878,"CountryCode":"BEL","Flag":"be","IndexID":null,"ParsedIndexIDs":[],"IndicesItems":[{"IndexName":"BEL 20","ChangeAbsolute":28.14,"ChangeRelative":0.61,"Quote":4670.47,"IndexURL":"/index/bel_20"}]},{"DisplayName":"France, Paris","X":471,"Y":169,"Latitude":48.864716,"Longitude":2.349014,"CountryCode":"FRA","Flag":"fr","IndexID":null,"ParsedIndexIDs":[],"IndicesItems":[{"IndexName":"CAC 40","ChangeAbsolute":75.26,"ChangeRelative":0.97,"Quote":7870.68,"IndexURL":"/index/cac_40"}]},{"DisplayName":"Spain, Madrid","X":459,"Y":193,"Latitude":40.416775,"Longitude":-3.70379,"CountryCode":"ESP","Flag":"es","IndexID":null,"ParsedIndexIDs":[],"IndicesItems":[{"IndexName":"IBEX 35","ChangeAbsolute":196.7,"ChangeRelative":1.3,"Quote":15350.4,"IndexURL":"/index/ibex_35"}]},{"DisplayName":"Japan, Tokyo","X":823,"Y":206,"Latitude":35.652832,"Longitude":139.839478,"CountryCode":"JPN","Flag":"jp","IndexID":null,"ParsedIndexIDs":[],"IndicesItems":[{"IndexName":"NIKKEI 225","ChangeAbsolute":-399.94,"ChangeRelative":-0.87,"Quote":45354.99,"IndexURL":"/index/nikkei_225"}]},{"DisplayName":"Netherlands, Amsterdam","X":475,"Y":159,"Latitude":52.369401,"Longitude":4.871401,"CountryCode":"NLD","Flag":"nl","IndexID":null,"ParsedIndexIDs":[],"IndicesItems":[{"IndexName":"AEX","ChangeAbsolute":3.99,"ChangeRelative":0.43,"Quote":938.35,"IndexURL":"/index/aex"}]},{"DisplayName":"Great Britain, London","X":465,"Y":159,"Latitude":55.158695,"Longitude":-2.667997,"CountryCode":"GBR","Flag":"gb","IndexID":null,"ParsedIndexIDs":[],"IndicesItems":[{"IndexName":"FTSE 100","ChangeAbsolute":70.85,"ChangeRelative":0.77,"Quote":9284.83,"IndexURL":"/index/ftse_100"}]},{"DisplayName":"Swisse, Zurich","X":498,"Y":173,"Latitude":47.451542,"Longitude":8.564572,"CountryCode":"CHE","Flag":"ch","IndexID":null,"ParsedIndexIDs":[],"IndicesItems":[{"IndexName":"SMI","ChangeAbsolute":54.0,"ChangeRelative":0.45,"Quote":11929.8,"IndexURL":"/index/smi"}]},{"DisplayName":"Russia, Moscow","X":560,"Y":139,"Latitude":55.751244,"Longitude":37.618423,"CountryCode":"RUS","Flag":"ru","IndexID":null,"ParsedIndexIDs":[],"IndicesItems":[{"IndexName":"RTS","ChangeAbsolute":-17.28,"ChangeRelative":-1.85,"Quote":915.6,"IndexURL":"/index/rts"}]},{"DisplayName":"Australia, Sydney","X":853,"Y":383,"Latitude":-33.865143,"Longitude":151.2099,"CountryCode":"AUS","Flag":"au","IndexID":null,"ParsedIndexIDs":[],"IndicesItems":[{"IndexName":"S&P ASX 20","ChangeAbsolute":-7.5,"ChangeRelative":-0.19,"Quote":3981.9,"IndexURL":"/index/s&p_asx_20"}]},{"DisplayName":"China, Shanghai","X":771,"Y":212,"Latitude":31.224361,"Longitude":121.46917,"CountryCode":"CHN","Flag":"cn","IndexID":null,"ParsedIndexIDs":[],"IndicesItems":[{"IndexName":"Hang Seng","ChangeAbsolute":-356.48,"ChangeRelative":-1.35,"Quote":26128.2,"IndexURL":"/index/hang_seng"},{"IndexName":"Shanghai Comp","ChangeAbsolute":-0.34,"ChangeRelative":-0.01,"Quote":3853.3,"IndexURL":"/index/shanghai_composite"}]},{"DisplayName":"Chile, Santiago","X":278,"Y":380,"Latitude":-33.447487,"Longitude":-70.673676,"CountryCode":"CHL","Flag":"cl","IndexID":null,"ParsedIndexIDs":[],"IndicesItems":[{"IndexName":"IGPA","ChangeAbsolute":-46.28,"ChangeRelative":-0.2,"Quote":22879.31,"IndexURL":"/index/igpa"}]}],
+    regionId: 'A896ce990c2cc4a4996f977ef31796408'
+  });
+</script>
+<svg height="1" width="1">
+<pattern height="4" id="A896ce990c2cc4a4996f977ef31796408-strip-colors" patternunits="userSpaceOnUse" width="4">
+<path d="M-1,1 l2,-2
+            M0,4 l4,-4
+            M3,5 l2,-2" style="stroke:#EA0201; stroke-width:1"></path>
+</pattern>
+</svg> <div class="graviton">
+<section class="story-row story-row--border-top margin-bottom--small">
+<div class="story-row__story">
+<div class="story-row__meta">
+<span class="story-row__source">Business Insider</span>
+<time class="story-row__date" datetime="2025-16-09 17:34">12d</time>
+</div>
+<a class="story-row__image-link" href="https://www.businessinsider.com/oracle-stock-bloom-energy-data-orcl-revenue-data-centers-ai-2025-9" rel="sponsored noopener" target="_blank">
+</a>
+<h3 class="story-row__title">
+<a class="story-row__link" href="https://www.businessinsider.com/oracle-stock-bloom-energy-data-orcl-revenue-data-centers-ai-2025-9" rel="sponsored noopener" target="_blank">A little-known clean energy stock might be one of the biggest winners of Oracle's surprise revenue explosion</a>
+</h3>
+<p class="story-row__teaser">
+<a class="story-row__link" href="https://www.businessinsider.com/oracle-stock-bloom-energy-data-orcl-revenue-data-centers-ai-2025-9" rel="sponsored noopener" target="_blank">Wall Street was floored by Oracle's huge revenue forecast. Now, a top bank says its sales boom is set to lift this under-the-radar energy stock. </a>
+</p>
+<div class="story-row__clear"></div>
+</div>
+<div class="story-row__story">
+<div class="story-row__meta">
+<span class="story-row__source">Business Insider</span>
+<time class="story-row__date" datetime="2025-16-09 16:42">12d</time>
+</div>
+<a class="story-row__image-link" href="https://www.businessinsider.com/housing-market-outlook-interest-rates-mortgage-rates-today-affordability-nahb-2025-9" rel="sponsored noopener" target="_blank">
+</a>
+<h3 class="story-row__title">
+<a class="story-row__link" href="https://www.businessinsider.com/housing-market-outlook-interest-rates-mortgage-rates-today-affordability-nahb-2025-9" rel="sponsored noopener" target="_blank">America's homebuilders think the housing market is approaching a turning point</a>
+</h3>
+<p class="story-row__teaser">
+<a class="story-row__link" href="https://www.businessinsider.com/housing-market-outlook-interest-rates-mortgage-rates-today-affordability-nahb-2025-9" rel="sponsored noopener" target="_blank">The National Association of Homebuilders thinks the US housing market is on the verge of a major pivot as mortgage rates edge down amid rate-cut hopes. </a>
+</p>
+<div class="story-row__clear"></div>
+</div>
+<div class="story-row__story">
+<div class="story-row__meta">
+<span class="story-row__source">Business Insider</span>
+<time class="story-row__date" datetime="2025-16-09 11:32">12d</time>
+</div>
+<a class="story-row__image-link" href="https://www.businessinsider.com/recent-retail-investor-summit-showed-how-bullish-traders-are-stocks-2025-9" rel="sponsored noopener" target="_blank">
+</a>
+<h3 class="story-row__title">
+<a class="story-row__link" href="https://www.businessinsider.com/recent-retail-investor-summit-showed-how-bullish-traders-are-stocks-2025-9" rel="sponsored noopener" target="_blank">I attended an event for retail investors to swap ideas. It showed just how bullish everyday traders are on the market.</a>
+</h3>
+<p class="story-row__teaser">
+<a class="story-row__link" href="https://www.businessinsider.com/recent-retail-investor-summit-showed-how-bullish-traders-are-stocks-2025-9" rel="sponsored noopener" target="_blank">Everyday investors flocked to a hotel in NYC to hear retail trader icons like Eric Jackson and Anthony Pompliano talk about why they're so optimistic. </a>
+</p>
+<div class="story-row__clear"></div>
+</div>
+</section>
+</div>
+</div><div class="site-content__col site-content__col--right"><div class="graviton">
+<h3 class="header-underline">Biggest Gainers</h3>
+<div class="top-flop">
+<div class="top-flop__row">
+<a class="top-flop__label" href="/index/nse" title="NSE 20">NSE 20</a>
+<div class="top-flop__relative-value top-flop__relative-value--positive">1.97%</div>
+<div class="top-flop__name" title="NSE 20">NSE 20</div>
+<div class="top-flop__absolute-value">
+<span>2,974.45</span>
+			 
+			<span>(9/25/25)</span>
+</div>
+</div>
+<div class="top-flop__row">
+<a class="top-flop__label" href="/index/ibc" title="IBC">IBC</a>
+<div class="top-flop__relative-value top-flop__relative-value--positive">1.49%</div>
+<div class="top-flop__name" title="IBC">IBC</div>
+<div class="top-flop__absolute-value">
+<span>1,052.19</span>
+			 
+			<span>(9/25/25)</span>
+</div>
+</div>
+<div class="top-flop__row">
+<a class="top-flop__label" href="/index/ibex_35" title="IBEX 35">IBEX 35</a>
+<div class="top-flop__relative-value top-flop__relative-value--positive">1.30%</div>
+<div class="top-flop__name" title="IBEX 35">IBEX 35</div>
+<div class="top-flop__absolute-value">
+<span>15,350.40</span>
+			 
+			<span>(9/26/25)</span>
+</div>
+</div>
+<div class="top-flop__row">
+<a class="top-flop__label" href="/index/divdax-kursindex" title="DivDAX">DivDAX</a>
+<div class="top-flop__relative-value top-flop__relative-value--positive">1.18%</div>
+<div class="top-flop__name" title="DivDAX">DivDAX</div>
+<div class="top-flop__absolute-value">
+<span>198.02</span>
+			 
+			<span>(9/26/25)</span>
+</div>
+</div>
+<div class="top-flop__row">
+<a class="top-flop__label" href="/index/cac_40" title="PX1">PX1</a>
+<div class="top-flop__relative-value top-flop__relative-value--positive">0.97%</div>
+<div class="top-flop__name" title="CAC 40">CAC 40</div>
+<div class="top-flop__absolute-value">
+<span>7,870.68</span>
+			 
+			<span>(9/26/25)</span>
+</div>
+</div>
+</div>
+<div class="margin-top--large"></div>
+<h3 class="header-underline">Biggest Losers</h3>
+<div class="top-flop">
+<div class="top-flop__row">
+<a class="top-flop__label" href="/index/vix" title="VIX">VIX</a>
+<div class="top-flop__relative-value top-flop__relative-value--negative">-8.66%</div>
+<div class="top-flop__name" title="VIX">VIX</div>
+<div class="top-flop__absolute-value">
+<span>15.29</span>
+			 
+			<span></span>
+</div>
+</div>
+<div class="top-flop__row">
+<a class="top-flop__label" href="/index/hang_seng" title="Hang Seng">Hang Seng</a>
+<div class="top-flop__relative-value top-flop__relative-value--negative">-1.35%</div>
+<div class="top-flop__name" title="Hang Seng">Hang Seng</div>
+<div class="top-flop__absolute-value">
+<span>26,128.20</span>
+			 
+			<span></span>
+</div>
+</div>
+<div class="top-flop__row">
+<a class="top-flop__label" href="/index/nikkei_225" title="NIKKEI 225">NIKKEI 225</a>
+<div class="top-flop__relative-value top-flop__relative-value--negative">-0.87%</div>
+<div class="top-flop__name" title="NIKKEI 225">NIKKEI 225</div>
+<div class="top-flop__absolute-value">
+<span>45,354.99</span>
+			 
+			<span></span>
+</div>
+</div>
+<div class="top-flop__row">
+<a class="top-flop__label" href="/index/egx30" title="EGX30">EGX30</a>
+<div class="top-flop__relative-value top-flop__relative-value--negative">-0.77%</div>
+<div class="top-flop__name" title="EGX30">EGX30</div>
+<div class="top-flop__absolute-value">
+<span>35,671.43</span>
+			 
+			<span></span>
+</div>
+</div>
+<div class="top-flop__row">
+<a class="top-flop__label" href="/index/sensex" title="SENSEX">SENSEX</a>
+<div class="top-flop__relative-value top-flop__relative-value--negative">-0.68%</div>
+<div class="top-flop__name" title="SENSEX">SENSEX</div>
+<div class="top-flop__absolute-value">
+<span>81,159.68</span>
+			 
+			<span></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="spacer-10"></div>
+<div class="site-content__row">
+<div class="grid__col--12 grid__col--m-12 grid__col--s-12 site-content__col--spacer">
+<div class="htlad-mobile_in_post_ad_1" data-htlad="true" data-prebid="0x0:Home/Homepage/medrec_flex|768x0:" data-unit="Markets-Insider/Home/Homepage"></div>
+<div class="htlad-desktop_in_post_ad_1" data-htlad="true" data-prebid="0x0:|768x0:Home/Homepage/medrec|1261x0:Home/Homepage/billboard_flex" data-unit="Markets-Insider/Home/Homepage"></div>
+</div>
+</div>
+<div class="spacer-10"></div>
+<div class="site-content__row graviton">
+<div class="grid__col--6 grid__col--m-12 grid__col--s-12 site-content__col--half-left site-content__col--spacer">
+<div class="graviton">
+<h2 class="header-underline">
+            Bonds
+                <a class="header-underline__right-text" href="/bonds">All Bonds<span class="icon icon-arrow-circle"></span></a>
+</h2>
+</div>
+<div class="graviton">
+<div class="grid--vertical-scrolling">
+<table class="table table--suppresses-line-breaks">
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead class="table__thead">
+<tr class="table__tr">
+<th class="table__th">U.S. Treasuries</th>
+<th class="table__th">Price Change</th>
+<th class="table__th">Yield %</th>
+<th class="table__th text-right">Time</th>
+</tr>
+</thead>
+<tbody class="table__tbody">
+<tr class="table__tr">
+<td class="table__td"><span class="arrow arrow--positive"></span><a class="margin-left--smaller font-color-black" href="/rates/u-s--rates-3-months">U.S. Rates 3 Months</a></td>
+<td class="table__td">0.91</td>
+<td class="table__td">3.89</td>
+<td class="table__td text-right">Official Close 9/26/2025</td>
+</tr>
+<tr class="table__tr">
+<td class="table__td"><span class="arrow arrow--positive"></span><a class="margin-left--smaller font-color-black" href="/rates/u-s--rates-2-years">U.S. Rates 2 Years</a></td>
+<td class="table__td">1.36</td>
+<td class="table__td">3.65</td>
+<td class="table__td text-right">Official Close 9/25/2025</td>
+</tr>
+<tr class="table__tr">
+<td class="table__td"><span class="arrow arrow--positive"></span><a class="margin-left--smaller font-color-black" href="/rates/U-S--Rates-10-Years">U.S. Rates 10 Year</a></td>
+<td class="table__td">0.63</td>
+<td class="table__td">4.17</td>
+<td class="table__td text-right">Official Close 9/26/2025</td>
+</tr>
+<tr class="table__tr">
+<td class="table__td"><span class="arrow arrow--positive"></span><a class="margin-left--smaller font-color-black" href="/rates/U-S--Rates-30-Years">U.S. Rates 30 Year</a></td>
+<td class="table__td">0.02</td>
+<td class="table__td">4.75</td>
+<td class="table__td text-right">Official Close 9/26/2025</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="margin-bottom--larger"></div>
+</div></div><div class="grid__col--6 grid__col--m-12 grid__col--s-12 site-content__col--half-right site-content__col--spacer">
+<div class="graviton">
+<h2 class="header-underline">
+            Currencies
+                <a class="header-underline__right-text" href="/currencies">All Currencies<span class="icon icon-arrow-circle"></span></a>
+</h2>
+</div>
+<script>
+	window.currenciesChartConfigs = window.currenciesChartConfigs || [];
+</script>
+<div class="graviton">
+<section class="currencies-overview">
+<div class="currencies-overview__row">
+<div class="currencies-overview__market">
+<script>
+                                window.currenciesChartConfigs.push({
+                                    config: {"label":"EUR/USD","mobileHiddenLabel":null,"url":"/currencies/eur-usd","premarketObject":null,"valuePushApi":null,"relativeValue":0.03845,"absoluteValue":0.00045,"currentValue":1.17080,"previousClose":0.0,"roundedCurrent":0,"roundedAbsolute":3,"chartData":[{"Close":1.1704,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-27 20:00"},{"Close":1.17035,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-27 20:32"},{"Close":1.17035,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-28 09:17"},{"Close":1.1698215,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-28 10:05"},{"Close":1.1697,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-28 14:03"},{"Close":1.16985,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-28 14:04"},{"Close":1.1713,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-28 14:05"},{"Close":1.17085,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-28 14:06"},{"Close":1.1708,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-28 14:07"},{"Close":1.1708,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-28 14:08"}],"RelativeValueText":"+0.04%","AbsoluteValueText":"+0.00","CurrentValueText":"1.17"},
+                                    regionId: 'R2a4bc0cce9724d418e31b48c953b45af'
+                                });
+							</script>
+<div class="currencies-overview__chart" data-field="Bid" data-item="Y0101094000946681" data-room="RY0101094000946681" data-source="mdsng" data-table="7" id="R2a4bc0cce9724d418e31b48c953b45af" vue-name="R2a4bc0cce9724d418e31b48c953b45af">
+<div class="currencies-overview__chart-container"></div>
+</div>
+<div class="currencies-overview__data">
+<div class="markets-now markets-now--secondary markets-now--positive" title="EUR/USD">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/currencies/eur-usd">EUR/USD</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0101094000946681-USD" data-room="RY0101094000946681" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorGreen font-color-green" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="1.1704">0.04 %</span></div></div>
+<div class="markets-now__absolute-value"></div>
+<div class="markets-now__current-value"><div class="" data-field="Bid" data-item="Y0101094000946681-USD" data-room="RY0101094000946681" data-source="mdsng" data-table="1" data-template="Bid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="minimumFractionDigits:4">1.1708</span></div></div>
+<div class="markets-now__date"><div class="" data-field="MidTimestamp" data-item="Y0101094000946681-USD" data-room="RY0101094000946681" data-source="mdsng" data-table="1" data-template="MidTimestamp" style="display: inline;"><span class="push-data" data-animation="" data-format="utcToApplicationOffset:-4;">02:08:06 PM</span></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="currencies-overview__market">
+<script>
+                                window.currenciesChartConfigs.push({
+                                    config: {"label":"USD/JPY","mobileHiddenLabel":null,"url":"/currencies/usd-jpy","premarketObject":null,"valuePushApi":null,"relativeValue":0.00167,"absoluteValue":0.00250,"currentValue":149.52200,"previousClose":0.0,"roundedCurrent":0,"roundedAbsolute":2,"chartData":[{"Close":149.5195,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-27 19:00"},{"Close":149.522,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-27 19:23"},{"Close":149.58,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-27 20:00"},{"Close":149.58,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-27 20:32"},{"Close":149.6,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-28 09:16"},{"Close":149.495,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-28 10:05"},{"Close":149.522,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-28 10:46"},{"Close":149.522,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-28 10:53"}],"RelativeValueText":"+0.00%","AbsoluteValueText":"+0.00","CurrentValueText":"149.52"},
+                                    regionId: 'R88f6ff7ab2f34419885d95f81219e3bc'
+                                });
+							</script>
+<div class="currencies-overview__chart" data-field="Bid" data-item="Y0101094000275023" data-room="RY0101094000275023" data-source="mdsng" data-table="7" id="R88f6ff7ab2f34419885d95f81219e3bc" vue-name="R88f6ff7ab2f34419885d95f81219e3bc">
+<div class="currencies-overview__chart-container"></div>
+</div>
+<div class="currencies-overview__data">
+<div class="markets-now markets-now--secondary markets-now--positive" title="USD/JPY">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/currencies/usd-jpy">USD/JPY</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0101094000275023-JPY" data-room="RY0101094000275023" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorDefault" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="149.5195">0.00 %</span></div></div>
+<div class="markets-now__absolute-value"></div>
+<div class="markets-now__current-value"><div class="" data-field="Bid" data-item="Y0101094000275023-JPY" data-room="RY0101094000275023" data-source="mdsng" data-table="1" data-template="Bid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="minimumFractionDigits:4">149.5220</span></div></div>
+<div class="markets-now__date"><div class="" data-field="MidTimestamp" data-item="Y0101094000275023-JPY" data-room="RY0101094000275023" data-source="mdsng" data-table="1" data-template="MidTimestamp" style="display: inline;"><span class="push-data" data-animation="" data-format="utcToApplicationOffset:-4;">10:53:00 AM</span></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="currencies-overview__market">
+<script>
+                                window.currenciesChartConfigs.push({
+                                    config: {"label":"GBP/USD","mobileHiddenLabel":null,"url":"/currencies/gbp-usd","premarketObject":null,"valuePushApi":null,"relativeValue":-0.07132,"absoluteValue":-0.00096,"currentValue":1.33950,"previousClose":0.0,"roundedCurrent":0,"roundedAbsolute":3,"chartData":[{"Close":1.3405,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-27 19:00"},{"Close":1.340405,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-27 19:23"},{"Close":1.339765,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-27 20:00"},{"Close":1.339765,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-27 20:32"},{"Close":1.339835,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-28 09:17"},{"Close":1.339716,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-28 10:05"},{"Close":1.340405,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-28 10:46"},{"Close":1.340405,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-28 10:53"},{"Close":1.339499,"Open":0.0,"High":0.0,"Low":0.0,"Volume":0.0,"Estimate":0.0,"Date":"2025-09-28 13:03"}],"RelativeValueText":"-0.07%","AbsoluteValueText":"0.00","CurrentValueText":"1.34"},
+                                    regionId: 'R906e9f16e37b4a9494491791ddd26d8c'
+                                });
+							</script>
+<div class="currencies-overview__chart" data-field="Bid" data-item="Y0101094000275017" data-room="RY0101094000275017" data-source="mdsng" data-table="7" id="R906e9f16e37b4a9494491791ddd26d8c" vue-name="R906e9f16e37b4a9494491791ddd26d8c">
+<div class="currencies-overview__chart-container"></div>
+</div>
+<div class="currencies-overview__data">
+<div class="markets-now markets-now--secondary markets-now--negative" title="GBP/USD">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/currencies/gbp-usd">GBP/USD</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0101094000275017-USD" data-room="RY0101094000275017" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorRed font-color-red" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="1.3405">-0.07 %</span></div></div>
+<div class="markets-now__absolute-value"></div>
+<div class="markets-now__current-value"><div class="" data-field="Bid" data-item="Y0101094000275017-USD" data-room="RY0101094000275017" data-source="mdsng" data-table="1" data-template="Bid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="minimumFractionDigits:4">1.3395</span></div></div>
+<div class="markets-now__date"><div class="" data-field="MidTimestamp" data-item="Y0101094000275017-USD" data-room="RY0101094000275017" data-source="mdsng" data-table="1" data-template="MidTimestamp" style="display: inline;"><span class="push-data" data-animation="" data-format="utcToApplicationOffset:-4;">01:03:15 PM</span></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="currencies-overview__market">
+<div class="markets-now markets-now--secondary-small markets-now--positive" title="BITCOIN">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/currencies/btc-usd">BITCOIN</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0401000000F123456" data-room="RY0401000000F123456" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorGreen font-color-green" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="109667.4214">0.43 %</span></div></div>
+<div class="markets-now__absolute-value"></div>
+<div class="markets-now__current-value"><div class="" data-field="Mid" data-item="Y0401000000F123456" data-room="RY0401000000F123456" data-source="mdsng" data-table="1" data-template="Mid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="maximumFractionDigits:2">110,135.58</span></div></div>
+<div class="markets-now__date"><div class="" data-field="MidTimestamp" data-item="Y0401000000F123456" data-room="RY0401000000F123456" data-source="mdsng" data-table="1" data-template="MidTimestamp" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="utcToApplicationOffset:-4;">02:10:00 PM</span></div></div>
+</div>
+</div>
+</div>
+<div class="currencies-overview__market">
+<div class="markets-now markets-now--secondary-small markets-now--positive" title="ETHEREUM">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/currencies/eth-usd">ETHEREUM</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0401000000F123481" data-room="RY0401000000F123481" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorGreen font-color-green" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="4018.1263">0.53 %</span></div></div>
+<div class="markets-now__absolute-value"></div>
+<div class="markets-now__current-value"><div class="" data-field="Mid" data-item="Y0401000000F123481" data-room="RY0401000000F123481" data-source="mdsng" data-table="1" data-template="Mid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="maximumFractionDigits:2">4,039.24</span></div></div>
+<div class="markets-now__date"><div class="" data-field="MidTimestamp" data-item="Y0401000000F123481" data-room="RY0401000000F123481" data-source="mdsng" data-table="1" data-template="MidTimestamp" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="utcToApplicationOffset:-4;">02:10:00 PM</span></div></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<div class="spacer-10"></div>
+<div class="site-content__row">
+<div class="grid__col--12 grid__col--m-12 grid__col--s-12 site-content__col--spacer">
+<div class="graviton">
+<h2 class="header-underline">
+            Commodities
+                <a class="header-underline__right-text" href="/commodities">All Commodities<span class="icon icon-arrow-circle"></span></a>
+</h2>
+</div>
+</div>
+</div>
+<div class="site-content__row graviton">
+<div class="grid__col--6 grid__col--m-12 grid__col--s-12 site-content__col--half-left margin-bottom--large site-content__col--spacer">
+<div class="graviton">
+<div class="commodities-overview">
+<div class="commodities-overview__table">
+<div class="commodities-overview__thead">
+<div class="commodities-overview__tr">
+<div class="commodities-overview__th">Metals</div>
+</div>
+</div>
+<div class="commodities-overview__body">
+<div class="commodities-overview__tr">
+<div class="commodities-overview__td">
+<div class="markets-now markets-now--no-padding" title="gold">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/commodities/gold-price">gold</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0101E4D000113377356" data-room="RY0101E4D000113377356" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorDefault" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="3762.7100">0.00 %</span></div></div>
+<div class="markets-now__current-value"><div class="" data-field="Mid" data-item="Y0101E4D000113377356" data-room="RY0101E4D000113377356" data-source="mdsng" data-table="1" data-template="Mid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="maximumFractionDigits:2">3,762.71</span></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="commodities-overview__tr">
+<div class="commodities-overview__td">
+<div class="markets-now markets-now--no-padding" title="silver">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/commodities/silver-price">silver</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0101E4D000113376801" data-room="RY0101E4D000113376801" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorDefault" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="46.0400">0.00 %</span></div></div>
+<div class="markets-now__current-value"><div class="" data-field="Mid" data-item="Y0101E4D000113376801" data-room="RY0101E4D000113376801" data-source="mdsng" data-table="1" data-template="Mid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="maximumFractionDigits:2">46.04</span></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="commodities-overview__tr">
+<div class="commodities-overview__td">
+<div class="markets-now markets-now--no-padding markets-now--negative" title="copper">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/commodities/copper-price">copper</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0101E4D000113378768" data-room="RY0101E4D000113378768" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorRed font-color-red" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="10312.0000">-1.81 %</span></div></div>
+<div class="markets-now__current-value"><div class="" data-field="Mid" data-item="Y0101E4D000113378768" data-room="RY0101E4D000113378768" data-source="mdsng" data-table="1" data-template="Mid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="maximumFractionDigits:2">10,125.50</span></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="commodities-overview__tr">
+<div class="commodities-overview__td">
+<div class="markets-now markets-now--no-padding markets-now--negative" title="nickel">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/commodities/nickel-price">nickel</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0101E4D000113381378" data-room="RY0101E4D000113381378" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorRed font-color-red" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="15285.0000">-1.64 %</span></div></div>
+<div class="markets-now__current-value"><div class="" data-field="Mid" data-item="Y0101E4D000113381378" data-room="RY0101E4D000113381378" data-source="mdsng" data-table="1" data-template="Mid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="maximumFractionDigits:2">15,035.00</span></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="commodities-overview__tr">
+<div class="commodities-overview__td">
+<div class="markets-now markets-now--no-padding" title="palladium">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/commodities/palladium-price">palladium</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0101E4D000113381502" data-room="RY0101E4D000113381502" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorDefault" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="1271.5000">0.00 %</span></div></div>
+<div class="markets-now__current-value"><div class="" data-field="Mid" data-item="Y0101E4D000113381502" data-room="RY0101E4D000113381502" data-source="mdsng" data-table="1" data-template="Mid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="maximumFractionDigits:2">1,271.50</span></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="commodities-overview__table">
+<div class="commodities-overview__thead">
+<div class="commodities-overview__tr">
+<div class="commodities-overview__th">Energy</div>
+</div>
+</div>
+<div class="commodities-overview__body">
+<div class="commodities-overview__tr">
+<div class="commodities-overview__td">
+<div class="markets-now markets-now--no-padding markets-now--negative" title="oil (wti)">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/commodities/oil-price">oil (wti)</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0101E4D000113381462" data-room="RY0101E4D000113381462" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorRed font-color-red" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="64.9800">-0.08 %</span></div></div>
+<div class="markets-now__current-value"><div class="" data-field="Last" data-item="Y0101E4D000113381462" data-room="RY0101E4D000113381462" data-source="mdsng" data-table="1" data-template="Last" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="maximumFractionDigits:2">65.18</span></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="commodities-overview__tr">
+<div class="commodities-overview__td">
+<div class="markets-now markets-now--no-padding markets-now--positive" title="oil (brent)">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/commodities/oil-price">oil (brent)</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0101E4D000113378775" data-room="RY0101E4D000113378775" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorGreen font-color-green" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="69.4200">0.16 %</span></div></div>
+<div class="markets-now__current-value"><div class="" data-field="Mid" data-item="Y0101E4D000113378775" data-room="RY0101E4D000113378775" data-source="mdsng" data-table="1" data-template="Mid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="maximumFractionDigits:2">69.75</span></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="commodities-overview__tr">
+<div class="commodities-overview__td">
+<div class="markets-now markets-now--no-padding markets-now--negative" title="natural gas">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/commodities/natural-gas-price">natural gas</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0101E4D000113382064" data-room="RY0101E4D000113382064" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorRed font-color-red" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="2.9000">-2.95 %</span></div></div>
+<div class="markets-now__current-value"><div class="" data-field="Mid" data-item="Y0101E4D000113382064" data-room="RY0101E4D000113382064" data-source="mdsng" data-table="1" data-template="Mid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="maximumFractionDigits:2">2.86</span></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="commodities-overview__tr">
+<div class="commodities-overview__td">
+<div class="markets-now markets-now--no-padding markets-now--negative" title="heating oil">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/commodities/heating-oil-price">heating oil</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0101E4D000274214" data-room="RY0101E4D000274214" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorRed font-color-red" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="64.1900">-0.41 %</span></div></div>
+<div class="markets-now__current-value"><div class="" data-field="Mid" data-item="Y0101E4D000274214" data-room="RY0101E4D000274214" data-source="mdsng" data-table="1" data-template="Mid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="maximumFractionDigits:2">63.93</span></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="commodities-overview__tr">
+<div class="commodities-overview__td">
+<div class="markets-now markets-now--no-padding markets-now--positive" title="coal">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/commodities/coal-price">coal</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0101E4D0002590857" data-room="RY0101E4D0002590857" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorGreen font-color-green" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="92.8000">0.27 %</span></div></div>
+<div class="markets-now__current-value"><div class="" data-field="Mid" data-item="Y0101E4D0002590857" data-room="RY0101E4D0002590857" data-source="mdsng" data-table="1" data-template="Mid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="maximumFractionDigits:2">92.95</span></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="commodities-overview__table">
+<div class="commodities-overview__thead">
+<div class="commodities-overview__tr">
+<div class="commodities-overview__th">Agriculture</div>
+</div>
+</div>
+<div class="commodities-overview__body">
+<div class="commodities-overview__tr">
+<div class="commodities-overview__td">
+<div class="markets-now markets-now--no-padding markets-now--negative" title="cotton">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/commodities/cotton-price">cotton</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0101E4D000274206" data-room="RY0101E4D000274206" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorRed font-color-red" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="0.6400">-0.95 %</span></div></div>
+<div class="markets-now__current-value"><div class="" data-field="Mid" data-item="Y0101E4D000274206" data-room="RY0101E4D000274206" data-source="mdsng" data-table="1" data-template="Mid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="maximumFractionDigits:2">0.64</span></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="commodities-overview__tr">
+<div class="commodities-overview__td">
+<div class="markets-now markets-now--no-padding markets-now--negative" title="oats">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/commodities/oats-price">oats</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0101E4D000274213" data-room="RY0101E4D000274213" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorRed font-color-red" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="3.1300">-1.92 %</span></div></div>
+<div class="markets-now__current-value"><div class="" data-field="Mid" data-item="Y0101E4D000274213" data-room="RY0101E4D000274213" data-source="mdsng" data-table="1" data-template="Mid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="maximumFractionDigits:2">3.07</span></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="commodities-overview__tr">
+<div class="commodities-overview__td">
+<div class="markets-now markets-now--no-padding markets-now--positive" title="coffee">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/commodities/coffee-price">coffee</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0101E4D0001654916" data-room="RY0101E4D0001654916" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorGreen font-color-green" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="3.7800">2.06 %</span></div></div>
+<div class="markets-now__current-value"><div class="" data-field="Mid" data-item="Y0101E4D0001654916" data-room="RY0101E4D0001654916" data-source="mdsng" data-table="1" data-template="Mid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="maximumFractionDigits:2">3.79</span></div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="commodities-overview__tr">
+<div class="commodities-overview__td">
+<div class="markets-now markets-now--no-padding markets-now--positive" title="milk">
+<div class="markets-now__header">
+<div class="markets-now__up-or-down">
+<div class="arrow"></div>
+</div>
+<div class="markets-now__caption"><a class="font-color-black" href="/commodities/milk-price">milk</a></div>
+</div>
+<div class="markets-now__values">
+<div class="markets-now__relative-value"><div class="" data-field="changeper" data-item="Y0101E4D000422798" data-room="RY0101E4D000422798" data-source="mdsng" data-table="1" style="display: inline;"><span class="push-data colorGreen font-color-green" data-animation="animationType:color" data-format="maximumFractionDigits:2" data-jsvalue="17.5500">0.11 %</span></div></div>
+<div class="markets-now__current-value"><div class="" data-field="Mid" data-item="Y0101E4D000422798" data-room="RY0101E4D000422798" data-source="mdsng" data-table="1" data-template="Mid" style="display: inline;"><span class="push-data" data-animation="animationType:none" data-format="maximumFractionDigits:2">17.57</span></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="grid__col--6 grid__col--m-12 grid__col--s-12 site-content__col--half-right margin-bottom--large site-content__col--spacer"> <div class="graviton">
+<section class="popular-articles">
+<div class="popular-articles__story">
+<div class="popular-articles__meta">
+<span class="popular-articles__source">Business Insider</span>
+<time class="popular-articles__date" datetime="2025-16-09 11:16">12d</time>
+</div>
+<a class="popular-articles__image-link" href="https://www.businessinsider.com/stock-market-sp500-drop-technical-analysis-outlook-seasonal-weakness-bofa-2025-9" noopener&quot;="" rel='"sponsored' target='"_blank"'>
+</a>
+<h3 class="popular-articles__title">
+<a class="popular-articles__link" href="https://www.businessinsider.com/stock-market-sp500-drop-technical-analysis-outlook-seasonal-weakness-bofa-2025-9" noopener&quot;="" rel='"sponsored' target='"_blank"'>Bank of America flags 3 signs that the stock market may be heading for a decline</a>
+</h3>
+<p class="popular-articles__teaser">
+<a class="popular-articles__link" href="https://www.businessinsider.com/stock-market-sp500-drop-technical-analysis-outlook-seasonal-weakness-bofa-2025-9" noopener&quot;="" rel='"sponsored' target='"_blank"'>Bank of America highlighted three technical signals that suggest the stock market's latest rally to all-time highs may be at risk. </a>
+</p>
+<div class="popular-articles__clear"></div>
+</div>
+<div class="popular-articles__story">
+<div class="popular-articles__meta">
+<span class="popular-articles__source">Business Insider</span>
+<time class="popular-articles__date" datetime="2025-11-09 11:32">17d</time>
+</div>
+<a class="popular-articles__image-link" href="https://www.businessinsider.com/ai-stocks-to-watch-invest-in-sp500-tech-janus-henderson-2025-9" noopener&quot;="" rel='"sponsored' target='"_blank"'>
+</a>
+<h3 class="popular-articles__title">
+<a class="popular-articles__link" href="https://www.businessinsider.com/ai-stocks-to-watch-invest-in-sp500-tech-janus-henderson-2025-9" noopener&quot;="" rel='"sponsored' target='"_blank"'>A tech-stock fund manager who's crushed the S&amp;P 500 over the last 3 years shares 4 companies he's most bullish on now</a>
+</h3>
+<p class="popular-articles__teaser">
+<a class="popular-articles__link" href="https://www.businessinsider.com/ai-stocks-to-watch-invest-in-sp500-tech-janus-henderson-2025-9" noopener&quot;="" rel='"sponsored' target='"_blank"'>Since the October 2022 lows, Denny Fish's fund is up 136%, crushing the S&amp;P 500's 81% surge.</a>
+</p>
+<div class="popular-articles__clear"></div>
+</div>
+<div class="popular-articles__border"></div>
+</section>
+</div>
+</div>
+</div>
+<div class="spacer-10"></div>
+<div class="site-content__row">
+<div class="grid__col--12 grid__col--m-12 grid__col--s-12 site-content__col--spacer">
+<div id="taboola-mi-homepage-mid"></div>
+<script defer="">
+        window.taboolaConfiguration = window.taboolaConfiguration || {};
+
+        var pageType = window.taboolaConfiguration.taboolaPageType;
+        var pos = 'homepage-mid';
+
+        if (pos.length !== 0)
+        {
+            pageType = pos;
+        }
+
+        window.taboolaConfiguration.taboolaPlacements.push(pageType);
+        window.taboolaConfiguration.taboolaPlacementIds.push('taboola-mi-homepage-mid');
+	</script>
+</div>
+</div>
+<div class="spacer-10"></div>
+<div class="site-content__row graviton">
+<div class="grid__col--12 grid__col--m-12 grid__col--s-12 margin-bottom--large site-content__col--spacer"><div class="graviton">
+<div class="grid grid--with-spacer">
+<div class="grid__row">
+<h2 class="grid__col--12 header-underline">
+				ETFS
+				<a class="header-underline__right-text" href="/etfs">All ETFS<span class="icon icon-arrow-circle"></span></a>
+</h2>
+<div class="grid__col--12">
+<div class="etfs-overview">
+<table class="etfs-overview__table table--no-vertical-border table--col-2-suppresses-line-breaks">
+<colgroup>
+<col/>
+<col/>
+</colgroup>
+<thead class="etfs-overview__thead">
+<tr class="etfs-overview__tr">
+<th class="etfs-overview__th">Stocks</th>
+<th class="etfs-overview__th"></th>
+</tr>
+</thead>
+<tbody class="etfs-overview__tbody">
+<tr class="etfs-overview__tr">
+<td class="etfs-overview__td"><span class="arrow arrow--positive"></span><a href="/etfs/vaneck-gold-miners-etf-us92189f1066" title="VanEck Gold Miners ETF">VanEck Gold Miners ETF</a></td>
+<td class="etfs-overview__td etfs-overview__td--positive">40.81%</td>
+</tr>
+<tr class="etfs-overview__tr">
+<td class="etfs-overview__td"><span class="arrow arrow--positive"></span><a href="/etfs/vaneck-junior-gold-miners-etf-us92189f7915" title="VanEck Junior Gold Miners ETF">VanEck Junior Gold Miners ETF</a></td>
+<td class="etfs-overview__td etfs-overview__td--positive">40.59%</td>
+</tr>
+<tr class="etfs-overview__tr">
+<td class="etfs-overview__td"><span class="arrow arrow--positive"></span><a href="/etfs/amplify-junior-silver-miners-etf-us0321086490" title="Amplify Junior Silver Miners ETF">Amplify Junior Silver Miner...</a></td>
+<td class="etfs-overview__td etfs-overview__td--positive">48.27%</td>
+</tr>
+<tr class="etfs-overview__tr">
+<td class="etfs-overview__td"><span class="arrow arrow--positive"></span><a href="/etfs/the-energy-select-sector-spdr-fund-us81369y5069" title="The Energy Select Sector SPDR® Fund">The Energy Select Sector SP...</a></td>
+<td class="etfs-overview__td etfs-overview__td--positive">8.79%</td>
+</tr>
+</tbody>
+</table>
+<table class="etfs-overview__table table--no-vertical-border table--col-2-suppresses-line-breaks">
+<colgroup>
+<col/>
+<col/>
+</colgroup>
+<thead class="etfs-overview__thead">
+<tr class="etfs-overview__tr">
+<th class="etfs-overview__th">Bonds</th>
+<th class="etfs-overview__th"></th>
+</tr>
+</thead>
+<tbody class="etfs-overview__tbody">
+<tr class="etfs-overview__tr">
+<td class="etfs-overview__td"><span class="arrow arrow--positive"></span><a href="/etfs/ishares-core-us-aggregate-bond-etf-us4642872265" title="iShares Core U.S. Aggregate Bond ETF">iShares Core U.S. Aggregate...</a></td>
+<td class="etfs-overview__td etfs-overview__td--positive">2.26%</td>
+</tr>
+<tr class="etfs-overview__tr">
+<td class="etfs-overview__td"><span class="arrow arrow--positive"></span><a href="/etfs/vanguard-intermediate-term-bond-index-fund-etf-shares-us9219378190" title="Vanguard Intermediate-Term Bond Index Fund ETF Shares">Vanguard Intermediate-Term ...</a></td>
+<td class="etfs-overview__td etfs-overview__td--positive">2.25%</td>
+</tr>
+<tr class="etfs-overview__tr">
+<td class="etfs-overview__td"><span class="arrow arrow--positive"></span><a href="/etfs/spdr-portfolio-long-term-corporate-bond-etf-us78464a3674" title="SPDR® Portfolio Long Term Corporate Bond ETF">SPDR® Portfolio Long Term C...</a></td>
+<td class="etfs-overview__td etfs-overview__td--positive">4.25%</td>
+</tr>
+<tr class="etfs-overview__tr">
+<td class="etfs-overview__td"><span class="arrow arrow--positive"></span><a href="/etfs/ishares-10-year-investment-grade-corporate-bond-etf-us4642895118" title="iShares 10+ Year Investment Grade Corporate Bond ETF">iShares 10+ Year Investment...</a></td>
+<td class="etfs-overview__td etfs-overview__td--positive">4.35%</td>
+</tr>
+<tr class="etfs-overview__tr">
+<td class="etfs-overview__td"><span class="arrow arrow--positive"></span><a href="/etfs/spdr-portfolio-short-term-corporate-bond-etf-us78464a4748" title="SPDR® Portfolio Short Term Corporate Bond ETF">SPDR® Portfolio Short Term ...</a></td>
+<td class="etfs-overview__td etfs-overview__td--positive">1.48%</td>
+</tr>
+</tbody>
+</table>
+<table class="etfs-overview__table table--no-vertical-border table--col-2-suppresses-line-breaks">
+<colgroup>
+<col/>
+<col/>
+</colgroup>
+<thead class="etfs-overview__thead">
+<tr class="etfs-overview__tr">
+<th class="etfs-overview__th">Commodity Funds</th>
+<th class="etfs-overview__th"></th>
+</tr>
+</thead>
+<tbody class="etfs-overview__tbody">
+<tr class="etfs-overview__tr">
+<td class="etfs-overview__td"><span class="arrow arrow--positive"></span><a href="/etfs/ishares-silver-trust-us46428q1094" title="iShares Silver Trust">iShares Silver Trust</a></td>
+<td class="etfs-overview__td etfs-overview__td--positive">25.50%</td>
+</tr>
+<tr class="etfs-overview__tr">
+<td class="etfs-overview__td"><span class="arrow arrow--positive"></span><a href="/etfs/spdr-gold-shares-us78463v1070" title="SPDR® Gold Shares">SPDR® Gold Shares</a></td>
+<td class="etfs-overview__td etfs-overview__td--positive">12.32%</td>
+</tr>
+<tr class="etfs-overview__tr">
+<td class="etfs-overview__td"><span class="arrow arrow--positive"></span><a href="/etfs/united-states-oil-fund-lp-us91232n2071" title="United States Oil Fund, LP">United States Oil Fund, LP</a></td>
+<td class="etfs-overview__td etfs-overview__td--positive">4.96%</td>
+</tr>
+<tr class="etfs-overview__tr">
+<td class="etfs-overview__td"><span class="arrow arrow--positive"></span><a href="/etfs/abrdn-physical-silver-shares-etf-us0032641088" title="abrdn Physical Silver Shares ETF">abrdn Physical Silver Share...</a></td>
+<td class="etfs-overview__td etfs-overview__td--positive">25.56%</td>
+</tr>
+<tr class="etfs-overview__tr">
+<td class="etfs-overview__td"><span class="arrow arrow--positive"></span><a href="/etfs/ishares-gold-trust-us4642852044" title="iShares Gold Trust">iShares Gold Trust</a></td>
+<td class="etfs-overview__td etfs-overview__td--positive">12.36%</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="grid__col--12">
+<p class="note">*Most traded ETFs by 3 months performance</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="spacer-10"></div>
+<div class="site-content__row">
+<div class="grid__col--12 grid__col--m-12 grid__col--s-12 site-content__col--spacer">
+<div id="taboola-mi"></div>
+<script defer="">
+        window.taboolaConfiguration = window.taboolaConfiguration || {};
+
+        var pageType = window.taboolaConfiguration.taboolaPageType;
+        var pos = '';
+
+        if (pos.length !== 0)
+        {
+            pageType = pos;
+        }
+
+        window.taboolaConfiguration.taboolaPlacements.push(pageType);
+        window.taboolaConfiguration.taboolaPlacementIds.push('taboola-mi');
+	</script>
+</div>
+</div>
+<div class="spacer-10"></div>
+</div>
+</main>
+<!-- Markets Insider Page Footer -->
+<!-- this component generated on: 2025-05-30 -->
+<shared-component class="scs">
+<footer class="markets-insider-footer" data-component-type="markets-insider-footer" data-e2e-name="footer" data-load-strategy="lazy" data-track-view='{"subscription_experience":"bi_value_unassigned","product_field":"bi_value_unassigned","element_name":"footer"}' id="site-footer">
+<section class="top-section">
+<div class="logo">
+<a aria-label="Click to visit Markets Insider" class="" data-e2e-name="footer-insider" href="https://markets.businessinsider.com/">
+<div class="lazy-holder lazy-holder has-transparency" style="padding-top: calc(100% * 40 / 115.56)">
+<img alt="Click to visit Markets Insider" class="lazy-image has-transparency" data-src="/public/assets/MI/logos/markets-insider-stacked.svg" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E"/>
+<noscript>
+<img class="no-script" src="/public/assets/MI/logos/markets-insider-stacked.svg">
+</img></noscript>
+</div> </a>
+</div>
+<div class="social-icons" data-e2e-name="social-links" data-track-click-shared='{"click_type":"owned_socials","element_name":"footer","event":"outbound_click"}'>
+<a aria-label="Click to visit us on Facebook" class="social-link" data-e2e-name="facebook" data-track-click='{"click_url":"https://www.facebook.com/MrktsInsider","click_text":"facebook"}' href="https://www.facebook.com/MrktsInsider" rel="noopener nofollow" target="_blank" title="Follow us on Facebook">
+<div class="lazy-holder lazy-holder has-transparency" style="padding-top: calc(100% * 24 / 24)">
+<img alt="Facebook" class="lazy-image has-transparency" data-src="/public/assets/social/social-facebook.svg" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E"/>
+<noscript>
+<img class="no-script" src="/public/assets/social/social-facebook.svg">
+</img></noscript>
+</div> </a>
+<a aria-label="Click to visit us on X" class="social-link" data-e2e-name="X" data-track-click='{"click_url":"https://x.com/mktsinsider","click_text":"X"}' href="https://x.com/mktsinsider" rel="noopener nofollow" target="_blank" title="Follow us on X">
+<div class="lazy-holder lazy-holder has-transparency" style="padding-top: calc(100% * 24 / 24)">
+<img alt="X" class="lazy-image has-transparency" data-src="/public/assets/social/social-x.svg" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E"/>
+<noscript>
+<img class="no-script" src="/public/assets/social/social-x.svg">
+</img></noscript>
+</div> </a>
+</div>
+</section>
+<hr/>
+<section class="link-section">
+<section class="footer-columns">
+<section class="footer-list-column">
+<a class="label-md-strong" href="/indices">Indices</a>
+<a class="label-md-subtle" href="/index/dow_jones">Dow Jones</a>
+<a class="label-md-subtle" href="/index/s&amp;p_500">S&amp;P 500</a>
+<a class="label-md-subtle" href="/index/nasdaq_100">Nasdaq 100</a>
+<a class="label-md-subtle" href="/index/nasdaq_composite">Nasdaq Composite</a>
+<a class="label-md-subtle" href="/index/ftse_100">FTSE 100</a>
+<a class="label-md-subtle" href="/index/nikkei_225">Nikkei 225</a>
+<a class="label-md-subtle" href="/index/dax">DAX 40</a>
+<a class="label-md-subtle" href="/index/hang_seng">Hang Seng</a>
+<a class="label-md-subtle" href="/index/kospi">Kospi</a>
+<a class="label-md-subtle" href="/index/s&amp;p_tsx_composite_index">S&amp;P TSX Composite Index</a>
+<a class="label-md-subtle" href="/index/asx">ASX</a>
+<a class="label-md-subtle" href="/index/us-dollar-index">US Dollar Index</a>
+<a class="label-md-subtle" href="/indices">Stock Indices</a>
+<a class="label-md-subtle" href="/futures/dow-futures">Dow Futures</a>
+<a class="label-md-subtle" href="/market-movers/dow_jones">Dow Jones Market Movers</a>
+</section> <section class="footer-list-column">
+<a class="label-md-strong" href="/commodities">Commodities</a>
+<a class="label-md-subtle" href="/commodities/gold-price">Gold Price</a>
+<a class="label-md-subtle" href="/commodities/oil-price?type=wti">Oil Price</a>
+<a class="label-md-subtle" href="/commodities/silver-price">Silver Price</a>
+<a class="label-md-subtle" href="/commodities/copper-price">Copper Price</a>
+<a class="label-md-subtle" href="/commodities/cotton-price">Cotton Price</a>
+<a class="label-md-subtle" href="/commodities/heating-oil-price">Heating Oil Price</a>
+<a class="label-md-subtle" href="/commodities/aluminum-price">Aluminum Price</a>
+<a class="label-md-subtle" href="/commodities/natural-gas-price">Natural Gas Price</a>
+<a class="label-md-subtle" href="/commodities/realtime-list">Realtime Commodity Prices</a>
+</section> <section class="footer-list-column">
+<a class="label-md-strong" href="/currencies">Currencies</a>
+<a class="label-md-subtle" href="/currencies/eur-usd">EURO DOLLAR</a>
+<a class="label-md-subtle" href="/currencies/btc-usd">Bitcoin Price</a>
+<a class="label-md-subtle" href="/currencies/eth-usd">ETH USD</a>
+<a class="label-md-subtle" href="/currencies/usd-cad">CAD USD</a>
+<a class="label-md-subtle" href="/currencies/usd-mxn">PESO USD</a>
+<a class="label-md-subtle" href="/currencies/gbp-usd">POUND USD</a>
+<a class="label-md-subtle" href="/currencies/usd-inr">USD INR</a>
+<a class="label-md-subtle" href="/currency-converter">Currency Converter</a>
+<a class="label-md-subtle" href="/currencies">Exchange Rates</a>
+</section> <section class="footer-list-column">
+<a class="label-md-strong" href="/stocks">Stocks</a>
+<a class="label-md-subtle" href="/stocks/goog-stock">Google Stock</a>
+<a class="label-md-subtle" href="/stocks/meta-stock">Meta Stock</a>
+<a class="label-md-subtle" href="/stocks/amzn-stock">Amazon Stock</a>
+<a class="label-md-subtle" href="/stocks/tsla-stock">Tesla Stock</a>
+<a class="label-md-subtle" href="/stocks/dow-stock">Dow-Stock</a>
+<a class="label-md-subtle" href="/premarket">Premarket</a>
+<a class="label-md-subtle" href="/news">Stock Market News</a>
+</section> </section>
+</section>
+<button class="expand-button label-md strong">
+<svg class="svg-icon plus-icon show-more" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.006 2H9.994v7.994H2v4.012h7.994V22h4.012v-7.994H22V9.994h-7.994V2Z" fill="currentColor"></path>
+</svg> <svg class="svg-icon minus-icon show-less" height="1em" role="img" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="M22 14v-4H2v4h20Z" fill="currentColor"></path>
+</svg> <span class="expand-button-text">See more categories</span>
+</button>
+<hr/>
+<section class="bottom-section label-md subtle">
+<p><a href="https://businessinsider.com/terms">Copyright © 2025</a>
+    Insider Inc and <a href="https://www.finanzen.net/impressum">finanzen.net</a> GmbH (Imprint). All rights reserved.
+    Registration on or use of this site constitutes acceptance of our <a data-e2e-name="footer-terms-of-service" href="https://www.businessinsider.com/terms">Terms of Service</a> and <a data-e2e-name="footer-privacy-policy" href="https://www.businessinsider.com/privacy-policy">Privacy Policy.</a></p>
+<div class="with-divider">
+<a href="https://www.businessinsider.com/disclaimer">Disclaimer</a>
+<a href="https://www.businessinsider.com/accessibility">Accessibility</a>
+<a href="https://www.businessinsider.com/commerce-policy">Commerce Policy</a>
+<a href="https://www.businessinsider.com/advertising-policies">Advertising Policies</a>
+      Stock quotes by <a href="https://www.finanzen.net/">finanzen.net</a>
+<a href="https://www.businessinsider.com/contact">Contact Us</a>
+<a href="https://www.businessinsider.com/masthead">Masthead</a>
+</div>
+<div>
+<section class="privacy-footer headline-regular">
+<a class="privacy-link" href="/your-privacy-choices">Your Privacy Choices</a> </section>
+</div>
+<div class="logos">
+<div class="logo">
+<div class="lazy-holder lazy-holder has-transparency" style="padding-top: calc(100% * 28 / 81.27)">
+<img alt="Business Insider Logo" class="lazy-image has-transparency" data-src="/public/assets/logos/stacked-black.svg" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E"/>
+<noscript>
+<img class="no-script" src="/public/assets/logos/stacked-black.svg">
+</img></noscript>
+</div> </div>
+<div class="logo">
+<div class="lazy-holder lazy-holder has-transparency" style="padding-top: calc(100% * 12 / 79.2)">
+<img alt="Insider Logo" class="lazy-image has-transparency" data-src="/public/assets/INSIDER/US/logos/Insider-logo-dark-opt.svg" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E"/>
+<noscript>
+<img class="no-script" src="/public/assets/INSIDER/US/logos/Insider-logo-dark-opt.svg">
+</img></noscript>
+</div> </div>
+</div>
+</section>
+</footer></shared-component>
+<!-- this component generated on: 2025-05-30 -->
+<script async="" data-load-strategy="first-party" src="/scripts/utilities.3ad7ca1ae4d72ac62a3e.js" type="text/javascript"></script>
+<script async="" data-load-strategy="first-party" src="/scripts/vendors.bdc5721c5cc1e0c576a8.js" type="text/javascript"></script>
+<script async="" data-load-strategy="first-party" src="/scripts/main.a094f62ef50e1b636a21.js" type="text/javascript"></script>
+<noscript>
+<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MP6F46L" style="display:none;visibility:hidden" title="GTM" width="0"></iframe>
+</noscript>
+<script data-load-strategy="domready" id="consent-manager-script">(()=>{var e={19249:(e,n,t)=>{"use strict";const o=async()=>{const e=localStorage.getItem("profile");if(!e)return;let n;try{n=JSON.parse(e)}catch{return}const t=n["https://insider/memberId"],o=n["https://insider/token"];if(!t||!o)return;const i=window.Fenrir.cm?.isOptedOutOfAds,{continentCode:r,countryCode:s}=window.Fenrir.geoData,a={isOptedOutOfAds:i,continentCode:r,countryCode:s},d=localStorage.getItem("idun-consent-preferences");let c={};if(d)try{c=JSON.parse(d)}catch{}if(c.isOptedOutOfAds!==a.isOptedOutOfAds)try{(await fetch(`${window.Fenrir.config.apigateway.domain}/v1.0/users/${t}/consent-preferences`,{method:"POST",headers:{"Content-Type":"application/json",Authorization:`Bearer ${o}`},body:JSON.stringify(a)})).ok&&localStorage.setItem("idun-consent-preferences",JSON.stringify(a))}catch(e){}};const i=function(){window.Fenrir.geoData?o():document.addEventListener("onGeoDataCaptured",(()=>{o()}))};t(61187);const r="Sourcepoint Load - start",s="Sourcepoint Load - end sourcepoint",a="Sourcepoint Load - has consent",d="Sourcepoint Load - load queue consent";let c=!1,u=!1,w=!1;function p(){return u||c}function m(){let e=!0,n=null;const t=localStorage.getItem("_sp_user_consent_6165");try{n=t?JSON.parse(t):null}catch(e){}if("GPP"===window.Fenrir.privacyApi){const{granularStatus:t}=n?.usnat?.consentStatus||{};e=!1===t?.sellStatus}else if("TCF"===window.Fenrir.privacyApi){const{granularStatus:t}=n?.gdpr?.consentStatus||{};e="ALL"!==t?.purposeConsent?.toUpperCase()}return e}function f(e){const{step:n,timeFromStart:t}=e;delete e.step,delete e.timeFromStart;const o={now:window.Fenrir.getTime(),step:n,timeFromStart:t,cmStarted:window.Fenrir.cm.cmStarted,usPrivacyApplies:window.Fenrir.cm.usPrivacyApplies,euPrivacyApplies:window.Fenrir.cm.euPrivacyApplies,windowLoaded:window.Fenrir.cm.windowLoaded,isOptedOutOfAds:window.Fenrir.cm.isOptedOutOfAds,queueConsent:window.Fenrir.cm.queueConsent,...e};return o.timeFromStart||delete o.timeFromStart,o}function l(e){window.Fenrir.cm.isOptedOutOfAds=e,window.Fenrir.cm.cmStarted=!0,window.Fenrir.cm.loadQueueConsent();const n=new CustomEvent("onConsentReady",{detail:{isOptedOutOfAds:window.Fenrir.cm.isOptedOutOfAds,type:"update"}});document.dispatchEvent(n),i()}window.performance.mark(r),window.__tcfapi&&window.__tcfapi("addEventListener",2,(function(e,n){if(n&&e){if("cmpuishown"===e.eventStatus){if(window.Fenrir.console.info(f({step:"consentManager sp.getTCData cmpuishown"})),window.Fenrir.cm.isOptedOutOfAds=m(),!u){window.performance.mark(s);const e=window.performance.measure("load - sourcepoint",r,s);window.Fenrir.console.info(f({step:"consentManager europePrivacy.bannerShown",timeFromStart:e.duration}))}u=!0,window.Fenrir.cm.cmStarted=p(),window.Fenrir.cm.loadQueueConsent()}else if("useractioncomplete"===e.eventStatus||"tcloaded"===e.eventStatus){window.Fenrir.console.info(f({step:`consentManager sp.getTCData ${e.eventStatus}`})),window.Fenrir.cm.isOptedOutOfAds=m(),c||(window.performance.mark(a),window.performance.measure("consentManager europePrivacy.consentGiven",r,a)),c=!0,window.Fenrir.cm.cmStarted=p(),window.Fenrir.cm.loadQueueConsent();const n=new CustomEvent("onConsentReady",{detail:{isOptedOutOfAds:window.Fenrir.cm.isOptedOutOfAds,type:"update"}});document.dispatchEvent(n),i()}}else window.Fenrir.console.info(f({step:"consentManager sp.getTCData error",tcData:e}))})),window.__gpp&&window.__gpp("addEventListener",(function(e){if("sectionChange"===e.eventName){let n=!1;Object.keys(e.pingData.parsedSections).forEach((t=>{1===e.pingData?.parsedSections[t]?.SaleOptOut&&(n=!0)})),window.Fenrir.console.info(f({step:"consentManager gpp.sectionChange",data:e})),l(n)}else"signalStatus"===e.eventName&&"disabled"===e.pingData?.cmpDisplayStatus&&(window.Fenrir.console.info(f({step:"consentManager gpp.signalStatus",data:e})),l(!1))}));const O="GPP"===window.Fenrir?.privacyApi,F="TCF"===window.Fenrir?.privacyApi;window.Fenrir.cm=Object.assign({},window.Fenrir.cm,{cmStarted:!1,windowLoaded:!1,usPrivacyApplies:O,euPrivacyApplies:F,onConsent:function(e){if("function"!=typeof e)throw new Error("method `onConsent` requires `callback` function");return document.addEventListener("onConsentReady",(n=>{window.Fenrir.console.info(f({step:"consentManager onConsentReady",event:n})),e(n.detail)})),e({isOptedOutOfAds:window.Fenrir.cm.isOptedOutOfAds})},requestConsent:function(e){window.Fenrir.console.info(f({step:"consentManager requestConsent",requestor:e}));const n=new CustomEvent("onConsentReady",{detail:{isOptedOutOfAds:window.Fenrir.cm.isOptedOutOfAds,type:"request",scope:e}});document.dispatchEvent(n)},loadQueueConsent:function(){if(window.Fenrir.console.info(f({step:"consentManager loadQueueConsent"})),!window.Fenrir.cm.windowLoaded||!window.Fenrir.cm.cmStarted)return;let e;w||(window.performance.mark(d),e=window.performance.measure("queue load - sourcepoint",r,d)),w=!0,window.Fenrir.config.delayThirdPartyScripts=!1,window.Fenrir.console.info(f({step:"consentManager loadQueueConsent load scripts",timeFromStart:e?.duration}));let n=window.Fenrir.cm.queueConsent.length;for(;n;){const e=window.Fenrir.cm.queueConsent.shift();n=window.Fenrir.cm.queueConsent.length,"function"==typeof e&&e(),window.Fenrir.console.info(f({step:"consentManager loadQueueConsent script",queueLength:n}))}},getAdConsent:function(){function e(){let e=!0;if(window.Fenrir.cm.usPrivacyApplies||window.Fenrir.cm.euPrivacyApplies){const{isOptedOutOfAds:n}=window.Fenrir.cm;e=!n}return e}return new Promise((n=>{if("boolean"!=typeof window.Fenrir?.cm?.isOptedOutOfAds){const t=setTimeout((()=>n(!0)),3e3);document.addEventListener("onConsentSaved",(()=>{t&&clearTimeout(t),n(e())}))}else n(e())}))},queueConsent:[],forceCMP:function(){const e="/your-privacy-choices"===window.location.pathname,n=navigator?.globalPrivacyControl;return e||n}()}),window.Fenrir.console.info(f({now:window.Fenrir.getTime(),step:"consentManager starting...",tcfapi:window.__tcfapi}))},61187:()=>{window._sp_queue&&window._sp_queue.push((()=>{window._sp_.addEventListener("onMessageChoiceSelect",((e,n,t)=>{const o=window.dataLayer||[],i={event:"privacy_center_engagement",element_name:"privacy_banner",action:"save"};if("gdpr"===e){switch(t){case 11:i.is_opted_out_of_ads=!1;break;case 12:i.action="click_to_preference_center",i.is_opted_out_of_ads="bi_value_unassigned";break;case 13:i.is_opted_out_of_ads=!0}o.push(i),window.Fenrir.console.info({now:window.Fenrir.getTime(),step:"privacy modal engagement dataLayer push",dataEvent:i})}}))}))}},n={};function t(o){var i=n[o];if(void 0!==i)return i.exports;var r=n[o]={exports:{}};return e[o](r,r.exports,t),r.exports}t.m=e,t.c=n,t.o=(e,n)=>Object.prototype.hasOwnProperty.call(e,n),(()=>{t.S={};var e={},n={};t.I=(o,i)=>{i||(i=[]);var r=n[o];if(r||(r=n[o]={}),!(i.indexOf(r)>=0)){if(i.push(r),e[o])return e[o];t.o(t.S,o)||(t.S[o]={});t.S[o];var s=[];return s.length?e[o]=Promise.all(s).then((()=>e[o]=1)):e[o]=1}}})();t(19249)})();</script>
+</body></html>

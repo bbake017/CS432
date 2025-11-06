@@ -1,0 +1,129 @@
+ <html>
+<head>
+<title>CNN Community</title>
+</head>
+<body alink="#FF0000" background="/images/9607/bgbar.gif" bgcolor="#FFFFFF" link="#0A3990" vlink="#FF0000">
+<table border="0" width="600">
+<!-- NAVIGATION -->
+<tr>
+<td align="LEFT" valign="TOP" width="118">
+<a href="/index.html" name="#top"><img align="RIGHT" alt="CNN logo" border="0" height="80" hspace="11" src="/images/9607/cnn_logo.gif" width="103"/></a>
+<br clear="ALL"/>
+<a href="/MAPS/9712/nav/basic.map"><img align="LEFT" alt="Navigation" border="0" height="348" hspace="7" ismap="" src="/images/9712/nav/nav.home.gif" usemap="#nav.map" width="110"/></a><br clear="ALL"/>
+<table align="LEFT" border="0" cellpadding="0" cellspacing="0" width="96">
+<tr>
+<!-- Community -->
+<td rowspan="9" width="12"> </td>
+<tr><td align="RIGHT" bgcolor="#000000" valign="TOP" width="86"><font color="#FFFFFF" face="HELVETICA, ARIAL" size="1">COMMUNITY </font></td></tr><tr><td align="RIGHT" bgcolor="#6363CE" valign="TOP" width="86"><a href="/boards/"><font color="#FFFFFF" face="HELVETICA, ARIAL" size="1">Message Boards</font></a> <br/><a href="/chat/"><font color="#FFFFFF" face="HELVETICA, ARIAL" size="1">Chat</font></a> <br/><a href="/feedback/"><font color="#FFFFFF" face="HELVETICA, ARIAL" size="1">Feedback</font></a> <br/><br/></td></tr>
+<!-- Site Sources -->
+<tr><td align="RIGHT" bgcolor="#000000" valign="TOP" width="86"><font color="#FFFFFF" face="HELVETICA, ARIAL" size="1">SITE SOURCES </font></td></tr><tr><td align="RIGHT" bgcolor="#6363CE" valign="TOP" width="86"><a href="/INDEX/"><font color="#FFFFFF" face="HELVETICA, ARIAL" size="1">Contents</font></a> <br/><a href="/feedback/help/"><font color="#FFFFFF" face="HELVETICA, ARIAL" size="1">Help!</font></a> <br/><a href="/SEARCH/"><font color="#FFFFFF" face="HELVETICA, ARIAL" size="1">Search</font></a> <br/><a href="/CNN/"><font color="#FFFFFF" face="HELVETICA, ARIAL" size="1">CNN Networks</font></a> <br/><br/></td></tr>
+<!-- Specials -->
+<tr><td align="RIGHT" bgcolor="#000000" valign="TOP" width="86"><font color="#FFFFFF" face="HELVETICA, ARIAL" size="1">SPECIALS </font></td></tr><tr><td align="RIGHT" bgcolor="#6363CE" valign="TOP" width="86"><a href="/QUICKNEWS/"><font color="#FFFFFF" face="HELVETICA, ARIAL" size="1">Quick News</font></a> <br/><a href="/almanac/daily/"><font color="#FFFFFF" face="HELVETICA, ARIAL" size="1">Almanac</font></a> <br/><a href="/video_vault/"><font color="#FFFFFF" face="HELVETICA, ARIAL" size="1">Video Vault</font></a> <br/><a href="/SEARCH/quiz/"><font color="#FFFFFF" face="HELVETICA, ARIAL" size="1">News Quiz</font></a> <br/></td></tr>
+</tr>
+</table>
+<map name="nav.map">
+<area coords="4, 1,	110, 29" href="http://cnn.com/customnews/" shape="rect"/>
+<area coords="4, 35,	110, 52" href="/WORLD/" shape="rect"/>
+<area coords="4, 53,	110, 70" href="/US/" shape="rect"/>
+<area coords="4, 71,	110, 88" href="/LOCAL/" shape="rect"/>
+<area coords="4, 89,	110, 106" href="/WEATHER/" shape="rect"/>
+<area coords="4, 107,	110, 124" href="/cnnsi/" shape="rect"/>
+<area coords="4, 125,	110, 142" href="/TECH/" shape="rect"/>
+<area coords="4, 143,	110, 160" href="/TRAVEL/" shape="rect"/>
+<area coords="4, 161,	110, 178" href="/STYLE/" shape="rect"/>
+<area coords="4, 179,	110, 196" href="/SHOWBIZ/" shape="rect"/>
+<area coords="4, 197,	110, 214" href="/books/" shape="rect"/>
+<area coords="4, 215,	110, 232" href="/HEALTH/" shape="rect"/>
+<area coords="4, 233,	110, 250" href="/EARTH/" shape="rect"/>
+<area coords="4, 251,	110, 268" href="/SPECIALS/" shape="rect"/>
+<area coords="4, 276,	90, 293" href="/cnnsi/" shape="rect"/>
+<area coords="4, 294,	90, 311" href="/allpolitics/" shape="rect"/>
+<area coords="4, 312,	90, 329" href="/cnnfn/" shape="rect"/>
+<area coords="4, 330,	90, 347" href="/cnnes/" shape="rect"/>
+</map>
+<!--/NAVIGATION-->
+</td>
+<td valign="TOP" width="482">
+<!--=========================-->
+<!--=========================-->
+<!--=========================-->
+<table border="0">
+<tr>
+<td align="RIGHT" width="220">
+<img align="MIDDLE" alt="CNN Community" border="0" height="68" src="/community/images/banner.gif" width="469"/>
+</td>
+</tr>
+</table>
+<!--========================================================-->
+<!--===============Paste story between here=================-->
+<!--========================================================-->
+<h2>How to join the chat and view the Webcast</h2>
+<p>CNN Interactive invites you to participate in a live chat with Israeli Prime Minister <b>Benjamin Netanyahu.</b> Hosted by CNN Senior Correspondent <b>Bernard Shaw,</b> this historic chat event will be Webcast live on the internet. U.S. cable viewers may also follow the conversation on CNN.</p>
+<b><li>When:</li></b> Sunday, February 15 at 1:00 p ET, 8 p.m. in Jerusalem (1800 GMT) 
+   <b><li>Where:</li></b> In our CNN chat room! (details below)
+
+<br/><br/>
+<h3>Chat help:</h3>
+<p>To get involved in this groundbreaking chat, we suggest you download an IRC chat client and join our chat room a few days in advance.  This will ensure your ability to readily participate in this historic, interactive event!</p>
+<p>CNN uses an Internet Relay Chat (IRC) server.  In order to chat with us, you'll need to download and install an IRC chat client on your computer.
+
+If you don't already have one, feel free to choose a chat client from the list below:</p>
+<!--ÇLIÈÇA href="http://www.ichat.com/download/index.html"ÈichatÇ/aÈ -- (Various Platforms)ÇBRÈ-->
+<li><a href="http://www.xs4all.nl/~ircle/">IRCLE</a> -- (Mac only)<br/>
+<li><a href="http://www.mirc.co.uk/install.html">MIRC</a> -- (Windows only)<br/>
+<li><a href="http://www.microsoft.com/ie/chat">Microsoft Chat</a> (Windows 95 or 3.1)
+<li><a href="http://www.bcpl.lib.md.us/~frappa/pirch.html">PIRCH</a> (Windows 95)
+
+<br/><br/>
+<p>Most chat clients are shareware with a free trial period, so you might want to explore one or two to find the one that suits your needs.</p>
+<img align="MIDDLE" alt="chat help " border="1" height="230" src="http://cnn.com/community/images/chat.graph.gif" width="426"/><br/><br/>
+<h3><font face="ARIEL, HELVETICA">To begin chatting with us...</font></h3> 
+
+Launch your chat client application<br/>
+Connect to CNN's server located at <b>chat.cnn.com.</b><br/>
+Be sure to specify <b>port 6667.</b><br/>
+Display the room list and join the <b>CNN</b> chat room.<br/><br/><br/>
+<h3><font face="ARIEL, HELVETICA">Connection problems?</font></h3>
+
+If you are having problems connecting to our CNN Chat room
+from your company's Internet connection, it is possible you are
+behind a corporate firewall. Many companies install protection devices
+known as firewalls to keep employees from accessing certain areas on the
+Internet.  See your client help information for possible ways around your company firewall.<br/><br/> 
+
+
+If you have trouble connecting to our chat, please feel free to <a href="mailto:cnnplus@cnn.com">contact us</a> for technical assistance.<br/><br/>
+<h3><font face="ARIEL, HELVETICA">How to watch the Webcast</font></h3>
+
+CNN Interactive viewers may watch Prime Minister Benjamin Netanyahu and CNN
+Anchor Bernard Shaw as they participate in the chat.  To watch or listen to the
+webcast you will need the VXtreme WebTeater plug-in.  VXtreme plug-ins for
+Windows 95, Windows NT, Power Macintosh, and Solaris are currently available. A
+helper app for Windows 3.11 is also available.<br/><br/>
+<a href="http://download.cnn.com">Download the plug-in</a><br/><br/>
+<h3><font face="ARIEL, HELVETICA">Now that you're ready</font></h3>
+
+On the day of the chat with Netanyahu, connect to the chat room then open your 
+Internet browser and go to <a href="http://download.cnn.com"> CNN.com/community/netanyahu.</a> From 
+there you can view a live Webcast of the chat, add your views to a message board and read up on Prime 
+Minister Netanyahu and Israeli issues. 
+ 
+
+<!--===============Paste story between here=================-->
+<center>
+<img alt="rule" height="3" src="/images/9607/hr.gif" width="430"/><br/>
+<br/></center>
+<!--#include virtual="/community/netanyahu/virtual/text.nav.txt" -->
+<center>
+<br clear="ALL"/>
+<a href="#top"><img alt="To the top" border="0" height="45" src="/images/9607/back_to_top.gif" width="87"/></a>
+<p>© 1998 Cable News Network, Inc.<br/>
+All Rights Reserved.</p>
+<h6><a href="/interactive_legal.html">Terms</a> under which this
+     service is provided to you.</h6>
+</center>
+</li></li></li></li></td>
+</tr>
+</table>
+</body></html>
+

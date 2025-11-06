@@ -1,0 +1,567 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<!-- filename: direct-head  -->
+<html>
+<head>
+<title>C.Colect. Autoridade - Full View of Record</title>
+<!-- filename: meta-tags -->
+<meta content="no-cache" http-equiv="Cache-Control"/>
+<meta content="no-cache" http-equiv="Pragma"/>
+<meta content="Sun, 06 Nov 1994 08:49:37 GMT" http-equiv="Expires"/>
+<!--<meta http-equiv="Refresh" content="1200; URL=http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15895?func=logout"> -->
+<meta content="text/html; charset=utf-8" http-equiv="content-Type"/>
+<link href="http://www.bncatalogo.cl:80/exlibris.css" rel="stylesheet" type="text/css"/>
+<link href="http://www.bncatalogo.cl:80/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript"> 
+<!-- Begin 
+function formHandler(otroscat){ 
+var URL = otroscat.otroscat.options[otroscat.otroscat.selectedIndex].value; 
+window.location.href = URL; 
+// End --> 
+} 
+</script>
+<script language="Javascript"> 
+<!-- 
+  function open_window (loc) 
+  { 
+    self.name="main"; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+   var w = window.open ("","win1","height=500,width=500,scrollbars,resizable"); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc,"win1","height=500,width=500,scrollbars,resizable"); 
+    } 
+    w.focus(); 
+  } 
+ 
+ 
+  function open_window2 (loc) 
+  { 
+    self.name="main"; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+ 
+    var w = window.open ("", 
+                         "win1", 
+                         "height=100,width=500,scrollbars,resizable" 
+                         ); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc, 
+                         "win1", 
+                         "height=100,width=500,scrollbars,resizable" 
+                         ); 
+    } 
+     w.focus(); 
+  } 
+ 
+ 
+  function open_window3 (loc) 
+  { 
+    self.name="main"; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+ 
+    var w = window.open ("", 
+                         "win1", 
+                         "height=400,width=450,scrollbars,resizable,top=200" 
+                         ); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc, 
+                         "win1", 
+                         "height=400,width=450,scrollbars,resizable,top=200" 
+                         ); 
+    } 
+     w.focus(); 
+  } 
+ 
+ 
+  function open_window4 (loc) 
+  { 
+    self.name="main"; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+ 
+    var w = window.open ("", 
+                         "win1", 
+                         "height=150,width=450,scrollbars,resizable,top=200" 
+                         ); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc, 
+                         "win1", 
+                         "height=150,width=450,scrollbars,resizable,top=200" 
+                         ); 
+    } 
+     w.focus(); 
+  } 
+ 
+ 
+  function open_window_ext (loc) 
+  { 
+    self.name="main"; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+    var w = window.open ("","win2","height=500,width=500,scrollbars,resizable,toolbar,status,menubar"); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc,"win2","height=500,width=500,scrollbars,resizable,toolbar,status,menubar"); 
+    } 
+    w.focus(); 
+  } 
+ 
+  function set_iframe_location(url,id){ 
+    eval('document.all.' + id).src = url; 
+  } 
+ 
+  function open_window_confirm (loc,frame) 
+  { 
+    self.name=frame; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+
+   var w = window.open ("","win1","height=220,width=450,scrollbars,resizable"); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc,"win1","height=220,width=450,scrollbars,resizable"); 
+    } 
+    w.focus(); 
+  } 
+ 
+  function delete_win1 () 
+  { 
+    var w = window.open ("","win1","height=220,width=450,scrollbars,resizable"); 
+    w.close(); 
+  } 
+ 
+  function open_window_ill (loc) 
+  { 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+  var w = window.open ("","win1","height=500,width=500,scrollbars,resizable"); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc,"win1","height=500,width=500,scrollbars,resizable"); 
+    } 
+    w.focus(); 
+  } 
+ 
+// --> 
+</script>
+</head>
+<body topmargin="0">
+<!-- filename: head-1-nobor-red10 -->
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="2" cellspacing="0" height="640" width="772"><tr><td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td style="border-bottom-style:solid;border-color:gray;border-width:1px;" width="580"><!--<img src="http://www.bncatalogo.cl:80/exlibris/aleph/u24_1/alephe/www_f_spa/icon/images/bann-bndibam.gif" border="0" />--></td>
+<td align="right">
+<form name="otroscat">
+<select name="otroscat" onchange="formHandler(this.form)" size="1">
+<option value="">Otros CatÃ¡logos 
+        <option value="http://www.bncatalogo.gob.cl">Biblioteca Nacional de Chile 
+        <option value="http://catalogo.bcn.cl">Congreso Nacional de Chile 
+        <option value="https://bibliotecas.uc.cl">Universidad CatÃ³lica de Chile 
+        </option></option></option></option></select></form>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td><table border="0" cellpadding="0" cellspacing="0" height="61" width="100%">
+<tr class="middlebar">
+<td width="672"><a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15896?func=scan-list&amp;local_base=red10" title="Ir a la página principal"><img border="0" height="61" src="http://www.bncatalogo.cl:80/exlibris/aleph/u24_1/alephe/www_f_spa/icon/images/banner-cca.jpg" width="670"/></a></td>
+<!--<td><h1>CatÃ¡logo Colectivo de Autoridades BibliogrÃ¡ficas - CCAB</h1></td>-->
+<td width="100"><a class="blue" href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15897?func=file&amp;file_name=help-1" target="new" title="Ayuda de uso de este sistema"><img align="absmiddle" border="0" src="http://www.bncatalogo.cl:80/exlibris/aleph/u24_1/alephe/www_f_spa/icon/images/help.gif"/> Ayuda</a><br/>
+<a class="blue" href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15898?func=file&amp;file_name=feedback" title="Enviar comentarios constructivos acerca de este sistema"><img align="absmiddle" border="0" src="http://www.bncatalogo.cl:80/exlibris/aleph/u24_1/alephe/www_f_spa/icon/images/suggest.gif"/> Sugerencias</a><br/>
+<a class="blue" href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15899?func=file&amp;file_name=copyright-ccab"><img align="absmiddle" border="0" src="http://www.bncatalogo.cl:80/exlibris/aleph/u24_1/alephe/www_f_spa/icon/images/info.gif"/> Información</a></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr class="bottombar">
+<td height="20"><a class="blue" href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15900?func=scan-list&amp;local_base=red10" title="Nueva Búsqueda">Nueva Búsqueda</a> | <a class="blue" href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15901?func=history" title="Utiliza conjuntos de registros de bÃºsquedas anteriores">Búsquedas Anteriores</a> <!--| <a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15902?func=myshelf-short" class="blue" title="Ver los registros que se guardaron en Mi estante electrÃ³nico">Canasta</a> -->| <a class="blue" href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15903?func=short" title="Ver lista de registros">Lista de Resultados</a></td>
+<!--<td height="20"><a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15904?func=file&file_name=scan-red10" class="blue" title="Nueva B&uacute;squeda">Nueva B&uacute;squeda</a> | <a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15905?func=history" class="blue" title="Utiliza conjuntos de registros de bÃºsquedas anteriores">B&uacute;squedas Anteriores</a> | <a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15906?func=myshelf-short" class="blue" title="Ver los registros que se guardaron en Mi estante electrÃ³nico">Canasta</a> | <a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15907?func=short" class="blue" title="Ver lista de registros">Lista de Resultados</a></td>-->
+<td align="right" height="20">
+<!--<table background="http://www.bncatalogo.cl:80/exlibris/aleph/u24_1/alephe/www_f_spa/icon/f-bottomright-bar.jpg" width="230" cellspacing="0" cellpadding="0" border="0"> 
+         <tr width="5%" align="center"> 
+         <td>&nbsp;</td> 
+         <td width="40%" align="center"> 
+          <a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15908?func=file&file_name=login" class="blue" title="Ingrese su nombre de usuario y contraseÃ±a">Acceder</a> 
+         </td> 
+
+         <td width="10%" align="center">&nbsp;|&nbsp;</td> 
+         <td width="40%" align="center"> 
+          <a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15909?func=bor-new-0" class="blue">Registrarse</a> 
+         </td> 
+         <td width="5%" align="center">&nbsp;</td> 
+         </tr> 
+         </table>-->
+</td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td align="center" class="feedbackbar" colspan="16" height="20" nowrap="" valign="middle"> </td>
+</tr>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" class="bar" nowrap="" width="80%"> 
+      
+  </td>
+<td align="center" class="bar" nowrap="">
+<a class="blue" href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15910?func=title-request-form&amp;bib_doc_number=" title="Crear solicitud de tÃ­tulo"> 
+               Solicitud de TÃ­tulo</a>
+</td>
+<td align="center" class="bar" nowrap=""> 
+                |  
+  </td>
+<td align="center" class="bar" nowrap="">
+<a class="blue" href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15911?func=myshelf-add-ful-1&amp;doc_library=&amp;doc_number=" title="Agregar a Mi estante electrÃ³nico"> 
+               Agregar a mi Canasta</a>
+</td>
+<td align="center" class="bar" nowrap=""> 
+                |  
+  </td>
+<td align="center" class="bar" nowrap="">
+<a class="blue" href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15912?func=booking_req_form_bib&amp;bib_library=&amp;bib_doc_number=&amp;start_date=" title="Reserva avanzada"> 
+               Reservar</a>
+</td>
+<!-- 
+  <td class="bar" align="center" nowrap> 
+               &nbsp;|&nbsp; 
+  </td> 
+ 
+  <td class="bar" align="center" nowrap> 
+      <a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15913?func=short-locate-list&doc_number=" 
+               title="Localizar en otras bases de datos" class="blue"> 
+               Localizar</a> 
+  </td> 
+  <td class="bar" align="center" nowrap> 
+               &nbsp;|&nbsp; 
+  </td> 
+  <td class="bar" align="center" nowrap> 
+      <a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15914?func=ill-request-doc&doc_number=" 
+               title="Crear solicitud de PrÃ©stamo interbibliotecario" class="blue"> 
+               Solicitud PIB</a> 
+  </td> 
+-->
+<td align="center" class="bar" nowrap=""> 
+                |  
+  </td>
+<td align="center" class="bar" nowrap="">
+<a class="blue" href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15915?func=full-mail-0&amp;doc_library=&amp;doc_number=" title="Guardar o Enviar por correo electrÃ³nico"> 
+               Guardar o Enviar</a>
+</td>
+<!-- 
+  <td class="bar" align="center" nowrap> 
+               &nbsp;|&nbsp; 
+  </td> 
+  <td class="bar" align="center" nowrap> 
+     <a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15916?func=save-server-0&set_number=&set_entry=" 
+        title="Save on Server" class=blue> 
+        Guardar en el servidor</a> 
+   </td> 
+  <td class="bar" align="center" nowrap> 
+               &nbsp;|&nbsp; 
+  </td> 
+   <td class="bar" align="center" valign="bottom" nowrap> 
+      <div id="sfx_button"></div> 
+       
+  </td> 
+-->
+</tr></table></td>
+</tr>
+</table>
+<p class="title" nowrap=""> 
+  Vista Completa del Registro 
+</p>
+<table>
+<tr>
+<td class="text3"> 
+    Escoger Formato: 
+  </td>
+<td class="text1">
+<a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15917?func=direct&amp;doc_number=000883258&amp;format=999"> 
+      Formato Estandar</a>
+</td>
+<!-- 
+  <td class="text1"> 
+   <a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15918?func=direct&doc_number=000883258&format=037"> 
+      Tarjeta catalogrÃ¡fica</a> 
+  </td> 
+  <td class="text1"> 
+   <a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15919?func=direct&doc_number=000883258&format=040"> 
+      Cita</a> 
+  </td> 
+  <td class="text1"> 
+   <a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15920?func=direct&doc_number=000883258&format=002"> 
+      Nombre de etiquetas</a> 
+  </td> 
+-->
+<!--M   <td class="text1">  -->
+<!--M    <a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15921?func=direct&doc_number=000883258&format=001"> -->
+<!--M       Etiquetas MARC</a> -->
+<!--M   </td> -->
+</tr>
+</table>
+<table border="0" cellspacing="2" width="100%">
+<!-- filename: full-999-body -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+    No. Sistema   
+  </td>
+<td align="left" class="td1"> 
+    000883258 
+  </td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+    Formato   
+  </td>
+<td align="left" class="td1"> 
+    AU 
+  </td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+    Encab. establecido   
+  </td>
+<td align="left" class="td1"> 
+    Trump, Donald, 1946- 
+  </td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+    TÃ©rmino no usado   
+  </td>
+<td align="left" class="td1"> 
+    Trump, Donald J., 1946- 
+  </td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+       
+  </td>
+<td align="left" class="td1"> 
+    Trumped, Donald J., 1946- 
+  </td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+       
+  </td>
+<td align="left" class="td1"> 
+    Tramp, DonalÊ¹d, 1946- 
+  </td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+       
+  </td>
+<td align="left" class="td1"> 
+    The Donald, 1946- 
+  </td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+       
+  </td>
+<td align="left" class="td1"> 
+    Donald, 1946- 
+  </td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+       
+  </td>
+<td align="left" class="td1"> 
+    Trump, Donald, Sr., 1946- 
+  </td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+       
+  </td>
+<td align="left" class="td1"> 
+    Trump, Donald John, 1946- 
+  </td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+       
+  </td>
+<td align="left" class="td1"> 
+    Trump, Donald John, Sr., 1946- 
+  </td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+    Fuente c/datos   
+  </td>
+<td align="left" class="td1"> 
+    En: El fenÃ³meno Trump Mensaje, Vol. 65, No. 653 (oct. 2016), p. 14-16 
+  </td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+    Datos Biograf./His.   
+  </td>
+<td align="left" class="td1"> 
+    Empresario, polÃ­tico, personalidad televisiva estadounidense. Presidente electo de los Estados Unidos para el perÃ­odo 2017-2020. 
+  </td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+    Enlace   
+  </td>
+<td align="left" class="td1">
+<a href="http://lccn.loc.gov/n85387872" target="new">http://lccn.loc.gov/n85387872</a>
+</td>
+</tr>
+<!-- filename: full-999-body -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+    Propietario   
+  </td>
+<td align="left" class="td1"> 
+    PUC 
+  </td>
+</tr>
+<!-- filename: direct-tail  -->
+</table>
+<br/>
+<table>
+<tr>
+<td class="text3"> 
+    Escoja Formato: 
+  </td>
+<td class="text1">
+<a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15922?func=direct&amp;doc_number=000883258&amp;format=999"> 
+      Formato Estandar</a>
+</td>
+<!-- 
+  <td class="text1"> 
+   <a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15923?func=direct&doc_number=000883258&format=037"> 
+      Tarjeta CatalogrÃ¡fica</a> 
+  </td> 
+  <td class="text1"> 
+   <a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15924?func=direct&doc_number=000883258&format=040"> 
+      Cita</a> 
+  </td> 
+  <td class="text1"> 
+   <a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15925?func=direct&doc_number=000883258&format=002"> 
+      Nombre de etiquetas</a> 
+  </td> 
+-->
+<td class="text1">
+<a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15926?func=direct&amp;doc_number=000883258&amp;format=001"> 
+      Etiquetas MARC</a>
+</td>
+</tr>
+</table>
+<p>
+<!-- tail-bar-include -->
+<!-- 
+<hr> 
+<div class=text1 align=center> 
+<a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15927?func=file&file_name=logout">Finalizar sesiÃ³n</a> - 
+<a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15928?func=option-show&func_param=DISPLAY-OPTION">Preferencias</a> - 
+<a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15929?func=file&file_name=feedback">Comentarios</a> - 
+<a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15930?func=file&file_name=help-1" target="new">Ayuda</a> - 
+<a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15931?func=ill-request-1&request_type=ill-book-request">PIB</a> - 
+<a href="http://www.exlibris-usa.com" target=new>Ex Libris</a> - 
+<a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15932?func=scan-list">Hojear</a> - 
+<a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15933?func=file&file_name=find-b">Buscar</a> - 
+<a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15934?func=short">Lista de Resultados</a> - 
+<a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15935?func=history">BÃºsquedas Anteriores</a> - 
+<a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15936?func=file&file_name=base-list">Base de Datos</a> 
+</div> 
+-->
+<!-- filename: copyrights-red10 -->
+
+<tr><td valign="bottom" width="100%">
+<table align="center" bgcolor="#ffffcf" border="0" cellpadding="5" width="90%">
+<tr><td>
+<strong>Condiciones de Uso:</strong> Obligación de citar la fuente en el proceso de inserción de los registros en...
+</td><td align="right" width="70">
+<a href="http://www.bncatalogo.cl:80/F/FKDGJCKSA4RIR3K45IDM34V8RDR75N52QFHE7CBB7RJBUFQ6L1-15937?func=file&amp;file_name=copyright-ccab">Leer más</a>
+</td></tr>
+</table>
+<hr/>
+<p class="copyright">
+<!--&copy; 2008 Biblioteca Nacional de Chile<br>-->
+<table align="center" border="0">
+<tr>
+<td width="40%">
+<a href="http://www.bibliotecanacional.cl" target="_blank"><img align="right" border="0" height="60" src="http://www.bncatalogo.cl:80/exlibris/aleph/u24_1/alephe/www_f_spa/icon/images/logobn.jpg" title="Biblioteca Nacional de Chile" width="68"/></a>
+</td>
+<td align="center" width="100">
+<a href="http://www.uc.cl" target="_blank"><img border="0" height="60" src="http://www.bncatalogo.cl:80/exlibris/aleph/u24_1/alephe/www_f_spa/icon/images/logouc.jpg" title="Universidad CatÃ³lica de Chile" width="46"/></a>
+</td>
+<td width="40%">
+<a href="http://www.bcn.cl" target="_blank"><img align="left" border="0" height="60" src="http://www.bncatalogo.cl:80/exlibris/aleph/u24_1/alephe/www_f_spa/icon/images/logobcn.jpg" title="Biblioteca del Congreso Nacional de Chile" width="113"/></a>
+</td>
+</tr>
+</table>
+</p>
+</td></tr>
+</p></body>
+</html>
+

@@ -1,0 +1,1308 @@
+
+<!DOCTYPE html>
+
+<html class="nojs" id="ctl00_htmltag" lang="en">
+<head id="ctl00_head1">
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<title>
+	Trump's Inaugural Approval Rating Is Historically Low Again 
+</title>
+<!-- Mobile viewport optimization -->
+<meta content="True" name="HandheldFriendly"/><meta content="320" name="MobileOptimized"/><meta content="telephone=no" name="format-detection"/><link href="//content.gallup.com" rel="dns-prefetch"/><link href="//media.gallup.com" rel="dns-prefetch"/><link href="//www.google-analytics.com" rel="dns-prefetch"/><link href="https://content.gallup.com/FontAwesome/css/fontawesome.css" rel="stylesheet"/>
+<link href="https://content.gallup.com/FontAwesome/css/regular.css" rel="stylesheet"/>
+<link href="https://content.gallup.com/FontAwesome/css/solid.css" rel="stylesheet"/>
+<link href="https://content.gallup.com/FontAwesome/css/thin.css" rel="stylesheet"/>
+<link href="https://content.gallup.com/FontAwesome/css/custom-icons.css" rel="stylesheet"/>
+<link href="https://content.gallup.com/FontAwesome/css/brands.css" rel="stylesheet"/>
+<link href="https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/WWWV7CORP/3oqt5aqtfeqg4mlwujdjhq.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/WWWV7CORP/thp1byruauindmyyc3z90q.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/WWWV7CORP/b2foxnnxmecoee_1avm01a.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/site.webmanifest" rel="manifest"/>
+<link color="#000000" href="https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/WWWV7CORP/tbvkwbdtreaire92ox45xg.svg" rel="mask-icon"/>
+<link href="/sitemaps/content.rss" rel="alternate" title="ROR" type="application/rss+xml"><link href="/sitemaps/poll/content.xml" rel="sitemap" type="application/xml"><link href="/stylebundle/site-NewsV9/Newsv9?v=vXn621ZMUJMxHCEz8mSV2P1_OxOPptpxWmv74_0oRyE1" media="screen, print" rel="stylesheet" type="text/css">
+<noscript><link href="/stylebundle/site-NewsV9/Newsv9NoScript?v=LF8kyc4jzB5BFZDA0WbBMsETkiu5NGQ3S70eEPPqVgA1" media="screen, print" rel="stylesheet" type="text/css"/></noscript>
+<style>
+/* DOTCOME-18401  */
+.wf-active .text-serif, .wf-active .text--serif {
+  font-variation-settings: 'wght' 850, 'opsz' 42 !important;
+}
+
+.tile-feature .image {
+    height: unset;
+    max-height: unset;
+}
+
+
+
+</style><script src="//content.gallup.com/ux/gts/gTrackingSetup.js"></script><script> let config = {gtmProp: { id: 'GTM-PGX4CBF', scriptAttrs: {async: true} },gaProps: [{ id: 'G-DMNDBYT8P9', config: { optimize_id: 'OPT-K2S4XSF' }, targets: "consumer", scriptAttrs: {async: true}}, ]};gTrackingSetup(config);</script><script>
+                    window.dataLayer = window.dataLayer || [];
+                    window.dataLayer.push({ 'gaProperty':'G-DMNDBYT8P9'});</script>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "name": "Trump\u0027s Inaugural Approval Rating Is Historically Low Again",
+  "description": "Trump\u0027s initial job approval rating is similar to what it was at the start of his first term, reaffirming his position as the lowest-rated new president since 1953.",
+  "dateModified": "2025-01-29T21:30:00.0000000\u002B00:00",
+  "datePublished": "2025-01-29T21:30:00.0000000\u002B00:00",
+  "url": "https://news.gallup.com/poll/655955/trump-inaugural-approval-rating-historically-low-again.aspx",
+  "author": {
+    "@type": "Person",
+    "name": "Megan Brenan"
+  },
+  "publisher": {
+    "name": "Gallup",
+    "@type": "Organization",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/WWWV7CORP/3oqt5aqtfeqg4mlwujdjhq.png"
+    }
+  }
+}</script>
+<script>var gfwVersion = "1.0.9400.22155";</script><script src="//content.gallup.com/ux/gcb/gcb.en-us.min.js"></script><link href="/stylebundle/Template/StandaloneItem?v=ZwfPCls13KMVWtjDpZbJLU1Fxb_igK9cgvdly91g9RQ1" rel="stylesheet">
+<link href="/stylebundle/Template/clp?v=xByQPlPSEytJE9A8AXI45tYQ2WQPV_JzjaXTOWRTfV41" rel="stylesheet"/>
+<link href="https://news.gallup.com/poll/655955/trump-inaugural-approval-rating-historically-low-again.aspx" rel="canonical"/><meta content="2F77D097EDC91D637F64FEE17170F0E7" name="msvalidate.01"/><meta content="pAqPzW7SsKEtIVjzkqfGfnY_dzsF8RxcEMj3QMfN5JI" name="google-site-verification"/><meta content="sec-CH-DPR" http-equiv="Accept-CH"/><meta content="Trump's initial job approval rating is similar to what it was at the start of his first term, reaffirming his position as the lowest-rated new president since 1953." name="description"/><meta content="INDEX,FOLLOW,NOARCHIVE" name="robots"/><meta content="Gallup, Inc." name="author"/><meta content="summary_large_image" name="twitter:card"/><meta content="@Gallup" name="twitter:site"/><meta content="Trump's Inaugural Approval Rating Is Historically Low Again" name="twitter:title"/><meta content="Trump's initial job approval rating is similar to what it was at the start of his first term, reaffirming his position as the lowest-rated new president since 1953." name="twitter:description"/><meta content="https://imagekit.gallup.com/fusion/tr:n-emd_soc_meta_twitter/POLL/b640d299-4d4c-4721-8acf-29b4920c2dc6.jpg" name="twitter:image"/><meta content="Trump's Inaugural Approval Rating Is Historically Low Again" property="og:title"/><meta content="article" property="og:type"/><meta content="Megan Brenan" property="article:author"/><meta content="2025-07-18" property="article:modified_time"/><meta content="2025-01-29" property="article:published_time"/><meta content="Politics" property="article:section"/><meta content="USA" property="article:tag"/><meta content="All Gallup Headlines" property="article:tag"/><meta content="Government" property="article:tag"/><meta content="Political Parties" property="article:tag"/><meta content="Politics" property="article:tag"/><meta content="Presidential Job Approval" property="article:tag"/><meta content="The Presidency" property="article:tag"/><meta content="https://news.gallup.com/poll/655955/trump-inaugural-approval-rating-historically-low-again.aspx" property="og:url"/><meta content="https://imagekit.gallup.com/fusion/tr:n-emd_soc_meta_og/POLL/b640d299-4d4c-4721-8acf-29b4920c2dc6.jpg" property="og:image"/><meta content="https://imagekit.gallup.com/fusion/tr:n-emd_soc_meta_og/POLL/b640d299-4d4c-4721-8acf-29b4920c2dc6.jpg" property="og:image:secure_url"/><meta content="Gallup.com" property="og:site_name"/><meta content="Trump's initial job approval rating is similar to what it was at the start of his first term, reaffirming his position as the lowest-rated new president since 1953." property="og:description"/><meta content="91480005965" property="fb:admins"/></link></link></link></link></meta></head>
+<body class="mainmaster t-white-nav has-nav--main cms cmsviewa sys-release sit-newsv9">
+<!-- RMKTGLOBALBODY -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-WSF7BSB" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<noscript>
+<div class="alert alert-danger">
+<span><strong>Notice: </strong> JavaScript is not enabled. <a class="alert-link" href="https://enable-javascript.com/">Please Enable JavaScript Safely</a>.</span></div>
+</noscript>
+<div id="skiptocontent"><a href="#main" id="skipToMain">skip to main content</a></div>
+<header class="header-page">
+<nav aria-label="Corporate Navigation" class="navbar c-corporate-nav hidden-nav-sm hidden-nav-xs" id="ctl00_HeaderNavigation_CorporateNavigation_Navbar">
+<div class="container">
+<div class="collapse navbar-collapse" id="navbar-collapse-corporate">
+<ul class="nav navbar-nav navbar-right">
+<li><a href="https://www.gallup.com/corporate/212381/who-we-are.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">About Us</span></a></li>
+<li><a href="https://www.gallup.com/careers/" rel="noopener" tabindex="0"><span class="c-link-inner-focus">Careers</span></a></li>
+<li><a href="https://www.gallup.com/270188/contact-us-general.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">Contact Us</span></a></li>
+<li><a href="https://www.gallup.com/subscribe.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">Subscribe</span></a></li>
+</ul>
+</div>
+</div>
+</nav>
+<nav aria-label="Global Navigation" class="navbar navbar-default c-global-nav">
+<div class="container">
+<button aria-label="Expand navigation" class="navbar-toggle" data-duration="0" data-target="#navbar-global-collapse" data-toggle="collapse" id="ctl00_HeaderNavigation_GlobalNavigation_NavbarToggle" tabindex="0">
+<span class="c-link-inner-focus">
+<span class="c-global-nav__toggle-icon"></span>
+<span class="c-global-nav__toggle-icon"></span>
+<span class="c-global-nav__toggle-icon"></span>
+<span class="sr-only"></span>
+</span>
+</button>
+<div aria-expanded="false" class="collapse navbar-collapse hidden-nav-lg hidden-nav-md" id="navbar-global-collapse" role="navigation">
+<ul class="nav navbar-nav" id="ctl00_HeaderNavigation_GlobalNavigation_Ul1">
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Workplace Advisory <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1"><div>Our Expertise</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/workplace/229424/employee-engagement.aspx" tabindex="0"><span class="c-link-inner-focus">Employee Engagement &amp; Experience</span></a></li>
+<li><a href="https://www.gallup.com/workplace/229832/culture.aspx" tabindex="0"><span class="c-link-inner-focus">Organizational Culture</span></a></li>
+<li><a href="https://www.gallup.com/workplace/216209/develop-managers-leaders.aspx" tabindex="0"><span class="c-link-inner-focus">Leadership Development</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2 c-global-nav__no-header"><div><span>2</span></div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/workplace/212033/attract-hire-top-talent.aspx" tabindex="0"><span class="c-link-inner-focus">Talent Identification &amp; Hiring</span></a></li>
+<li><a href="https://www.gallup.com/workplace/311870/customer-centricity.aspx" tabindex="0"><span class="c-link-inner-focus">Customer Centricity</span></a></li>
+<li><a href="https://www.gallup.com/workplace/215924/well-being.aspx" tabindex="0"><span class="c-link-inner-focus">Wellbeing</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3 c-global-nav__no-header"><div><span>3</span></div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253808/cliftonstrengths-for-organizations.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths for Organizations</span></a></li>
+<li><a href="https://www.gallup.com/workplace/650153/ai-adoption.aspx" tabindex="0"><span class="c-link-inner-focus">AI Adoption</span></a></li>
+<li><a href="https://www.gallup.com/workplace/650156/science-of-high-performing-teams.aspx" tabindex="0"><span class="c-link-inner-focus">Science of Teams</span></a></li>
+<li><a href="https://www.gallup.com/workplace/" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Our Platform</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/access/" tabindex="0"><span class="c-link-inner-focus">Gallup Access Platform</span></a></li>
+<li><a href="https://www.gallup.com/q12-employee-engagement-survey/" tabindex="0"><span class="c-link-inner-focus">Q12 Survey</span></a></li>
+<li><a href="https://www.gallup.com/access/239201/employee-surveys.aspx" tabindex="0"><span class="c-link-inner-focus">Employee Surveys</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1"><div>About CliftonStrengths</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253676/how-cliftonstrengths-works.aspx" tabindex="0"><span class="c-link-inner-focus">How Does CliftonStrengths Work?</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253715/34-cliftonstrengths-themes.aspx" tabindex="0"><span class="c-link-inner-focus">What Are the 34 Themes?</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253736/cliftonstrengths-domains.aspx" tabindex="0"><span class="c-link-inner-focus">What Are the 4 Domains?</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2"><div>Reports</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253868/popular-cliftonstrengths-assessment-products.aspx" tabindex="0"><span class="c-link-inner-focus">Find the Right Report</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/403127/cliftonstrengths-34-report.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths 34</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/512510/cliftonstrengths-top-5-report.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths Top 5</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/507353/cliftonstrengths-for-students-report.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths for Students</span></a></li>
+<li><a href="https://store.gallup.com/c/en-us/1/cliftonstrengths" tabindex="0"><span class="c-link-inner-focus">View All Reports</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3"><div>Coaching</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253958/become-coach.aspx" tabindex="0"><span class="c-link-inner-focus">How to Become a Coach</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253997/coaching-courses.aspx" tabindex="0"><span class="c-link-inner-focus">Courses for Coaches</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253976/find-coach.aspx" tabindex="0"><span class="c-link-inner-focus">Find a Coach</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Quick Links</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253937/strengths-articles-videos.aspx" tabindex="0"><span class="c-link-inner-focus">Articles, Videos &amp; More</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/348236/cliftonstrengths-newsletter.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths Insights Newsletter</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/388469/cliftonstrengths-podcast.aspx" tabindex="0"><span class="c-link-inner-focus">Podcast</span></a></li>
+<li><a href="https://www.gallup.com/leading-with-strengths" tabindex="0"><span class="c-link-inner-focus">Leading With Strengths</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Research &amp; Polling <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1"><div>How We Help Clients</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/analytics/656957/custom-survey-research.aspx" tabindex="0"><span class="c-link-inner-focus">Custom Survey Research</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318875/global-research.aspx" tabindex="0"><span class="c-link-inner-focus">Global Research</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318911/us-social-research.aspx" tabindex="0"><span class="c-link-inner-focus">U.S. Research</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318812/strategic-communications.aspx" tabindex="0"><span class="c-link-inner-focus">Strategic Communications</span></a></li>
+<li><a href="https://www.gallup.com/analytics/home.aspx" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2"><div>Our Research</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx" tabindex="0"><span class="c-link-inner-focus">State of the Global Workplace</span></a></li>
+<li><a href="https://www.gallup.com/analytics/349280/gallup-global-emotions-report.aspx" tabindex="0"><span class="c-link-inner-focus">Global Emotions</span></a></li>
+<li><a href="https://www.gallup.com/analytics/349487/world-happiness-report.aspx" tabindex="0"><span class="c-link-inner-focus">World Happiness</span></a></li>
+<li><a href="https://www.gallup.com/analytics/355787/gallup-rating-world-leaders-report.aspx" tabindex="0"><span class="c-link-inner-focus">Global Leadership</span></a></li>
+<li><a href="https://www.gallup.com/analytics/356996/gallup-law-and-order-research-center.aspx" tabindex="0"><span class="c-link-inner-focus">Global Safety</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318665/public-sector-reports.aspx" tabindex="0"><span class="c-link-inner-focus">Custom Research Partnerships</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3"><div>Products &amp; Insights</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/analytics/213617/gallup-analytics.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup Analytics Platform</span></a></li>
+<li><a href="https://www.gallup.com/analytics/647432/gallup-pulse.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup U.S. Pulse</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318923/world-poll-public-datasets.aspx" tabindex="0"><span class="c-link-inner-focus">Public Data Sets</span></a></li>
+<li><a href="https://www.gallup.com/394169/global-indicators.aspx" tabindex="0"><span class="c-link-inner-focus">Global Indicators</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Quick Links</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://news.gallup.com/home.aspx" tabindex="0"><span class="c-link-inner-focus">Latest News &amp; Articles</span></a></li>
+<li><a href="https://news.gallup.com/poll/trends.aspx" tabindex="0"><span class="c-link-inner-focus">Polling Trends A-Z</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318176/public-sector-success-stories.aspx" tabindex="0"><span class="c-link-inner-focus">Our Research Impact</span></a></li>
+<li><a href="https://www.gallup.com/178685/methodology-center.aspx" tabindex="0"><span class="c-link-inner-focus">Our Methodologies</span></a></li>
+<li><a href="https://www.gallup.com/analytics/647639/federal-government-solutions.aspx" tabindex="0"><span class="c-link-inner-focus">Federal Government Solutions</span></a></li>
+<li><a href="https://www.gallup.com/education/" tabindex="0"><span class="c-link-inner-focus">Education Solutions</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Courses &amp; Events <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1"><div>Courses</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/learning/310019/accelerated-strengths-coaching.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup Global Strengths Coach</span></a></li>
+<li><a href="https://www.gallup.com/learning/346556/manager-development-course.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup Manager Program</span></a></li>
+<li><a href="https://www.gallup.com/learning/309926/engaging-workplace-champions.aspx" tabindex="0"><span class="c-link-inner-focus">Engagement Champions</span></a></li>
+<li><a href="https://www.gallup.com/learning/310088/view-all-courses.aspx" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2"><div>Learning by Role</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/learning/309989/learning-for-leadership-and-management-development.aspx" tabindex="0"><span class="c-link-inner-focus">Leaders &amp; Managers</span></a></li>
+<li><a href="https://www.gallup.com/learning/310535/hr-learning-and-development.aspx" tabindex="0"><span class="c-link-inner-focus">HR Professionals</span></a></li>
+<li><a href="https://www.gallup.com/learning/310532/development-programs-for-coaches.aspx" tabindex="0"><span class="c-link-inner-focus">Coaches</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3"><div>Certification &amp; Credits</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/learning/309920/strengths-certification.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup-Certified Strengths Coach</span></a></li>
+<li><a href="https://www.gallup.com/learning/309914/professional-credit.aspx" tabindex="0"><span class="c-link-inner-focus">Professional Credit Hours</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Quick Links</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/learning/321824/events.aspx" tabindex="0"><span class="c-link-inner-focus">Webinars &amp; Events</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">News &amp; Insights <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1 c-global-nav__no-header"><div><span class="hidden">1</span></div>
+<ul class="dropdown-menu__list">
+<li class="c-global-nav__link-block"><a href="https://news.gallup.com/home.aspx" tabindex="0"><span class="c-link-inner-focus"><span class="u-block u-padding--btm-5 u-text--bold">Gallup News</span>
+<span class="u-block">Key findings and trends from 90+ years of public opinion polling.</span></span></a></li>
+<li class="c-global-nav__link-block"><a href="https://www.gallup.com/workplace/insights.aspx" tabindex="0"><span class="c-link-inner-focus"><span class="u-block u-padding--btm-5 u-text--bold">Workplace Insights</span>
+<span class="u-block">Our latest analytics and advice on the key issues facing leaders.</span></span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2"><div>Global Indicators</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/394373/indicator-employee-engagement.aspx" tabindex="0"><span class="c-link-inner-focus">Employee Engagement</span></a></li>
+<li><a href="https://www.gallup.com/467702/indicator-employee-retention-attraction.aspx" tabindex="0"><span class="c-link-inner-focus">Employee Retention &amp; Attraction</span></a></li>
+<li><a href="https://www.gallup.com/404252/indicator-leadership-management.aspx" tabindex="0"><span class="c-link-inner-focus">Leadership &amp; Management</span></a></li>
+<li><a href="https://www.gallup.com/394505/indicator-life-evaluation-index.aspx" tabindex="0"><span class="c-link-inner-focus">Life Evaluation Index</span></a></li>
+<li><a href="https://www.gallup.com/394169/global-indicators.aspx" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3"><div>Newsletters</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://news.gallup.com/393302/front-page-newsletter-subscribe.aspx" tabindex="0"><span class="c-link-inner-focus">Front Page</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/348236/cliftonstrengths-newsletter.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths Insights</span></a></li>
+<li><a href="https://www.gallup.com/subscribe.aspx" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Quick Links</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/corporate/470660/reports-perspective-papers.aspx" tabindex="0"><span class="c-link-inner-focus">Latest Reports &amp; Perspectives</span></a></li>
+<li><a href="https://news.gallup.com/poll/trends.aspx" tabindex="0"><span class="c-link-inner-focus">Polling Trends A-Z</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li><a href="https://store.gallup.com" tabindex="0"><span class="c-link-inner-focus">Shop</span></a></li>
+</ul>
+<ul class="nav navbar-nav c-corporate-nav-collapse" id="ctl00_HeaderNavigation_GlobalNavigation_CorporateNavCollapse">
+<li><a href="https://www.gallup.com/corporate/212381/who-we-are.aspx" tabindex="0"><span class="c-link-inner-focus">About Us</span></a></li>
+<li><a href="https://www.gallup.com/careers/" tabindex="0"><span class="c-link-inner-focus">Careers</span></a></li>
+<li><a href="https://www.gallup.com/270188/contact-us-general.aspx" tabindex="0"><span class="c-link-inner-focus">Contact Us</span></a></li>
+<li><a href="https://www.gallup.com/subscribe.aspx" tabindex="0"><span class="c-link-inner-focus">Subscribe</span></a></li>
+</ul>
+</div>
+<div class="navbar-header">
+<a class="navbar-brand" href="https://www.gallup.com/home.aspx" id="ctl00_HeaderNavigation_GlobalNavigation_NavbarLogo" tabindex="0">
+<span class="c-link-inner-focus">
+<span class="fa-gallup-logo" id="ctl00_HeaderNavigation_GlobalNavigation_LogoIcon"></span>
+<span class="sr-only" id="ctl00_HeaderNavigation_GlobalNavigation_BrandText">Gallup</span>
+</span>
+</a>
+</div>
+<div class="navbar-collapse hidden-nav-sm hidden-nav-xs">
+<ul class="nav navbar-nav" id="ctl00_HeaderNavigation_GlobalNavigation_GlobalNavContainer">
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Workplace Advisory <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1"><div>Our Expertise</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/workplace/229424/employee-engagement.aspx" tabindex="0"><span class="c-link-inner-focus">Employee Engagement &amp; Experience</span></a></li>
+<li><a href="https://www.gallup.com/workplace/229832/culture.aspx" tabindex="0"><span class="c-link-inner-focus">Organizational Culture</span></a></li>
+<li><a href="https://www.gallup.com/workplace/216209/develop-managers-leaders.aspx" tabindex="0"><span class="c-link-inner-focus">Leadership Development</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2 c-global-nav__no-header"><div><span>2</span></div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/workplace/212033/attract-hire-top-talent.aspx" tabindex="0"><span class="c-link-inner-focus">Talent Identification &amp; Hiring</span></a></li>
+<li><a href="https://www.gallup.com/workplace/311870/customer-centricity.aspx" tabindex="0"><span class="c-link-inner-focus">Customer Centricity</span></a></li>
+<li><a href="https://www.gallup.com/workplace/215924/well-being.aspx" tabindex="0"><span class="c-link-inner-focus">Wellbeing</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3 c-global-nav__no-header"><div><span>3</span></div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253808/cliftonstrengths-for-organizations.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths for Organizations</span></a></li>
+<li><a href="https://www.gallup.com/workplace/650153/ai-adoption.aspx" tabindex="0"><span class="c-link-inner-focus">AI Adoption</span></a></li>
+<li><a href="https://www.gallup.com/workplace/650156/science-of-high-performing-teams.aspx" tabindex="0"><span class="c-link-inner-focus">Science of Teams</span></a></li>
+<li><a href="https://www.gallup.com/workplace/" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Our Platform</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/access/" tabindex="0"><span class="c-link-inner-focus">Gallup Access Platform</span></a></li>
+<li><a href="https://www.gallup.com/q12-employee-engagement-survey/" tabindex="0"><span class="c-link-inner-focus">Q12 Survey</span></a></li>
+<li><a href="https://www.gallup.com/access/239201/employee-surveys.aspx" tabindex="0"><span class="c-link-inner-focus">Employee Surveys</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1"><div>About CliftonStrengths</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253676/how-cliftonstrengths-works.aspx" tabindex="0"><span class="c-link-inner-focus">How Does CliftonStrengths Work?</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253715/34-cliftonstrengths-themes.aspx" tabindex="0"><span class="c-link-inner-focus">What Are the 34 Themes?</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253736/cliftonstrengths-domains.aspx" tabindex="0"><span class="c-link-inner-focus">What Are the 4 Domains?</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2"><div>Reports</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253868/popular-cliftonstrengths-assessment-products.aspx" tabindex="0"><span class="c-link-inner-focus">Find the Right Report</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/403127/cliftonstrengths-34-report.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths 34</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/512510/cliftonstrengths-top-5-report.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths Top 5</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/507353/cliftonstrengths-for-students-report.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths for Students</span></a></li>
+<li><a href="https://store.gallup.com/c/en-us/1/cliftonstrengths" tabindex="0"><span class="c-link-inner-focus">View All Reports</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3"><div>Coaching</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253958/become-coach.aspx" tabindex="0"><span class="c-link-inner-focus">How to Become a Coach</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253997/coaching-courses.aspx" tabindex="0"><span class="c-link-inner-focus">Courses for Coaches</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253976/find-coach.aspx" tabindex="0"><span class="c-link-inner-focus">Find a Coach</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Quick Links</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/cliftonstrengths/en/253937/strengths-articles-videos.aspx" tabindex="0"><span class="c-link-inner-focus">Articles, Videos &amp; More</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/348236/cliftonstrengths-newsletter.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths Insights Newsletter</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/388469/cliftonstrengths-podcast.aspx" tabindex="0"><span class="c-link-inner-focus">Podcast</span></a></li>
+<li><a href="https://www.gallup.com/leading-with-strengths" tabindex="0"><span class="c-link-inner-focus">Leading With Strengths</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Research &amp; Polling <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1"><div>How We Help Clients</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/analytics/656957/custom-survey-research.aspx" tabindex="0"><span class="c-link-inner-focus">Custom Survey Research</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318875/global-research.aspx" tabindex="0"><span class="c-link-inner-focus">Global Research</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318911/us-social-research.aspx" tabindex="0"><span class="c-link-inner-focus">U.S. Research</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318812/strategic-communications.aspx" tabindex="0"><span class="c-link-inner-focus">Strategic Communications</span></a></li>
+<li><a href="https://www.gallup.com/analytics/home.aspx" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2"><div>Our Research</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx" tabindex="0"><span class="c-link-inner-focus">State of the Global Workplace</span></a></li>
+<li><a href="https://www.gallup.com/analytics/349280/gallup-global-emotions-report.aspx" tabindex="0"><span class="c-link-inner-focus">Global Emotions</span></a></li>
+<li><a href="https://www.gallup.com/analytics/349487/world-happiness-report.aspx" tabindex="0"><span class="c-link-inner-focus">World Happiness</span></a></li>
+<li><a href="https://www.gallup.com/analytics/355787/gallup-rating-world-leaders-report.aspx" tabindex="0"><span class="c-link-inner-focus">Global Leadership</span></a></li>
+<li><a href="https://www.gallup.com/analytics/356996/gallup-law-and-order-research-center.aspx" tabindex="0"><span class="c-link-inner-focus">Global Safety</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318665/public-sector-reports.aspx" tabindex="0"><span class="c-link-inner-focus">Custom Research Partnerships</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3"><div>Products &amp; Insights</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/analytics/213617/gallup-analytics.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup Analytics Platform</span></a></li>
+<li><a href="https://www.gallup.com/analytics/647432/gallup-pulse.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup U.S. Pulse</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318923/world-poll-public-datasets.aspx" tabindex="0"><span class="c-link-inner-focus">Public Data Sets</span></a></li>
+<li><a href="https://www.gallup.com/394169/global-indicators.aspx" tabindex="0"><span class="c-link-inner-focus">Global Indicators</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Quick Links</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://news.gallup.com/home.aspx" tabindex="0"><span class="c-link-inner-focus">Latest News &amp; Articles</span></a></li>
+<li><a href="https://news.gallup.com/poll/trends.aspx" tabindex="0"><span class="c-link-inner-focus">Polling Trends A-Z</span></a></li>
+<li><a href="https://www.gallup.com/analytics/318176/public-sector-success-stories.aspx" tabindex="0"><span class="c-link-inner-focus">Our Research Impact</span></a></li>
+<li><a href="https://www.gallup.com/178685/methodology-center.aspx" tabindex="0"><span class="c-link-inner-focus">Our Methodologies</span></a></li>
+<li><a href="https://www.gallup.com/analytics/647639/federal-government-solutions.aspx" tabindex="0"><span class="c-link-inner-focus">Federal Government Solutions</span></a></li>
+<li><a href="https://www.gallup.com/education/" tabindex="0"><span class="c-link-inner-focus">Education Solutions</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Courses &amp; Events <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1"><div>Courses</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/learning/310019/accelerated-strengths-coaching.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup Global Strengths Coach</span></a></li>
+<li><a href="https://www.gallup.com/learning/346556/manager-development-course.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup Manager Program</span></a></li>
+<li><a href="https://www.gallup.com/learning/309926/engaging-workplace-champions.aspx" tabindex="0"><span class="c-link-inner-focus">Engagement Champions</span></a></li>
+<li><a href="https://www.gallup.com/learning/310088/view-all-courses.aspx" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2"><div>Learning by Role</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/learning/309989/learning-for-leadership-and-management-development.aspx" tabindex="0"><span class="c-link-inner-focus">Leaders &amp; Managers</span></a></li>
+<li><a href="https://www.gallup.com/learning/310535/hr-learning-and-development.aspx" tabindex="0"><span class="c-link-inner-focus">HR Professionals</span></a></li>
+<li><a href="https://www.gallup.com/learning/310532/development-programs-for-coaches.aspx" tabindex="0"><span class="c-link-inner-focus">Coaches</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3"><div>Certification &amp; Credits</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/learning/309920/strengths-certification.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup-Certified Strengths Coach</span></a></li>
+<li><a href="https://www.gallup.com/learning/309914/professional-credit.aspx" tabindex="0"><span class="c-link-inner-focus">Professional Credit Hours</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Quick Links</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/learning/321824/events.aspx" tabindex="0"><span class="c-link-inner-focus">Webinars &amp; Events</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">News &amp; Insights <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li class="c-global-nav__column-1 c-global-nav__no-header"><div><span class="hidden">1</span></div>
+<ul class="dropdown-menu__list">
+<li class="c-global-nav__link-block"><a href="https://news.gallup.com/home.aspx" tabindex="0"><span class="c-link-inner-focus"><span class="u-block u-padding--btm-5 u-text--bold">Gallup News</span>
+<span class="u-block">Key findings and trends from 90+ years of public opinion polling.</span></span></a></li>
+<li class="c-global-nav__link-block"><a href="https://www.gallup.com/workplace/insights.aspx" tabindex="0"><span class="c-link-inner-focus"><span class="u-block u-padding--btm-5 u-text--bold">Workplace Insights</span>
+<span class="u-block">Our latest analytics and advice on the key issues facing leaders.</span></span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-2"><div>Global Indicators</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/394373/indicator-employee-engagement.aspx" tabindex="0"><span class="c-link-inner-focus">Employee Engagement</span></a></li>
+<li><a href="https://www.gallup.com/467702/indicator-employee-retention-attraction.aspx" tabindex="0"><span class="c-link-inner-focus">Employee Retention &amp; Attraction</span></a></li>
+<li><a href="https://www.gallup.com/404252/indicator-leadership-management.aspx" tabindex="0"><span class="c-link-inner-focus">Leadership &amp; Management</span></a></li>
+<li><a href="https://www.gallup.com/394505/indicator-life-evaluation-index.aspx" tabindex="0"><span class="c-link-inner-focus">Life Evaluation Index</span></a></li>
+<li><a href="https://www.gallup.com/394169/global-indicators.aspx" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__column-3"><div>Newsletters</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://news.gallup.com/393302/front-page-newsletter-subscribe.aspx" tabindex="0"><span class="c-link-inner-focus">Front Page</span></a></li>
+<li><a href="https://www.gallup.com/cliftonstrengths/en/348236/cliftonstrengths-newsletter.aspx" tabindex="0"><span class="c-link-inner-focus">CliftonStrengths Insights</span></a></li>
+<li><a href="https://www.gallup.com/subscribe.aspx" tabindex="0"><span class="c-link-inner-focus">View More</span></a></li>
+</ul>
+</li>
+<li class="c-global-nav__content-block c-global-nav__featured-header"><div>Quick Links</div>
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/corporate/470660/reports-perspective-papers.aspx" tabindex="0"><span class="c-link-inner-focus">Latest Reports &amp; Perspectives</span></a></li>
+<li><a href="https://news.gallup.com/poll/trends.aspx" tabindex="0"><span class="c-link-inner-focus">Polling Trends A-Z</span></a></li>
+</ul>
+</li>
+</ul></div>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li><a href="https://store.gallup.com" tabindex="0"><span class="c-link-inner-focus">Shop</span></a></li>
+</ul>
+</div>
+<div class="navbar-header navbar-right c-global-nav__search" id="ctl00_HeaderNavigation_GlobalNavigation_NavbarSearch">
+<ul class="nav navbar-nav navbar-right">
+<li class="navbar-search">
+<a data-search-toggle="" href="/Search/Default.aspx" tabindex="0">
+<span class="c-link-inner-focus">
+<span class="fa-solid fa-icon-magnifying-glass"></span>
+<span class="sr-only">Search</span>
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<nav aria-label="Site Navigation" class="navbar navbar-default navbar-sticky c-header-nav" id="ctl00_HeaderNavigation_Navbar">
+<div class="container">
+<div class="navbar-header">
+<a class="navbar-brand" href="/home.aspx" id="ctl00_HeaderNavigation_NavbarLogo" tabindex="0">
+<span class="c-link-inner-focus">
+<img alt="News" id="ctl00_HeaderNavigation_LogoImage" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2My4zOSAzMCIgd2lkdGg9IjYzIiBoZWlnaHQ9IjMwIj4NCiAgPHRpdGxlPk5ld3M8L3RpdGxlPg0KICA8ZyBmaWxsPSIjZmZmIj4NCiAgICA8cGF0aCBkPSJNLjIuMTNIMmwxMC44LDE2LjY4Vi4xM0gxNC40VjE5LjRIMTIuNjJMMS43OSwyLjY2VjE5LjRILjJaIi8+DQogICAgPHBhdGggZD0iTTMwLjEyLDE1Ljc2YTQuNzUsNC43NSwwLDAsMS0xLjczLDIuOTQsNi4yMSw2LjIxLDAsMCwxLTQsMS4xNCw1LjgyLDUuODIsMCwwLDEtNC42NS0xLjkzLDcuODcsNy44NywwLDAsMS0xLjY2LTUuMzEsMTAuMDUsMTAuMDUsMCwwLDEsLjQ3LTMuMjRBNi42OCw2LjY4LDAsMCwxLDE5Ljg3LDdhNS41OSw1LjU5LDAsMCwxLDItMS40NSw2LjQ3LDYuNDcsMCwwLDEsMi41Mi0uNDgsNi41Nyw2LjU3LDAsMCwxLDIuNzYuNTJBNS4wOSw1LjA5LDAsMCwxLDI5LDdhNiw2LDAsMCwxLDEsMi4xNSwxMC44NSwxMC44NSwwLDAsMSwuMzIsMi42N3YxSDE5LjY3YTgsOCwwLDAsMCwuMywyLjIzLDUuMTEsNS4xMSwwLDAsMCwuODksMS44MSw0LjE2LDQuMTYsMCwwLDAsMS40OCwxLjIxLDQuNTEsNC41MSwwLDAsMCwyLjA1LjQ1LDcsNywwLDAsMCwxLjc5LS4yLDMuNTksMy41OSwwLDAsMCwxLjIxLS41OCwzLjA2LDMuMDYsMCwwLDAsLjc3LS44OCw0LjY4LDQuNjgsMCwwLDAsLjQ1LTEuMTJabS0xLjM4LTQuMjdhOC41NCw4LjU0LDAsMCwwLS4yNC0yLjA4LDQuNjMsNC42MywwLDAsMC0uNzYtMS42MywzLjQyLDMuNDIsMCwwLDAtMS4zNS0xLjA3LDQuODYsNC44NiwwLDAsMC0yLS4zNyw0LjI2LDQuMjYsMCwwLDAtMy4yNCwxLjI3LDYuMjksNi4yOSwwLDAsMC0xLjQ1LDMuODhaIi8+DQogICAgPHBhdGggZD0iTTMxLjcxLDUuNWgxLjczbDMuMjQsMTIuMTVMNDAuMjIsNS41OGgxLjgzbDMuNDYsMTIuMDdMNDguNzUsNS41aDEuNjdMNDYuMzQsMTkuNEg0NC41M0w0MS4wNSw3LjI1LDM3LjU0LDE5LjRIMzUuNzNaIi8+DQogICAgPHBhdGggZD0iTTUzLjM5LDE1LjU0YTMuMjQsMy4yNCwwLDAsMCwxLjM4LDIuMyw1LjgyLDUuODIsMCwwLDAsMy4wOC42Nyw0LjI4LDQuMjgsMCwwLDAsMi44Ni0uNzUsMi40NSwyLjQ1LDAsMCwwLC44NC0xLjg5LDMuNzIsMy43MiwwLDAsMC0uMTEtLjkxLDIsMiwwLDAsMC0uNDItLjc3LDIuNTEsMi41MSwwLDAsMC0uODktLjU5LDcuNTQsNy41NCwwLDAsMC0xLjUtLjQxbC0xLjctLjI3YTE1LjEzLDE1LjEzLDAsMCwxLTItLjQ1LDQuODYsNC44NiwwLDAsMS0xLjQ4LS43MiwyLjg5LDIuODksMCwwLDEtLjkyLTEuMTFBMy43NiwzLjc2LDAsMCwxLDUyLjIzLDlhMy40LDMuNCwwLDAsMSwuNDEtMS42NiwzLjU0LDMuNTQsMCwwLDEsMS4xLTEuMjQsNS4xOSw1LjE5LDAsMCwxLDEuNjYtLjc3LDcuNjIsNy42MiwwLDAsMSwyLjA3LS4yNyw4LjU2LDguNTYsMCwwLDEsMi4zOS4yOCw0LjU1LDQuNTUsMCwwLDEsMS41Ni43NywzLjUyLDMuNTIsMCwwLDEsLjk1LDEuMTMsNy40Miw3LjQyLDAsMCwxLC41MywxLjM4bC0xLjQ0LjNBNS4yNSw1LjI1LDAsMCwwLDYxLDcuODRhMi40NSwyLjQ1LDAsMCwwLS43MS0uNzksMy4xNSwzLjE1LDAsMCwwLTEuMDgtLjQ3LDguMjksOC4yOSwwLDAsMC0zLjQzLDAsMy4zNSwzLjM1LDAsMCwwLTEuMTcuNTUsMi4xMSwyLjExLDAsMCwwLS42NC44MSwyLjQxLDIuNDEsMCwwLDAtLjE5Ljk1LDMuNDIsMy40MiwwLDAsMCwuMTEuODgsMS40MSwxLjQxLDAsMCwwLC40My42OCwyLjg3LDIuODcsMCwwLDAsLjkxLjUyLDksOSwwLDAsMCwxLjUyLjM4bDIuMTMuMzVhNi43MSw2LjcxLDAsMCwxLDMuMjcsMS4zMSwzLjU1LDMuNTUsMCwwLDEsMS4wOCwyLjg0LDMuNTMsMy41MywwLDAsMS0uMzQsMS41NCwzLjM1LDMuMzUsMCwwLDEtMSwxLjI2LDUuMjMsNS4yMywwLDAsMS0xLjY3Ljg0LDcuOTMsNy45MywwLDAsMS0yLjI5LjMxLDEwLjEyLDEwLjEyLDAsMCwxLTIuMzQtLjI1LDUuNTYsNS41NiwwLDAsMS0xLjg0LS43NSwzLjk0LDMuOTQsMCwwLDEtMS4yNy0xLjMzLDQuNDgsNC40OCwwLDAsMS0uNi0yWiIvPg0KICA8L2c+DQo8L3N2Zz4NCg=="/>
+</span>
+</a>
+<button class="navbar-toggle navbar-toggle-arrow collapsed" data-duration="0" data-target="#navbar-header-collapse" data-toggle="collapse" id="ctl00_HeaderNavigation_NavbarToggle" tabindex="0">
+<span class="c-link-inner-focus">
+<span class="sr-only">Toggle navigation</span>
+</span>
+</button>
+</div>
+<div aria-expanded="false" class="collapse navbar-collapse" id="navbar-header-collapse" role="navigation">
+<ul class="nav navbar-nav" data-label="More" data-overflownav="" data-srlabel="More navigation items" id="ctl00_HeaderNavigation_OverflowNav">
+<li class="visible-xs visible-sm"><a href="/home.aspx" tabindex="0"><span class="c-link-inner-focus">Overview</span></a></li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Politics <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li><a href="/610757/2024-presidential-election-center.aspx" tabindex="0"><span class="c-link-inner-focus">Election 2024</span></a></li>
+<li><a href="/interactives/185273/presidential-job-approval-center.aspx" tabindex="0"><span class="c-link-inner-focus">Presidential Job Approval</span></a></li>
+<li><a href="/topic/the_presidency.aspx" tabindex="0"><span class="c-link-inner-focus">The Presidency</span></a></li>
+<li><a href="/topic/government.aspx" tabindex="0"><span class="c-link-inner-focus">Government</span></a></li>
+<li><a href="/topic/foreign_affairs.aspx" tabindex="0"><span class="c-link-inner-focus">Foreign Affairs</span></a></li>
+<li><a href="/topic/politics.aspx" tabindex="0"><span class="c-link-inner-focus">View All Politics</span></a></li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Economy <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li><a href="/topic/business.aspx" tabindex="0"><span class="c-link-inner-focus">Business</span></a></li>
+<li><a href="/topic/category_entrepreneurship.aspx" tabindex="0"><span class="c-link-inner-focus">Entrepreneurship</span></a></li>
+<li><a href="/topic/personal_finance.aspx" tabindex="0"><span class="c-link-inner-focus">Personal Finance</span></a></li>
+<li><a href="/topic/retirement.aspx" tabindex="0"><span class="c-link-inner-focus">Retirement</span></a></li>
+<li><a href="/topic/small_business.aspx" tabindex="0"><span class="c-link-inner-focus">Small Business</span></a></li>
+<li><a href="/topic/economy.aspx" tabindex="0"><span class="c-link-inner-focus">View All Economy</span></a></li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="/topic/world_region_worldwide.aspx" role="button" tabindex="0"><span class="c-link-inner-focus">World <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li><a href="/topic/americas.aspx" tabindex="0"><span class="c-link-inner-focus">Americas</span></a></li>
+<li><a href="/topic/asia_pacific.aspx" tabindex="0"><span class="c-link-inner-focus">Asia Pacific</span></a></li>
+<li><a href="/topic/europe.aspx" tabindex="0"><span class="c-link-inner-focus">Europe</span></a></li>
+<li><a href="/topic/world_region_middle_east_north_africa.aspx" tabindex="0"><span class="c-link-inner-focus">Middle East &amp; North Africa</span></a></li>
+<li><a href="/topic/sub_saharan_africa.aspx" tabindex="0"><span class="c-link-inner-focus">Sub-Saharan Africa</span></a></li>
+<li><a href="/topic/world_region_worldwide.aspx" tabindex="0"><span class="c-link-inner-focus">View All World</span></a></li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Key Topics <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li><a href="/poll/trends.aspx" tabindex="0"><span class="c-link-inner-focus">All Trends</span></a></li>
+<li><a href="/topic/abortion.aspx" tabindex="0"><span class="c-link-inner-focus">Abortion</span></a></li>
+<li><a href="/topic/category-drugs-and-alcohol.aspx" tabindex="0"><span class="c-link-inner-focus">Alcohol &amp; Drugs</span></a></li>
+<li><a href="/topic/category_education.aspx" tabindex="0"><span class="c-link-inner-focus">Education</span></a></li>
+<li><a href="/topic/guns.aspx" tabindex="0"><span class="c-link-inner-focus">Guns</span></a></li>
+<li><a href="/topic/immigration.aspx" tabindex="0"><span class="c-link-inner-focus">Immigration</span></a></li>
+<li><a href="/topic/lgbt.aspx" tabindex="0"><span class="c-link-inner-focus">LGBTQ+</span></a></li>
+<li><a href="/topic/race_relations.aspx" tabindex="0"><span class="c-link-inner-focus">Race Relations</span></a></li>
+<li><a href="/topic/religion.aspx" tabindex="0"><span class="c-link-inner-focus">Religion</span></a></li>
+<li><a href="/topic/category_wellbeing.aspx" tabindex="0"><span class="c-link-inner-focus">Wellbeing</span></a></li>
+<li><a href="/649667/women-gender-issues.aspx" tabindex="0"><span class="c-link-inner-focus">Women &amp; Gender</span></a></li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Blogs &amp; Opinion <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li><a href="/topic/blog_pm.aspx" tabindex="0"><span class="c-link-inner-focus">Polling Matters</span></a></li>
+<li><a href="/topic/blog_tgb.aspx" tabindex="0"><span class="c-link-inner-focus">The Gallup Blog</span></a></li>
+<li><a href="/topic/blog_tcb.aspx" tabindex="0"><span class="c-link-inner-focus">Chairman's Blog</span></a></li>
+<li><a href="/topic/vault.aspx" tabindex="0"><span class="c-link-inner-focus">Gallup Vault</span></a></li>
+<li><a href="/topic/methodologyblog.aspx" tabindex="0"><span class="c-link-inner-focus">Methodology Blog</span></a></li>
+</ul></div>
+</li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" tabindex="0"><span class="c-link-inner-focus">Media Resources <span class="caret"></span></span></a>
+<div class="dropdown-menu"><ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/corporate/468077/media-center.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">Media Center</span></a></li>
+<li><a href="https://www.gallup.com/corporate/216134/media-inquiries.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">Media Inquiries</span></a></li>
+<li><a href="https://www.gallup.com/178685/methodology-center.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">Methodology Center</span></a></li>
+<li><a href="/315575/measuring-black-voices.aspx" tabindex="0"><span class="c-link-inner-focus">Center on Black Voices</span></a></li>
+<li><a href="https://www.gallup.com/corporate/470660/reports-perspective-papers.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">Gallup Reports</span></a></li>
+</ul></div>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li class="btn-wrapper btn-primary-wrapper"><a href="https://www.gallup.com/subscribe.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">Subscribe</span></a></li>
+<li class="visible-xs visible-sm"><a href="https://www.gallup.com/corporate/212381/who-we-are.aspx" rel="noopener" tabindex="0"><span class="c-link-inner-focus">About Gallup and Our Services</span></a></li>
+<li class="visible-xs visible-sm"><a href="//my.gallup.com" tabindex="0"><span class="c-link-inner-focus">Access Log In</span></a></li>
+</ul>
+</div>
+</div>
+</nav>
+</header>
+<div class="container">
+<div class="content-main">
+<main class="main sa-release sp--poll type-feature" id="main">
+<div class="article--wrapper" data-template="shared-release">
+<div class="c-progress-header">
+<div class="c-progress-header__inner">
+<div class="section-flex--meta">
+<div class="topic">Politics</div>
+<span>Trump's Inaugural Approval Rating Is Historically Low Again</span>
+</div>
+<div class="section-flex--share">
+<ul class="nav">
+<li class="social-icon iconlinkedin"><a href="//www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fnews.gallup.com%2Fpoll%2F655955%2Ftrump-inaugural-approval-rating-historically-low-again.aspx%3Futm_source%3Dlinkedinbutton%26utm_medium%3Dlinkedin%26utm_campaign%3Dsharing&amp;title=Trump's%20Inaugural%20Approval%20Rating%20Is%20Historically%20Low%20Again&amp;summary=Trump's%20initial%20job%20approval%20rating%20is%20similar%20to%20what%20it%20was%20at%20the%20start%20of%20his%20first%20term%2C%20reaffirming%20his%20position%20as%20the%20lowest-rated%20new%20president%20since%201953.&amp;source=https%3A%2F%2Fnews.gallup.com%2F" rel="noopener" target="_blank"><span class="sr-only">Share on LinkedIn</span></a></li>
+<li class="social-icon icontwitter"><a href="//twitter.com/share?url=https%3A%2F%2Fnews.gallup.com%2Fpoll%2F655955%2Ftrump-inaugural-approval-rating-historically-low-again.aspx%3Futm_source%3Dtwitterbutton%26utm_medium%3Dtwitter%26utm_campaign%3Dsharing&amp;text=Trump's%20Inaugural%20Approval%20Rating%20Is%20Historically%20Low%20Again&amp;hashtags=" rel="noopener" target="_blank"><span class="sr-only">Share on Twitter</span></a></li>
+<li class="social-icon iconfacebook"><a href="//www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnews.gallup.com%2Fpoll%2F655955%2Ftrump-inaugural-approval-rating-historically-low-again.aspx%3Futm_source%3Dfacebookbutton%26utm_medium%3Dfacebook%26utm_campaign%3Dsharing&amp;t=Trump's%20Inaugural%20Approval%20Rating%20Is%20Historically%20Low%20Again" rel="noopener" target="_blank"><span class="sr-only">Share on Facebook</span></a></li>
+<li class="social-icon iconemail"><a href="mailto:?subject=Gallup:%20Trump's%20Inaugural%20Approval%20Rating%20Is%20Historically%20Low%20Again&amp;body=https%3A%2F%2Fnews.gallup.com%2Fpoll%2F655955%2Ftrump-inaugural-approval-rating-historically-low-again.aspx"><span class="sr-only">Share via Email</span></a></li>
+<li class="social-icon iconprint"><a href="?version=print"><span class="sr-only">Print</span></a></li>
+</ul>
+</div>
+</div>
+<div class="c-progress-bar__wrapper">
+<div class="c-progress-bar">
+</div>
+</div>
+</div>
+<article class="o-article" data-itemid="POLL-655955" data-releaseid="655955">
+<div class="o-article__inner">
+<header class="header-article">
+<div class="section-flex--share">
+<ul class="nav">
+<li class="social-icon iconlinkedin"><a href="//www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fnews.gallup.com%2Fpoll%2F655955%2Ftrump-inaugural-approval-rating-historically-low-again.aspx%3Futm_source%3Dlinkedinbutton%26utm_medium%3Dlinkedin%26utm_campaign%3Dsharing&amp;title=Trump's%20Inaugural%20Approval%20Rating%20Is%20Historically%20Low%20Again&amp;summary=Trump's%20initial%20job%20approval%20rating%20is%20similar%20to%20what%20it%20was%20at%20the%20start%20of%20his%20first%20term%2C%20reaffirming%20his%20position%20as%20the%20lowest-rated%20new%20president%20since%201953.&amp;source=https%3A%2F%2Fnews.gallup.com%2F" rel="noopener" target="_blank"><span class="sr-only">Share on LinkedIn</span></a></li>
+<li class="social-icon icontwitter"><a href="//twitter.com/share?url=https%3A%2F%2Fnews.gallup.com%2Fpoll%2F655955%2Ftrump-inaugural-approval-rating-historically-low-again.aspx%3Futm_source%3Dtwitterbutton%26utm_medium%3Dtwitter%26utm_campaign%3Dsharing&amp;text=Trump's%20Inaugural%20Approval%20Rating%20Is%20Historically%20Low%20Again&amp;hashtags=" rel="noopener" target="_blank"><span class="sr-only">Share on Twitter</span></a></li>
+<li class="social-icon iconfacebook"><a href="//www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnews.gallup.com%2Fpoll%2F655955%2Ftrump-inaugural-approval-rating-historically-low-again.aspx%3Futm_source%3Dfacebookbutton%26utm_medium%3Dfacebook%26utm_campaign%3Dsharing&amp;t=Trump's%20Inaugural%20Approval%20Rating%20Is%20Historically%20Low%20Again" rel="noopener" target="_blank"><span class="sr-only">Share on Facebook</span></a></li>
+<li class="social-icon iconemail"><a href="mailto:?subject=Gallup:%20Trump's%20Inaugural%20Approval%20Rating%20Is%20Historically%20Low%20Again&amp;body=https%3A%2F%2Fnews.gallup.com%2Fpoll%2F655955%2Ftrump-inaugural-approval-rating-historically-low-again.aspx"><span class="sr-only">Share via Email</span></a></li>
+<li class="social-icon iconprint"><a href="?version=print"><span class="sr-only">Print</span></a></li>
+</ul>
+</div>
+<div class="section-flex--meta">
+<div class="topic">Politics</div>
+<time datetime="2025-01-29">January 29, 2025</time>
+</div>
+<div class="o-article__header-group">
+<h1>Trump's Inaugural Approval Rating Is Historically Low Again</h1>
+<p class="o-article__tagline">Americans divided over whether Trump's pace in addressing major U.S. problems is about right or too fast</p>
+<div class="image o-image--bleed"><img alt="" class="img-responsive b-lazy" data-sizes="(max-width: 740px) calc(100vw - 40px), 700px" data-src="https://imagekit.gallup.com/fusion/tr:n-emd_art_heroimg_md/POLL/beb4bf6f-ae01-4cce-8538-7b6d57d8ed3d.jpg" data-srcset="https://imagekit.gallup.com/fusion/tr:n-emd_art_heroimg_sm/POLL/beb4bf6f-ae01-4cce-8538-7b6d57d8ed3d.jpg 375w, https://imagekit.gallup.com/fusion/tr:n-emd_art_heroimg_md/POLL/beb4bf6f-ae01-4cce-8538-7b6d57d8ed3d.jpg 700w, https://imagekit.gallup.com/fusion/tr:n-emd_art_heroimg_md/POLL/beb4bf6f-ae01-4cce-8538-7b6d57d8ed3d.jpg 1024w, https://imagekit.gallup.com/fusion/tr:n-emd_art_heroimg_lg/POLL/beb4bf6f-ae01-4cce-8538-7b6d57d8ed3d.jpg 1400w" height="1040" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="1840"/></div>
+<div class="authorDisplayLine1">by <a href="//www.gallup.com/people/item.aspx?a=215603">Megan Brenan</a></div>
+</div>
+</header>
+<div class="article-content">
+<p style="margin-bottom:12.0pt">WASHINGTON, D.C. -- At 47%, President Donald Trump's initial job approval rating for his second term is similar to the <a href="https://news.gallup.com/poll/202811/trump-sets-new-low-point-inaugural-approval-rating.aspx">inaugural 45% reading</a> during his first term, again placing him below all other elected presidents dating back to 1953. Trump remains the only elected president with sub-50% initial approval ratings, and his latest disapproval rating (48%) is three percentage points higher than in 2017, marking a new high for inaugural ratings.</p>
+<div data-embeddable-marker="">###Embeddable###</div>
+<p style="margin-bottom:12.0pt">Trump’s current job approval rating, from Gallup’s Jan. 21-27 poll, is not significantly different from the 51% readings earned by George H.W. Bush and Ronald Reagan in the early days of their presidencies. However, initial evaluations of Trump differ in that Americans are much more likely to disapprove of his performance rather than have no opinion, as was the case for the elder Bush and Reagan.</p>
+<p style="margin-bottom:12.0pt"><span style="background:#FAFAFA">John Kennedy had the highest inaugural approval rating, at 72%, followed closely by Dwight Eisenhower and Barack Obama, who both had strong starts with 68% readings. Jimmy Carter received a 66% approval rating, while Richard Nixon, Bill Clinton, Joe Biden and George W. Bush had ratings between 57% and 59%.</span></p>
+<p style="margin-bottom:12.0pt">Although Trump’s latest rating is weak compared with past presidents’ initial readings, it is among the best he has received as president. His personal high point <a href="https://news.gallup.com/poll/203198/presidential-approval-ratings-donald-trump.aspx">during his first term</a> was 49%, which he earned on several occasions in 2020.</p>
+<p style="margin-bottom:12.0pt">Trump averaged 41% approval in his first term and is the only president not to receive a job rating of 50% or higher at any point in his presidency. He left office in January 2021 with the <a href="https://news.gallup.com/poll/328637/last-trump-job-approval-average-record-low.aspx">lowest rating of his presidency</a>, 34%, after the Jan. 6 attack on the U.S. Capitol.</p>
+<h2 style="margin-bottom: 12pt;"><strong>Trump’s Approval Rating Remains Politically Polarized</strong></h2>
+<p style="margin-bottom:12.0pt">As was the case during his first term, Trump’s current job rating is sharply polarized, with 91% of Republicans approving, compared with just 6% of Democrats and 46% of independents. This 85-point gap between Republicans and Democrats is similar to the average 81-point gap throughout his first term. It is also close to Biden’s 87-point gap at the beginning of his term in 2021.</p>
+<p style="margin-bottom:12.0pt">At the start of Trump’s first term, partisans’ approval ratings were separated by 76 points (90% of Republicans vs. 14% of Democrats) -- whereas prior to that, the gaps in partisans’ initial approval ratings of new presidents ranged from 24 to 56 points.</p>
+<div data-embeddable-marker="">###Embeddable###</div>
+<h2 style="margin-bottom: 12pt;"><strong>Americans Split Over Trump’s Speed in Addressing Major U.S. Problems</strong></h2>
+<p style="margin-bottom:12.0pt">Trump began his second presidential term by signing a record number of executive actions targeting a wide range of policy areas, including immigration, defense and the military, foreign policy, the environment, and government efficiency. The poll was completed before the Trump administration initiated a pause on trillions of dollars of grants, loans and other federal financial assistance, which was later temporarily blocked by a federal judge and then rescinded by Trump.</p>
+<p style="margin-bottom:12.0pt">At the time of the poll, Americans were divided in their views of Trump’s pace in addressing the major problems facing the country today, with 40% saying it is “about right,” 37% saying it is “too fast” and 14% saying it is “not fast enough.”</p>
+<p style="margin-bottom:12.0pt">The broad majority of Republicans (83%) think his pace is about right, while 61% of Democrats think he is moving too fast. Independents’ views are similar to the national average.</p>
+<div data-embeddable-marker="">###Embeddable###</div>
+<p style="margin-bottom:12.0pt">Although Trump has signed more executive actions this year than he did in the first 100 days of his first term, Americans were more inclined <a href="https://news.gallup.com/poll/203264/half-americans-say-trump-moving-fast.aspx">in 2017</a> than they are now to say he was moving too fast (47%). Republicans are now seven points more likely than they were in 2017 to say Trump’s actions are about right. Democrats are now less likely to say Trump is moving too fast (-12 points) and more likely to think he is not moving fast enough (+11 points).</p>
+<p style="margin-bottom:12.0pt">Gallup asked this question about just one other president’s pace -- Obama in 2009. At that time, a majority of Americans, 63%, said it was about right. The rest were more likely to say Obama was acting too fast (22%) than not fast enough (10%).</p>
+<h2 style="margin-bottom: 12pt;"><strong>Bottom Line</strong></h2>
+<p style="margin-bottom:12.0pt">Most presidents have experienced a “honeymoon period,” with strong job approval ratings in the initial months of their presidencies that then fade as time passes. Trump did not enjoy such a traditional honeymoon period in his first term, as the 45% of Americans who expressed approval of him in the initial reading in 2017 was not much higher than his 41% term average. Initial approval ratings for all elected presidents since Eisenhower, not including Trump, averaged 61%.</p>
+<p style="margin-bottom:12.0pt">Trump is starting his second term just like the first, with Americans evenly divided over how well he is doing his job. Slightly more now have an opinion one way or the other -- but his current 47% approval rating is still lower than initial readings for all other modern presidents, aside from his first rating in 2017.</p>
+<p style="margin-bottom:12.0pt">Trump’s fellow Republicans overwhelmingly approve of the job he is doing so far and think his speed in addressing major problems in the U.S. has been about right. His support from Republicans and independents is slightly higher than what it was in 2017, while Democrats’ support is even lower.</p>
+<p style="margin-bottom:12.0pt">While there is no single way to define a presidential honeymoon, Trump’s approval ratings in the coming months will test one common standard -- if his ratings go down for a sustained period, his initial ratings will look elevated by comparison. Presidential honeymoons are often defined retrospectively in this way.</p>
+<p><em>To stay up to date with the latest Gallup News insights and updates,</em> <em>follow us on X <a href="https://x.com/gallup?utm_source=link_newsv9&amp;utm_campaign=item_655955&amp;utm_medium=copy">@Gallup</a>.</em></p>
+<p style="margin-bottom:12.0pt"><em>Explore President Trump’s approval ratings and compare them with those of past presidents in the</em> <a href="https://news.gallup.com/interactives/507569/presidential-job-approval-center.aspx"><em>Gallup Presidential Job Approval Center</em></a><em>.</em></p>
+<p><em>Learn more about how the <a href="https://www.gallup.com/201200/gallup-poll-social-series-work.aspx">Gallup Poll Social Series</a> works.</em></p>
+<p style="margin-top:0in; margin-right:0in; margin-bottom:12.0pt; margin-left:0in"><a href="https://news.gallup.com/file/poll/656672/2025_01_29_Trump%20Approval%20Topline.pdf"><em>View complete question responses and trends (PDF download).</em></a></p>
+<div data-embeddable-marker="">###Embeddable###</div>
+</div>
+<section class="section--default section-default section-rel--methodology" role="complementary">
+<div class="c-methodology">
+<a aria-controls="methodology-655955" aria-expanded="false" class="c-methodology__collapse-toggle" data-toggle="collapse" href="#methodology-655955" id="ctl00_MainContent_ctl00_ctl03_methodologyLink" role="button">
+<div class="c-methodology__title"><h2>Survey Methods</h2></div>
+</a>
+<div class="c-methodology__body collapse" id="methodology-655955">
+<div class="c-methodology__body-text"><p>Results for this Gallup poll are based on telephone interviews conducted by ReconMR Jan. 21-27, 2025, with a random sample of 1,001 adults, aged 18 and older, living in all 50 U.S. states and the District of Columbia. For results based on the total sample of national adults, the margin of sampling error is ±4 percentage points at the 95% confidence level. All reported margins of sampling error include computed design effects for weighting.<p>
+<p>Each sample of national adults includes a minimum quota of 80% cellphone respondents and 20% landline respondents, with additional minimum quotas by time zone within region. Landline and cellular telephone numbers are selected using random-digit-dial methods. <p>
+<p>In addition to sampling error, question wording and practical difficulties in conducting surveys can introduce error or bias into the findings of public opinion polls.<p></p></p></p></p></p></p></div>
+</div>
+</div>
+</section>
+<section class="section--default section-default section-rel-embeddable" data-embeddable="" role="complementary">
+<div class="c-datawrapper chart-container">
+<iframe class="b-lazy" data-src="
+https://datawrapper.dwcdn.net/LfWrK/6/
+" referrerpolicy="no-referrer" sandbox="allow-scripts allow-downloads" scrolling="no" title="
+Initial Job Approval Ratings of Elected U.S. Presidents, 1953-2025
+"></iframe>
+</div>
+<div class="c-datawrapper chart-container">
+<iframe class="b-lazy" data-src="
+https://datawrapper.dwcdn.net/9Jg4M/3/
+" referrerpolicy="no-referrer" sandbox="allow-scripts allow-downloads" scrolling="no" title="
+Partisans' Initial Job Approval Ratings of Elected U.S. Presidents, 1953-2025
+"></iframe>
+</div>
+<div class="c-datawrapper chart-container">
+<iframe class="b-lazy" data-src="
+https://datawrapper.dwcdn.net/Js6rL/4/
+" referrerpolicy="no-referrer" sandbox="allow-scripts allow-downloads" scrolling="no" title="
+Americans' Views of Trump's Speed at Addressing Major Problems
+"></iframe>
+</div>
+<div class="c-quick-subscribe--skinny">
+<div class="c-quick-subscribe c-item__inner">
+<div class="c-quick-subscribe__bg-image" id="ctl00_MainContent_ctl00_ctl07_BackgroundImage"></div>
+<form action="./trump-inaugural-approval-rating-historically-low-again.aspx" class="c-quick-subscribe__form" id="aspnetForm" method="post" novalidate="" onsubmit="javascript:return WebForm_OnSubmit();">
+<div class="aspNetHidden">
+<input id="__EVENTTARGET" name="__EVENTTARGET" type="hidden" value=""/>
+<input id="__EVENTARGUMENT" name="__EVENTARGUMENT" type="hidden" value=""/>
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="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"/>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+<script src="/WebResource.axd?d=cJU-eYAMQtRwbjOcgxqJkSK4ftFh5naieMPeAS5Djv-PeE_haUlKWtBPIUZnH8uEviUOefbNZjRFx-O0XXJN0ljf3Oh3TzE_TAv9xCGTTaPhIVmyyjsV_1N1JF07DTPePWVeSc8L0BoD4y3-aq7wfA2&amp;t=638901526312636832" type="text/javascript"></script>
+<script src="/WebResource.axd?d=MW0YHm2SKxCx5-ePm6a2EMQV2z1vwe5ErH4ufFVveJzDpF2hbKGuJNBdthruVk-iBnCb1T1T_2tTvg7W-x0vCsiSyRSWOBn6OqMZixHOtHXdRb4U4fT-6s9Ps0RXZYvFtcsXP18s6CHQ7FENua-KjtvqeCdjH5qH5xbP96oed3g1&amp;t=638901526312636832" type="text/javascript"></script>
+<script src="/WebResource.axd?d=ResuGRmpYmmUlWblqI2jmlsoH_NRNgyJdhCyydRX_P9BPoYKkKBHYatDV2b_7mgDFAfIKqcCkMLmiHvelLOTXy_j_HYBuv7vRhZeKco1dG-8zyusInQdSi47mVMa79jKOBZo1wK5X1kePAvrZYOStA2&amp;t=638901526312636832" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+<div class="aspNetHidden">
+<input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="E6F47B54"/>
+<input id="__SCROLLPOSITIONX" name="__SCROLLPOSITIONX" type="hidden" value="0"/>
+<input id="__SCROLLPOSITIONY" name="__SCROLLPOSITIONY" type="hidden" value="0"/>
+<input id="__VIEWSTATEENCRYPTED" name="__VIEWSTATEENCRYPTED" type="hidden" value=""/>
+</div>
+<div class="c-quick-subscribe__heading">
+<p class="u-text--31">Subscribe to the <em>Front Page</em> newsletter for insights on the world's most pressing topics.</p>
+<p class="u-text--14">(<span class="is-required">*</span>) Required</p>
+</div>
+<div aria-atomic="true" aria-live="assertive" class="errorSummary validation-summary-errors" id="ctl00_MainContent_ctl00_ctl07_ValidationSummary1" role="alert" style="display:none;">
+</div>
+<span class="hidden hide" id="ctl00_MainContent_ctl00_ctl07_ValidatorEmail" style="visibility:hidden;">Your Email Address is not valid. Please re-enter your Email Address.</span>
+<div class="c-quick-subscribe__input-container">
+<div class="form-group">
+<label class="required" for="TextBoxEmail"><abbr class="is-required" title="Required">*</abbr> Email Address</label>
+<input class="form-control c-quick-subscribe__input-email required" id="TextBoxEmail" maxlength="101" name="TextBoxEmail" required="required" type="email"/><span id="ctl00_MainContent_ctl00_ctl07_TextBoxEmail_RFV" style="display:none;"></span><span id="ctl00_MainContent_ctl00_ctl07_TextBoxEmail_REV_LENGTH" style="display:none;"></span>
+</div>
+<div class="form-group c-quick-subscribe__country-container">
+<div class="element required dropdown form-control">
+<div class="dropdown">
+<a name="SelectCountry">
+<label class="required" for="ctl00_MainContent_ctl00_ctl07_SelectCountry"><abbr class="is-required" title="Required">*</abbr> Country or Region</label>
+<div class="form-select"><select class="dropdown form-control" id="ctl00_MainContent_ctl00_ctl07_SelectCountry" name="ctl00$MainContent$ctl00$ctl07$SelectCountry" required="required">
+<option selected="selected" value="">Select One</option>
+<option value="USA">United States of America</option>
+<option value="AFG">Afghanistan</option>
+<option value="ALA">Aland Islands</option>
+<option value="ALB">Albania</option>
+<option value="DZA">Algeria</option>
+<option value="ASM">American Samoa</option>
+<option value="AND">Andorra</option>
+<option value="AGO">Angola</option>
+<option value="AIA">Anguilla</option>
+<option value="ATA">Antarctica</option>
+<option value="ATG">Antigua and Barbuda</option>
+<option value="ARG">Argentina</option>
+<option value="ARM">Armenia</option>
+<option value="ABW">Aruba</option>
+<option value="AUS">Australia</option>
+<option value="AUT">Austria</option>
+<option value="AZE">Azerbaijan</option>
+<option value="BHS">Bahamas</option>
+<option value="BHR">Bahrain</option>
+<option value="BGD">Bangladesh</option>
+<option value="BRB">Barbados</option>
+<option value="BLR">Belarus</option>
+<option value="BEL">Belgium</option>
+<option value="BLZ">Belize</option>
+<option value="BEN">Benin</option>
+<option value="BMU">Bermuda</option>
+<option value="BTN">Bhutan</option>
+<option value="BOL">Bolivia (Plurinational State of)</option>
+<option value="BES">Bonaire, Sint Eustatius and Saba</option>
+<option value="BIH">Bosnia and Herzegovina</option>
+<option value="BWA">Botswana</option>
+<option value="BVT">Bouvet Island</option>
+<option value="BRA">Brazil</option>
+<option value="IOT">British Indian Ocean Territory (the)</option>
+<option value="BRN">Brunei Darussalam</option>
+<option value="BGR">Bulgaria</option>
+<option value="BFA">Burkina Faso</option>
+<option value="BDI">Burundi</option>
+<option value="KHM">Cambodia</option>
+<option value="CMR">Cameroon</option>
+<option value="CAN">Canada</option>
+<option value="CPV">Cape Verde</option>
+<option value="CYM">Cayman Islands (the)</option>
+<option value="CAF">Central African Republic</option>
+<option value="TCD">Chad</option>
+<option value="CHL">Chile</option>
+<option value="CHN">China</option>
+<option value="CXR">Christmas Island</option>
+<option value="CCK">Cocos (Keeling) Islands (the)</option>
+<option value="COL">Colombia</option>
+<option value="COM">Comoros</option>
+<option value="COD">Congo (Kinshasa)</option>
+<option value="COG">Congo Brazzaville</option>
+<option value="COK">Cook Islands (the)</option>
+<option value="CRI">Costa Rica</option>
+<option value="CIV">Cote d'Ivoire</option>
+<option value="HRV">Croatia</option>
+<option value="CUB">Cuba</option>
+<option value="CYP">Cyprus</option>
+<option value="CZE">Czech Republic</option>
+<option value="PRK">Democratic People's Republic of Korea</option>
+<option value="DNK">Denmark</option>
+<option value="DJI">Djibouti</option>
+<option value="DMA">Dominica</option>
+<option value="DOM">Dominican Republic</option>
+<option value="ECU">Ecuador</option>
+<option value="EGY">Egypt</option>
+<option value="SLV">El Salvador</option>
+<option value="GNQ">Equatorial Guinea</option>
+<option value="ERI">Eritrea</option>
+<option value="EST">Estonia</option>
+<option value="ETH">Ethiopia</option>
+<option value="FLK">Falkland Islands (the) [Malvinas]</option>
+<option value="FRO">Faroe Islands</option>
+<option value="FSM">Federated States of Micronesia</option>
+<option value="FJI">Fiji</option>
+<option value="FIN">Finland</option>
+<option value="FRA">France</option>
+<option value="GUF">French Guiana</option>
+<option value="PYF">French Polynesia</option>
+<option value="ATF">French Southern Territories (the)</option>
+<option value="GAB">Gabon</option>
+<option value="GMB">Gambia</option>
+<option value="GEO">Georgia</option>
+<option value="DEU">Germany</option>
+<option value="GHA">Ghana</option>
+<option value="GIB">Gibraltar</option>
+<option value="GRC">Greece</option>
+<option value="GRL">Greenland</option>
+<option value="GRD">Grenada</option>
+<option value="GLP">Guadeloupe</option>
+<option value="GUM">Guam</option>
+<option value="GTM">Guatemala</option>
+<option value="GIN">Guinea</option>
+<option value="GNB">Guinea-Bissau</option>
+<option value="GUY">Guyana</option>
+<option value="HTI">Haiti</option>
+<option value="HMD">Heard Island and McDonald Islands</option>
+<option value="VAT">Holy See</option>
+<option value="HND">Honduras</option>
+<option value="HKG">Hong Kong S.A.R. of China</option>
+<option value="HUN">Hungary</option>
+<option value="ISL">Iceland</option>
+<option value="IND">India</option>
+<option value="IDN">Indonesia</option>
+<option value="IRN">Iran</option>
+<option value="IRQ">Iraq</option>
+<option value="IRL">Ireland</option>
+<option value="IMN">Isle of Man</option>
+<option value="ISR">Israel</option>
+<option value="ITA">Italy</option>
+<option value="JAM">Jamaica</option>
+<option value="JPN">Japan</option>
+<option value="JEY">Jersey</option>
+<option value="JOR">Jordan</option>
+<option value="KAZ">Kazakhstan</option>
+<option value="KEN">Kenya</option>
+<option value="KIR">Kiribati</option>
+<option value="KWT">Kuwait</option>
+<option value="KGZ">Kyrgyzstan</option>
+<option value="LAO">Lao People's Democratic Republic</option>
+<option value="LVA">Latvia</option>
+<option value="LBN">Lebanon</option>
+<option value="LSO">Lesotho</option>
+<option value="LBR">Liberia</option>
+<option value="LBY">Libya</option>
+<option value="LIE">Liechtenstein</option>
+<option value="LTU">Lithuania</option>
+<option value="LUX">Luxembourg</option>
+<option value="MAC">Macao S.A.R. of China</option>
+<option value="MDG">Madagascar</option>
+<option value="MWI">Malawi</option>
+<option value="MYS">Malaysia</option>
+<option value="MDV">Maldives</option>
+<option value="MLI">Mali</option>
+<option value="MLT">Malta</option>
+<option value="MHL">Marshall Islands</option>
+<option value="MTQ">Martinique</option>
+<option value="MRT">Mauritania</option>
+<option value="MUS">Mauritius</option>
+<option value="MYT">Mayotte</option>
+<option value="MEX">Mexico</option>
+<option value="MDA">Moldova</option>
+<option value="MCO">Monaco</option>
+<option value="MNG">Mongolia</option>
+<option value="MNE">Montenegro</option>
+<option value="MSR">Montserrat</option>
+<option value="MAR">Morocco</option>
+<option value="MOZ">Mozambique</option>
+<option value="MMR">Myanmar</option>
+<option value="NAM">Namibia</option>
+<option value="NRU">Nauru</option>
+<option value="NPL">Nepal</option>
+<option value="NLD">Netherlands (Kingdom of the)</option>
+<option value="NCL">New Caledonia</option>
+<option value="NZL">New Zealand</option>
+<option value="NIC">Nicaragua</option>
+<option value="NER">Niger</option>
+<option value="NGA">Nigeria</option>
+<option value="NIU">Niue</option>
+<option value="NFK">Norfolk Island</option>
+<option value="MKD">North Macedonia</option>
+<option value="MNP">Northern Mariana Islands</option>
+<option value="NOR">Norway</option>
+<option value="OMN">Oman</option>
+<option value="PAK">Pakistan</option>
+<option value="PLW">Palau</option>
+<option value="PSE">Palestinian Territories</option>
+<option value="PAN">Panama</option>
+<option value="PNG">Papua New Guinea</option>
+<option value="PRY">Paraguay</option>
+<option value="PER">Peru</option>
+<option value="PHL">Philippines</option>
+<option value="PCN">Pitcairn</option>
+<option value="POL">Poland</option>
+<option value="PRT">Portugal</option>
+<option value="PRI">Puerto Rico</option>
+<option value="QAT">Qatar</option>
+<option value="REU">Reunion</option>
+<option value="ROU">Romania</option>
+<option value="RUS">Russia</option>
+<option value="RWA">Rwanda</option>
+<option value="BLM">Saint Barthélemy</option>
+<option value="KNA">Saint Kitts and Nevis</option>
+<option value="LCA">Saint Lucia</option>
+<option value="MAF">Saint Martin (French part)</option>
+<option value="SPM">Saint Pierre and Miquelon</option>
+<option value="VCT">Saint Vincent and the Grenadines</option>
+<option value="WSM">Samoa</option>
+<option value="SMR">San Marino</option>
+<option value="STP">Sao Tome and Principe</option>
+<option value="SAU">Saudi Arabia</option>
+<option value="SEN">Senegal</option>
+<option value="SRB">Serbia</option>
+<option value="SYC">Seychelles</option>
+<option value="SLE">Sierra Leone</option>
+<option value="SGP">Singapore</option>
+<option value="SXM">Sint Maarten (Dutch part)</option>
+<option value="SVK">Slovakia</option>
+<option value="SVN">Slovenia</option>
+<option value="SLB">Solomon Islands</option>
+<option value="SOM">Somalia</option>
+<option value="ZAF">South Africa</option>
+<option value="SGS">South Georgia and the South Sandwich Islands</option>
+<option value="KOR">South Korea</option>
+<option value="SSD">South Sudan</option>
+<option value="ESP">Spain</option>
+<option value="LKA">Sri Lanka</option>
+<option value="SDN">Sudan</option>
+<option value="SUR">Suriname</option>
+<option value="SJM">Svalbard and Jan Mayen</option>
+<option value="SWZ">Swaziland</option>
+<option value="SWE">Sweden</option>
+<option value="CHE">Switzerland</option>
+<option value="SYR">Syria</option>
+<option value="TWN">Taiwan (Province of China)</option>
+<option value="TJK">Tajikistan</option>
+<option value="TZA">Tanzania</option>
+<option value="THA">Thailand</option>
+<option value="TLS">Timor-Leste</option>
+<option value="TGO">Togo</option>
+<option value="TKL">Tokelau</option>
+<option value="TON">Tonga</option>
+<option value="TTO">Trinidad and Tobago</option>
+<option value="TUN">Tunisia</option>
+<option value="TUR">Türkiye</option>
+<option value="TKM">Turkmenistan</option>
+<option value="TCA">Turks and Caicos Islands</option>
+<option value="TUV">Tuvalu</option>
+<option value="UGA">Uganda</option>
+<option value="UKR">Ukraine</option>
+<option value="ARE">United Arab Emirates</option>
+<option value="GBR">United Kingdom</option>
+<option value="UMI">United States Minor Outlying Islands</option>
+<option value="URY">Uruguay</option>
+<option value="UZB">Uzbekistan</option>
+<option value="VUT">Vanuatu</option>
+<option value="VEN">Venezuela</option>
+<option value="VNM">Vietnam</option>
+<option value="VGB">Virgin Islands, British</option>
+<option value="VIR">Virgin Islands, U.S.</option>
+<option value="WLF">Wallis and Futuna</option>
+<option value="ESH">Western Sahara</option>
+<option value="YEM">Yemen</option>
+<option value="ZMB">Zambia</option>
+<option value="ZWE">Zimbabwe</option>
+</select></div></a>
+</div>
+</div>
+<span id="ctl00_MainContent_ctl00_ctl07_ctl00_MainContent_ctl00_ctl07_SelectCountry_RFV" style="display:none;"></span>
+</div>
+</div>
+<div class="form-recaptcha">
+<label class="required" for="RecaptchaHiddenElement"><abbr class="is-required" title="Required">*</abbr> </label>
+<textarea class="required" cols="20" id="RecaptchaHiddenElement" name="RecaptchaHiddenElement" required="required" rows="2">
+</textarea><span id="ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_RFV" style="display:none;"></span><span id="ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_REV_LENGTH" style="display:none;"></span>
+<div id="inline-badge"></div>
+</div>
+<p class="u-text--11 u-simple-link--wrapper">
+                            This site is protected by reCAPTCHA and the Google <a class="u-ada-link--noborder" href="https://policies.google.com/privacy">Privacy Policy</a> and <a class="u-ada-link--noborder" href="https://policies.google.com/terms">Terms of Service</a> apply.
+                        </p>
+<script async="" defer="" src="https://www.google.com/recaptcha/api.js?render=explicit&amp;onload=recaptchaOnLoad"></script>
+<script>
+                        let clientID;
+                        function recaptchaOnLoad() {
+                            grecaptcha.ready(function () {
+                                clientID = grecaptcha.render('inline-badge', {
+                                    sitekey: '6LehOIAUAAAAALTZw4kRKaMJDeuk0sz_R787I07d',
+                                    badge: 'inline',
+                                    size: 'invisible'
+                                });
+                            });
+                        }
+
+                        function recaptchaSubmit() {
+                            grecaptcha.ready(function () {
+                                grecaptcha.execute(clientID, { action: 'submit' }).then(function (token) {
+                                    document.getElementById('RecaptchaHiddenElement').value = token;
+                                    __doPostBack('Button1', '');
+                                });
+                            });
+                        }
+                    </script>
+<div class="button">
+<input class="btn btn-primary c-quick-subscribe__signup-btn" id="Button1" name="Button1" onclick='recaptchaSubmit(); return false;WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("Button1", "", true, "", "", false, false))' ondbleclick="return false;" type="submit" value="Sign Up"/>
+</div>
+<input id="ConfirmField213" name="ctl00$MainContent$ctl00$ctl07$ConfirmField213" type="hidden" value="8FC7F5684EBC5511FC5219081CE5CD32B370B55B"/><input id="ConfirmField393" name="ctl00$MainContent$ctl00$ctl07$ConfirmField393" type="hidden"/>
+<script type="text/javascript">
+function handleClickForAspDotNetForm() {
+    var _input = document.createElement('input')
+    _input.setAttribute('type', 'hidden');
+    _input.setAttribute('id', 'ConfirmField963')
+    _input.setAttribute('name', 'ConfirmField963')
+    _input.setAttribute('value', window.location.hash);
+
+    var _form = document.getElementById('aspnetForm');
+    _form.appendChild(_input);
+};
+
+function doLoadForAspDotNetForm() {
+    var _form = document.getElementById('aspnetForm');
+
+    var _input = document.createElement('input');
+    _input.setAttribute('type', 'hidden')
+    _input.setAttribute('id', 'ConfirmField172')
+    _input.setAttribute('name', 'ConfirmField172')
+    _input.setAttribute('value', 'on88')
+
+   _form.appendChild(_input);
+
+    if (_form.addEventListener) {
+        _form.addEventListener('submit', handleClickForAspDotNetForm, false);
+    } else if (_form.attachEvent) {
+        _form.attachEvent('onsubmit', handleClickForAspDotNetForm);
+    }
+};
+
+if ( window.attachEvent ) {
+    window.attachEvent( 'onload', doLoadForAspDotNetForm );
+} else if ( window.addEventListener ) {
+    window.addEventListener( 'load', doLoadForAspDotNetForm, false );
+} else if (window.onLoad) {
+    window.onload = doLoadForAspDotNetForm;
+}
+
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var Page_ValidationSummaries =  new Array(document.getElementById("ctl00_MainContent_ctl00_ctl07_ValidationSummary1"));
+var Page_Validators =  new Array(document.getElementById("ctl00_MainContent_ctl00_ctl07_ValidatorEmail"), document.getElementById("ctl00_MainContent_ctl00_ctl07_TextBoxEmail_RFV"), document.getElementById("ctl00_MainContent_ctl00_ctl07_TextBoxEmail_REV_LENGTH"), document.getElementById("ctl00_MainContent_ctl00_ctl07_ctl00_MainContent_ctl00_ctl07_SelectCountry_RFV"), document.getElementById("ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_RFV"), document.getElementById("ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_REV_LENGTH"));
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_MainContent_ctl00_ctl07_ValidationSummary1 = document.all ? document.all["ctl00_MainContent_ctl00_ctl07_ValidationSummary1"] : document.getElementById("ctl00_MainContent_ctl00_ctl07_ValidationSummary1");
+ctl00_MainContent_ctl00_ctl07_ValidationSummary1.headertext = "<span>The following error(s) occurred:</span>";
+var ctl00_MainContent_ctl00_ctl07_ValidatorEmail = document.all ? document.all["ctl00_MainContent_ctl00_ctl07_ValidatorEmail"] : document.getElementById("ctl00_MainContent_ctl00_ctl07_ValidatorEmail");
+ctl00_MainContent_ctl00_ctl07_ValidatorEmail.controltovalidate = "TextBoxEmail";
+ctl00_MainContent_ctl00_ctl07_ValidatorEmail.errormessage = "Your Email Address is not valid. Please re-enter your Email Address.";
+ctl00_MainContent_ctl00_ctl07_ValidatorEmail.evaluationfunction = "CustomValidatorEvaluateIsValid";
+var ctl00_MainContent_ctl00_ctl07_TextBoxEmail_RFV = document.all ? document.all["ctl00_MainContent_ctl00_ctl07_TextBoxEmail_RFV"] : document.getElementById("ctl00_MainContent_ctl00_ctl07_TextBoxEmail_RFV");
+ctl00_MainContent_ctl00_ctl07_TextBoxEmail_RFV.controltovalidate = "TextBoxEmail";
+ctl00_MainContent_ctl00_ctl07_TextBoxEmail_RFV.errormessage = "You must enter your Email Address to continue.";
+ctl00_MainContent_ctl00_ctl07_TextBoxEmail_RFV.display = "None";
+ctl00_MainContent_ctl00_ctl07_TextBoxEmail_RFV.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_MainContent_ctl00_ctl07_TextBoxEmail_RFV.initialvalue = "";
+var ctl00_MainContent_ctl00_ctl07_TextBoxEmail_REV_LENGTH = document.all ? document.all["ctl00_MainContent_ctl00_ctl07_TextBoxEmail_REV_LENGTH"] : document.getElementById("ctl00_MainContent_ctl00_ctl07_TextBoxEmail_REV_LENGTH");
+ctl00_MainContent_ctl00_ctl07_TextBoxEmail_REV_LENGTH.controltovalidate = "TextBoxEmail";
+ctl00_MainContent_ctl00_ctl07_TextBoxEmail_REV_LENGTH.errormessage = "TextBoxEmail has an invalid length.";
+ctl00_MainContent_ctl00_ctl07_TextBoxEmail_REV_LENGTH.display = "None";
+ctl00_MainContent_ctl00_ctl07_TextBoxEmail_REV_LENGTH.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_MainContent_ctl00_ctl07_TextBoxEmail_REV_LENGTH.validationexpression = "(.|\n){0,100}";
+var ctl00_MainContent_ctl00_ctl07_ctl00_MainContent_ctl00_ctl07_SelectCountry_RFV = document.all ? document.all["ctl00_MainContent_ctl00_ctl07_ctl00_MainContent_ctl00_ctl07_SelectCountry_RFV"] : document.getElementById("ctl00_MainContent_ctl00_ctl07_ctl00_MainContent_ctl00_ctl07_SelectCountry_RFV");
+ctl00_MainContent_ctl00_ctl07_ctl00_MainContent_ctl00_ctl07_SelectCountry_RFV.controltovalidate = "ctl00_MainContent_ctl00_ctl07_SelectCountry";
+ctl00_MainContent_ctl00_ctl07_ctl00_MainContent_ctl00_ctl07_SelectCountry_RFV.errormessage = "You must enter your Country or Region to continue.";
+ctl00_MainContent_ctl00_ctl07_ctl00_MainContent_ctl00_ctl07_SelectCountry_RFV.display = "None";
+ctl00_MainContent_ctl00_ctl07_ctl00_MainContent_ctl00_ctl07_SelectCountry_RFV.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_MainContent_ctl00_ctl07_ctl00_MainContent_ctl00_ctl07_SelectCountry_RFV.initialvalue = "";
+var ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_RFV = document.all ? document.all["ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_RFV"] : document.getElementById("ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_RFV");
+ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_RFV.controltovalidate = "RecaptchaHiddenElement";
+ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_RFV.errormessage = "You must check the reCAPTCHA field to continue.";
+ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_RFV.display = "None";
+ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_RFV.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_RFV.initialvalue = "";
+var ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_REV_LENGTH = document.all ? document.all["ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_REV_LENGTH"] : document.getElementById("ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_REV_LENGTH");
+ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_REV_LENGTH.controltovalidate = "RecaptchaHiddenElement";
+ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_REV_LENGTH.errormessage = "RecaptchaHiddenElement has an invalid length.";
+ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_REV_LENGTH.display = "None";
+ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_REV_LENGTH.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_MainContent_ctl00_ctl07_RecaptchaHiddenElement_REV_LENGTH.validationexpression = "(.|\n){0,3000}";
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+WebForm_AutoFocus('TextBoxUsername');//]]>
+</script>
+<script src="/scriptbundle/fusion/gel-validators?v=-5tsPXxNo8XZSnAO2ABa8limKSVqxD-p92MnLhrNJ9Y1"></script>
+</form>
+</div>
+</div>
+</section>
+<div class="section-flex--topics" role="complementary">
+<h2>Related Topics Include:</h2>
+<span class="flag USA"> <a class="o--topic" href="/topic/country-usa.aspx">USA</a></span><span> <a class="o--topic" href="/topic/all-gallup-headlines.aspx">All Gallup Headlines</a></span><span> <a class="o--topic" href="/topic/government.aspx">Government</a></span><span> <a class="o--topic" href="/topic/political-parties.aspx">Political Parties</a></span><span> <a class="o--topic" href="/topic/politics.aspx">Politics</a></span><span class="tagPJA tagFade"> <a class="o--topic" href="/topic/presidential-job-approval.aspx">Presidential Job Approval</a></span><span> <a class="o--topic" href="/topic/the-presidency.aspx">The Presidency</a></span></div>
+<section class="section--default section-default section-rel--sct" role="complementary">
+<!-- SCT relationship: allows (1) WEBPART, Standalone Item Tile, CARDBLOB -->
+<a class="c-tile c-related_insights--featured c-tile--key c-tile--count5 u-shadow overlay-link c-tile-link__card" href="https://www.gallup.com/analytics/213617/gallup-analytics.aspx">
+<div class="c-tile__meta"></div>
+<div class="c-tile__title"><h3 data-overflow="ellipsis">Access Crucial Data for Your Research</h3></div>
+<p class="c-tile__copy" data-overflow="ellipsis">Search, examine, compare and export nearly a century of primary data.</p>
+<div class="c-tile__key"><div class="btn btn-primary">Learn More<span class="sr-only"> about Access Crucial Data for Your Research</span></div></div>
+</a>
+</section>
+</div>
+</article>
+<div class="section-flex--tiles" role="complementary">
+<h2>Recommended</h2>
+<section class="cmstile tile-feature" data-tileid="654698-POLL"><div class="tile-inner">
+<div class="image">
+<img alt="" class="b-lazy img-responsive" data-src="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/11877fc7-9e13-4ec6-8613-beb2dd1ed91b.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" srcset="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/11877fc7-9e13-4ec6-8613-beb2dd1ed91b.jpg, https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature_2x/POLL/11877fc7-9e13-4ec6-8613-beb2dd1ed91b.jpg 2x"/><noscript><img alt="" src="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/11877fc7-9e13-4ec6-8613-beb2dd1ed91b.jpg" srcset="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/11877fc7-9e13-4ec6-8613-beb2dd1ed91b.jpg, https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature_2x/POLL/11877fc7-9e13-4ec6-8613-beb2dd1ed91b.jpg 2x"/></noscript>
+</div>
+<div class="meta clearfix"><div class="topic"><a href="/topic/politics.aspx">Politics</a></div><time datetime="2024-12-27">Dec 27, 2024</time></div><div class="copy">
+<div class="tile-linktext"><h3 data-overflow="ellipsis"><a href="/poll/654698/trump-transition-ratings-better-second-time-around.aspx">Trump Transition Ratings Better the Second Time Around</a></h3></div>
+<p class="item-synopsis" data-overflow="ellipsis">A slim majority of U.S. adults approve of the way Donald Trump is handling his presidential transition, but more rate his Cabinet picks negatively than positively.</p></div></div></section>
+<section class="cmstile tile-feature" data-tileid="655157-POLL"><div class="tile-inner">
+<div class="image">
+<img alt="" class="b-lazy img-responsive" data-src="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/c88fd545-f0a8-4b1f-a608-87b5341ff199.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" srcset="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/c88fd545-f0a8-4b1f-a608-87b5341ff199.jpg, https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature_2x/POLL/c88fd545-f0a8-4b1f-a608-87b5341ff199.jpg 2x"/><noscript><img alt="" src="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/c88fd545-f0a8-4b1f-a608-87b5341ff199.jpg" srcset="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/c88fd545-f0a8-4b1f-a608-87b5341ff199.jpg, https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature_2x/POLL/c88fd545-f0a8-4b1f-a608-87b5341ff199.jpg 2x"/></noscript>
+</div>
+<div class="meta clearfix"><div class="topic"><a href="/topic/politics.aspx">Politics</a></div><time datetime="2025-01-16">Jan 16, 2025</time></div><div class="copy">
+<div class="tile-linktext"><h3 data-overflow="ellipsis"><a href="/poll/655157/gop-holds-edge-party-affiliation-third-straight-year.aspx">GOP Holds Edge in Party Affiliation for Third Straight Year</a></h3></div>
+<p class="item-synopsis" data-overflow="ellipsis">Americans' political party preferences remain closely divided, with Republicans having a slight edge in party ID and leaning for the third consecutive year.</p></div></div></section>
+<section class="cmstile tile-feature" data-tileid="655298-POLL"><div class="tile-inner">
+<div class="image">
+<img alt="" class="b-lazy img-responsive" data-src="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/c75b6eba-4325-4551-bc45-b118a6daaae4.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" srcset="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/c75b6eba-4325-4551-bc45-b118a6daaae4.jpg, https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature_2x/POLL/c75b6eba-4325-4551-bc45-b118a6daaae4.jpg 2x"/><noscript><img alt="" src="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/c75b6eba-4325-4551-bc45-b118a6daaae4.jpg" srcset="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/c75b6eba-4325-4551-bc45-b118a6daaae4.jpg, https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature_2x/POLL/c75b6eba-4325-4551-bc45-b118a6daaae4.jpg 2x"/></noscript>
+</div>
+<div class="meta clearfix"><div class="topic"><a href="/topic/politics.aspx">Politics</a></div><time datetime="2025-01-17">Jan 17, 2025</time></div><div class="copy">
+<div class="tile-linktext"><h3 data-overflow="ellipsis"><a href="/poll/655298/biden-job-approval-second-lowest-among-post-wwii-presidents.aspx">Biden Job Approval Second Lowest Among Post-WWII Presidents</a></h3></div>
+<p class="item-synopsis" data-overflow="ellipsis">Joe Biden's last job approval rating as president is 40%. His 42.2% average for his term is the second lowest in Gallup records.</p></div></div></section>
+<section class="section--default section-default section-tile">
+<!-- SCB tile (1 only) goes here if present -->
+<section class="cmstile tile-feature" data-tileid="654746-POLL"><div class="tile-inner">
+<div class="image">
+<img alt="" class="b-lazy img-responsive" data-src="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/7f33b07d-eadc-4174-a517-e1d9dd734cd4.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" srcset="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/7f33b07d-eadc-4174-a517-e1d9dd734cd4.jpg, https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature_2x/POLL/7f33b07d-eadc-4174-a517-e1d9dd734cd4.jpg 2x"/><noscript><img alt="" src="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/7f33b07d-eadc-4174-a517-e1d9dd734cd4.jpg" srcset="https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature/POLL/7f33b07d-eadc-4174-a517-e1d9dd734cd4.jpg, https://imagekit.gallup.com/fusion/tr:n-emd_btm_feature_2x/POLL/7f33b07d-eadc-4174-a517-e1d9dd734cd4.jpg 2x"/></noscript>
+</div>
+<div class="meta clearfix"><div class="topic"><a href="/topic/politics.aspx">Politics</a></div><time datetime="2025-01-02">Jan 2, 2025</time></div><div class="copy">
+<div class="tile-linktext"><h3 data-overflow="ellipsis"><a href="/poll/654746/highest-hopes-trump-immigration-lowest-unity.aspx">Highest Hopes for Trump on Immigration; Lowest, on Unity</a></h3></div>
+<p class="item-synopsis" data-overflow="ellipsis">Of 17 policy goals, Americans are most optimistic about Donald Trump's ability to control immigration and most pessimistic about his ability to heal political divisions in the U.S.</p></div></div></section>
+</section>
+</div>
+</div>
+<section class="section--default section-default visible-print-block section-sourceinfo">
+<p>
+<span data-cite="Release Date">
+<time datetime="2025-01-29">January 29, 2025</time>
+</span><br/>
+<span data-cite="Source">Gallup  https://news.gallup.com/poll/655955/trump-inaugural-approval-rating-historically-low-again.aspx</span><br/>
+<span data-cite="Contact">Gallup World Headquarters, 901 F Street, Washington, D.C., 20001, U.S.A</span><br/>
+            +1 202.715.3030
+        </p>
+</section>
+</main>
+</div>
+</div>
+<footer class="footer-default">
+<div class="c-sitemap c-sitemap--flex">
+<div class="container">
+<div class="flex-wrapper-20">
+<div class="flex-item-20 c-sitemap__left-border c-sitemap__nav">
+<div class="c-sitemap__logo-group">
+<a class="c-sitemap__logo" href="https://www.gallup.com/" id="ctl00_SiteMapNavWithForm_SiteMapLogo">
+<span class="fa-gallup-logo" id="ctl00_SiteMapNavWithForm_LogoIcon"></span>
+<span class="sr-only" id="ctl00_SiteMapNavWithForm_BrandText">Gallup</span>
+</a>
+<nav class="" data-navclass="nav-no-children" id="nav-sm_default_social">
+<ul class="dropdown-menu__list">
+<li class="c-sitemap__item--icon c-sitemap__item--icon-linkedin"><a href="https://www.linkedin.com/company/gallup/" rel="noopener">LinkedIn</a></li>
+<li class="c-sitemap__item--icon c-sitemap__item--icon-twitter"><a href="https://www.twitter.com/Gallup" rel="noopener">Twitter</a></li>
+<li class="c-sitemap__item--icon c-sitemap__item--icon-instagram"><a href="https://www.instagram.com/gallup" rel="noopener">Instagram</a></li>
+<li class="c-sitemap__item--icon c-sitemap__item--icon-facebook"><a href="https://www.facebook.com/gallup" rel="noopener">Facebook</a></li>
+<li class="c-sitemap__item--icon c-sitemap__item--icon-youtube"><a href="https://www.youtube.com/@gallupvideos" rel="noopener">YouTube</a></li>
+</ul>
+</nav>
+</div>
+<div class="c-sitemap__group">
+<nav class="" data-navclass="nav-no-children" id="nav-sm_default_left">
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/178685/methodology-center.aspx" rel="noopener">Methodology Center</a></li>
+<li><a href="https://www.gallup.com/seniorscientists/171815/senior-scientists.aspx" rel="noopener">Senior Scientists</a></li>
+<li><a href="/poll/trends.aspx">Trends A-Z</a></li>
+<li><a href="https://www.gallup.com/corporate/178136/george-gallup.aspx" rel="noopener">George Gallup</a></li>
+</ul>
+</nav>
+</div>
+<div class="c-sitemap__group">
+<nav class="" data-navclass="nav-no-children" id="nav-sm_default_middle">
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/corporate/212381/who-we-are.aspx" rel="noopener">About Us</a></li>
+<li><a href="https://www.gallup.com/careers/" rel="noopener">Careers</a></li>
+<li><a href="https://www.gallup.com/corporate/212117/global-offices.aspx" rel="noopener">Locations</a></li>
+<li><a href="/home.aspx">News</a></li>
+<li><a href="https://store.gallup.com" rel="noopener">Store</a></li>
+</ul>
+</nav>
+</div>
+<div class="c-sitemap__group">
+<nav class="" data-navclass="nav-no-children" id="nav-sm_default_right">
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/corporate/468077/media-center.aspx" rel="noopener">Media Center</a></li>
+<li><a href="https://www.gallup.com/corporate/311051/gallup-speakers.aspx" rel="noopener">Gallup Speakers</a></li>
+</ul>
+</nav><nav class="" data-navclass="nav-no-children" id="nav-sm_default_cont">
+<ul class="dropdown-menu__list">
+<li><a href="https://www.gallup.com/270002/customer-support.aspx" rel="noopener">Customer Support</a></li>
+<li class="btn-wrapper btn-primary-wrapper"><a href="https://www.gallup.com/270188/contact-us-general.aspx" rel="noopener">Contact Us</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="flex-item-20 c-sitemap__subscription">
+<div class="c-sitemap__subscription-inner form-group form-inline">
+<label for="ctl00_SiteMapNavWithForm_SitemapSubscriptionEmail">Subscribe to Our Latest Insights</label>
+<div class="c-sitemap__subscription-inline-input">
+<input autocomplete="email" class="form-control" id="ctl00_SiteMapNavWithForm_SitemapSubscriptionEmail" name="ctl00$SiteMapNavWithForm$SitemapSubscriptionEmail" placeholder="Your Email Address" type="email"/>
+<button class="btn btn-primary" onclick="SMSubscribeClick()">Sign Up</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+    function SMSubscribeClick() {
+        var enteredText = document.getElementById('ctl00_SiteMapNavWithForm_SitemapSubscriptionEmail').value;
+        document.cookie = "fusionSubscribeEmail=" + enteredText + ";domain=gallup.com";
+        window.location.href = "https://www.gallup.com/subscribe.aspx";
+    }
+</script>
+<div class="c-legal-banner">
+<div class="container">
+<div class="c-legal-banner__copyright">
+
+            Copyright © 2025 Gallup, Inc. All rights reserved.
+        
+</div>
+<nav class="c-legal-banner__nav" data-navclass="nav-no-children" id="nav-nav_footer_legal">
+<ul class="dropdown-menu__list">
+<li><a href="#gcbShowPreferences">Cookie Preferences</a></li>
+<li><a href="/privacy">Privacy Statement</a></li>
+<li><a href="//www.gallup.com/legal.aspx">Legal</a></li>
+<li><a href="https://www.gallup.com/315998/ccpa-do-not-sell-my-information.aspx" rel="noopener">Do Not Sell or Share My Personal Information</a></li>
+<li><a href="https://www.gallup.com/california-privacy-notice" rel="noopener">California Collection Notice</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</footer>
+<script src="/scriptbundle/fusion/core?v=x7DBOt7R0MBi3EYexb8beqSkhp50F0VdhapK1KXUIr01"></script>
+<script src="/scriptbundle/fusion/site-news?v=2HsVSZMUeCVJZ55T5cqAc_YB7vtsP8TVoKl84FHm5B81"></script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+Style Architecture • 10 min read
+This New York skyscraper had a 1-in-16 chance of collapse. Only one man knew
+By
+Aug 15, 2025, 6:05 AM ET
+The Citigroup Center office tower in New York City.
+Felix Lipov/Alamy Stock Photo
+Link
+Link Copied!
+On October 12, 1977, banking giant Citicorp opened the tallest new skyscraper in New York City since the early 1930s. From afar, the 915-foot tower’s distinctive sloped roof cut through the Midtown skyline like a scalpel. Close up, at ground level, its 59 floors appeared to levitate above a sunken public plaza, a generous architectural gesture to passersby.
+Citicorp Center’s design was not universally loved. But the scale and ambition of its engineering were undeniable. In a review, the Times’ architecture critic Paul Goldberger concluded that the bank’s new office, despite lacking in originality, would “probably give more pleasure to more New Yorkers than any other high‐rise building of the decade.”
+This prediction almost proved disastrously far from the truth. In fact, were it not for two college students who helped uncover a grave flaw in the building’s engineering, Citicorp Center might have killed thousands of New Yorkers.
+Citicorp Center still stands today, though it has since been renamed 601 Lexington. But in some ways, it is not the same structure it was in 1977.
+Unbeknownst to its owners, occupants and even architects, the brand-new $128-million skyscraper was far more vulnerable to wind than previously believed. If a storm knocked out the power to its stabilizing device, a strong enough gust could make it collapse — and, on average, winds powerful enough to topple the building would occur in New York every 16 years. When the tower’s engineer realized this in July 1978, hurricane season was already underway.
+The Citicorp Center pictured days before it was officially dedicated in October 1977.
+UPI/Bettmann Archive/Getty Images
+Within months, welders had carried out corrective work under the cover of darkness. A newspaper strike at the time meant knowledge of how close New York came to disaster remained largely hidden from the public until the mid-1990s.
+Now, a comprehensive new book on the crisis, “The Great Miscalculation: The Race to Save New York City’s Citicorp Tower,” delves into the human stories behind the events of 1978 — especially that of William LeMessurier, the structural engineer who blew the whistle on himself after being alerted to potential errors in his calculations.
+“You have this one man who’s put in the impossible position of discovering a terrible structural flaw with, at the time, the seventh tallest building in the world,” the book’s author, Michael M. Greenburg, said in a Zoom call. “And he knows — at least in his own mind — that disclosure of this problem was going to ruin his career.”
+“But it was a real race against time,” he added.
+A tower on stilts
+The tower’s susceptibility to wind stemmed from its unusual design —  which arose from a quirk of the Manhattan site on which it stood.
+Citicorp’s attempts to buy an entire midtown block for its new office had been thwarted by a lone holdout, St. Peter’s Lutheran Church, which had occupied a corner of the proposed plot since the early 1900s. The church’s pastor stubbornly resisted a sale that might force his congregation to relocate from the Midtown East neighborhood with which it had longstanding historical ties.
+Saint Peter's Lutheran Church, pictured here before 1970.
+Saint Peter's Church Archive
+Instead, he negotiated an agreement: St Peter’s would sell its neo-gothic building and, crucially, the air rights above it, on the condition that the bank build it a new church on the same corner. Under the agreement, this new church had to be distinct, physically and architecturally, from the skyscraper.
+For the tower’s architect Hugh Stubbins, who had never designed a New York high-rise, this posed a major quandary. He presented the problem to LeMessurier, a well-regarded structural engineer. Could the tower cantilever entirely over the corner housing  the new church? Might they also free up space for a ground-level plaza?
+Sketching on a napkin over lunch, LeMessurier began envisaging a unique answer to these questions: a skyscraper raised at not just one, but all four of its corners. In other words, a tower on stilts.
+“There’s nothing wrong with the building, nobody knows anything’s wrong. There’s no cracks; the building behaves itself perfectly. So, what do you do?”
+William LeMessurier, structural engineer
+To achieve this, the building’s four main support columns would run through the middle of the building’s four faces, not its corners. This created an inherent instability that Greenburg compared to sitting on a chair with legs positioned at the middle of each side. “Now put a 59-story building on top of those legs, and you begin to understand the complexity here,” he added.
+To compensate, LeMessurier developed a structural bracing system to act like an exoskeleton. A series of V-shaped chevrons, intersected by mast columns, effectively divided the building into six structurally independent segments. In each, the stress of wind and gravitational loads (those produced by the weight of the building itself) would be safely distributed, via trusses, to the columns, which would be drilled around 50 feet into the bedrock below.
+A cross-section of the tower showing LeMessurier’s innovative chevron bracing system.
+Michael Greenburg
+To reduce movement during strong winds, LeMessurier also proposed installing a huge counterweight, known as a tuned mass damper, in the tower’s upper floors. The stabilizing device featured a 400-ton concrete block on a film of oil that would slide in the opposite direction to the building’s motion to counteract swaying.
+Calculations were completed and models tested in wind tunnels. The project broke ground in 1974 and, when it opened three years later, it proved to be a “springboard” for LeMessurier’s career, Greenburg said.
+“He’s receiving awards, he’s receiving notoriety, his business is exploding and things are just going well. And then, all of a sudden, he gets this telephone call.”
+A fateful call
+Diane Hartley, a young engineering student, was starting her final year of undergraduate studies at Princeton University when Citicorp Center opened. She decided to feature the tower in her thesis on the history and impact of tall buildings.
+LeMessurier’s firm helpfully provided her with drawings, plans and figures. She visited the skyscraper to see its mass damper in action. But as Hartley modeled the tower’s response to wind loads, something didn’t add up.
+According to her calculations, so-called “quartering” winds — gusts hitting the tower diagonally, thus exerting pressure on two sides of the building simultaneously — produced 42% more stress than perpendicular ones. Yet the numbers given to her failed to account for this.
+“It never occurred to me that I had discovered something unusual,” said Hartley, who is now aged 69, in a Zoom call. “I was trying to figure out why I was wrong.”
+Video Ad Feedback
+

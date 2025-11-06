@@ -1,0 +1,514 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<!-- filename: direct-head  -->
+<html>
+<head>
+<title>NSK normativna baza - Cjeloviti prikaz</title>
+<!-- filename: meta-tags -->
+<meta content="no-cache" http-equiv="Cache-Control"/>
+<meta content="no-cache" http-equiv="Pragma"/>
+<meta content="Sun, 06 Nov 1994 08:49:37 GMT" http-equiv="Expires"/>
+<meta content="1200; URL=https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03589?func=logout" http-equiv="REFRESH"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="https://katalog.nsk.hr/exlibris-nsk01.css" rel="stylesheet" type="text/css"/>
+<link href="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<!-- 18.7.2023. - Uklanjanje starog Google analyticsa 
+<script type="text/javascript"> 
+ 
+  var _gaq = _gaq || []; 
+  _gaq.push(['_setAccount', 'UA-4962725-2']); 
+  _gaq.push(['_trackPageview']); 
+ 
+  (function() { 
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+  })(); 
+ 
+</script> -->
+<!-- 18.7.2023. Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-M83X1V326K"></script>
+<script> 
+  window.dataLayer = window.dataLayer || []; 
+  function gtag(){dataLayer.push(arguments);} 
+  gtag('js', new Date()); 
+ 
+  gtag('config', 'G-M83X1V326K'); 
+</script>
+<script language="Javascript"> 
+<!-- 
+  function open_window (loc) 
+  { 
+    self.name="main"; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+   var w = window.open ("","win1","height=500,width=500,scrollbars,resizable"); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc,"win1","height=500,width=500,scrollbars,resizable"); 
+    } 
+    w.focus(); 
+  } 
+ 
+ 
+  function open_window2 (loc) 
+  { 
+    self.name="main"; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+ 
+    var w = window.open ("", 
+                         "win1", 
+                         "height=100,width=500,scrollbars,resizable" 
+                         ); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc, 
+                         "win1", 
+                         "height=100,width=500,scrollbars,resizable" 
+                         ); 
+    } 
+     w.focus(); 
+  } 
+ 
+ 
+  function open_window3 (loc) 
+  { 
+    self.name="main"; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+ 
+    var w = window.open ("", 
+                         "win1", 
+                         "height=400,width=450,scrollbars,resizable,top=200" 
+                         ); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc, 
+                         "win1", 
+                         "height=400,width=450,scrollbars,resizable,top=200" 
+                         ); 
+    } 
+     w.focus(); 
+  } 
+ 
+ 
+  function open_window4 (loc) 
+  { 
+    self.name="main"; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+ 
+    var w = window.open ("", 
+                         "win1", 
+                         "height=150,width=450,scrollbars,resizable,top=200" 
+                         ); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc, 
+                         "win1", 
+                         "height=150,width=450,scrollbars,resizable,top=200" 
+                         ); 
+    } 
+     w.focus(); 
+  } 
+ 
+ 
+  function open_window_ext (loc) 
+  { 
+    self.name="main"; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+    var w = window.open ("","win2","height=500,width=500,scrollbars,resizable,toolbar,status,menubar"); 
+
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc,"win2","height=500,width=500,scrollbars,resizable,toolbar,status,menubar"); 
+    } 
+    w.focus(); 
+  } 
+ 
+  function set_iframe_location(url,id){ 
+    eval('document.all.' + id).src = url; 
+  } 
+ 
+  function open_window_confirm (loc,frame) 
+  { 
+    self.name=frame; 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+   var w = window.open ("","win1","height=220,width=450,scrollbars,resizable"); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc,"win1","height=220,width=450,scrollbars,resizable"); 
+    } 
+    w.focus(); 
+  } 
+ 
+  function delete_win1 () 
+  { 
+    var w = window.open ("","win1","height=220,width=450,scrollbars,resizable"); 
+    w.close(); 
+  } 
+ 
+  function open_window_ill (loc) 
+  { 
+    if ((navigator.appVersion.indexOf("MSIE 5.0") != -1) && (navigator.appName.indexOf("Explorer") != -1)){ 
+  var w = window.open ("","win1","height=500,width=500,scrollbars,resizable"); 
+     w.document.write("<html>\n"); 
+     w.document.write('<body onLoad="window.location.href='); 
+     w.document.write("'" + loc + "';\n"); 
+     w.document.write('"'); 
+     w.document.write("</body>\n"); 
+     w.document.write("</html>\n"); 
+     w.document.close(); 
+    } else { 
+    var w = window.open (loc,"win1","height=500,width=500,scrollbars,resizable"); 
+    } 
+    w.focus(); 
+  } 
+ 
+// --> 
+</script>
+</head>
+<body topmargin="0">
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="gl_header" width="940">
+<tr>
+<td><img alt="" border="0" height="1" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/spacer.gif" width="123"/></td>
+<td><img alt="" border="0" height="1" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/spacer.gif" width="610"/></td>
+<td><img alt="" border="0" height="1" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/spacer.gif" width="103"/></td>
+<td><img alt="" border="0" height="1" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/spacer.gif" width="104"/></td>
+<td><img alt="" border="0" height="1" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/spacer.gif" width="1"/></td>
+</tr>
+<tr>
+<td rowspan="4"><img alt="" border="0" height="114" id="index3_r1_c1" name="index3_r1_c1" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/index3-_r1_c1.jpg" usemap="#index3_r1_c1Map" width="123"/></td>
+<td><img alt="" border="0" height="27" id="index3_r1_c2" name="index3_r1_c2" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/index3-_r1_c2.jpg" usemap="#index3_r1_c2Map" width="610"/></td>
+<td class="login" colspan="2">
+<!-- <a href="http://aleph.nsk.hr:8992/F/?func=file&file_name=login-session">Prijava</a> -->
+</td>
+<td><img alt="" border="0" height="27" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/1.gif" width="1"/></td>
+</tr>
+<tr>
+<td rowspan="2"><img alt="" border="0" height="54" id="index3_r2_c2" name="index3_r2_c2" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/index3-_r2_c2.jpg" width="610"/></td>
+<td><img alt="" border="0" height="26" id="index3_r2_c3" name="index3_r2_c3" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/index3-_r2_c3.jpg" usemap="#index3_r2_c3Map" width="103"/></td>
+<td><img alt="" border="0" height="26" id="index3_r2_c4" name="index3_r2_c4" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/index3-_r2_c4.jpg" usemap="#index3_r2_c4Map" width="104"/></td>
+<td><img alt="" border="0" height="26" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/2.jpg" width="1"/></td>
+</tr>
+<tr>
+<td style="background-color:#EBEBEB;"><img alt="" border="0" height="28" id="index3_r3_c3" name="index3_r3_c3" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/index3-_r3_c3.jpg" style="display:none;" usemap="#index3_r3_c3Map" width="103"/></td>
+<td><img alt="" border="0" height="28" id="index3_r3_c4" name="index3_r3_c4" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/index3-_r3_c4.jpg" usemap="#index3_r3_c4Map" width="104"/></td>
+<td><img alt="" border="0" height="28" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/3.jpg" width="1"/></td>
+</tr>
+<tr>
+<td class="popis_b_b">
+<span class="baza_podataka">Baza podataka: NSK normativna baza</span>
+<a class="popis" href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03590?func=file&amp;file_name=base-list">Popis baza podataka</a>
+</td>
+<td colspan="2"><img alt="" border="0" height="33" id="index3_r4_c3" name="index3_r4_c3" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/index3-_r4_c3.jpg" usemap="#index3_r4_c3Map" width="207"/></td>
+<td><img alt="" border="0" height="33" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/4.jpg" width="1"/></td>
+</tr>
+<tr>
+<td class="glavni_linkovi" colspan="4">
+<span class="glavni_linkovi_razmak">
+<a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03591?func=find-e-0">PRETRAŽIVANJE</a> | <a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03592?func=short">POPIS REZULTATA</a> | <a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03593?func=history">PRETHODNA PRETRAŽIVANJA</a> <!--| <a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03594?func=myshelf-short">MOJA E-POLICA</a>-->
+</span>
+</td>
+<td><img alt="" border="0" height="25" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/slike_t/spacergrey.jpg" width="1"/></td>
+</tr>
+<tr>
+<td align="center" class="feedbackbar" colspan="16" height="20" nowrap="" valign="middle"> 
+       </td>
+</tr>
+<tr>
+<!--<td valign="middle" height="20" background="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/f-spacer.jpg" colspan="16">--> 
+        
+    
+</tr>
+</table>
+<map id="index3_r1_c2Map" name="index3_r1_c2Map">
+<area coords="9,5,437,23" href="http://www.nsk.hr" shape="rect"/>
+</map>
+<map id="index3_r1_c1Map" name="index3_r1_c1Map">
+<area coords="20,16,102,98" href="http://www.nsk.hr" shape="rect"/>
+</map>
+<map id="index3_r2_c3Map" name="index3_r2_c3Map">
+<area alt="PoÃ¨etna" coords="13,4,86,24" href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03595?func=file&amp;file_name=logout" shape="rect"/>
+</map>
+<!--<map name="index3_r2_c4Map" id="index3_r2_c4Map"> 
+  <area shape="rect" coords="11,2,88,23" href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03596?func=option-show&func_param=DISPLAY-OPTION" alt="Postavke" /> 
+</map>-->
+<!--<map name="index3_r3_c3Map" id="index3_r3_c3Map"> 
+  <area shape="rect" coords="12,4,98,27" href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03597?func=file&file_name=feedback" alt="Piite nam" /> 
+</map>-->
+<map id="index3_r3_c4Map" name="index3_r3_c4Map">
+<area alt="PomoÃ¦" coords="12,4,78,25" href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03598?func=file&amp;file_name=help-1" shape="rect" target="_blank"/>
+</map>
+<map id="index3_r4_c3Map" name="index3_r4_c3Map">
+<area <table="" alt="Pitajte knjiniÃ¨ara" border="0" cellpadding="0" cellspacing="0" class="lf" coords="16,5,142,28" href="https://nsk.hr/pitajte-knjiznicara-opci-upit/" onclick="MM_openBrWindow('#','','toolbar=yes,status=yes,width=467,height=387')" shape="rect" target="blank" width="943px"/>
+<tr>
+<!-- <td class="glavni_linkovi" align="center" nowrap><span class="glavni_linkovi_razmak"> 
+    &nbsp;</span> 
+  </td> 
+  <td class="glavni_linkovi"  nowrap> 
+               <span class="glavni_linkovi_razmak"><a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03599?func=title-request-form&bib_doc_number=" 
+               title="Create Title Request"> 
+               Narud&#382;ba</a></span> 
+  </td> 
+  <td class="glavni_linkovi"  nowrap><span class="glavni_linkovi_razmak"> 
+               &nbsp;|&nbsp;</span> 
+  </td>-->
+<!--<td class="glavni_linkovi"  nowrap> 
+      <span class="glavni_linkovi_razmak"><a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03600?func=myshelf-add-ful-1&doc_library=&doc_number=" 
+               title="Add to My e-Shelf" > 
+               Dodaj u Moju e-policu</a></span> |-->
+<!--<td class="glavni_linkovi"  nowrap> 
+      <a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03601?func=booking_req_form_bib&bib_library=&bib_doc_number=&start_date=&exact_item=N" 
+               title="Booking" class="blue"> 
+               Booking</a> 
+  </td> 
+  <td class="glavni_linkovi"  nowrap> 
+               &nbsp;|&nbsp; 
+  </td> 
+ 
+  <td class="glavni_linkovi_razmak"  nowrap> 
+               &nbsp;|&nbsp; 
+  </td> 
+  <td class="glavni_linkovi"  nowrap> 
+      <span class="glavni_linkovi_razmak"><a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03602?func=short-locate-list&doc_number=" 
+               title="Locate in other databases"> 
+               Posjedovanje</a></span> 
+  </td>-->
+<td class="glavni_linkovi" nowrap="">
+<span class="glavni_linkovi_razmak">
+<a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03603?func=full-mail-0&amp;doc_library=&amp;doc_number=" title="Save/Mail"> 
+               Pohranite / Pošaljite e-poštom</a></span>
+</td>
+<!--<td class="glavni_linkovi"  nowrap> 
+               <span class="glavni_linkovi_razmak">&nbsp;|&nbsp;</span> 
+  </td> 
+  <td class="glavni_linkovi"  nowrap> 
+     <span class="glavni_linkovi_razmak"><a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03604?func=save-server-0&set_number=&set_entry=" 
+        title="Save on Server"> 
+        Snimi na server</a></span> 
+   </td> 
+  <td class="glavni_linkovi"  nowrap> 
+              <span class="glavni_linkovi_razmak"> &nbsp;|&nbsp;</span> 
+  </td>-->
+<!--<td class="glavni_linkovi"  valign="bottom" nowrap> 
+     <span class="glavni_linkovi_razmak"> <div id="sfx_button"></div> 
+      </span> 
+  </td> 
+   </td> 
+  <td class="glavni_linkovi"  nowrap> 
+               <span class="glavni_linkovi_razmak">&nbsp;|&nbsp;</span> 
+  </td> 
+ 
+   <td class="glavni_linkovi"  nowrap> 
+      <span class="glavni_linkovi_razmak"><a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03605?func=acq-request-doc&doc_library=&source_doc=" 
+              title="Create Acq Request"> 
+              Prijedlog za nabavu</a>   </span> 
+  </td> 
+   <td class="glavni_linkovi"  nowrap> 
+              <span class="glavni_linkovi_razmak"> &nbsp;|&nbsp;</span> 
+  </td> 
+ 
+  <td class="bar" align="center" nowrap> 
+      <a href=https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03606?func=new-ill-request-l&doc_library=&doc_number= title="ILL Request" class=blue> 
+       ILL Request</a> 
+  </td> 
+  <td class="glavni_linkovi"  nowrap> 
+   <span class="glavni_linkovi_razmak"> &nbsp;</span> 
+  </td>-->
+</tr>
+<table width="943">
+<tr><td>
+<p class="title"> 
+  Prikaz:</p></td>
+</tr></table>
+<table class="t_sadrzaj" width="923px">
+<tr>
+<td class="text1">Prikaz: 
+ 
+    <a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03607?func=direct&amp;doc_number=000386800&amp;format=999"> 
+    Cjeloviti prikaz</a> |<!-- x 
+ 
+ 
+    <a href=https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03608?func=direct&doc_number=000386800&format=037> 
+     Katalo&#382;ni listi&#263;</a>  | 
+ 
+ 
+    <a href=https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03609?func=direct&doc_number=000386800&format=040> 
+    Bibliografska bilje&scaron;ka</a>   | 
+ 
+        <td class="text1"> 
+     <a href=https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03610?func=full-set-set&set_number=&set_entry=&format=002> 
+      Name tags</a> 
+  </td>-->
+<a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03611?func=direct&amp;doc_number=000386800&amp;format=001"> 
+    MARC</a>
+</td>
+</tr></table><br/>
+<table align="center" class="t_sadrzaj" width="923">
+<tr>
+<td class="text1"> 
+    Zapis 000386800 od  
+    NSK10    
+  </td>
+</tr>
+</table><p>
+<table align="center" border="0" cellspacing="2" class="t_sadrzaj" width="923"></table></p>
+<!-- filename: full-999-bodyx -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+    Sistemski broj   
+  </td>
+<td align="left" class="td1"> 
+    000386800 
+  </td>
+</tr>
+<!-- filename: full-999-bodyx -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+    Odrednica   
+  </td>
+<td align="left" class="td1">
+<img alt="" border="0" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/f-separator.gif"/><a href='javascript:open_window("https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03612?func=service&amp;doc_number=000386800&amp;line_number=0011&amp;service_type=TAG");'>Trump, Donald J.</a>
+</td>
+</tr>
+<!-- filename: full-999-bodyx -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+    Neusvojeni oblik   
+  </td>
+<td align="left" class="td1"> 
+    Trump, Donald John 
+  </td>
+</tr>
+<!-- filename: full-999-bodyx -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+       
+  </td>
+<td align="left" class="td1"> 
+    Trump, Donald 
+  </td>
+</tr>
+<!-- filename: full-999-bodyx -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+       
+  </td>
+<td align="left" class="td1"> 
+    Trump 
+  </td>
+</tr>
+<!-- filename: full-999-bodyx -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+    Biografski podaci   
+  </td>
+<td align="left" class="td1"> 
+    AmeriÄki poduzetnik, politiÄar, drÅ¾avnik. RoÄen 14. 6. 1946. u New Yorku. 
+  </td>
+</tr>
+<!-- filename: full-999-body-media -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+    Pristup   
+  </td>
+<iframe frameborder="0" height="0" id="XX" title="XX" width="0"></iframe>
+<td align="left" class="td1">
+<a href='javascript:open_window("https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03613?func=service&amp;doc_library=NSK10&amp;doc_number=000386800&amp;line_number=0001&amp;func_code=WEB-FULL&amp;service_type=MEDIA");'><img alt=" " border="0" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/f-tn-link.jpg" title="Title: Hrvatska enciklopedija online (Trump, Donald), File Extension: url"/>Hrvatska enciklopedija online (Trump, Donald)</a>  
+  </td>
+</tr>
+<!-- filename: full-999-body-media -->
+<tr>
+<td class="td1" id="bold" nowrap="" valign="top" width="15%"> 
+       
+  </td>
+<iframe frameborder="0" height="0" id="XX" title="XX" width="0"></iframe>
+<td align="left" class="td1">
+<a href='javascript:open_window("https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03614?func=service&amp;doc_library=NSK10&amp;doc_number=000386800&amp;line_number=0002&amp;func_code=WEB-FULL&amp;service_type=MEDIA");'><img alt=" " border="0" src="https://katalog.nsk.hr/exlibris/aleph/u23_1/alephe/www_f_hrv/icon/f-tn-link.jpg" title="Title: Wikipedija (Donald Trump), File Extension: url"/>Wikipedija (Donald Trump)</a>  
+  </td>
+</tr>
+<!-- filename: direct-tail  -->
+
+
+<br/>
+<table align="center" class="t_sadrzaj" width="923px">
+<tr>
+<td class="text1">Prikaz: 
+ 
+    <a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03615?func=full-set-set&amp;set_number=&amp;set_entry=&amp;format=999"> 
+    Cjeloviti prikaz</a> | <!-- 
+ 
+    <a href=https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03616?func=full-set-set&set_number=&set_entry=&format=037> 
+     Katalo&#382;ni listi&#263;</a> | 
+ 
+    <a href=https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03617?func=full-set-set&set_number=&set_entry=&format=040> 
+    Bibliografska bilje&scaron;ka</a> | 
+ 
+  <td class="text1"> 
+     <a href=https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03618?func=full-set-set&set_number=&set_entry=&format=002> 
+      Name tags</a> 
+  </td>-->
+<a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03619?func=full-set-set&amp;set_number=&amp;set_entry=&amp;format=001"> 
+    MARC</a>
+</td>
+</tr></table>
+<p>
+<table border="0" cellspacing="2" width="943"><br/></table></p>
+<!-- tail-bar-include -->
+<table <div="" align="center" class="text1" width="960px">
+<a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03620?func=file&amp;file_name=logout">Početna</a> - 
+<a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03621?func=option-show&amp;func_param=DISPLAY-OPTION">Postavke</a> - 
+<a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03622?func=file&amp;file_name=feedback">Pišite nam</a> - 
+<a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03623?func=file&amp;file_name=help-1" target="new">Pomoć</a> - 
+<!--<a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03624?func=ill-request-1&request_type=ill-book-request">ILL</a> - 
+<a href="http://www.exlibris-usa.com" target=new>Ex Libris</a> - 
+<a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03625?func=scan-list">Browse</a> - -->
+<a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03626?func=file&amp;file_name=find-b">Pretraživanje</a> - 
+<a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03627?func=short">Popis rezultata</a> - 
+<a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03628?func=history">Prethodna pretraživanja</a> - 
+<a href="https://katalog.nsk.hr:443/F/P52184K8P6NB5ADDE5I2AT2J99MYSQRUFREV65886LUA3N6FQ6-03629?func=file&amp;file_name=base-list">Odaberite drugu bazu</a>
+
+</table>
+<!-- filename: copyrights -->
+<br/>
+<p class="copyright"> 
+© Nacionalna i sveučilišna knjižnica u Zagrebu 2025. Sva prava pridržana. | Ul. Hrvatske bratske zajednice 4 p.p. 550, 10000 Zagreb. HRVATSKA | Tel. ++ 385 1 616-4040 
+</p>
+<a href="http://katalog.nsk.hr/F/?func=file&amp;file_name=izjava-o-pristupacnosti" style="display:block; text-align:center; font-size:12px;" target="_blank">Izjava o pristupačnosti</a>
+</map></body>
+</html>
+

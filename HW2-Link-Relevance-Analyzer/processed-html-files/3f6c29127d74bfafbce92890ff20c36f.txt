@@ -1,0 +1,16 @@
+Former Presidents
+Official U.S. data go back to 1913 for a consumer price index (CPI) comparable to what the U.S. Bureau of Labor Statistics (BLS) still calculates today. You can use the Minneapolis Fed’s inflation calculator to instantly compare the buying power of past and present dollars back to 1913.
+The table below reflects the following historical series as initially compiled by the BLS for the Handbook of Labor Statistics , with modern CPI data from 1913 to the present day:
+1800 to 1851 - Index of Prices Paid by Vermont Farmers for Family Living
+1851 to 1890 - Consumer Price Index by Ethel D. Hoover
+1890 to 1912 - Cost of Living Index by Albert Rees
+1913 to 1977 - Consumer Price Index (CPI)
+1978 to present - Consumer Price Index for all Urban Consumers (CPI-U)
+Article
+Read President Kashkari's message
+The data below use 1967 as the index (1967=100). With the caveat that data before 1913 should be considered estimates, you can use the Annual Average Index numbers below (center column) to make manual calculations of inflation over time. To find out how much a price in Year 1 would be in Year 2 dollars:
+Year 2 Price = Year 1 Price x (Year 2 CPI/Year 1 CPI)
+Year
+Annual Percent Change (rate of inflation)
+1800
+

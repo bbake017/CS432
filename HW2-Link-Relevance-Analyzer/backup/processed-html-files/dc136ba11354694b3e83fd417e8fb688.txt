@@ -1,0 +1,25 @@
+PIRCH (Windows 95)
+Most chat clients are shareware with a free trial period, so you might want to explore one or two to find the one that suits your needs.
+To begin chatting with us...
+Launch your chat client application Connect to CNN's server located at chat.cnn.com. Be sure to specify port 6667. Display the room list and join the CNN chat room.
+Connection problems?
+If you are having problems connecting to our CNN Chat room
+from your company's Internet connection, it is possible you are
+behind a corporate firewall. Many companies install protection devices
+known as firewalls to keep employees from accessing certain areas on the
+Internet.  See your client help information for possible ways around your company firewall. If you have trouble connecting to our chat, please feel free to contact us for technical assistance.
+How to watch the Webcast
+CNN Interactive viewers may watch Prime Minister Benjamin Netanyahu and CNN
+Anchor Bernard Shaw as they participate in the chat.  To watch or listen to the
+webcast you will need the VXtreme WebTeater plug-in.  VXtreme plug-ins for
+Windows 95, Windows NT, Power Macintosh, and Solaris are currently available. A
+helper app for Windows 3.11 is also available. Download the plug-in
+Now that you're ready
+On the day of the chat with Netanyahu, connect to the chat room then open your 
+Internet browser and go to CNN.com/community/netanyahu. From 
+there you can view a live Webcast of the chat, add your views to a message board and read up on Prime 
+Minister Netanyahu and Israeli issues.
+© 1998 Cable News Network, Inc. All Rights Reserved.
+Terms under which this
+     service is provided to you.
+

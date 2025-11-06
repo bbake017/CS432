@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+<meta content="yes" name="mobile-web-app-capable"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="FactCheck.org - A Project of The Annenberg Public Policy Center" name="apple-mobile-web-app-title"/>
+<link href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&amp;family=Space+Grotesk:wght@400&amp;display=swap" rel="stylesheet"/>
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<link href="https://www.factcheck.org/xmlrpc.php" rel="pingback"/>
+<link href="/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/manifest.json" rel="manifest"/>
+<meta content="#ffffff" name="msapplication-TileColor"/>
+<meta content="/ms-icon-144x144.png" name="msapplication-TileImage"/>
+<meta content="#ffffff" name="theme-color"/>
+<script async="" src="//dhpikd1t89arn.cloudfront.net/js/include/sharethefacts-v1.js"></script> <meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots">
+<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer="">
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+
+	const gtm4wp_scrollerscript_debugmode         = false;
+	const gtm4wp_scrollerscript_callbacktime      = 100;
+	const gtm4wp_scrollerscript_readerlocation    = 150;
+	const gtm4wp_scrollerscript_contentelementid  = "content";
+	const gtm4wp_scrollerscript_scannertime       = 60;
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- This site is optimized with the Yoast SEO plugin v25.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>What the Mueller Report Says About Obstruction - FactCheck.org</title>
+<link href="https://www.factcheck.org/2019/04/what-the-mueller-report-says-about-obstruction/" rel="canonical">
+<meta content="en_US" property="og:locale">
+<meta content="article" property="og:type">
+<meta content="What the Mueller Report Says About Obstruction - FactCheck.org" property="og:title">
+<meta content="In the hours after the public release of the redacted report from special counsel Robert S. Mueller, President Donald Trump took to Twitter with a message that reads, in part, &quot;NO OBSTRUCTION!&quot; That's not at all what the Mueller report says, though." property="og:description">
+<meta content="https://www.factcheck.org/2019/04/what-the-mueller-report-says-about-obstruction/" property="og:url">
+<meta content="FactCheck.org" property="og:site_name">
+<meta content="https://www.facebook.com/factcheck.org" property="article:publisher">
+<meta content="2019-04-19T02:16:03+00:00" property="article:published_time">
+<meta content="2019-05-24T18:03:32+00:00" property="article:modified_time"/>
+<meta content="https://cdn.factcheck.org/UploadedFiles/robertsmuelleriii.jpg" property="og:image"/>
+<meta content="720" property="og:image:width"/>
+<meta content="307" property="og:image:height"/>
+<meta content="image/jpeg" property="og:image:type"/>
+<meta content="Robert Farley, Lori Robertson, D'Angelo Gore, Saranac Hale Spencer, Angelo Fichera, Jessica McDonald" name="author"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@factcheckdotorg" name="twitter:creator"/>
+<meta content="@factcheckdotorg" name="twitter:site"/>
+<meta content="Written by" name="twitter:label1"/>
+<meta content="Robert Farley, Lori Robertson, D'Angelo Gore, Saranac Hale Spencer, Angelo Fichera, Jessica McDonald" name="twitter:data1"/>
+<meta content="Est. reading time" name="twitter:label2"/>
+<meta content="33 minutes" name="twitter:data2"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.factcheck.org/2019/04/what-the-mueller-report-says-about-obstruction/","url":"https://www.factcheck.org/2019/04/what-the-mueller-report-says-about-obstruction/","name":"What the Mueller Report Says About Obstruction - FactCheck.org","isPartOf":{"@id":"https://www.factcheck.org/#website"},"primaryImageOfPage":{"@id":"https://www.factcheck.org/2019/04/what-the-mueller-report-says-about-obstruction/#primaryimage"},"image":{"@id":"https://www.factcheck.org/2019/04/what-the-mueller-report-says-about-obstruction/#primaryimage"},"thumbnailUrl":"https://cdn.factcheck.org/UploadedFiles/robertsmuelleriii.jpg","datePublished":"2019-04-19T02:16:03+00:00","dateModified":"2019-05-24T18:03:32+00:00","author":{"@id":"https://www.factcheck.org/#/schema/person/3ded3dc4c00993c541f3013e5a7b4fdb"},"breadcrumb":{"@id":"https://www.factcheck.org/2019/04/what-the-mueller-report-says-about-obstruction/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.factcheck.org/2019/04/what-the-mueller-report-says-about-obstruction/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.factcheck.org/2019/04/what-the-mueller-report-says-about-obstruction/#primaryimage","url":"https://cdn.factcheck.org/UploadedFiles/robertsmuelleriii.jpg","contentUrl":"https://cdn.factcheck.org/UploadedFiles/robertsmuelleriii.jpg","width":720,"height":307},{"@type":"BreadcrumbList","@id":"https://www.factcheck.org/2019/04/what-the-mueller-report-says-about-obstruction/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.factcheck.org/"},{"@type":"ListItem","position":2,"name":"What the Mueller Report Says About Obstruction"}]},{"@type":"WebSite","@id":"https://www.factcheck.org/#website","url":"https://www.factcheck.org/","name":"FactCheck.org","description":"A Project of The Annenberg Public Policy Center","inLanguage":"en-US"},{"@type":"Person","@id":"https://www.factcheck.org/#/schema/person/3ded3dc4c00993c541f3013e5a7b4fdb","name":"Robert Farley","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.factcheck.org/#/schema/person/image/adfdd10e4197ff72514739975088917e","url":"https://secure.gravatar.com/avatar/f55590ff6fabc8df454df014e7e3da4cadb22706e245375f1b8686a7a806513b?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/f55590ff6fabc8df454df014e7e3da4cadb22706e245375f1b8686a7a806513b?s=96&d=mm&r=g","caption":"Robert Farley"},"description":"Deputy Director, FactCheck.org","url":"https://www.factcheck.org/author/robert-farley/"}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="//code.jquery.com" rel="dns-prefetch">
+<link href="//assets.factcheck.org" rel="dns-prefetch">
+<link href="https://www.factcheck.org/feed/" rel="alternate" title="FactCheck.org » Feed" type="application/rss+xml">
+<link href="https://assets.factcheck.org/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css">
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="co-authors-plus-coauthors-style-inline-css" type="text/css">
+.wp-block-co-authors-plus-coauthors.is-layout-flow [class*=wp-block-co-authors-plus]{display:inline}
+
+</style>
+<style id="co-authors-plus-avatar-style-inline-css" type="text/css">
+.wp-block-co-authors-plus-avatar :where(img){height:auto;max-width:100%;vertical-align:bottom}.wp-block-co-authors-plus-coauthors.is-layout-flow .wp-block-co-authors-plus-avatar :where(img){vertical-align:middle}.wp-block-co-authors-plus-avatar:is(.alignleft,.alignright){display:table}.wp-block-co-authors-plus-avatar.aligncenter{display:table;margin-inline:auto}
+
+</style>
+<style id="co-authors-plus-image-style-inline-css" type="text/css">
+.wp-block-co-authors-plus-image{margin-bottom:0}.wp-block-co-authors-plus-image :where(img){height:auto;max-width:100%;vertical-align:bottom}.wp-block-co-authors-plus-coauthors.is-layout-flow .wp-block-co-authors-plus-image :where(img){vertical-align:middle}.wp-block-co-authors-plus-image:is(.alignfull,.alignwide) :where(img){width:100%}.wp-block-co-authors-plus-image:is(.alignleft,.alignright){display:table}.wp-block-co-authors-plus-image.aligncenter{display:table;margin-inline:auto}
+
+</style>
+<link href="https://assets.factcheck.org/wp-includes/css/dashicons.min.css?ver=6.8.2" id="dashicons-css" media="all" rel="stylesheet" type="text/css">
+<style id="global-styles-inline-css" type="text/css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link href="https://assets.factcheck.org/wp-content/themes/factcheckstrap/css/child-theme.min.css?ver=1.2.3" id="child-understrap-styles-css" media="all" rel="stylesheet" type="text/css">
+<link href="https://assets.factcheck.org/wp-content/plugins/social-pug/assets/dist/style-frontend-pro.css?ver=2.26.2" id="dpsp-frontend-style-pro-css" media="all" rel="stylesheet" type="text/css">
+<style id="dpsp-frontend-style-pro-inline-css" type="text/css">
+
+				@media screen and ( max-width : 720px ) {
+					.dpsp-content-wrapper.dpsp-hide-on-mobile,
+					.dpsp-share-text.dpsp-hide-on-mobile {
+						display: none;
+					}
+					.dpsp-has-spacing .dpsp-networks-btns-wrapper li {
+						margin:0 2% 10px 0;
+					}
+					.dpsp-network-btn.dpsp-has-label:not(.dpsp-has-count) {
+						max-height: 40px;
+						padding: 0;
+						justify-content: center;
+					}
+					.dpsp-content-wrapper.dpsp-size-small .dpsp-network-btn.dpsp-has-label:not(.dpsp-has-count){
+						max-height: 32px;
+					}
+					.dpsp-content-wrapper.dpsp-size-large .dpsp-network-btn.dpsp-has-label:not(.dpsp-has-count){
+						max-height: 46px;
+					}
+				}
+			
+</style>
+<script id="gtm4wp-scroll-tracking-js" src="https://assets.factcheck.org/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/analytics-talk-content-tracking.js?ver=1.22.1" type="text/javascript"></script>
+<script id="popper-scripts-js" src="https://assets.factcheck.org/wp-content/themes/understrap/js/popper.min.js?ver=6.8.2" type="text/javascript"></script>
+<link href="https://www.factcheck.org/wp-json/" rel="https://api.w.org/"><link href="https://www.factcheck.org/wp-json/wp/v2/posts/156313" rel="alternate" title="JSON" type="application/json"><link href="https://www.factcheck.org/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml">
+<meta content="WordPress 6.8.2" name="generator"/>
+<link href="https://www.factcheck.org/?p=156313" rel="shortlink">
+<link href="https://www.factcheck.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.factcheck.org%2F2019%2F04%2Fwhat-the-mueller-report-says-about-obstruction%2F" rel="alternate" title="oEmbed (JSON)" type="application/json+oembed">
+<link href="https://www.factcheck.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.factcheck.org%2F2019%2F04%2Fwhat-the-mueller-report-says-about-obstruction%2F&amp;format=xml" rel="alternate" title="oEmbed (XML)" type="text/xml+oembed">
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to automatic -->
+<script data-cfasync="false" data-pagespeed-no-defer="">
+	var dataLayer_content = {"pagePostType":"post","pagePostType2":"single-post","pageCategory":["the-factcheck-wire","featured-posts"],"pagePostAuthor":"Robert Farley"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false" data-pagespeed-no-defer="">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PFGD5J2');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><meta description="Hubbub Pro 2.26.2" name="hubbub-info"/></link></link></link></link></link></link></link></link></link></link></link></link></link></meta></meta></meta></meta></meta></meta></meta></meta></link></meta></head>
+<body class="wp-singular post-template-default single single-post postid-156313 single-format-standard wp-theme-understrap wp-child-theme-factcheckstrap group-blog">
+<svg role="img" style="display: none;" xmlns="http://www.w3.org/2000/svg">
+<symbol id="facebook" viewbox="0 0 48.01 47.89">
+<title>Facebook</title>
+<path d="M42,0H6A6,6,0,0,0,0,6V41.91a6,6,0,0,0,6,6H25.93V28.53H21.56V21.8H25.8c0-2,0-3.76,0-5.6,0-5.3,4.07-6.84,7.73-6.84H39.7V16H36.12c-.13,0-2.31-.12-2.31,2,0,.85,0,3.8,0,3.8h5.91l-.48,6.62H34v19.5H42a6,6,0,0,0,6-6V6A6,6,0,0,0,42,0Z"></path>
+</symbol>
+<symbol id="twitter" viewbox="0 0 48 48">
+<title>Twitter</title>
+<path d="M42,0H6A6,6,0,0,0,0,6V42a6,6,0,0,0,6,6H42a6,6,0,0,0,6-6V6A6,6,0,0,0,42,0ZM37.11,18q0,.4,0,.81c0,8.26-6.28,17.77-17.77,17.77a17.68,17.68,0,0,1-9.58-2.81A12.58,12.58,0,0,0,19,31.17a6.25,6.25,0,0,1-5.84-4.34,6.33,6.33,0,0,0,1.18.11A6.21,6.21,0,0,0,16,26.72a6.25,6.25,0,0,1-5-6.12v-.08a6.22,6.22,0,0,0,2.83.78A6.25,6.25,0,0,1,11.9,13a17.74,17.74,0,0,0,12.88,6.53,6.31,6.31,0,0,1-.16-1.42,6.25,6.25,0,0,1,10.81-4.28,12.48,12.48,0,0,0,4-1.52,6.27,6.27,0,0,1-2.75,3.46,12.47,12.47,0,0,0,3.59-1A12.72,12.72,0,0,1,37.11,18Z"></path>
+</symbol>
+<symbol id="tumblr" viewbox="0 0 47.92 47.92">
+<title>Tumblr</title>
+<path d="M41.93,0H6A6,6,0,0,0,0,6V41.93a6,6,0,0,0,6,6H41.93a6,6,0,0,0,6-6V6A6,6,0,0,0,41.93,0ZM34.71,39.33A26.58,26.58,0,0,1,26,40.61c-5.35,0-7.83-2.81-7.83-6.14V21.07H14V16.84s6.88-2.49,6.93-9.53h4.39v8.52h8.47v5.35H25.29v11s-.16,6.14,9.42,1.9Z"></path>
+</symbol>
+<symbol id="modal-close" preserveaspectratio="xMidYMid meet" viewbox="0 0 112 112" xmlns="http://www.w3.org/2000/svg">
+<title>Close</title>
+<path d="M3 3l105 105m0-105L3 108" fill="none" stroke="#000" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="15"></path>
+</symbol>
+<symbol id="arrow" preserveaspectratio="xMidYMid meet" viewbox="0 0 50 28">
+<path d="M0 14h43M36 0l14 14-14 13" fill="none" stroke="#231f20" stroke-miterlimit="10"></path>
+</symbol>
+</svg>
+<svg style="display: none;" viewbox="0 0 136.9 108.9" xmlns="http://www.w3.org/2000/svg">
+<symbol id="factcheck-logo" viewbox="0 0 136.9 108.9">
+<path class="fc-blue" d="M137 29.2H0V109h137zm-7 72.8H7v-.3a107.2 107.2 0 0 1 30.3-17.3C60 76.2 70.6 77 70.6 77s.3-4.8-2.4-13c-1.6-4.4-4-10-9.5-19l-23 35.8L7 67.2V41.4L30 55l27.3-25.8H69l-4.6 7H130z"></path><path class="fc-red" d="M62 40l2.4-4H130v5.4s-9.4 3-13.8 4S104 48 96.6 48l-29 .2a30.5 30.5 0 0 0-2.6-4.6 36.2 36.2 0 0 0-3-3.7zm12 21.6l16.8-.4a149 149 0 0 0 24-3.3l15.2-5v14s-4 1.7-7 2.6c-4 1.4-14.5 3.2-18 3.6l-26.5 3s-1-4.6-1.8-7.5-2.5-7-2.5-7zM96.5 102h-57s8.3-4 14.2-6.2a220.3 220.3 0 0 1 26-7.3c6-1 17-2.7 24.7-3.4s25.6-5 25.6-5v14l-11.3 3-22 5z"></path><path class="fc-blue" d="M87.8 0L57.4 29.2H69L88 0"></path>
+</symbol>
+</svg>
+<a class="sr-only sr-only-focusable" href="#main">Skip to main content</a>
+<div class="hfeed site" id="page">
+<!-- ******************* The Navbar Area ******************* -->
+<div class="container container-branding container-branding-xl">
+<div class="row">
+<div class="col-7 col-xl-9">
+<a aria-label="FactCheck.org" class="logo" href="https://www.factcheck.org/" rel="home">
+<svg class="d-none d-md-inline-flex d-lg-inline-flex d-xl-inline-flex">
+<use xlink:href="#factcheck-logo">
+</use></svg>
+<!--[if lt IE 9]>
+            <img src="/img/logomark.png" alt="FactCheck.org">
+          <![endif]-->
+<span class="logotype">
+            FactCheck<span class="text-fc-red">.org</span><sup>®</sup>
+</span>
+</a>
+<span class="appc-credit">A Project of The Annenberg Public Policy Center</span>
+</div>
+<div class="d-none d-md-inline col-5 col-xl-3">
+<div class="fc-social-media-header">
+<div class="fc-social-media-header-icon">
+<a href="https://www.facebook.com/factcheck.org">
+<img alt="Become a Facebook fan" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-facebook-mini.png"/>
+</a>
+</div>
+<div class="fc-social-media-header-icon">
+<a href="https://www.x.com/factcheckdotorg">
+<img alt="Follow us on Twitter" src="https://cdn.factcheck.org/UploadedFiles/x-icon-logo-black.png"/>
+</a>
+</div>
+<div class="fc-social-media-header-icon">
+<a href="https://www.factcheck.org/feed/">
+<img alt="Get the RSS feed" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-rss.png"/>
+</a>
+</div>
+<div class="fc-social-media-header-icon">
+<a href="https://www.instagram.com/factcheckorg/">
+<img alt="Follow on Insta" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-instagram-1.png"/>
+</a>
+</div>
+<div class="fc-social-media-header-icon">
+<a href="https://www.factcheck.org/subscribe/">
+<img alt="Sign up for the email newsletter" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-email.png"/>
+</a>
+</div>
+<div class="fc-social-media-header-icon">
+<a href="https://giving.aws.cloud.upenn.edu/?fastStart=simpleForm&amp;program=ANS&amp;fund=602014">
+<img alt="Help us hold politicians accountable. " src="https://cdn.factcheck.org/UploadedFiles/fc-icon-donate.png"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wrapper-fluid wrapper-navbar" id="wrapper-navbar">
+<nav class="navbar navbar-expand-md navbar-light bg-light">
+<div class="container">
+<button aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarNavDropdown" data-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"></span>
+</button>
+<a aria-label="FactCheck.org" class="logo logo-xs" href="https://www.factcheck.org/" rel="home">
+<span class="logotype">
+              FactCheck<span class="text-fc-red">.org</span><sup>®</sup>
+</span>
+</a>
+<!-- The WordPress Menu goes here -->
+<div class="collapse navbar-collapse" id="navbarNavDropdown"><ul class="navbar-nav" id="main-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-75121 nav-item" id="menu-item-75121" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org" title="Home">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-75124 nav-item" id="menu-item-75124" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" id="menu-item-dropdown-75124" title="Articles">Articles</a>
+<ul aria-labelledby="menu-item-dropdown-75124" class="dropdown-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46900 nav-item" id="menu-item-46900" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/the-factcheck-wire/" title="FactCheck Posts">FactCheck Posts</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-121568 nav-item" id="menu-item-121568" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/scicheck/" title="SciCheck">SciCheck</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-125157 nav-item" id="menu-item-125157" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/fake-news/" title="Debunking Viral Claims">Debunking Viral Claims</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-200446 nav-item" id="menu-item-200446" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/es/en-espanol/" title="En Español">En Español</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-121564 nav-item" id="menu-item-121564" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" id="menu-item-dropdown-121564" title="Ask a Question">Ask a Question</a>
+<ul aria-labelledby="menu-item-dropdown-121564" class="dropdown-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75166 nav-item" id="menu-item-75166" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/askfactcheck/" title="Ask FactCheck">Ask FactCheck</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-121565 nav-item" id="menu-item-121565" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/askscicheck/" title="Ask SciCheck">Ask SciCheck</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-135871 nav-item" id="menu-item-135871" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://giving.aws.cloud.upenn.edu/fund?fastStart=simpleForm&amp;program=ANS&amp;fund=602014" title="Donate">Donate</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-75144 nav-item" id="menu-item-75144" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" id="menu-item-dropdown-75144" title="Topics">Topics</a>
+<ul aria-labelledby="menu-item-dropdown-75144" class="dropdown-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-person menu-item-197214 nav-item" id="menu-item-197214" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/person/donald-trump/" title="President Trump">President Trump</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-issue menu-item-232361 nav-item" id="menu-item-232361" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/issue/health/" title="health">health</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174394 nav-item" id="menu-item-174394" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/a-guide-to-our-coronavirus-coverage/" title="Coronavirus">Coronavirus</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-issue menu-item-199652 nav-item" id="menu-item-199652" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/issue/immigration/" title="immigration">immigration</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-issue menu-item-101750 nav-item" id="menu-item-101750" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/issue/climate-change/" title="climate change">climate change</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46906 nav-item" id="menu-item-46906" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/archives/" title="View All">View All</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-75727 nav-item" id="menu-item-75727" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" id="menu-item-dropdown-75727" title="About Us">About Us</a>
+<ul aria-labelledby="menu-item-dropdown-75727" class="dropdown-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75731 nav-item" id="menu-item-75731" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/about/our-mission/" title="Our Mission">Our Mission</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117787 nav-item" id="menu-item-117787" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/our-process/" title="Our Process">Our Process</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75730 nav-item" id="menu-item-75730" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/our-funding/" title="Our Funding">Our Funding</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75728 nav-item" id="menu-item-75728" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/our-staff/" title="Our Staff">Our Staff</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103776 nav-item" id="menu-item-103776" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/undergraduate-fellows/" title="Undergraduate Fellows">Undergraduate Fellows</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76678 nav-item" id="menu-item-76678" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/awards/" title="Awards">Awards</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156842 nav-item" id="menu-item-156842" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/request-a-correction/" title="Request a Correction">Request a Correction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75729 nav-item" id="menu-item-75729" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/about/contact-us/" title="Contact Us">Contact Us</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75130 nav-item" id="menu-item-75130" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/search/" title="Search">Search</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-75125 nav-item" id="menu-item-75125" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" id="menu-item-dropdown-75125" title="More">More</a>
+<ul aria-labelledby="menu-item-dropdown-75125" class="dropdown-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46786 nav-item" id="menu-item-46786" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/hot-topics/" title="Viral Claims">Viral Claims</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171642 nav-item" id="menu-item-171642" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/subscribe/" title="Subscribe">Subscribe</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-209955 nav-item" id="menu-item-209955" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.instagram.com/factcheckorg/" title="Instagram">Instagram</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-254261 nav-item" id="menu-item-254261" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.threads.net/@factcheckorg" title="Threads">Threads</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-253367 nav-item" id="menu-item-253367" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.youtube.com/factcheckdotorg" title="YouTube">YouTube</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-209954 nav-item" id="menu-item-209954" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://twitter.com/factcheckdotorg" title="X (Twitter)">X (Twitter)</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-209953 nav-item" id="menu-item-209953" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.facebook.com/factcheck.org" title="Facebook">Facebook</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-253366 nav-item" id="menu-item-253366" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.tiktok.com/@factcheckorg" title="TikTok">TikTok</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75126 nav-item" id="menu-item-75126" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/on-the-air/" title="FactCheck On the Air">FactCheck On the Air</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46908 nav-item" id="menu-item-46908" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" href="https://www.factcheck.org/factcheck-mailbag/" title="Mailbag">Mailbag</a></li>
+</ul>
+</li>
+</ul></div> </div><!-- .container -->
+</nav><!-- .site-navigation -->
+</div><!-- .wrapper-navbar end -->
+<div class="wrapper" id="single-wrapper">
+<div class="container" id="content" tabindex="-1">
+<header class="entry-header">
+<div class="breadcrumb-category"><a href="https://www.factcheck.org/the-factcheck-wire/">FactCheck Posts</a> › 
+	<a href="https://www.factcheck.org/featured-posts/">Featured Posts</a></div>
+<h1 class="entry-title">What the Mueller Report Says About Obstruction</h1>
+<div class="entry-meta">
+<p class="byline"> By <a class="author url fn" href="https://www.factcheck.org/author/robert-farley/" rel="author" title="Posts by Robert Farley">Robert Farley</a>, <a class="author url fn" href="https://www.factcheck.org/author/lori-robertson/" rel="author" title="Posts by Lori Robertson">Lori Robertson</a>, <a class="author url fn" href="https://www.factcheck.org/author/dangelo-gore/" rel="author" title="Posts by D'Angelo Gore">D'Angelo Gore</a>, <a class="author url fn" href="https://www.factcheck.org/author/saranac-hale-spencer/" rel="author" title="Posts by Saranac Hale Spencer">Saranac Hale Spencer</a>, <a class="author url fn" href="https://www.factcheck.org/author/angelo-fichera/" rel="author" title="Posts by Angelo Fichera">Angelo Fichera</a> and <a class="author url fn" href="https://www.factcheck.org/author/jessica-mcdonald/" rel="author" title="Posts by Jessica McDonald">Jessica McDonald</a></p><p class="posted-on">Posted on <time class="entry-date published updated" datetime="2019-04-18T21:16:03-04:00">April 18, 2019</time></p>
+</div><!-- .entry-meta -->
+</header><!-- .entry-header -->
+<hr/>
+<div class="row">
+<!-- Do the left sidebar check -->
+<div class="col-lg-8 content-area" id="primary">
+<main class="site-main" id="main">
+<!-- Show the language switcher -->
+<article class="post-156313 post type-post status-publish format-standard has-post-thumbnail hentry category-the-factcheck-wire category-featured-posts location-national issue-mueller-report issue-obstruction-of-justice person-donald-trump grow-content-body" id="post-156313">
+<div class="entry-content">
+<div class="dpsp-content-wrapper dpsp-shape-rectangular dpsp-size-small dpsp-has-spacing dpsp-has-buttons-count dpsp-show-on-mobile dpsp-button-style-1" id="dpsp-content-top" style="min-height:32px;position:relative">
+<ul class="dpsp-networks-btns-wrapper dpsp-networks-btns-share dpsp-networks-btns-content dpsp-column-auto dpsp-has-button-icon-animation" style="padding:0;margin:0;list-style-type:none">
+<li class="dpsp-network-list-item dpsp-network-list-item-facebook" style="float:left">
+<a aria-label="Share on Facebook" class="dpsp-network-btn dpsp-facebook dpsp-has-count dpsp-first dpsp-has-label-mobile" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.factcheck.org%2F2019%2F04%2Fwhat-the-mueller-report-says-about-obstruction%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-pug&amp;t=What%20the%20Mueller%20Report%20Says%20About%20Obstruction" rel="nofollow noopener" style="font-size:14px;padding:0rem;max-height:32px" target="_blank" title="Share on Facebook"> <span class="dpsp-network-icon"><span class="dpsp-network-icon-inner"><svg height="32" version="1.1" viewbox="0 0 18 32" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M17.12 0.224v4.704h-2.784q-1.536 0-2.080 0.64t-0.544 1.92v3.392h5.248l-0.704 5.28h-4.544v13.568h-5.472v-13.568h-4.544v-5.28h4.544v-3.904q0-3.328 1.856-5.152t4.96-1.824q2.624 0 4.064 0.224z"></path></svg></span></span>
+<span class="dpsp-network-count">28568</span></a></li>
+<li class="dpsp-network-list-item dpsp-network-list-item-x" style="float:left">
+<a aria-label="Share on X" class="dpsp-network-btn dpsp-x dpsp-no-label dpsp-has-label-mobile" href="https://x.com/intent/tweet?text=What%20the%20Mueller%20Report%20Says%20About%20Obstruction&amp;url=https%3A%2F%2Fwww.factcheck.org%2F2019%2F04%2Fwhat-the-mueller-report-says-about-obstruction%2F%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-pug&amp;via=factcheckdotorg" rel="nofollow noopener" style="font-size:14px;padding:0rem;max-height:32px" target="_blank" title="Share on X"> <span class="dpsp-network-icon"><span class="dpsp-network-icon-inner"><svg height="32" version="1.1" viewbox="0 0 32 30" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M30.3 29.7L18.5 12.4l0 0L29.2 0h-3.6l-8.7 10.1L10 0H0.6l11.1 16.1l0 0L0 29.7h3.6l9.7-11.2L21 29.7H30.3z M8.6 2.7 L25.2 27h-2.8L5.7 2.7H8.6z"></path></svg></span></span>
+</a></li>
+<li class="dpsp-network-list-item dpsp-network-list-item-threads" style="float:left">
+<a aria-label="Share on Threads" class="dpsp-network-btn dpsp-threads dpsp-no-label dpsp-has-label-mobile" href="https://www.threads.net/intent/post?text=What%20the%20Mueller%20Report%20Says%20About%20Obstruction+https%3A%2F%2Fwww.factcheck.org%2F2019%2F04%2Fwhat-the-mueller-report-says-about-obstruction%2F%3Futm_source%3Dthreads%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-pug" rel="nofollow noopener" style="font-size:14px;padding:0rem;max-height:32px" target="_blank" title="Share on Threads"> <span class="dpsp-network-icon"><span class="dpsp-network-icon-inner"><svg height="32" version="1.1" viewbox="0 0 16 16" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M6.321 6.016c-.27-.18-1.166-.802-1.166-.802.756-1.081 1.753-1.502 3.132-1.502.975 0 1.803.327 2.394.948s.928 1.509 1.005 2.644q.492.207.905.484c1.109.745 1.719 1.86 1.719 3.137 0 2.716-2.226 5.075-6.256 5.075C4.594 16 1 13.987 1 7.994 1 2.034 4.482 0 8.044 0 9.69 0 13.55.243 15 5.036l-1.36.353C12.516 1.974 10.163 1.43 8.006 1.43c-3.565 0-5.582 2.171-5.582 6.79 0 4.143 2.254 6.343 5.63 6.343 2.777 0 4.847-1.443 4.847-3.556 0-1.438-1.208-2.127-1.27-2.127-.236 1.234-.868 3.31-3.644 3.31-1.618 0-3.013-1.118-3.013-2.582 0-2.09 1.984-2.847 3.55-2.847.586 0 1.294.04 1.663.114 0-.637-.54-1.728-1.9-1.728-1.25 0-1.566.405-1.967.868ZM8.716 8.19c-2.04 0-2.304.87-2.304 1.416 0 .878 1.043 1.168 1.6 1.168 1.02 0 2.067-.282 2.232-2.423a6.2 6.2 0 0 0-1.528-.161"></path></svg></span></span>
+</a></li>
+<li class="dpsp-network-list-item dpsp-network-list-item-bluesky" style="float:left">
+<a aria-label="Share on Bluesky" class="dpsp-network-btn dpsp-bluesky dpsp-no-label dpsp-has-label-mobile" href="https://bsky.app/intent/compose?text=What%20the%20Mueller%20Report%20Says%20About%20Obstruction+https%3A%2F%2Fwww.factcheck.org%2F2019%2F04%2Fwhat-the-mueller-report-says-about-obstruction%2F%3Futm_source%3Dbluesky%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-pug" rel="nofollow noopener" style="font-size:14px;padding:0rem;max-height:32px" target="_blank" title="Share on Bluesky"> <span class="dpsp-network-icon"><span class="dpsp-network-icon-inner"><svg height="32" version="1.1" viewbox="0 0 32 28" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M6.9,1.9c3.7,2.8,7.6,8.3,9.1,11.3,1.4-3,5.4-8.6,9.1-11.3,2.6-2,6.9-3.5,6.9,1.4s-.6,8.2-.9,9.4c-1.1,4.1-5.3,5.1-9,4.5,6.5,1.1,8.1,4.7,4.6,8.4-6.8,6.9-9.7-1.7-10.5-4-.1-.4-.2-.6-.2-.4,0-.2,0,0-.2.4-.8,2.2-3.7,10.9-10.5,4-3.6-3.6-1.9-7.3,4.6-8.4-3.7.6-7.9-.4-9-4.5C.6,11.5,0,4.3,0,3.3,0-1.6,4.3-.1,6.9,1.9Z"></path></svg></span></span>
+</a></li>
+<li class="dpsp-network-list-item dpsp-network-list-item-tumblr" style="float:left">
+<a aria-label="Share on Tumblr" class="dpsp-network-btn dpsp-tumblr dpsp-no-label dpsp-has-label-mobile" href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Fwww.factcheck.org%2F2019%2F04%2Fwhat-the-mueller-report-says-about-obstruction%2F%3Futm_source%3Dtumblr%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-pug" rel="nofollow noopener" style="font-size:14px;padding:0rem;max-height:32px" target="_blank" title="Share on Tumblr"> <span class="dpsp-network-icon"><span class="dpsp-network-icon-inner"><svg height="32" version="1.1" viewbox="0 0 18 32" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M16.864 23.744l1.408 4.224q-0.384 0.608-1.952 1.184t-3.168 0.576q-1.856 0.032-3.424-0.48t-2.528-1.312-1.696-1.888-0.992-2.144-0.288-2.112v-9.728h-3.008v-3.84q1.28-0.448 2.304-1.248t1.632-1.6 1.024-1.824 0.608-1.76 0.256-1.568q0.032-0.096 0.096-0.16t0.128-0.064h4.352v7.584h5.952v4.48h-5.952v9.248q0 0.544 0.096 0.992t0.416 0.96 0.896 0.736 1.44 0.256q1.408-0.032 2.4-0.512z"></path></svg></span></span>
+</a></li>
+<li class="dpsp-network-list-item dpsp-network-list-item-flipboard" style="float:left">
+<a aria-label="Share on Flipboard" class="dpsp-network-btn dpsp-flipboard dpsp-no-label dpsp-has-label-mobile" href="https://share.flipboard.com/bookmarklet/popout?v=2&amp;url=https%3A%2F%2Fwww.factcheck.org%2F2019%2F04%2Fwhat-the-mueller-report-says-about-obstruction%2F%3Futm_source%3Dflipboard%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-pug&amp;title=What%20the%20Mueller%20Report%20Says%20About%20Obstruction" rel="nofollow noopener" style="font-size:14px;padding:0rem;max-height:32px" target="_blank" title="Share on Flipboard"> <span class="dpsp-network-icon"><span class="dpsp-network-icon-inner"><svg height="32" version="1.1" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M0 0h10.272v32h-10.272v-32zM11.328 11.328h10.4v10.4h-10.4v-10.4zM11.328 0h20.672v10.272h-20.672v-10.272z"></path></svg></span></span>
+</a></li>
+<li class="dpsp-network-list-item dpsp-network-list-item-email" style="float:left">
+<a aria-label="Send over email" class="dpsp-network-btn dpsp-email dpsp-no-label dpsp-last dpsp-has-label-mobile" href="mailto:?subject=What%20the%20Mueller%20Report%20Says%20About%20Obstruction&amp;body=https%3A%2F%2Fwww.factcheck.org%2F2019%2F04%2Fwhat-the-mueller-report-says-about-obstruction%2F%3Futm_source%3Demail%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-pug" rel="nofollow noopener" style="font-size:14px;padding:0rem;max-height:32px" target="_blank" title="Send over email"> <span class="dpsp-network-icon"><span class="dpsp-network-icon-inner"><svg height="32" version="1.1" viewbox="0 0 28 32" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M18.56 17.408l8.256 8.544h-25.248l8.288-8.448 4.32 4.064zM2.016 6.048h24.32l-12.16 11.584zM20.128 15.936l8.224-7.744v16.256zM0 24.448v-16.256l8.288 7.776z"></path></svg></span></span>
+</a></li>
+</ul></div>
+<p>In the hours after the public release of the redacted report from special counsel Robert S. Mueller, President Donald Trump took to Twitter with <a href="https://twitter.com/realDonaldTrump/status/1118921900858793985">a message</a> that reads, in part, “NO OBSTRUCTION!”</p>
+<p>That’s not at all what <a href="https://www.justice.gov/storage/report.pdf">the Mueller report</a> says, though.</p>
+<p>“Our investigation found multiple acts by the President that were capable of exerting undue influence over law enforcement investigations, including the Russian-interference and obstruction investigations,” Mueller wrote. “The incidents were often carried out through one-on-one meetings in which the President sought to use his official power outside of usual channels. These actions ranged from efforts to remove the Special Counsel and to reverse the effect of the Attorney General’s recusal; to the attempted use of official power to limit the scope of the investigation; to direct and indirect contacts with witnesses with the potential to influence their testimony.”</p>
+<p>Mueller, however, refrained from recommending prosecution, saying that there were “difficult [legal] issues that would need to be resolved,” in order to reach a conclusion that the crime of obstruction of justice was committed by Trump.</p>
+<p>Factoring into his decision not to weigh in on prosecution, Mueller wrote, was an opinion issued by the Office of Legal Counsel finding that “the indictment or criminal prosecution of a sitting President would impermissibly undermine the capacity of the executive branch to perform its constitutionally assigned functions” in violation of “the constitutional separation of powers.”</p>
+<p>“Because we determined not to make a traditional prosecutorial judgment, we did not draw ultimate conclusions about the President’s conduct,” Mueller wrote.</p>
+<p>Mueller emphasized, however, that his analysis of the evidence did not clear the president of obstruction. Said Mueller: “[I]f we had confidence after a thorough investigation of the facts that the President clearly did not commit obstruction of justice, we would so state. Based on the facts and the applicable legal standards, we are unable to reach that judgment.”</p>
+<p>Mueller noted several complicating factors with respect to determining whether illegal obstruction occurred. For starters, he wrote, “the evidence does not establish that the President was involved in an underlying crime related to Russian election interference.” Or, as Trump has repeatedly reminded, the report found “NO COLLUSION” by anyone in the Trump campaign with Russians trying to sway the 2016 election in his favor. But that doesn’t preclude the possibility of obstruction, Mueller said. According to the report, “the evidence does point to a range of other possible personal motives animating the President’s conduct. These include concerns that continued investigation would call into question the legitimacy of his election and potential uncertainty about whether certain events-such as advance notice of WikiLeaks’s release of hacked information or the June 9, 2016 meeting between senior campaign officials and Russians could be seen as criminal activity by the President, his campaign, or his family.”</p>
+<p>Nor does the fact that many of the president’s acts occurred in public view — “including discouragement of cooperation with the government and suggestions of possible future pardons” — necessarily clear him, the report states.</p>
+<blockquote><p><strong>Mueller report: </strong>While it may be more difficult to establish that public-facing acts were motivated by a corrupt intent, the President’s power to influence actions, persons, and events is enhanced by his unique ability to attract attention through use of mass communications. And no principle of law excludes public acts from the scope of obstruction statutes. If the likely effect of the acts is to intimidate witnesses or alter their testimony, the justice system’s integrity is equally threatened.</p></blockquote>
+<p>Mueller noted that it was only the refusal of Trump’s underlings to go along with his efforts to tamper that kept Trump from being able to successfully impede the investigation.</p>
+<blockquote><p><strong>Mueller report</strong>: The President’s efforts to influence the investigation were mostly unsuccessful, but that is largely because the persons who surrounded the President declined to carry out orders or accede to his requests. [Former FBI Director James] Comey did not end the investigation of [Retired Lt. Gen. Michael] Flynn, which ultimately resulted in Flynn’s prosecution and conviction for lying to the FBI. [White House counsel Don] McGahn did not tell the Acting Attorney General that the Special Counsel must be removed, but was instead prepared to resign over the President’s order. [Former campaign manager Corey] Lewandowski and [Trump campaign official Rick] Dearborn did not deliver the President’s message to Sessions that he should confine the Russia investigation to future election meddling only. And McGahn refused to recede from his recollections about events surrounding the President’s direction to have the Special Counsel removed, despite the President’s multiple demands that he do so. Consistent with that pattern, the evidence we obtained would not support potential obstruction charges against the President’s aides and associates beyond those already filed.</p></blockquote>
+<p>In a <a href="https://www.justice.gov/opa/speech/attorney-general-william-p-barr-delivers-remarks-release-report-investigation-russian">press conference</a> just prior to the public release of the redacted Mueller report on April 18, Attorney General William P. Barr said that he and Deputy Attorney General Rod Rosenstein “disagreed with some of [Mueller’s] legal theories and felt that some of the episodes examined did not amount to obstruction as a matter of law.” But he said that based on the evidence and legal framework presented by Mueller, they concluded the investigation did not establish that Trump had committed the criminal offense of obstruction of justice.</p>
+<p>During his press conference, Barr claimed that “the White House fully cooperated with the Special Counsel’s investigation, providing unfettered access to campaign and White House documents, directing senior aides to testify freely, and asserting no privilege claims.”</p>
+<p>That’s contradicted in the report. Mueller notes that after Trump learned that his own conduct regarding obstruction was being investigated after appointment of the special counsel, “the President engaged in a second phase of conduct, involving public attacks on the investigation, non-public efforts to control it, and efforts in both public and private to encourage witnesses not to cooperate with the investigation.”</p>
+<p>The president was also less than fully cooperative regarding Mueller’s interview requests, the report states.</p>
+<p>The special counsel’s office sought an interview with the president for “more than a year,” getting written responses in late November 2018. “[O]n more than 30 occasions” Trump said he “does not ‘recall’ or ‘remember’ or have an ‘independent recollection’” in response to questions, while other answers were “incomplete or imprecise,” the Mueller report says.</p>
+<p>The special counsel’s office told the president’s counsel that the written format was inadequate and didn’t give investigators an “opportunity to ask follow-up questions that would ensure complete answers and potentially refresh your client’s recollection.” But the president declined another request for an in-person interview.</p>
+<p>Mueller’s team considered a subpoena, but they were concerned with the delay that would cause. Plus, “at that point, our investigation had made significant progress and had produced substantial evidence for our report.”</p>
+<p>In any case, Barr’s decision not to pursue charges of obstruction against the president may not be the final word.</p>
+<p>Mueller left open the door for congressional consideration of Trump’s conduct. “With respect to whether the President can be found to have obstructed justice by exercising his powers under Article II of the Constitution, we concluded that Congress has authority to prohibit a President’s corrupt use of his authority in order to protect the integrity of the administration of justice,” Mueller wrote.</p>
+<p>In considering whether the president may have committed obstruction of justice, Mueller examined 11 “key events,” which we will summarize below. The report notes that prosecutors need to establish “three basic elements” for an obstruction charge: “an obstructive act; some form of nexus between the obstructive act and an official proceeding; and criminal (i.e., corrupt) intent.”</p>
+<h5 style="text-align: center;"><strong>Trump campaign’s response to reports about Russian support</strong></h5>
+<p>Over the course of the campaign, Trump and his advisors made public statements distancing the candidate from his apparent ties to Russia. Internally, though, the discussions were different.</p>
+<p>The report lays out months of press coverage of potential Russian ties to the Trump campaign and puts it next to the campaign’s responses to that coverage as it was happening. It also includes information uncovered through the special counsel’s investigation revealing how those issues had been discussed within the Trump camp.</p>
+<p>Two issues emerge: the potential knowledge of WikiLeaks’ release of hacked emails and the Trump Organization’s plans to build a Trump Tower in Moscow.</p>
+<p><a href="https://www.factcheck.org/2017/06/timeline-russia-investigation/?platform=hootsuite" rel="noopener" target="_blank">WikiLeaks posted emails</a> on July 22, 2016, that had been hacked from the Democratic National Committee. Trump, at the time, dismissed as “<a href="https://twitter.com/realDonaldTrump/status/758071264128806912" rel="noopener" target="_blank">crazy</a>” the suggestion that those emails had been hacked by Russia in an effort to help his campaign. At a <a href="https://www.c-span.org/video/?c4673781/candidate-trump-news-conference-july-27-2016&amp;start=303" rel="noopener" target="_blank">press conference</a> on July 27, 2016, Trump said of the suggestion, “It is so far fetched, it’s ridiculous. Honestly, I wish I had that power. I’d love to have that power.”</p>
+<p>A heavily redacted section of the report cites testimony given by <a href="https://www.nytimes.com/2017/06/16/us/politics/rick-gates-russia.html" rel="noopener" target="_blank">Rick Gates</a> — the deputy campaign manager who was swept up in the Russia probe and pleaded guilty in 2017 to lying to investigators — saying that shortly after the Wikileaks release, he was in the car on the way to an airport with Trump when Trump took a call. After he got off the phone, the report says, “Trump told Gates that more releases of damaging information would be coming.”</p>
+<p>Roger Stone, an informal Trump adviser, communicated with members of the Trump campaign about WikiLeaks’ planned releases, according to his Jan. 24, 2019, <a href="https://www.justice.gov/file/1124706/download" rel="noopener" target="_blank">indictment</a>.</p>
+<p>In the summer of 2016, the report says, the Trump campaign planned “a communications strategy based on the possible release of Clinton emails by WikiLeaks.”</p>
+<p>At the same <a href="https://www.c-span.org/video/?413263-1/donald-trump-urges-russia-find-hillary-clinton-emails-criticizes-record-tpp" rel="noopener" target="_blank">press conference</a> where Trump called Russian help for his campaign “far fetched,” he also repeated the phrase “I have nothing to do with Russia” several times, the report noted.</p>
+<p>However, the Trump Organization had been pursuing a project to build Trump Tower Moscow from September 2015 to June 2016 and Trump got regular updates on its progress, the special counsel found. Michael Cohen, Trump’s former lawyer, told investigators that, around this time, campaign advisers had developed a “party line” that Trump had no business with, or connections to, Russia.</p>
+<h5 style="text-align: center;"><strong>President’s conduct concerning the investigation of Michael Flynn</strong></h5>
+<p><span>The special counsel’s office also weighed whether Trump’s behavior regarding the FBI’s investigation of former National Security Adviser Michael Flynn amounted to evidence of obstruction. Flynn in late 2017 </span><a href="https://www.factcheck.org/2017/12/michael-flynns-russia-timeline/" rel="noopener" target="_blank"><span>pleaded guilty</span></a><span> to making false statements to the FBI about conversations he had with a Russian ambassador during the transition regarding U.S. sanctions leveled by the Obama administration. </span><b></b></p>
+<p><span>In particular, the report probes Trump’s interactions with former FBI Director James Comey — many of which have been <a href="https://www.factcheck.org/2017/06/timeline-russia-investigation/" rel="noopener" target="_blank">publicly reported</a> before — and corroborates some key details. </span></p>
+<p>After learning about the FBI’s questioning of Flynn, according to the report, Trump invited Comey to a private dinner meeting on Jan. 27, 2017 — the one in which<span> Comey </span><a href="https://www.factcheck.org/2017/05/trump-vs-comey/" rel="noopener" target="_blank"><span>says</span></a><span> Trump asked for his “loyalty.” The special counsel’s office, citing the President’s Daily Diary, disputed Trump’s previous </span><a href="https://www.factcheck.org/2017/05/trump-vs-comey/" rel="noopener" target="_blank"><span>public statement</span></a><span> saying he thought Comey “asked for the dinner” because “he wanted to stay on” as FBI director. </span><span>“[S]ubstantial evidence corroborates Comey’s account of the dinner invitation and the request for loyalty,” the report states.<br/>
+</span></p>
+<p><span>Likewise, </span><span>f</span><span>ormer White House Chief of Staff Reince Priebus </span><span>and former Attorney General Jeff Sessions </span><span>confirmed that Trump in February 2017 asked the attendees of a homeland security briefing to leave the Oval Office so he could speak with Comey alone. Comey has </span><a href="https://www.intelligence.senate.gov/sites/default/files/documents/os-jcomey-060817.pdf" rel="noopener" target="_blank">testified</a><span> that Trump brought up Flynn, who had </span><a href="https://www.factcheck.org/2017/12/michael-flynns-russia-timeline/" rel="noopener" target="_blank">resigned</a><span> a day earlier, saying: “I hope you can see your way clear to letting this go, to letting Flynn go. He is a good guy. I hope you can let this go.” </span></p>
+<p><span>Assessing that episode, the special counsel’s o</span><span>ffice wrote that “the President later denied that he cleared the room and asked Comey to ‘let[] Flynn go’—a denial that would have been unnecessary if he believed his request was a proper exercise of prosecutorial discretion.” </span></p>
+<p><span>Days after that meeting, the report outlines, Trump reportedly asked that his deputy national security adviser, K.T. McFarland, “draft an internal email that would confirm that the President did not direct Flynn to call the Russian Ambassador about sanctions.” </span><span>McFarland, not knowing if that was true, consulted with a White House attorney who advised against doing so — fearing, in part, that it could look like “a quid pro quo” for an expected ambassadorial appointment.</span><b> </b>The report said the request was “sufficiently irregular” but that the evidence “does not establish that the President was trying to have McFarland lie.”</p>
+<p>The report also says that, despite some conflicting information, the investigation “did not produce evidence that established that the President knew about Flynn’s discussions of sanctions” with the ambassador at the time.</p>
+<p><span>“Evidence does establish that the President connected the Flynn investigation to the FBI’s broader Russia investigation and that he believed, as he told [New Jersey Gov. Chris] Christie, that terminating Flynn would end ‘the whole Russia thing,’” the report states. It also notes: “Multiple witnesses recalled that the President viewed the Russia investigations as a challenge to the legitimacy of his election.” </span></p>
+<h5 style="text-align: center;"><strong>Trump’s reaction to the continuing Russia investigation</strong></h5>
+<p><span>The third area of possible obstruction that Mueller investigated is President Trump’s reaction to the continuing Russia investigation in March and April 2017. This includes Trump’s efforts to prevent and then reverse then-Attorney General Jeff Session’s decision to recuse himself on issues related to the Russia investigation, as well as multiple attempts by the president to convince officials to make statements to the public clarifying that the FBI was not personally investigating him.</span></p>
+<p><span>Regarding Sessions, the report explains that on March 2, the president called White House counsel Don McGahn and asked him to tell the attorney general not to recuse himself. </span><span>Sessions, who </span><span><a href="https://www.presidency.ucsb.edu/documents/press-release-donald-j-trump-announces-senator-sessions-chairman-national-security">had been part</a> of Trump’s campaign</span><span>, nevertheless thought the decision was clear-cut, and he </span><a href="https://www.c-span.org/video/?424859-1/attorney-general-jeff-sessions-recuses-russia-trump-campaign-investigations&amp;start=647"><span>announced his recusal</span></a><span> that afternoon.</span></p>
+<p><span>The following day, a Friday, Trump summoned McGahn to the Oval Office and again brought up Sessions’ recusal. White House Chief Strategist Steve Bannon was also present, and according to the special counsel’s report, “Bannon recalled that the President was as mad as Bannon had ever seen him and that he screamed at McGahn about how weak Sessions was.”</span></p>
+<p><span>Over the weekend, Sessions then flew to Mar-a-Lago. There, Sessions recalled Trump pulling him aside to speak to him privately and suggesting that Sessions “unrecuse” himself.</span></p>
+<p><span>Without coming to definitive conclusions, the Mueller report notes that Trump “attempted to prevent Sessions’s recusal, even after being told that Sessions was following DOJ conflict-of-interest rules.” Similarly, the report states that following the recusal, “the White House Counsel’s Office tried to cut off further contact with Sessions about the matter, although it is not clear whether that direction was conveyed to the President. The President continued to raise the issue of Sessions’s recusal and, when he had the opportunity, he pulled Sessions aside and urged him to unrecuse.”</span></p>
+<p>The remainder of the obstruction concern deals with the president’s actions following then-FBI Director James Comey’s congressional testimony on March 20, which made public for the first time the fact that the FBI was investigating Russia’s meddling in the 2016 election and looking into possible links between members of the Trump campaign and the Russian government. Under direction from Dana Boente, the acting attorney general for the Russia investigation, Comey declined to answer whether President Trump was under investigation. This led to <a href="https://www.nytimes.com/2017/03/20/us/politics/fbi-investigation-trump-russia-comey.html">press</a> <a href="https://www.theguardian.com/us-news/2017/mar/20/fbi-director-comey-confirms-investigation-trump-russia">reports</a> <a href="https://www.wired.com/2017/03/fbi-director-comey-confirms-investigation-trump-campaigns-russia-ties/">suggesting</a> that Trump was being investigated.</p>
+<p>After Comey’s testimony, the president proceeded to ask multiple intelligence leaders, including Director of National Intelligence Daniel Coats, CIA Director Mike Pompeo and NSA Director Admiral Michael Rogers to refute the news stories and make a public statement clarifying that Trump was not connected to Russian interference in the election. All refused.</p>
+<p>In Rogers’ case, the ask was concerning enough that Deputy NSA Director Richard Ledgett, who had been on the call with Rogers, wrote up a memorandum documenting the content of the call, which was then placed in a safe. According to the report, Ledgett also “said it was the most unusual thing he had experienced in 40 years of government service.” Rogers, however, told investigators that he did not interpret the request as an order to interfere with the investigation.</p>
+<p>Finally, Trump called Comey on March 30, and according to Comey’s notes, which were taken at the time, the president said “he was trying to run the country and the cloud of this Russia business was making that difficult.” Trump asked Comey what could be done to “lift the cloud.” Trump later called Comey again on April 11 to follow up. Both calls were made, Trump would later <span>acknowledge, against McGahn’s advice.</span></p>
+<p>The special counsel’s report concludes that the evidence “<span>does not establish that the President asked or directed intelligence agency leaders to stop or interfere with the FBI’s Russia investigation.”</span></p>
+<p><span>“But the President’s intent in trying to prevent Sessions’s recusal, and in reaching out to Coats, Pompeo, Rogers, and Comey following Comey’s public announcement of the FBI’s Russia investigation,” the report reads, “is nevertheless relevant to understanding what motivated the President’s other actions towards the investigation.”</span></p>
+<h5 style="text-align: center;"><strong>The firing of FBI Director James Comey</strong></h5>
+<p>Trump <a href="https://cdn.factcheck.org/UploadedFiles/COMEY-LETTERS.pdf">fired</a> FBI Director James Comey on May 9, 2017.</p>
+<p>Before Comey’s <a href="https://www.c-span.org/video/?427708-1/fbi-director-defends-decision-reveal-clinton-email-probe-election">May 3, 2017, testimony</a> before the Senate Judiciary Committee, Trump had said “it would be the last straw if Comey did not take the opportunity to set the record straight by publicly announcing that the President was not under investigation,” the Mueller report says, citing then-White House counsel McGahn.</p>
+<p>Comey didn’t do that. Later that day, according to notes taken by Jody Hunt, Attorney General Jeff Sessions’ chief of staff, Trump told Sessions: “This is terrible Jeff. It’s all because you recused. … You left me on an island. I can’t do anything.” Hunt said Sessions suggested Trump think about removing Comey.</p>
+<p>At a May 5, 2017, dinner, Trump told advisers and family members he wanted to fire Comey. At a May 8 meeting between the president and White House officials, according to Hunt’s notes, the group discussed a letter and recommendation written by Sessions and Rosenstein on Comey’s removal. And the next day, May 9, the president agreed that letter and <a href="https://cdn.factcheck.org/UploadedFiles/COMEY-LETTERS.pdf">memo from Rosenstein</a>, citing Comey’s actions in the probe of Hillary Clinton’s emails, should be the basis for a termination letter to Comey, McGahn recalled. But Trump insisted that the letter include language saying Comey had told him three times that he was not under investigation. Comey was fired that day.</p>
+<p>On May 10, according to news reports and not disputed by the White House, Trump told Russian Foreign Minister Sergey Lavrov and Russian Ambassador Sergey Kislyak in the Oval Office: “I just fired the head of the F.B.I. He was crazy, a real nut job. I faced great pressure because of Russia.”</p>
+<p>Publicly, the White House press office said it was Rosenstein’s idea to fire Comey. But in a <a href="http://www.nbcnews.com/nightly-news/video/pres-trump-s-extended-exclusive-interview-with-lester-holt-at-the-white-house-941854787582">May 11, 2017, interview</a> with NBC’s Lester Holt, Trump said that he was thinking of “this Russia thing” when he decided to fire Comey. The president said he would have fired Comey with or without Rosenstein’s recommendation.</p>
+<p>In analyzing this incident, the Mueller report says that removing Comey would be an obstructive act if it interfered with or impeded the investigation. While this could affect the way a successor conducted the investigation, Trump appointed Deputy FBI Director Andrew McCabe interim director, and McCabe had told the president that he worked “very closely” with Comey.</p>
+<p>As for the president’s intent, the Mueller report says “[s]ubstantial evidence indicates” that Comey’s unwillingness, despite Trump’s requests, to say publicly that Trump wasn’t under investigation prompted Trump to fire him.</p>
+<p>Why was this important to the president? The Mueller report says there’s some evidence Trump felt the investigation was hurting his ability to get things done, particularly with Russia. Trump also may have felt Comey was insubordinate.</p>
+<p>“Other evidence, however, indicates that the President wanted to protect himself from an investigation into his campaign,” the report says, citing Trump asking Comey for “loyalty” and Trump saying he should be able to tell the attorney general “who to investigate.”</p>
+<p>The president “had a motive to put the FBI’s Russia investigation behind him,” the report says, saying that “the evidence does indicate that a thorough FBI investigation would uncover facts about the campaign and the President personally that the President could have understood to be crimes or that would give rise to personal and political concerns.” The report cites Trump’s public statements during the campaign that he had no connections to Russia, even while he was briefed on progress of a Trump Tower Moscow. Some “witnesses” also said “that Trump privately sought information about future WikiLeaks releases” and that Trump was aware of something, which is redacted, “at a time when public reports stated that Russian intelligence officials were behind the hacks.”</p>
+<h5 style="text-align: center;"><strong>Trump’s efforts to remove the special counsel</strong></h5>
+<p>Rosenstein appointed Mueller the special counsel to oversee the Russia inquiry on May 17, 2017.</p>
+<p>Trump’s reaction to the appointment, according to the report, was to say, “This is the end of my Presidency.” He also became angry with Sessions for recusing himself from the investigation. Trump asked Sessions, “How could you let this happen, Jeff,” and then told Sessions he should resign.</p>
+<p>Days later, Trump began to tell his White House advisers that Mueller couldn’t serve as special counsel because of conflicts of interest. Specifically, the report says, Trump said Mueller had interviewed to become FBI director prior to being named special counsel, that he had been employed by a law firm that had represented people connected to Trump, and that Mueller had disputed membership fees that he was charged by a Trump golf course in Virginia. But Trump advisers told him that those did not count as conflicts, and the Justice Department also said that Mueller’s previous legal work would not prevent him from acting as special counsel. Trump, the report indicates, still directed McGahn to talk to Rosenstein about the issue, which McGhan declined to do. McGahn told Trump he should discuss it with his personal lawyer, but that it would look as though he was “still trying to meddle in [the] investigation” and “knocking out Mueller” would be “[a]nother fact used to claim obst[ruction] of just[ice.]”</p>
+<p>Then, on June 14, 2017, the <a href="https://www.washingtonpost.com/world/national-security/special-counsel-is-investigating-trump-for-possible-obstruction-of-justice/2017/06/14/9ce02506-5131-11e7-b064-828ba60fbb98_story.html"><em>Washington Post</em> reported</a> that the special counsel was, in fact, investigating whether Trump had attempted to obstruct justice by firing Comey. Trump responded to the news report by criticizing the investigation in a series of tweets over the next two days. Trump then called McGhan twice on June 17, 2017, and ordered him to call Rosenstein and have Mueller removed as special counsel based on the conflicts that Trump believed existed. “Mueller has to go” and “Call me back when you do it,” McGahn recalled Trump telling him on the second call, the report says. McGahn said he had no intention of relaying the president’s message to Rosenstein, and instead decided that he would resign if the president persisted.</p>
+<p>Trump also consulted Christie about having Mueller fired, and Christie, the report says, advised him against it.</p>
+<p>Regarding the president’s intent, the report says there is evidence the president was aware that he should not have given McGhan those instructions.</p>
+<p>“The President made the calls to McGahn after McGahn had specifically told the President that the White House Counsel’s Office — and McGahn himself — could not be involved in pressing conflict claims and that the President should consult with his personal counsel if he wished to raise conflicts,” the report says. “Instead of relying on his personal counsel to submit the conflicts claims, the President sought to use his official powers to remove the Special Counsel. And after the media reported on the President’s actions, he denied that he ever ordered McGahn to have the Special Counsel terminated and made repeated efforts to have McGahn deny the story. … Those denials are contrary to the evidence and suggest the President’s awareness that the direction to McGahn could be seen as improper.”</p>
+<h5 style="text-align: center;"><strong>Efforts to curtail the special counsel’s investigation</strong></h5>
+<p>In the summer of 2017 the president sought the help of Corey Lewandowski — his original campaign manager whom White House officials quoted in the report described as a “devotee” — to limit the scope of the Russia investigation.</p>
+<p>In an Oval Office meeting on June 19, 2017, two days after Trump had tried to have the special counsel removed, the president dictated a message that he wanted Lewandowski to take to Sessions. The message was actually the outline of a speech that Trump wanted Sessions to give. According to Lewandowski’s notes quoted in the report, it went like this:</p>
+<blockquote><p>I know that I recused myself from certain things having to do with specific areas. But our POTUS . .. is being treated very unfairly. He shouldn’t have a Special Prosecutor/Counsel b/c he hasn’t done anything wrong. I was on the campaign w/ him for nine months, there were no Russians involved with him. I know it for a fact b/c I was there. He didn’t do anything wrong except he ran the greatest campaign in American history.</p>
+<p>Now a group of people want to subvert the Constitution of the United States. I am going to meet with the Special Prosecutor to explain this is very unfair and let the Special Prosecutor move forward with investigating election meddling for future elections so that nothing can happen in future elections.</p></blockquote>
+<p>If that message had made it to Sessions and been accepted by him, it could have limited the scope of the investigation to only foreign interference on <em>future</em> elections, rather than the one that was being investigated.</p>
+<p>But it didn’t get to Sessions. Lewandowski told investigators that he didn’t want to deliver the message over the phone and didn’t want to meet at the Justice Department — it was “Sessions’s turf,” according to the report — and scheduling conflicts kept them apart. So, for a month, the message stayed in a safe at Lewandowski’s home, he told investigators.</p>
+<p>On July 19, 2017, Trump and Lewandowski met again in the Oval Office, and Lewandowski told the president his message would be delivered soon. Lewandowski had asked Rick Dearborn, a senior White House official who had a relationship with Sessions, to deliver the message. The pair ran into each other outside of the Oval Office following that meeting, and Lewandowski passed along a typewritten version of the message.</p>
+<p>Dearborn “did not recall” whether or not Lewandowski said the message was from the president, according to the report. “The message ‘definitely raised an eyebrow’ for Dearborn, and he recalled not wanting to ask where it came from or think further about doing anything with it,” the report said.</p>
+<p>Dearborn told investigators that he told Lewandowski he’d handled the situation, but he never actually gave the message to Sessions.</p>
+<p>Later on the same day, Trump gave an unplanned <a href="https://www.nytimes.com/2017/07/19/us/politics/trump-interview-transcript.html" rel="noopener" target="_blank">interview</a> to the <em>New York Times</em> in which he criticized Sessions for recusing himself from the Russia investigation.</p>
+<p>By July 22, 2017, the president had shifted focus to getting Sessions to resign and, while on Marine One, asked for help from his chief of staff, Reince Priebus.</p>
+<p>“Priebus believed that the President’s request was a problem, so he called McGahn and asked for advice, explaining that he did not want to pull the trigger on something that was ‘all wrong,’” according to the report. McGahn told Priebus not to follow the president’s order and, instead, consult his own lawyer.</p>
+<p>The special counsel’s analysis of this evidence concluded that the president sought to limit the special counsel’s review to only future elections after he had learned that his own conduct was part of the investigation.</p>
+<h5 style="text-align: center;"><strong>Efforts to prevent public disclosure of Trump Tower meeting</strong></h5>
+<p>The Mueller report provides a detailed analysis of Trump’s efforts to mislead the public or evade public disclosure about the now-infamous June 9, 2016, meeting at Trump Tower between senior campaign officials, including Donald Trump Jr., and Russians offering dirt on Hillary Clinton. According to the report, Trump repeatedly directed his communications staff not to publicly disclose information about the meeting, and he rejected a proposed public statement from Trump Jr. that acknowledged the meeting was with “an individual who I was told might have information helpful to the campaign.”</p>
+<p>Hope Hicks, a White House communications official, told investigators she read the emails on June 28, 2017, and “recalled being shocked by the emails because they looked ‘really bad.'” In a meeting with Jared Kushner, Ivanka Trump and the president the next day, Hicks suggested they “get in front of the story” by having Trump Jr. release the emails as part of an interview with “softball questions.” The president insisted he did not want to know details about the emails, and recommended they not go to the press.</p>
+<p>On July 8, Hicks said she brought to the president a draft statement about the meeting to be released by Trump Jr. Hicks told investigators that she wanted to disclose the entire story, but that Trump told her to “say only that Trump Jr. took a brief meeting and it was about Russian adoption.” The president’s personal counsel later “repeatedly and inaccurately denied that the President played any role in drafting Trump Jr.’s statement.”</p>
+<p>Still, the president’s efforts merely withheld information from the press, the report states, and there is no evidence that Trump “took steps to prevent the emails or other information about the June 9 meeting from being provided to Congress or the Special Counsel” — which would be required to amount to criminal obstruction.</p>
+<p>In written answers, Trump said he had no recollection of learning about the meeting until after the election.</p>
+<h5 style="text-align: center;"><strong>Efforts to get the attorney general to take over the investigation</strong></h5>
+<p>Trump tried to get then-Attorney General Sessions to reverse his recusal and take over the Russia investigation. He also wanted Sessions to investigate Hillary Clinton.</p>
+<p>After the May 2017 appointment of the special counsel, for instance: “According to Sessions, the President asked him to reverse his recusal so that Sessions could direct the Department of Justice to investigate and prosecute Hillary Clinton, and the ‘gist’ of the conversation was that the President wanted Sessions to unrecuse from ‘all of it,’ including the Special Counsel’s Russia investigation,” the Mueller report says.</p>
+<p>In July 2017, Trump asked Staff Secretary Rob Porter if Associate Attorney General Rachel Brand was “on the team” and would be interested in being the AG and in charge of the Russia investigation. Porter knew Brand, and Trump asked him to speak with her. But Porter told the special counsel’s office that he was uncomfortable with that, understood it to mean Trump wanted someone to end the Russia investigation, and didn’t do it.</p>
+<p>The president again brought up investigating Clinton and a reverse-recusal to Sessions later in 2017, and he urged an investigation in tweets in late October that year.</p>
+<p>In 2018, Trump <a href="https://www.cnn.com/2018/08/25/politics/trump-sessions-twitter-timeline/index.html">publicly criticized</a> Sessions to the press and in tweets. In August 2018, Sessions <a href="https://www.cnbc.com/2018/08/23/jeff-sessions-pushes-back-against-trump-actions-of-doj-will-not-be-improperly-influenced-by-political-considerations.html">appeared to respond</a>, saying, “While I am Attorney General, the actions of the Department of Justice will not be improperly influenced by political considerations.”</p>
+<p>Trump <a href="https://www.usatoday.com/story/news/politics/2018/11/07/jeff-sessions-fired-donald-trump-heres-what-we-know-now/1922566002/">fired</a> Sessions the day after the midterm elections, Nov. 7, 2018.</p>
+<p>In assessing the president’s intent, the Mueller report says there’s evidence the president wanted Sessions to take control of the Russia investigation and “supervise it in a way that would restrict its scope.” In the summer of 2017, Trump knew that he was being personally investigated for obstruction of justice, and that the investigation included his son and son-in-law, due to the Trump Tower meeting disclosure. Trump told Sessions he wanted to be “treated fairly,” and often suggested an attorney general should protect the president. “A reasonable inference from those statements and the President’s actions is that the President believed that an unrecused Attorney General would play a protective role and could shield the President from the ongoing Russia investigation.”</p>
+<h5 style="text-align: center;"><strong>Efforts to squash report that McGahn was ordered to have special counsel removed</strong></h5>
+<p>According to the report, Trump’s personal counsel called the attorney for White House counsel McGahn and relayed that Trump wanted McGahn to put out a statement denying a <em>New York Times</em> story that Trump had asked him to fire the special counsel. There was just one problem: McGahn said the story was accurate on that point, and he refused to do it.</p>
+<p>McGahn told investigators that he was summoned to the Oval Office on Feb. 6, 2018, and that the president told him the <em>Times</em> story “did not ‘look good’ and McGahn needed to correct it.” McGahn said Trump disputed that he told McGahn to “fire” the special counsel, and that he only wanted McGahn to raise conflict of interest issues with Rosenstein and let Rosenstein decide what to do. McGahn said he told the president his recollection of his marching orders differed, that he was told, “Call Rod [Rosenstein]. There are conflicts. Mueller has to go.” McGahn refused to “do a correction,” the report states.</p>
+<p>According to McGahn, Trump also criticized McGahn for telling investigators that the president had asked him to have the special counsel removed, and for taking notes during their meeting. “Lawyers don’t take notes,” Trump told him.</p>
+<p>The report concludes that, “Substantial evidence indicates that in repeatedly urging McGahn to dispute that he was ordered to have the Special Counsel terminated, the President acted for the purpose of influencing McGahn’s account in order to deflect or prevent further scrutiny of the President’s conduct towards the investigation.”</p>
+<h5 style="text-align: center;"><strong>Trump’s conduct toward Flynn, Manafort</strong></h5>
+<p>After former National Security Adviser Michael Flynn withdrew from a joint defense agreement with Trump on Nov. 22, 2017, the president’s personal counsel told Flynn’s attorney’s the action showed “hostility” toward Trump.</p>
+<p>After Flynn pleaded guilty to making false statements, the press asked Trump whether he would pardon Flynn. <a href="https://www.whitehouse.gov/briefings-statements/remarks-president-trump-marine-one-departure-4/">Trump said</a>, on Dec. 15, 2017, “I don’t want to talk about pardons for Michael Flynn yet. We’ll see what happens. Let’s see. I can say this: When you look at what’s gone on with the FBI and with the Justice Department, people are very, very angry.”</p>
+<p>Trump repeatedly, in press interviews and on Twitter, said Paul Manafort, his former campaign chairman, was being treated unfairly, during his prosecution and jury deliberations.</p>
+<p>Also, in January 2018, Manafort told former deputy campaign manager Richard Gates, who had been indicted along with Manafort on multiple felony counts at that point, that the president’s personal attorney had told him they would “take care of us.” Manafort told Gates they should “sit tight” and “we’ll be taken care of,” though he said no one used the word “pardon.”</p>
+<p>On June 15, 2018, after Manafort’s bail was revoked, Rudy Giuliani, Trump’s personal lawyer, floated the possibility of a pardon in media interviews. Two months later, before Manafort pleaded guilty to charges in Washington, D.C., Giuliani told the <em>Washington Post</em> that Trump had asked for advice on pardoning Manafort and other aides and had been told not to do it until the Russia investigation was over.</p>
+<p>Some of this section of the Mueller report is redacted due to an ongoing matter.</p>
+<p>The report says that the president’s counsel’s statements to Flynn’s counsel “could have had the potential to affect Flynn’s decision to cooperate, as well as the extent of that cooperation. Because of privilege issues, however, we could not determine whether the President was personally involved in or knew about the specific message his counsel delivered to Flynn’s counsel.”</p>
+<p>But with Manafort, “there is evidence that the President’s actions had the potential to influence Manafort’s decision whether to cooperate with the government,” and Trump’s public statements during the trial “had the potential to influence the trial jury.”</p>
+<p>As for intent, the evidence “indicates that the President intended to encourage Manafort to not cooperate with the government.” But the Mueller report cites mixed evidence on whether Trump intended to influence a jury. An alternative explanation for some of the president’s comments would be that he “genuinely felt sorry for Manafort” or wanted to influence public opinion. “The President’s comments also could have been intended to continue sending a message to Manafort that a pardon was possible.”</p>
+<h5 style="text-align: center;"><strong>Trump’s conduct toward Cohen</strong></h5>
+<p><span>Mueller’s interest in Michael Cohen, Trump’s former personal attorney, centers around his involvement in the Trump Tower Moscow project and the subsequent fallout from Cohen’s false testimony to Congress on the subject.</span></p>
+<p><span>In 2017, Cohen falsely stated under oath that the project had ended in January 2016, when in fact it had continued at least through June, when Trump had already become the presumptive Republican nominee. Cohen also inaccurately said that he had briefed Trump on the project just three times, and never considered travel to Russia. Cohen later reversed course after pleading guilty to lying to two congressional committees and cooperating with the government. The president, who had publicly and privately supported Cohen until this point, then began <a href="https://www.factcheck.org/2018/11/trumps-sketchy-cohen-claims/">attacking</a> his former attorney, much of which we and others have <a href="https://www.factcheck.org/2019/02/cohen-trump-at-odds/">covered before</a>.</span></p>
+<p>With respect to obstruction as it relates to Cohen, the special counsel’s concern was two-pronged: 1) whether Trump or others helped or participated in Cohen’s false congressional testimony, and 2) whether the president did things that would have “a natural tendency” to prevent Cohen from being truthful.</p>
+<p>The report concludes that while there is evidence that Trump “knew Cohen provided false testimony to Congress,” it “does not establish that the President directed or aided” that false testimony. For example, the special counsel notes that even though Cohen followed a “party line” that aligned with Trump’s statements about Russia, Cohen said that he did not discuss his specific testimony with the president, instead communicating with Trump’s personal counsel. Given that Trump’s lawyer declined to give Mueller an account of those conversations and was not asked to share conversations with the president, the report states that the absence of evidence “precludes us from assessing what, if any, role the President played.”</p>
+<p>As for the president’s actions having a “natural tendency” to prevent Cohen from being truthful, the report goes through Trump’s initially positive public and private messaging to Cohen following an FBI search in April 2018. During this period, the Trump Organization was paying Cohen’s legal fees, and Cohen remembers discussing a possible pardon with the president’s personal lawyer. But after reporting of Cohen’s decision to cooperate with the government in July 2018, Trump quickly shifted gears, calling Cohen a “rat” and saying that Cohen’s family members might have committed crimes. “The evidence concerning this sequence of events could support an inference that the President used inducements in the form of positive messages in an effort to get Cohen not to cooperate,” the report says, “and then turned to attacks and intimidation to deter the provision of information or undermine Cohen’s credibility once Cohen began cooperating.”</p>
+<p>On the question of intent, the special counsel repeatedly indicates that the evidence “could support an inference” that Trump meant to discourage Cohen from cooperating because it would reflect negatively on the president. That is true for Cohen’s false testimony, which minimized connections between Trump and Russia, and for Trump’s attacks against Cohen’s family once he began cooperating, which the report says “could be viewed as an effort to retaliate against Cohen and chill further testimony adverse to the President by Cohen or others.”</p>
+</div><!-- .entry-content -->
+<footer class="entry-footer">
+<div class="term-listing-footer"><ul>
+<li class="categories">Categories<ul> <li class="cat-item cat-item-4"><a href="https://www.factcheck.org/the-factcheck-wire/">FactCheck Posts</a>
+</li>
+<li class="cat-item cat-item-2298"><a href="https://www.factcheck.org/featured-posts/">Featured Posts</a>
+</li>
+</ul></li><li class="location">Location<ul> <li class="cat-item cat-item-2464"><a href="https://www.factcheck.org/location/national/">National</a>
+</li>
+</ul></li><li class="issue">Issue<ul> <li class="cat-item cat-item-5211"><a href="https://www.factcheck.org/issue/mueller-report/">Mueller report</a>
+</li>
+<li class="cat-item cat-item-4690"><a href="https://www.factcheck.org/issue/obstruction-of-justice/">Obstruction of Justice</a>
+</li>
+</ul></li><li class="person">People<ul> <li class="cat-item cat-item-1854"><a href="https://www.factcheck.org/person/donald-trump/">Donald Trump</a>
+</li>
+</ul></li></ul></div>
+</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+<hr/>
+<nav class="container navigation post-navigation">
+<div class="row nav-links justify-content-between">
+<a class="col-6 post-pagination-wrapper" href="https://www.factcheck.org/2019/04/what-the-mueller-report-says-about-russian-contacts/"><div class="post-pagination-block"><span class="post-pagination-header">Previous Story</span><span class="nav-previous">What the Mueller Report Says About Russian Contacts</span></div></a><a class="col-6 post-pagination-wrapper" href="https://www.factcheck.org/2019/04/a-misleading-claim-about-lawmakers-effectiveness/"><div class="post-pagination-block"><span class="post-pagination-header">Next Story</span><span class="nav-nextious">A Misleading Claim About Lawmakers’ Effectiveness</span></div></a> </div><!-- .nav-links -->
+</nav><!-- .navigation -->
+</main><!-- #main -->
+<hr class="d-block d-sm-none"/>
+</div><!-- #primary -->
+<!-- Do the right sidebar check -->
+<div class="col-md-4 widget-area" id="right-sidebar" role="complementary">
+<aside class="widget widget_factcheck_additional_resources_widget" id="factcheck_additional_resources_widget-2"></aside><aside class="widget widget_factcheck_ask_widget" id="factcheck_ask_widget-2"><div class="fc-ask-widget"><div class="h5">Ask FactCheck</div>
+<p><strong>Q: Have many of the mass shooters been transgender?</strong></p>
+<p><strong>A: The number of transgender mass shooters in the U.S. varies depending on how “mass shooting” is defined, but is relatively small. The Gun Violence Archive, which uses a broader definition, lists five mass shootings by transgender or nonbinary people since January 2013. </strong><strong>That’s less than 0.1% of the mass shootings it says happened in that period. </strong> </p>
+<div style="text-align:right"><a href="https://www.factcheck.org/2025/09/few-mass-shooters-have-been-transgender/">Read the full question and answer</a></div><div style="text-align:right"></div><div style="text-align:right"> <a href="https://www.factcheck.org/askfactcheck/">View the Ask FactCheck archives</a></div><div style="text-align:right">Have a question? <a href="https://www.factcheck.org/ask-factcheck/ask-us-a-question/">Ask us.</a></div></div></aside><aside class="widget widget_factcheck_donate_widget" id="factcheck_donate_widget-2">
+<a class="fc-donate-widget-wrapper" href="https://giving.aws.cloud.upenn.edu/?fastStart=simpleForm&amp;program=ANS&amp;fund=602014" rel="noopener" target="_blank" title="Because facts matter.">
+<div class="fc-donate-widget">
+<div class="fc-donate-widget-head">Donate Now</div>
+<div class="fc-donate-widget-subhead">Because facts matter.</div>
+</div>
+</a>
+</aside><aside class="widget widget_factcheck_widget_links" id="factcheck_widget_links-2"> <div class="fc-links-widget">
+<a href="https://www.factcheck.org/covid-misconceptions/"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="SciCheck's COVID-19/Vaccination Project" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/misconceptions2.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>SciCheck's COVID-19/Vaccination Project</h5>
+<h6 class="d-none d-sm-block">Preempting and exposing vaccination and COVID-19 misinformation.</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/es/covid-misconceptions/"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="Proyecto de Vacunación/COVID-19" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/misconceptions2.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>Proyecto de Vacunación/COVID-19</h5>
+<h6 class="d-none d-sm-block">Precaviendo y exponiendo la desinformación sobre el COVID-19 y sus vacunas</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/scicheck/"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="SciCheck" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-scicheck.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>SciCheck</h5>
+<h6 class="d-none d-sm-block">Fact-checking science-based claims.</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/fake-news/"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="Facebook Initiative" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-facebook.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>Facebook Initiative</h5>
+<h6 class="d-none d-sm-block">Debunking viral claims.</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/players-guide/2024/"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="Players Guide 2024" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/PlayersGuide2018-square.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>Players Guide 2024</h5>
+<h6 class="d-none d-sm-block">The special interest groups behind the TV ads.</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/hot-topics/"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="Viral Spiral" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-viralspiral.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>Viral Spiral</h5>
+<h6 class="d-none d-sm-block">Don’t get spun by internet rumors.</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/subscribe"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="Sign Up" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-signup.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>Sign Up</h5>
+<h6 class="d-none d-sm-block">Get free email alerts.</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/factcheck-mailbag/"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="Mailbag" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-mailbag.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>Mailbag</h5>
+<h6 class="d-none d-sm-block">Letters from our readers.</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/on-the-air"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="On the Air" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/fc-icon-ota.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>On the Air</h5>
+<h6 class="d-none d-sm-block">Our staff on TV and radio.</h6>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.factcheck.org/newsfeed-defenders/"> <div class="row fc-links-widget-row">
+<div class="col-2 col-sm-4">
+<img alt="NewsFeed Defenders" class="img-fluid" src="https://cdn.factcheck.org/UploadedFiles/factchecksidebar_icon-1.png"/>
+</div>
+<div class="col-10 col-sm-8">
+<div class="fc-links-text">
+<h5>NewsFeed Defenders</h5>
+<h6 class="d-none d-sm-block">A media literacy game to detect misinformation.</h6>
+</div>
+</div>
+</div>
+</a>
+</div>
+</aside>
+</div><!-- #secondary -->
+</div><!-- .row -->
+</div><!-- Container end -->
+</div><!-- Wrapper end -->
+<div class="wrapper" id="wrapper-footer">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<footer class="site-footer" id="colophon">
+<div class="site-info">
+<div class="menu-footer-menu-container"><ul class="menu" id="menu-footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122847" id="menu-item-122847"><a href="https://www.factcheck.org/archives/">Archives</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46791" id="menu-item-46791"><a href="https://www.factcheck.org/privacy/">Privacy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46792" id="menu-item-46792"><a href="https://www.factcheck.org/copyright-policy/">Copyright Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122853" id="menu-item-122853"><a href="https://www.factcheck.org/about/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-163332" id="menu-item-163332"><a href="https://accessibility.web-resources.upenn.edu/get-help">Report Accessibility Issues and Get Help</a></li>
+</ul></div> </div><!-- .site-info -->
+<span class="copyright-text">© Copyright 2025 FactCheck.org <sup>®</sup><br/>A Project of The Annenberg Public Policy Center of the University of Pennsylvania</span>
+</footer><!-- #colophon -->
+</div><!--col end -->
+</div><!-- row end -->
+</div><!-- container end -->
+</div><!-- wrapper end -->
+</div><!-- #page we need this extra closing tag here -->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/factcheckstrap\/*","\/wp-content\/themes\/understrap\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<div data-settings='{"general":{"contentSelector":false,"show_count":{"content":true,"sidebar":false,"pop_up":false,"sticky_bar":false},"isTrellis":false,"license_last4":"339b"},"post":{"ID":275161,"categories":[{"ID":3},{"ID":4}]},"shareCounts":{"facebook":28568,"pinterest":0,"reddit":0,"twitter":0,"tumblr":10},"shouldRun":true,"buttonSVG":{"share":{"height":32,"width":26,"paths":["M20.8 20.8q1.984 0 3.392 1.376t1.408 3.424q0 1.984-1.408 3.392t-3.392 1.408-3.392-1.408-1.408-3.392q0-0.192 0.032-0.448t0.032-0.384l-8.32-4.992q-1.344 1.024-2.944 1.024-1.984 0-3.392-1.408t-1.408-3.392 1.408-3.392 3.392-1.408q1.728 0 2.944 0.96l8.32-4.992q0-0.128-0.032-0.384t-0.032-0.384q0-1.984 1.408-3.392t3.392-1.408 3.392 1.376 1.408 3.424q0 1.984-1.408 3.392t-3.392 1.408q-1.664 0-2.88-1.024l-8.384 4.992q0.064 0.256 0.064 0.832 0 0.512-0.064 0.768l8.384 4.992q1.152-0.96 2.88-0.96z"]},"facebook":{"height":32,"width":18,"paths":["M17.12 0.224v4.704h-2.784q-1.536 0-2.080 0.64t-0.544 1.92v3.392h5.248l-0.704 5.28h-4.544v13.568h-5.472v-13.568h-4.544v-5.28h4.544v-3.904q0-3.328 1.856-5.152t4.96-1.824q2.624 0 4.064 0.224z"]},"twitter":{"height":30,"width":32,"paths":["M30.3 29.7L18.5 12.4l0 0L29.2 0h-3.6l-8.7 10.1L10 0H0.6l11.1 16.1l0 0L0 29.7h3.6l9.7-11.2L21 29.7H30.3z M8.6 2.7 L25.2 27h-2.8L5.7 2.7H8.6z"]},"threads":{"height":16,"width":16,"paths":["M6.321 6.016c-.27-.18-1.166-.802-1.166-.802.756-1.081 1.753-1.502 3.132-1.502.975 0 1.803.327 2.394.948s.928 1.509 1.005 2.644q.492.207.905.484c1.109.745 1.719 1.86 1.719 3.137 0 2.716-2.226 5.075-6.256 5.075C4.594 16 1 13.987 1 7.994 1 2.034 4.482 0 8.044 0 9.69 0 13.55.243 15 5.036l-1.36.353C12.516 1.974 10.163 1.43 8.006 1.43c-3.565 0-5.582 2.171-5.582 6.79 0 4.143 2.254 6.343 5.63 6.343 2.777 0 4.847-1.443 4.847-3.556 0-1.438-1.208-2.127-1.27-2.127-.236 1.234-.868 3.31-3.644 3.31-1.618 0-3.013-1.118-3.013-2.582 0-2.09 1.984-2.847 3.55-2.847.586 0 1.294.04 1.663.114 0-.637-.54-1.728-1.9-1.728-1.25 0-1.566.405-1.967.868ZM8.716 8.19c-2.04 0-2.304.87-2.304 1.416 0 .878 1.043 1.168 1.6 1.168 1.02 0 2.067-.282 2.232-2.423a6.2 6.2 0 0 0-1.528-.161"]},"bluesky":{"height":28,"width":32,"paths":["M6.9,1.9c3.7,2.8,7.6,8.3,9.1,11.3,1.4-3,5.4-8.6,9.1-11.3,2.6-2,6.9-3.5,6.9,1.4s-.6,8.2-.9,9.4c-1.1,4.1-5.3,5.1-9,4.5,6.5,1.1,8.1,4.7,4.6,8.4-6.8,6.9-9.7-1.7-10.5-4-.1-.4-.2-.6-.2-.4,0-.2,0,0-.2.4-.8,2.2-3.7,10.9-10.5,4-3.6-3.6-1.9-7.3,4.6-8.4-3.7.6-7.9-.4-9-4.5C.6,11.5,0,4.3,0,3.3,0-1.6,4.3-.1,6.9,1.9Z"]},"tumblr":{"height":32,"width":18,"paths":["M16.864 23.744l1.408 4.224q-0.384 0.608-1.952 1.184t-3.168 0.576q-1.856 0.032-3.424-0.48t-2.528-1.312-1.696-1.888-0.992-2.144-0.288-2.112v-9.728h-3.008v-3.84q1.28-0.448 2.304-1.248t1.632-1.6 1.024-1.824 0.608-1.76 0.256-1.568q0.032-0.096 0.096-0.16t0.128-0.064h4.352v7.584h5.952v4.48h-5.952v9.248q0 0.544 0.096 0.992t0.416 0.96 0.896 0.736 1.44 0.256q1.408-0.032 2.4-0.512z"]},"flipboard":{"height":32,"width":32,"paths":["M0 0h10.272v32h-10.272v-32zM11.328 11.328h10.4v10.4h-10.4v-10.4zM11.328 0h20.672v10.272h-20.672v-10.272z"]},"email":{"height":32,"width":28,"paths":["M18.56 17.408l8.256 8.544h-25.248l8.288-8.448 4.32 4.064zM2.016 6.048h24.32l-12.16 11.584zM20.128 15.936l8.224-7.744v16.256zM0 24.448v-16.256l8.288 7.776z"]}},"saveThis":{"spotlight":"","successMessage":"","consent":"","consentForMailingList":"","position":"","mailingListService":""},"utmParams":{"utm_source":"","utm_medium":"social","utm_campaign":"social-pug"},"pinterest":{"pinDescriptionSource":"image_alt_tag","pinDescription":null,"pinTitle":null,"pinImageURL":null,"pinnableImages":"all_images","postImageHidden":null,"postImageHiddenMultiple":null,"lazyLoadCompatibility":null,"buttonPosition":"","buttonShape":null,"showButtonLabel":null,"buttonLabelText":null,"buttonShareBehavior":"post_image","hoverButtonShareBehavior":null,"minimumImageWidth":null,"minimumImageHeight":null,"showImageOverlay":null,"alwaysShowMobile":null,"alwaysShowDesktop":null,"postTypeDisplay":null,"imagePinIt":"0","hasContent":"1","shareURL":"https:\/\/www.factcheck.org\/2019\/04\/what-the-mueller-report-says-about-obstruction\/?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=social-pug","bypassClasses":["mv-grow-bypass","no_pin"],"bypassDenyClasses":["dpsp-post-pinterest-image-hidden-inner","mv-create-pinterest"],"ignoreSelectors":[],"hoverButtonIgnoreClasses":["lazyloaded","lazyload","lazy","loading","loaded","td-animation-stack","ezlazyloaded","penci-lazy","ut-lazy","ut-image-loaded","ut-animated-image","skip-lazy"],"disableIframes":null},"inlineContentHook":["loop_start"]}' id="mv-grow-data"></div><script id="pll_cookie_script-js-after" type="text/javascript">
+/* <![CDATA[ */
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
+			}());
+/* ]]> */
+</script>
+<script id="jquery-js" src="https://code.jquery.com/jquery-latest.min.js?ver=6.8.2" type="text/javascript"></script>
+<script id="child-understrap-scripts-js" src="https://assets.factcheck.org/wp-content/themes/factcheckstrap/js/child-theme.min.js?ver=1.2.3" type="text/javascript"></script>
+<script id="dpsp-frontend-js-pro-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var dpsp_ajax_send_save_this_email = {"ajax_url":"https:\/\/www.factcheck.org\/wp-admin\/admin-ajax.php","dpsp_token":"bbcf24ebc3"};
+/* ]]> */
+</script>
+<script id="dpsp-frontend-js-pro-js-before" type="text/javascript">
+/* <![CDATA[ */
+		var dpsp_pin_button_data = {"pin_description_source":"image_alt_tag","pinterest_pinnable_images":"all_images","pinterest_button_share_behavior":"post_image"}
+	
+/* ]]> */
+</script>
+<script async="" data-cfasync="false" data-noptimize="" id="dpsp-frontend-js-pro-js" src="https://assets.factcheck.org/wp-content/plugins/social-pug/assets/dist/front-end-pro.js?ver=2.26.2" type="text/javascript"></script>
+</body>
+</html>
+<!--Theme: factcheckstrap version 1.2.3-->
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: www.factcheck.org @ 2025-09-28 14:19:13 by W3 Total Cache
+-->

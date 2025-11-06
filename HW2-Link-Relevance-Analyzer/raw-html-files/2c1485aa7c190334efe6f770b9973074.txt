@@ -1,0 +1,998 @@
+
+<!DOCTYPE html>
+
+<html lang="de">
+<head>
+<title>Donald Trump - Deutsche Digitale Bibliothek</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="default" name="apple-mobile-web-app-status-bar-style"/>
+<meta content="strict-origin-when-cross-origin" name="referrer"/>
+<link href="/opensearch_de.osdx" rel="search" title="Deutsche Digitale Bibliothek" type="application/opensearchdescription+xml"/>
+<script src="/assets/i18n/de/messages-1758988929669.js" type="text/javascript"></script>
+<script src="/assets/vendor/bootstrap-5.3.6/bootstrap.bundle.min-72ebbd786afa713b64f2a5958515f0d3.js" type="text/javascript"></script>
+<link href="/assets/vendor/bootstrap-5.3.6/bootstrap.min-2115a3b579b5003c4731570952d0ade9.css" rel="stylesheet"/>
+<link href="/assets/main-ddb-a9ae54dc036f1e389d39366f85ff55b1.css" rel="stylesheet"/>
+<link href="/assets/favicon/ddb/ddb-favicon-c3882c4d4560ae7c63b60e941c3e6bd4.ico" rel="icon" sizes="any"/>
+<link href="/assets/favicon/ddb/ddb-favicon-ea43cf3fd0311f5eeda3dbca300356c3.svg" rel="icon" type="image/svg+xml"/>
+<link href="/assets/favicon/ddb/ddb-apple-touch-icon-8895b46c7fe49c543ea0e764928768db.png" rel="apple-touch-icon"/>
+<link href="/assets/favicon/ddb/ddb-d254564d657c982fa1978eff61ed2e5b.webmanifest" rel="manifest"/>
+<link href="https://www.deutsche-digitale-bibliothek.de/person/gnd/118834312" rel="canonical"/>
+<meta content="entity" name="page"/>
+<meta content="main" name="layout"/>
+<meta content="Donald Trump - Deutsche Digitale Bibliothek" property="og:title"/>
+<meta content="https://www.deutsche-digitale-bibliothek.de/person/gnd/118834312" property="og:url"/>
+<!-- Matomo -->
+<script>
+
+    function getPageName() {
+        return document.querySelector("meta[name=page]").getAttribute("content");
+    }
+
+    // Matomo _paq variable
+    var _paq = window._paq = window._paq || [];
+    _paq.push(['requireConsent']);
+
+    //---------------- Page specific search analysis ---------------
+    var isObjectSearchResultPage = getPageName() === "results";
+    var isPersonSearchResultPage = getPageName() === "searchperson";
+    var isOrganizationSearchResultPage = getPageName() === "searchinstitution";
+    var isArticleSearchResultPage = getPageName() === "searcharticle";
+    var isNewspaperSearchResultPage = getPageName() === "newspaper/search";
+    var isSearchResultPage = isObjectSearchResultPage || isPersonSearchResultPage || isOrganizationSearchResultPage || isArticleSearchResultPage || isNewspaperSearchResultPage;
+
+    var isItemDetailPage = getPageName() === "item";
+    var isNewspaperItemDetailPage = getPageName() === "newspaper/item";
+
+    // Track not Special pages. Those are handled separately in matomoManager.js
+    if(!isNewspaperItemDetailPage && !isItemDetailPage && !isSearchResultPage) {
+        _paq.push(["trackPageView"]);
+    }
+
+    _paq.push(['setDomains', ["viewer.deutsche-digitale-bibliothek.de"]]);
+    _paq.push(["setCustomVariable", 1, "js", "on", "visit"]);
+    _paq.push(["setExcludedQueryParams", ["by","callback","category","clearFilter","clustered","entityid","facet","facets","facetValues","filterValues","firstHit","hit","id","issuepage","isThumbnailFiltered","keepFilters","lastHit","last_update","minDocs","normdata","offset","onlyWithData","order","query","rows","sort","ALPHA_ASC","ALPHA_DESC","sort_field","random","RELEVANCE","time_asc","time_desc","variantId","viewType","grid","list","thumbnail-filter","search_count","hitNumber","lang","reqType","_","random_seed","randomSeed","randomseed","its_url_id","digitalisat","fbclid"]]);
+    _paq.push(["enableLinkTracking"]);
+    (function () {
+        var u = (("https:" == document.location.protocol) ? "https" : "http") + "://report.deutsche-digitale-bibliothek.de/";
+        _paq.push(["setTrackerUrl", u + "matomo.php"]);
+        _paq.push(["setSiteId", "3"]);
+        var d = document, g = d.createElement("script"), s = d.getElementsByTagName("script")[0];
+        g.type = "text/javascript";
+        g.async = true;
+        g.src = u + "matomo.js";
+        s.parentNode.insertBefore(g, s);
+    })();
+</script>
+<noscript><p><img alt="" referrerpolicy="no-referrer-when-downgrade" src="https://report.deutsche-digitale-bibliothek.de/matomo.php?idsite=3&amp;rec=1" style="border:0;"/></p></noscript>
+<!-- End Matomo Code -->
+</head>
+<div id="viewport-info">
+<div class="d-block d-sm-none d-md-none d-lg-none d-xl-none" data-size="xs"></div>
+<div class="d-none d-sm-block d-md-none d-lg-none d-xl-none" data-size="sm"></div>
+<div class="d-none d-sm-none d-md-block d-lg-none d-xl-none" data-size="md"></div>
+<div class="d-none d-sm-none d-md-none d-lg-block d-xl-none" data-size="lg"></div>
+<div class="d-none d-sm-none d-md-none d-lg-none d-xl-block" data-size="xl"></div>
+</div>
+<body class="theme-ddb entity">
+<div class="cookie-notice" id="cookie-notice2">
+<div class="cookie-wrapper">
+<p>Auf unserer Webseite werden neben den technisch erforderlichen Cookies noch Cookies zur statistischen Auswertung gesetzt. Sie können die Website auch ohne diese Cookies nutzen. Durch Klicken auf „Ich stimme zu“ erklären Sie sich einverstanden, dass wir Cookies zu Analyse-Zwecken setzen. In unserer <a href="/content/datenschutzerklaerung#cookies">Datenschutzerklärung</a> finden Sie weitere Informationen. Dort können Sie Ihre Cookie-Einstellungen jederzeit ändern.</p>
+<button aria-controls="cookie-accept" class="btn btn-primary cookie-btn" id="cookie-accept">Ich stimme zu</button>
+<button aria-controls="cookie-refuse" class="btn btn-secondary cookie-btn" id="cookie-refuse">Ich lehne ab</button>
+</div>
+</div>
+<a class="visually-hidden-focusable skip-link" href="#main-container">
+    Direkt zum Inhalt
+</a>
+<header class="header">
+<div class="container header-container">
+<a href="/" title="Startseite">
+<picture>
+<source media="(min-width: 768px)" srcset="/assets/ddb-logo-lg-09861113a626a68e170a03d1cba40d51.svg"/>
+<img alt="Logo: Deutsche Digitale Bibliothek" class="logo" src="/assets/ddb-logo-sm-ad9b53faf32d6d976dc03c7dd8a17ca6.svg"/>
+</picture>
+</a>
+<div class="header-controls">
+<div class="top-row">
+<ul class="header-icons-container">
+<li>
+<a class="link-header-top sign-language-icon" href="/content/gebaerdensprache">
+            Gebärdensprache
+        </a>
+</li>
+<li>
+<a class="link-header-top header-icon" href="/content/leichte-sprache">
+            Leichte Sprache
+        </a>
+</li>
+</ul>
+<div class="language-switch">
+<a aria-label="Die Sprache der Webseite zu Englisch wechseln" class="link-language" href="/person/gnd/118834312?lang=en">
+<span class="active german">DE</span>
+</a>
+<a aria-label="Die Sprache der Webseite zu Englisch wechseln" class="link-language" href="/person/gnd/118834312?lang=en">
+<span class="">EN</span>
+</a>
+</div>
+</div>
+<div class="bottom-row">
+<nav class="main-nav">
+<ul>
+<li class="level-1">
+<button class="open-btn header-dropdown-item-content" data-tippy-dropdown-template-id="ddb-main-f589d58b-2904-4020-8ebb-f232688bd761" data-tippy-placement="bottom" type="button">
+<span class="bold-shift" data-text="Über uns">Über uns</span>
+</button>
+<div id="ddb-main-f589d58b-2904-4020-8ebb-f232688bd761" style="display: none">
+<div class="header-dropdown">
+<ul>
+<li class="level-2 header-dropdown-item">
+<a class="header-dropdown-item-content" href="/content/wer-wir-sind">
+    Wer wir sind
+  </a>
+</li>
+<li class="level-2 header-dropdown-item">
+<a class="header-dropdown-item-content" href="/content/wie-wir-organisiert-sind">
+    Wie wir organisiert sind
+  </a>
+</li>
+<li class="level-2 header-dropdown-item">
+<a class="header-dropdown-item-content" href="/about-us/institutions">
+    Beteiligte Kultureinrichtungen
+  </a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="level-1">
+<button class="open-btn header-dropdown-item-content" data-tippy-dropdown-template-id="ddb-main-1e652d51-ab0c-44ba-bac6-a94ade82d3f5" data-tippy-placement="bottom" type="button">
+<span class="bold-shift" data-text="Inhalte entdecken">Inhalte entdecken</span>
+</button>
+<div id="ddb-main-1e652d51-ab0c-44ba-bac6-a94ade82d3f5" style="display: none">
+<div class="header-dropdown">
+<ul>
+<li class="level-2 header-dropdown-item">
+<a class="header-dropdown-item-content" href="/content/dossiers">
+    Dossiers
+  </a>
+</li>
+<li class="level-2 header-dropdown-item">
+<a class="header-dropdown-item-content" href="/content/virtuelle-ausstellungen">
+    Virtuelle Ausstellungen
+  </a>
+</li>
+<li class="level-2 header-dropdown-item">
+<a class="header-dropdown-item-content" href="/content/lernen-und-entdecken-bildungsangebote-der-deutschen-digitalen-bibliothek">
+    Bildungsangebote
+  </a>
+</li>
+<li class="level-2 header-dropdown-item">
+<a class="header-dropdown-item-content" href="/content/blog">
+    Blog
+  </a>
+</li>
+<li class="level-2 header-dropdown-item">
+<a class="header-dropdown-item-content" href="/content/dossiers/na-ma-kieken-unser-best-bildergalerien">
+    Bildergalerien
+  </a>
+</li>
+<li class="level-2 header-dropdown-item">
+<a class="header-dropdown-item-content" href="/content/kalenderblatt">
+    Kalenderblatt
+  </a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="level-1">
+<button class="open-btn header-dropdown-item-content" data-tippy-dropdown-template-id="ddb-main-6ab0a0b2-965b-46a2-95ca-f7cc9547ab10" data-tippy-placement="bottom" type="button">
+<span class="bold-shift" data-text="Tipps zur Nutzung">Tipps zur Nutzung</span>
+</button>
+<div id="ddb-main-6ab0a0b2-965b-46a2-95ca-f7cc9547ab10" style="display: none">
+<div class="header-dropdown">
+<ul>
+<li class="level-2 header-dropdown-item">
+<a class="header-dropdown-item-content" href="/content/wie-suche-ich-im-portal">
+    Wie suche ich im Portal
+  </a>
+</li>
+<li class="level-2 header-dropdown-item">
+<a class="header-dropdown-item-content" href="/content/suchergebnisse-verwenden">
+    Suchergebnisse verwenden
+  </a>
+</li>
+<li class="level-2 header-dropdown-item">
+<a class="header-dropdown-item-content" href="/content/sensible-und-diskriminierende-inhalte-der-deutschen-digitalen-bibliothek">
+    Sensible Inhalte
+  </a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</nav>
+<div class="person-icon">
+<button aria-label="Anmelden" class="user logged-out" data-bs-target="#loginModal" data-bs-toggle="modal" type="button">
+</button>
+</div>
+<button aria-controls="searchModuleCollapse" aria-expanded="false" class="search-icon-wrapper chevron-icon" data-bs-target="#searchModuleCollapse" data-bs-toggle="collapse" id="header-search-icon" type="button">
+<span class="icon-search"></span>
+</button>
+<a aria-controls="sideBar" aria-expanded="false" aria-label="Seitenmenü öffnen" class="menu" data-bs-target="#sideBar" data-bs-toggle="offcanvas" href="/entity/index" id="menuIcon" role="button">
+<span class="visually-hidden">Seitenmenü öffnen</span>
+</a>
+</div>
+</div>
+</div>
+<section aria-labelledby="search-section-title" class="search-section collapse" id="searchModuleCollapse">
+<div class="search-section-wrapper container">
+<h2 class="h2-ddb search-section-title" id="search-section-title">
+            Deutschlands Kulturerbe digital
+        </h2>
+<div class="search-section-form">
+<form action="/searchresults" id="form-search" method="get" role="search">
+<ul class="navigation-group standard-search">
+<li>
+<button aria-selected="true" class="navigation-item js-hide-person-info js-hide-organization-info js-hide-article-info active" data-autocomplete-target="/apis/autocomplete" data-placeholder="Suche in mehr als 62 Millionen Objekten" data-text="Objekte" data-url="/searchresults" data-value="" id="modal-search-objects" type="button">
+                Objekte
+            </button>
+</li>
+<li>
+<button aria-selected="false" class="navigation-item js-hide-info js-hide-organization-info js-hide-article-info" data-autocomplete-target="/apis/personAutocomplete" data-placeholder="Suchbegriff eingeben" data-text="Personen" data-url="/search/person" data-value="" id="modal-search-persons" type="button">
+                Personen
+            </button>
+</li>
+<li>
+<button aria-selected="false" class="navigation-item js-hide-info js-hide-person-info js-hide-article-info" data-autocomplete-target="/apis/institutionAutocomplete" data-placeholder="Suchbegriff eingeben" data-text="Organisationen" data-url="/search/organization" data-value="" id="modal-search-institutions" type="button">
+                Organisationen
+            </button>
+</li>
+<li>
+<button aria-selected="false" class="navigation-item js-hide-info js-hide-person-info js-hide-organization-info" data-autocomplete-target="/apis/articleAutocomplete" data-placeholder="Suchbegriff eingeben" data-text="Themen" data-url="/search/content" data-value="" id="modal-search-articles" type="button">
+                Themen
+            </button>
+</li>
+</ul>
+<div class="search-bar-grid hide-person-info hide-organization-info hide-article-info">
+<div class="search-bar-extended"></div>
+<input aria-label="Suche" autocomplete="off" class="query" id="search-input" name="query" placeholder="Suche in mehr als 25 Millionen Objekten" type="search" value=""/>
+<button aria-label="Eingabefeld löschen" class="clear" data-target-id="search-input" style="display: none;" type="button"></button>
+<div class="thumbnail-filter-container">
+<div class="thumbnail-filter-tabs">
+<input data-placeholder="Suche in mehr als 62 Millionen Objekten" id="thumbnail-filter-off" name="isThumbnailFiltered" type="radio" value="false"/>
+<label for="thumbnail-filter-off">Alle Objekte</label>
+<input checked="checked" data-placeholder="Suche in mehr als 25 Millionen Objekten" id="thumbnail-filter-on" name="isThumbnailFiltered" type="radio" value="true"/>
+<label for="thumbnail-filter-on">Digitalisierte Objekte</label>
+</div>
+</div>
+<button aria-label="Suche" id="search-submit" type="submit"></button>
+</div>
+</form>
+</div>
+</div>
+</section>
+<div class="offcanvas offcanvas-end sidebar" data-bs-backdrop="false" data-bs-keyboard="false" id="sideBar" tabindex="-1">
+<div class="offcanvas-header">
+<div class="sidebar-header">
+<div class="language-switch">
+<a aria-label="Die Sprache der Webseite zu Englisch wechseln" class="link-language" href="/person/gnd/118834312?lang=en">
+<span class="active german">DE</span>
+</a>
+<a aria-label="Die Sprache der Webseite zu Englisch wechseln" class="link-language" href="/person/gnd/118834312?lang=en">
+<span class="">EN</span>
+</a>
+</div>
+<button aria-label="Seitenmenü schließen" class="close-button" data-bs-dismiss="offcanvas" type="button">
+</button>
+</div>
+<ul class="header-icons-container">
+<li>
+<a class="link-header-top sign-language-icon" href="/content/gebaerdensprache">
+            Gebärdensprache
+        </a>
+</li>
+<li>
+<a class="link-header-top header-icon" href="/content/leichte-sprache">
+            Leichte Sprache
+        </a>
+</li>
+</ul>
+</div>
+<div class="offcanvas-body">
+<ul class="nav flex-column accordion" id="sideBarPanels">
+<li class="level-1">
+<div class="accordion-header" id="heading-f589d58b-2904-4020-8ebb-f232688bd761">
+<button aria-controls="ddb-f589d58b-2904-4020-8ebb-f232688bd761" aria-expanded="false" class="open-btn collapsed" data-bs-target="#ddb-f589d58b-2904-4020-8ebb-f232688bd761" data-bs-toggle="collapse" type="button">
+      Über uns
+    </button>
+</div>
+<div aria-labelledby="heading-f589d58b-2904-4020-8ebb-f232688bd761" class="collapse accordion-collapse" id="ddb-f589d58b-2904-4020-8ebb-f232688bd761">
+<ul>
+<li class="level-2">
+<a href="/content/wer-wir-sind">
+    Wer wir sind
+  </a>
+</li>
+<li class="level-2">
+<a href="/content/wie-wir-organisiert-sind">
+    Wie wir organisiert sind
+  </a>
+</li>
+<li class="level-2">
+<a href="/about-us/institutions">
+    Beteiligte Kultureinrichtungen
+  </a>
+</li>
+</ul>
+</div>
+</li>
+<li class="level-1">
+<div class="accordion-header" id="heading-1e652d51-ab0c-44ba-bac6-a94ade82d3f5">
+<button aria-controls="ddb-1e652d51-ab0c-44ba-bac6-a94ade82d3f5" aria-expanded="false" class="open-btn collapsed" data-bs-target="#ddb-1e652d51-ab0c-44ba-bac6-a94ade82d3f5" data-bs-toggle="collapse" type="button">
+      Inhalte entdecken
+    </button>
+</div>
+<div aria-labelledby="heading-1e652d51-ab0c-44ba-bac6-a94ade82d3f5" class="collapse accordion-collapse" id="ddb-1e652d51-ab0c-44ba-bac6-a94ade82d3f5">
+<ul>
+<li class="level-2">
+<a href="/content/dossiers">
+    Dossiers
+  </a>
+</li>
+<li class="level-2">
+<a href="/content/virtuelle-ausstellungen">
+    Virtuelle Ausstellungen
+  </a>
+</li>
+<li class="level-2">
+<a href="/content/lernen-und-entdecken-bildungsangebote-der-deutschen-digitalen-bibliothek">
+    Bildungsangebote
+  </a>
+</li>
+<li class="level-2">
+<a href="/content/blog">
+    Blog
+  </a>
+</li>
+<li class="level-2">
+<a href="/content/dossiers/na-ma-kieken-unser-best-bildergalerien">
+    Bildergalerien
+  </a>
+</li>
+<li class="level-2">
+<a href="/content/kalenderblatt">
+    Kalenderblatt
+  </a>
+</li>
+</ul>
+</div>
+</li>
+<li class="level-1">
+<div class="accordion-header" id="heading-6ab0a0b2-965b-46a2-95ca-f7cc9547ab10">
+<button aria-controls="ddb-6ab0a0b2-965b-46a2-95ca-f7cc9547ab10" aria-expanded="false" class="open-btn collapsed" data-bs-target="#ddb-6ab0a0b2-965b-46a2-95ca-f7cc9547ab10" data-bs-toggle="collapse" type="button">
+      Tipps zur Nutzung
+    </button>
+</div>
+<div aria-labelledby="heading-6ab0a0b2-965b-46a2-95ca-f7cc9547ab10" class="collapse accordion-collapse" id="ddb-6ab0a0b2-965b-46a2-95ca-f7cc9547ab10">
+<ul>
+<li class="level-2">
+<a href="/content/wie-suche-ich-im-portal">
+    Wie suche ich im Portal
+  </a>
+</li>
+<li class="level-2">
+<a href="/content/suchergebnisse-verwenden">
+    Suchergebnisse verwenden
+  </a>
+</li>
+<li class="level-2">
+<a href="/content/sensible-und-diskriminierende-inhalte-der-deutschen-digitalen-bibliothek">
+    Sensible Inhalte
+  </a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</header>
+<div class="container-fluid" id="main-container" role="main">
+<div class="entity-page">
+<div class="container">
+<div class="row">
+<div class="offset-xl-2 col-xl-10">
+<nav aria-label="breadcrumb">
+<nav class="breadcrumb">
+<div class="breadcrumb-item">
+<a href="http://www.deutsche-digitale-bibliothek.de">Startseite</a>
+</div>
+<div aria-current="page" class="breadcrumb-item active">Donald Trump</div>
+</nav>
+</nav>
+</div>
+</div>
+<div class="row">
+<div class="col-xl-2 entity-controls-description">
+<div data-bs-target="#loginModal" data-bs-toggle="modal" role="link">
+<button aria-label="Zu Favoriten hinzufügen" class="ddb-link add-to-favorites" data-tippy-content="Zu Favoriten hinzufügen">
+            Favoriten
+        </button>
+</div>
+<!-- Confirmation copy modal -->
+<div aria-hidden="true" aria-labelledby="addToFavoritesModal" class="modal fade" id="addToFavoritesModal" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<div class="modal-title h5-ddb">Das Objekt wurde Ihren Favoriten hinzugefügt.</div>
+</div>
+<div class="modal-body">
+<div class="big-text add-to-favorites-description">
+<input id="default-folder-id" name="default-folder-id" type="hidden" value=""/>
+                        Sie haben bisher noch keine Favoritenlisten erstellt.
+                    
+                </div>
+</div>
+<div class="modal-footer">
+<input id="item-id" required="required" type="hidden" value="">
+<input id="object-type" required="required" type="hidden" value="">
+<button class="btn btn-secondary" data-bs-dismiss="modal" type="button">
+                    Schließen
+                </button>
+</input></input></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xl-10 entity-title-description">
+<h1 class="item-title h1-ddb" id="item-title">
+            Donald Trump
+        </h1>
+<div class="entity-subtitle-description">
+<div class="profession-dates">
+<div class="profession">
+<span>Geschäftsmann, </span>
+<span>Unternehmer, </span>
+<span>Politiker</span>
+</div>
+<div class="dates fields ddb-plain-text">
+<div>
+            Geboren:
+            1946,
+              <a class="ddb-plain-text" href="/searchresults?query=New+York%2C+NY">
+<span>New York, NY</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="entity-subtitle-location">
+</div>
+</div>
+</div>
+</div>
+<div class="entity-main">
+<div class="works container">
+<div class="participation">
+<h2 class="rolefacet-title">
+            Werke:
+        </h2>
+<hr aria-hidden="true"/>
+<div id="search-involved-normdata">
+<ul class="list-unstyled">
+<li class="pt-3">
+<a class="ddb-link internal" href="/item/PXICYMIUI5FE4FCLYGQESVVIDIMO2FLB">So werden Sie erfolgreich : Strategien für den Weg nach oben</a>
+</li>
+<li class="pt-3">
+<a class="ddb-link internal" href="/item/LI4ZZK3EITRLERBK6RQ5YUQ3V7ZYKCFY">Trump, Überleben ganz oben</a>
+</li>
+<li class="pt-3">
+<a class="ddb-link internal" href="/item/VQUOQ753QYX5GKX5UMBBV4MB74NHNVUB">Gib niemals auf! : wie ich meine größten Herausforderungen in meine größten Triumphe verwandelte</a>
+</li>
+<li class="pt-3">
+<a class="ddb-link internal" href="/item/6DBKX2DX5PN6MQGAVCRQI42OWJ6DY6B7">Warum wir wollen, dass Sie reich werden</a>
+</li>
+</ul>
+<div class="links-container">
+<a class="btn btn-secondary link" href="/searchresults?query=affiliate_fct_role_normdata%3A%28%22http%3A%2F%2Fd-nb.info%2Fgnd%2F118834312_1_affiliate_fct_involved%22%29&amp;isThumbnailFiltered=false">
+<span class="all-objects-link">Alle Objekte (11)</span>
+</a>
+</div>
+</div>
+</div>
+<div class="themes">
+<h2 class="rolefacet-title">Wird thematisiert in:</h2>
+<hr aria-hidden="true"/>
+<div id="search-subject-normdata">
+<ul class="list-unstyled">
+<li class="pt-3">
+<a class="ddb-link internal" href="/item/32G6CPYJLD2FAFCT3JNQFOLRZ64RVP73">Kultur der Sicherheit lässt die Sorge sprießen : Furcht und Unsicherheit legitimieren autoritäre Herrschaft – doch wie die Literatur zeigt, liegt in der Unsicherheit auch eine Quelle der...</a>
+</li>
+<li class="pt-3">
+<a class="ddb-link internal" href="/item/46NH2E5NVH44XFCCR43A6B23JXP5XTUW">Wrestling und Donald Trump</a>
+</li>
+<li class="pt-3">
+<a class="ddb-link internal" href="/item/7G2DOCFSNRIOQIFXN5NNZUVWTJHWAMOQ">Wenn der Ton nicht alles ist: Joe Biden und Lateinamerika</a>
+</li>
+<li class="pt-3">
+<a class="ddb-link internal" href="/item/7OQFLRTQMTCJVVXYS2JDOOV6JVLKG6AM">Im Schatten des Trumpismus: Autoritärer Populismus in der Regierung und die Neuformierung der radikalen Rechten in den USA</a>
+</li>
+</ul>
+<div class="links-container">
+<a class="btn btn-secondary link" href="/searchresults?query=affiliate_fct_role_normdata%3A%28%22http%3A%2F%2Fd-nb.info%2Fgnd%2F118834312_1_affiliate_fct_subject%22%29&amp;isThumbnailFiltered=false">
+<span class="all-objects-link">Alle Objekte (203)</span>
+</a>
+</div>
+</div>
+</div>
+<div class="external-links item pb-5">
+<h2 class="rolefacet-title">Externe Links:</h2>
+<hr aria-hidden="true"/>
+<ul class="list-unstyled">
+<li class="external-list-element pt-3">
+<a class="ddb-link external" href="https://d-nb.info/gnd/118834312/about" rel="external">Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</a>
+</li>
+<li class="external-list-element pt-3">
+<a class="ddb-link external" href="https://isni.org/isni/0000000108986765" rel="external">International Standard Name Identifier (ISNI)</a>
+</li>
+<li class="external-list-element pt-3">
+<a class="ddb-link external" href="https://de.wikipedia.org/wiki/Donald_Trump" rel="external">Wikipedia (Deutsch)</a>
+</li>
+<li class="external-list-element pt-3">
+<a class="ddb-link external" href="https://en.wikipedia.org/wiki/Donald_Trump" rel="external">Wikipedia (English)</a>
+</li>
+<li class="external-list-element pt-3 off switched">
+<a class="ddb-link external" href="https://kalliope-verbund.info/gnd/118834312" rel="external">Kalliope Verbundkatalog</a>
+</li>
+<li class="external-list-element pt-3 off switched">
+<a class="ddb-link external" href="https://www.archivportal-d.de/person/gnd/118834312" rel="external">Archivportal-D</a>
+</li>
+<li class="external-list-element pt-3 off switched">
+<a class="ddb-link external" href="http://id.loc.gov/rwo/agents/n85387872" rel="external">NACO Authority File</a>
+</li>
+<li class="external-list-element pt-3 off switched">
+<a class="ddb-link external" href="http://viaf.org/viaf/49272447" rel="external">Virtual International Authority File (VIAF)</a>
+</li>
+<li class="external-list-element pt-3 off switched">
+<a class="ddb-link external" href="http://www.wikidata.org/entity/Q22686" rel="external">Wikidata</a>
+</li>
+<li class="external-list-element pt-3 off switched">
+<a class="ddb-link external" href="https://isni.org/isni/0000000108986765" rel="external">International Standard Name Identifier (ISNI)</a>
+</li>
+</ul>
+<button aria-expanded="false" class="ddb-link action expand-all show-all-links" type="button">Mehr anzeigen</button>
+<button aria-expanded="true" class="ddb-link action collapse-all show-less-links off" type="button">Weniger anzeigen</button>
+</div>
+</div>
+</div>
+<div class="social-icons-section">
+<p class="share-page-label">Seite teilen:</p>
+<a class="social-media facebook" href="/entity/index" id="facebook_share_page" target="_blank"><span class="visually-hidden">Link auf diese Seite in Facebook teilen</span>
+</a>
+<a class="social-media twitter" href="/entity/index" id="twitter_share_page" target="_blank"><span class="visually-hidden">Link auf diese Seite in Twitter teilen</span>
+</a>
+<a class="social-media linkedIn" href="/entity/index" id="linkedIn_share_page" target="_blank"><span class="visually-hidden">Link auf diese Seite in Mastodon teilen</span>
+</a>
+<a class="social-media mail" href="/entity/index" id="mail_share_page" target="_blank"><span class="visually-hidden">Link auf diese Seite per Mail versenden</span>
+</a>
+<a class="social-media link" data-bs-target="#copyLinkToPublicPageModal" data-bs-toggle="modal" href="#">
+<span class="visually-hidden">Link auf diese Seite kopieren</span>
+</a>
+<div>
+<!-- Confirmation copy link to public page modal -->
+<div aria-hidden="true" aria-labelledby="copyLinkToPublicPageModal" class="modal fade" id="copyLinkToPublicPageModal" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h2 class="modal-title h5-ddb">Link auf diese Seite</h2>
+</div>
+<div class="modal-body">
+<input aria-errormessage="feedback-link-to-public-page" aria-label="" class="form-control-plaintext text-input" id="link-to-public-page" name="link-to-current-page" placeholder="" readonly="" type="text" value=""/>
+<div class="hide" id="link-copied-message" role="status">Der Link wurde in die Zwischenablage kopiert.</div>
+</div>
+<div class="modal-footer">
+<button aria-label="CopyLink" class="btn btn-primary" id="copy-link-to-public-page-button" type="button">
+                    Link kopieren
+                </button>
+<button class="btn btn-secondary" data-bs-dismiss="modal" type="button">
+                    Schließen
+                </button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="image-lightbox-placeholder"></div>
+</div>
+<footer class="footer">
+<div class="container">
+<div class="row">
+<div class="col-lg-6 footer-column">
+<div>
+<a class="logo-container" href="/" title="Startseite">
+<img alt="Logo: Deutsche Digitale Bibliothek" class="logo-ddb" height="143" src="/assets/ddb-logo-large-d719a45567f1c456b7b8a0e8be49169d.webp" width="306"/>
+</a>
+</div>
+<p class="footer-description big-18-sb">Die Deutsche Digitale Bibliothek bietet über das Internet umfassenden Zugang zum kulturellen und wissenschaftlichen Erbe Deutschlands.</p>
+<div class="social-media-section">
+<a class="social-media mastodon" href="https://openbiblio.social/@ddbkultur" rel="me" target="_blank"><span class="visually-hidden">Mastodon</span>
+</a>
+<a class="social-media linkedIn" href="https://de.linkedin.com/company/deutsche-digitale-bibliothek" target="_blank"><span class="visually-hidden">LinkedIn</span>
+</a>
+<a class="social-media facebook" href="https://facebook.com/ddbkultur/" target="_blank"><span class="visually-hidden">Facebook</span>
+</a>
+<a class="social-media instagram" href="https://instagram.com/ddbkultur/" target="_blank"><span class="visually-hidden">Instagram</span>
+</a>
+<a class="social-media bluesky" href="https://bsky.app/profile/ddbkultur.bsky.social" target="_blank"><span class="visually-hidden">Bluesky</span>
+</a>
+</div>
+</div>
+<div class="col-lg-6 footer-column">
+<nav aria-label="Fußzeilennavigation">
+<ul class="links-container">
+<li>
+<a class="medium-16-sb" href="/content/datenschutzerklaerung">Datenschutz</a>
+</li>
+<li>
+<a class="medium-16-sb" href="/content/erklaerung-zur-barrierefreiheit">Barrierefreiheit</a>
+</li>
+<li>
+<a class="medium-16-sb" href="/content/nutzungsbedingungen">Nutzungsbedingungen</a>
+</li>
+<li>
+<a class="medium-16-sb" href="/content/impressum">Impressum</a>
+</li>
+<li>
+<a class="medium-16-sb" href="/user/newsletter/">Newsletter</a>
+</li>
+<li>
+<a class="medium-16-sb" href="/content/datenpartner-werden">Datenpartner werden</a>
+</li>
+<li>
+<a class="medium-16-sb" href="/content/presse-medien">Presse</a>
+</li>
+<li>
+<a class="medium-16-sb" href="/content/das-ddb-team">Team</a>
+</li>
+<li>
+<a class="medium-16-sb" href="/contact">Kontakt</a>
+</li>
+</ul>
+</nav>
+<section aria-labelledby="newsletter-title" class="newsletter-row">
+<form action="/newsletter/subscribe" autocomplete="off" class="newsletter-form needs-validation" id="newsletter-subscribe-form" method="post" name="newsletter-subscribe-form" novalidate="novalidate">
+<h2 class="medium-16-sb" id="newsletter-title">
+        Unser Newsletter
+    </h2>
+<div class="newsletter-input-container">
+<input aria-errormessage="feedback-email_newsletter" aria-label="E-Mail" autocomplete="email" class="newsletter-input medium-text" id="email_newsletter" name="email" placeholder="Geben Sie hier Ihre E-Mail Adresse ein" required="" type="email"/>
+<p class="invalid-feedback" id="feedback-email_newsletter">
+            Dieses Feld ist ein Pflichtfeld. Bitte tragen Sie Ihre E-Mail-Adresse hier ein, um sich für den Newsletter anzumelden.
+        </p>
+</div>
+<div class="newsletter-footer">
+<div class="checkbox-validation-container">
+<div class="checkbox-row">
+<input aria-errormessage="termsOfUseCheckInvalidFeedback" class="form-check-input newsletter-checkbox" id="termsOfUseCheck" required="" type="checkbox" value=""/>
+<label class="newsletter-checkbox-label" for="termsOfUseCheck">
+                    Ich stimme der <a href="/content/datenschutzerklaerung#newsletter">Datenschutzerklärung</a> zu. Diese Option muss ausgewählt sein um den Newsletter zu abonnieren.
+                </label>
+</div>
+<p class="invalid-feedback" id="termsOfUseCheckInvalidFeedback">
+                Dieses Feld ist ein Pflichtfeld.
+            </p>
+</div>
+<button class="ddb-link internal" id="newsletter-mobile-submit" type="submit">Anmelden</button>
+</div>
+</form>
+</section>
+</div>
+</div>
+<div class="footer-highlighted-sections-container">
+<section aria-labelledby="otherPortalsTitle" class="footer-highlighted-section other-portals-section otherPortalsContent">
+<h2 class="footer-row-title medium-16-sb" id="otherPortalsTitle">
+                    Weitere Portale
+                </h2>
+<div class="otherPortals">
+<a href="https://www.archivportal-d.de/">
+<img alt="Logo Archivportal-D" loading="lazy" src="https://cms.deutsche-digitale-bibliothek.de/sites/default/files/media/pictures/2022-10/APD-logo-2022.svg"/>
+</a>
+<a href="https://www.deutsche-digitale-bibliothek.de/newspaper">
+<img alt="Logo Deutsches Zeitungsportal" loading="lazy" src="https://cms.deutsche-digitale-bibliothek.de/sites/default/files/media/pictures/2022-10/dzp-logo-lg-rgb.svg"/>
+</a>
+<a href="https://ccc.deutsche-digitale-bibliothek.de/">
+<img alt="Logo Sammlungsgut aus kolonialen Kontexten" loading="lazy" src="https://cms.deutsche-digitale-bibliothek.de/sites/default/files/media/pictures/2022-10/ccc-logo-rgb.SVG"/>
+</a>
+<a href="https://pro.deutsche-digitale-bibliothek.de/">
+<img alt="DDBpro Logo" loading="lazy" src="https://cms.deutsche-digitale-bibliothek.de/sites/default/files/media/pictures/2022-10/logo-ddbpro-RGB.svg"/>
+</a>
+</div>
+</section>
+<section aria-labelledby="footer-funder" class="footer-highlighted-section funder-section">
+<h2 class="footer-row-title medium-16-sb" id="footer-funder">Gefördert durch</h2>
+<a class="funded-by-link" href="https://kulturstaatsminister.de/">
+<img alt="Der Beauftragte der Bundesregierung für Kultur und Medien" height="104" loading="lazy" src="/assets/BKM-logo-de-5472d54eaeca4372985c66a19f63bcca.svg" width="222">
+</img></a>
+</section>
+</div>
+<div class="build x-small-text">Version: 8.8 / 7.3</div>
+</div>
+</footer>
+<button class="go-up-arrow-container" type="button">
+<span class="visually-hidden">Nach oben</span>
+</button>
+<!-- Modal -->
+<div aria-hidden="true" aria-labelledby="login-modal-title" class="modal fade" id="loginModal" tabindex="-1">
+<div class="modal-dialog modal-dialog-centered">
+<div class="modal-content">
+<div class="close-modal">
+<button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
+</div>
+<div class="error-container container" id="login-errors-container">
+<div class="message-wrapper">
+<span class="message-item align-items-center">
+<i class="message-item-icon"></i>
+<p class="message-text">
+                        Die eingegebene Kombination von Benutzername oder E-Mail-Adresse und Passwort wurde nicht erkannt. Bitte versuchen Sie es erneut.</p>
+</span>
+</div>
+</div>
+<div class="login-content">
+<div class="form">
+<h2 class="h2-ddb" id="login-modal-title">Anmelden</h2>
+<p>Felder mit * müssen ausgefüllt werden.</p>
+<form action="/user/doLogin" class="needs-validation" id="login-form" method="post" name="login-form" novalidate="novalidate">
+<input id="referrer" name="referrer" type="hidden" value="/person/gnd/118834312">
+<div class="row input-container">
+<label class="x-small-text" for="login_username">
+            Benutzername oder E-Mail*
+        </label>
+<button class="btn-close" id="clear-login_username" type="button"></button>
+<input aria-describedby="Bitte geben Sie Ihren Benutzernamen oder Ihre E-Mail ein" aria-errormessage="feedback-login_username" aria-label="Benutzername oder E-Mail" autocomplete="email username" class="text-input" id="login_username" name="email" placeholder="" required="" tabindex="" type="text" value="">
+<div class="small-text input-error-message" id="error-login_username"></div>
+<p class="invalid-feedback" id="feedback-login_username">
+            Bitte geben Sie Ihren Benutzernamen oder Ihre E-Mail ein
+        </p>
+</input></div>
+<div class="row input-container">
+<label class="x-small-text" for="login_password">
+            Passwort*
+        </label>
+<button class="btn-close" id="clear-login_password" type="button"></button>
+<input aria-describedby="Bitte geben Sie Ihr Passwort ein" aria-errormessage="feedback-login_password" aria-label="Passwort" autocomplete="current-password" class="text-input" id="login_password" name="password" placeholder="" required="" tabindex="" type="password" value="">
+<div class="small-text input-error-message" id="error-login_password"></div>
+<p class="invalid-feedback" id="feedback-login_password">
+            Bitte geben Sie Ihr Passwort ein
+        </p>
+</input></div>
+<div class="login-action">
+<button class="btn btn-primary" data-bs-dismiss="" data-bs-target="" data-bs-toggle="" id="login-button" name="" role="" type="submit" value="">Anmelden</button>
+<div class="d-flex align-items-center">
+<a aria-describedby="" aria-label="Passwort vergessen?" aria-labelledby="linkText Passwort vergessen?" class="ddb-text-link mini" data-bs-dismiss="modal" data-bs-target="#forgotPassword" data-bs-toggle="modal" href="#forgotPassword">Passwort vergessen?</a>
+</div>
+</div>
+</input></form>
+</div>
+<div class="info">
+<h2 class="h3-ddb" id="registration-modal-title">Registrieren</h2>
+<h3 class="h5-ddb">Ihre Vorteile</h3>
+<div class="info-box">
+<ul class="registration-advantages">
+<li class="favorite-icon">Favoritenlisten anlegen und bearbeiten</li>
+<li class="description-icon">Eigene Beschreibungen zu gespeicherten Favoriten hinzufügen</li>
+<li class="saved-search-icon">
+                                    Suchanfragen speichern
+                                </li>
+</ul>
+<div>
+<button class="btn btn-primary" data-bs-dismiss="modal" data-bs-target="#registrationModal" data-bs-toggle="modal" type="button">Benutzerkonto anlegen</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-hidden="true" aria-labelledby="registration-modal-title" class="modal fade" id="registrationModal" tabindex="-1">
+<div class="modal-dialog modal-dialog-centered">
+<div class="modal-content">
+<div class="close-modal">
+<button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
+</div>
+<div class="row registration-content">
+<div class="col-12 form">
+<div class="error-container container" id="registration-errors-container">
+<div class="message-wrapper">
+<span class="message-item align-items-center">
+<i class="message-item-icon"></i>
+<p class="message-text" id="registration-errors-message"></p>
+</span>
+</div>
+</div>
+</div>
+<div class="modal-body">
+<div class="registration-container">
+<h2 class="h2-ddb" id="registration-modal-title">Benutzerkonto anlegen</h2>
+<div class="reg-subtitle"><p>Informationen zur Registrierung von Kultur- und Wissenseinrichtungen finden Sie <a href="https://pro.deutsche-digitale-bibliothek.de/ddb-registrierung/" target="_blank">hier</a>.<p>Felder mit * müssen ausgefüllt werden.</p></p>
+</div>
+<div class="row">
+<form action="/user/signup" class="form-horizontal needs-validation" id="registration-form" method="post" name="registration-form" novalidate="novalidate">
+<input id="modal" name="modal" type="hidden" value="true">
+<div class="container-column">
+<div class="column-padding">
+<div class="row input-container">
+<label class="x-small-text" for="registration_username">
+            Benutzername*
+        </label>
+<button class="btn-close" id="clear-registration_username" type="button"></button>
+<input aria-describedby="Bitte geben Sie Ihren Benutzernamen ein" aria-errormessage="feedback-registration_username" aria-label="Benutzername" autocomplete="username" class="text-input" id="registration_username" name="username" placeholder="" required="" tabindex="" type="text" value=""/>
+<div class="small-text input-error-message" id="error-registration_username"></div>
+<p class="invalid-feedback" id="feedback-registration_username">
+            Bitte geben Sie Ihren Benutzernamen ein
+        </p>
+</div>
+</div>
+</div>
+<div class="container-column">
+<div class="column-padding">
+<div class="row input-container">
+<label class="x-small-text" for="registration_email">
+            E-Mail*
+        </label>
+<button class="btn-close" id="clear-registration_email" type="button"></button>
+<input aria-describedby="Bitte geben Sie Ihre E-Mail ein" aria-errormessage="feedback-registration_email" aria-label="E-Mail" autocomplete="email" class="text-input" id="registration_email" name="email" placeholder="" required="" tabindex="" type="text" value=""/>
+<div class="small-text input-error-message" id="error-registration_email"></div>
+<p class="invalid-feedback" id="feedback-registration_email">
+            Bitte geben Sie Ihre E-Mail ein
+        </p>
+</div>
+</div>
+</div>
+<div class="container-column column">
+<div class="column-padding">
+<div class="row input-container">
+<label class="x-small-text" for="a_g_e">
+            Bitte füllen Sie dieses Feld nicht aus
+        </label>
+<button class="btn-close" id="clear-a_g_e" type="button"></button>
+<input aria-describedby="" aria-errormessage="feedback-a_g_e" aria-label="Bitte füllen Sie dieses Feld nicht aus" autocomplete="off" class="text-input" id="a_g_e" name="age" placeholder="" tabindex="-1" type="text" value=""/>
+<div class="small-text input-error-message" id="error-a_g_e"></div>
+</div>
+</div>
+</div>
+<div class="container-column">
+<div class="column-padding">
+<div class="row input-container">
+<label class="x-small-text" for="fname">
+            Vorname
+        </label>
+<button class="btn-close" id="clear-fname" type="button"></button>
+<input aria-describedby="" aria-errormessage="feedback-fname" aria-label="Vorname" autocomplete="given-name" class="text-input" id="fname" name="fname" placeholder="" tabindex="" type="text" value=""/>
+<div class="small-text input-error-message" id="error-fname"></div>
+</div>
+</div>
+</div>
+<div class="container-column">
+<div class="column-padding">
+<div class="row input-container">
+<label class="x-small-text" for="lname">
+            Nachname
+        </label>
+<button class="btn-close" id="clear-lname" type="button"></button>
+<input aria-describedby="" aria-errormessage="feedback-lname" aria-label="Nachname" autocomplete="family-name" class="text-input" id="lname" name="lname" placeholder="" tabindex="" type="text" value=""/>
+<div class="small-text input-error-message" id="error-lname"></div>
+</div>
+</div>
+</div>
+<div class="container-column">
+<div class="column-padding">
+<div class="row input-container">
+<label class="x-small-text" for="registration_password">
+            Passwort*
+        </label>
+<button class="btn-close" id="clear-registration_password" type="button"></button>
+<input aria-describedby="Bitte geben Sie Ihr Passwort ein" aria-errormessage="feedback-registration_password" aria-label="Passwort" autocomplete="new-password" class="text-input" id="registration_password" name="passwd" placeholder="" required="" tabindex="" type="password" value=""/>
+<div class="small-text input-error-message" id="error-registration_password"></div>
+<p class="invalid-feedback" id="feedback-registration_password">
+            Bitte geben Sie Ihr Passwort ein
+        </p>
+</div>
+</div>
+</div>
+<div class="container-column">
+<div class="column-padding">
+<div class="row input-container">
+<label class="x-small-text" for="registration_passwordConfirm">
+            Passwort bestätigen*
+        </label>
+<button class="btn-close" id="clear-registration_passwordConfirm" type="button"></button>
+<input aria-describedby="Bitte geben Sie das gleiche Passwort ein" aria-errormessage="feedback-registration_passwordConfirm" aria-label="Passwort bestätigen" autocomplete="new-password" class="text-input" id="registration_passwordConfirm" name="conpasswd" placeholder="" required="" tabindex="" type="password" value=""/>
+<div class="small-text input-error-message" id="error-registration_passwordConfirm"></div>
+<p class="invalid-feedback" id="feedback-registration_passwordConfirm">
+            Bitte geben Sie das gleiche Passwort ein
+        </p>
+</div>
+</div>
+</div>
+<span class="registration-row">
+<div class="form-check">
+<input aria-describedby="Dieses Feld ist ein Pflichtfeld." aria-errormessage="feedback-termOfUse" aria-label="" class="form-check-input main-checkbox" id="termOfUse" required="" type="checkbox" value=""/>
+<label class="form-check-label small-text" data-content-toggle="" for="termOfUse">
+            Ich habe die <a href="/content/nutzungsbedingungen-user-generated-content">Nutzungsbedingungen</a> und die <a href="/content/datenschutzerklaerung-zur-erhebung-persoenlicher-daten-einwilligung-und-zweck-der-datenspeicherung-und-verarbeitung">Datenschutzerklärung zur Erhebung persönlicher Daten</a> gelesen und stimme ihnen zu. *
+        </label>
+<p class="invalid-feedback" id="feedback-termOfUse">
+            Dieses Feld ist ein Pflichtfeld.
+        </p>
+</div>
+</span>
+<span class="registration-row">
+<div class="form-check">
+<input aria-describedby="" aria-errormessage="feedback-subscribeNewsletter" aria-label="" class="form-check-input main-checkbox" id="subscribeNewsletter" name="subscribeNewsletter" type="checkbox" value="true"/>
+<label class="form-check-label small-text" data-content-toggle="" for="subscribeNewsletter">
+            Ich möchte den Newsletter der Deutschen Digitalen Bibliothek abonnieren. <a class="privacylink" href="user/newsletter/">Siehe Informationen zum Newsletter-Abonnement</a>.
+        </label>
+</div>
+</span>
+<span class="registration-row">
+<button class="btn btn-primary" data-bs-dismiss="" data-bs-target="" data-bs-toggle="" id="registration-button" name="" role="" type="submit" value="">Benutzerkonto anlegen</button>
+</span>
+</input></form>
+</div>
+</div>
+<div id="registrationSuccess-message">
+<h2 class="h4-ddb">Benutzerkonto angelegt</h2>
+<p>Ihr „Meine DDB“-Konto wurde erfolgreich angelegt. Bevor Sie sich in Ihrem Konto anmelden können, müssen Sie auf den Bestätigungslink in der Nachricht klicken, die wir gerade an die von Ihnen angegebene E-Mail-Adresse geschickt haben</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Modal -->
+<div aria-labelledby="forgotPassword-title" class="modal fade" id="forgotPassword" tabindex="-1">
+<div class="modal-dialog modal-dialog-centered">
+<div class="modal-content">
+<div class="close-modal">
+<button aria-label="Schließen" class="btn-close" data-bs-dismiss="modal" type="button"></button>
+</div>
+<div>
+<h2 class="h5-ddb" id="forgotPassword-title">Passwort zurücksetzen</h2>
+<div id="forgotPassword-form-container">
+<p class="mandatory-notice">Felder mit * müssen ausgefüllt werden.</p>
+<form action="/user/passwordReset" class="needs-validation" id="password-reset-form" method="post" name="password-reset-form" novalidate="novalidate">
+<div class="row input-container">
+<label class="x-small-text" for="forgot_password_username">
+            Benutzername oder E-Mail*
+        </label>
+<button class="btn-close" id="clear-forgot_password_username" type="button"></button>
+<input aria-describedby="Bitte geben Sie Ihren Benutzernamen oder Ihre E-Mail ein" aria-errormessage="feedback-forgot_password_username" aria-label="Benutzername oder E-Mail" autocomplete="email username" class="text-input" id="forgot_password_username" name="username" placeholder="" required="" tabindex="" type="text" value="">
+<div class="small-text input-error-message" id="error-forgot_password_username"></div>
+<p class="invalid-feedback" id="feedback-forgot_password_username">
+            Bitte geben Sie Ihren Benutzernamen oder Ihre E-Mail ein
+        </p>
+</input></div>
+<button class="btn btn-primary" data-bs-dismiss="" data-bs-target="" data-bs-toggle="" id="forgotPassword-button" name="" role="" type="submit" value="">Passwort zurücksetzen</button>
+</form>
+</div>
+<p id="forgotPassword-message">
+                    Ihr Passwort wurde zurückgesetzt. Wir haben eine Nachricht mit einem neuen Passwort an Ihre E-Mail-Adresse geschickt. Damit die Änderung wirksam wird, müssen Sie auf den in der E-Mail angegebenen Bestätigungslink klicken. Anschließend können Sie sich mit dem neuen Passwort anmelden.
+                </p>
+</div>
+</div>
+</div>
+</div>
+<div class="off" data-js-app-name="ddb-next" data-js-context-path="" data-js-drupal="https://cms.deutsche-digitale-bibliothek.de/" data-js-language="de" data-js-latitude="" data-js-loggedin="false" data-js-longitude="" id="globalJsVariables">
+</div>
+<script src="/assets/components/matomoManager.js" type="module"></script>
+<script src="/assets/vendor/popper-2.11.8/popper.min-6faf187b56391e83563fbeceb419a750.js" type="text/javascript"></script>
+<script src="/assets/app-b5a96c9b0e3b3d3e855f6779a972ee1e.js" type="text/javascript"></script>
+<script src="/assets/base/base.js" type="module"></script>
+<script src="/assets/vendor/tippy-6.3.7/tippy-bundle.umd.min-9c6ac53055479ae1834fe9d7e27d3b3d.js" type="text/javascript"></script>
+</body>
+</html>
